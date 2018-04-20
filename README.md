@@ -7,7 +7,4 @@ It also collects information from a subset of the people who worked on each movi
 It stores all information collected in text separate text files to refer to later. 
 (NOTE: This program takes at least 10+ hours to run)
 
-To run this you will need to make sure you have the modules:
-BeautifulSoup
-requests
-json
+To run this you will need to make sure you have the modules: BeautifulSoup, requests, json
