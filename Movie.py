@@ -60,7 +60,7 @@ class Movie:
         try:
             return m_soup.find(itemprop="contentRating").next_sibling.strip()
         except:
-            return str(-1)
+            return 'NULL'
     def getContentRating(self):
         return self.rated
 
@@ -95,7 +95,7 @@ class Movie:
         try:
             return m_soup.find(itemprop='duration').text.strip()
         except:
-            return str(-1)
+            return 'NULL'
     def getTime_len(self):
         return self.length
 
@@ -105,7 +105,7 @@ class Movie:
             BO_GrossUSA = m_soup.find(text='Gross USA:').parent.next_sibling.strip()
             return BO_GrossUSA.replace(',','')
         except:
-            return str(-1)
+            return 'NULL'
     def getBO_GrossUSA(self):
         return self.BO_GrossUSA
 
@@ -115,7 +115,7 @@ class Movie:
             BO_GrossWorld = m_soup.find(text='Cumulative Worldwide Gross:').parent.next_sibling.strip()
             return BO_GrossWorld.replace(',','')
         except:
-            return str(-1)
+            return 'NULL'
     def getBO_GrossWorld(self):
         return self.BO_GrossWorld
 
@@ -125,7 +125,7 @@ class Movie:
             BO_Budget = m_soup.find(text='Budget:').parent.next_sibling.strip()
             return BO_Budget.replace(',','')
         except:
-            return str(-1)
+            return 'NULL'
     def getBudget(self):
         return self.BO_Budget
 
