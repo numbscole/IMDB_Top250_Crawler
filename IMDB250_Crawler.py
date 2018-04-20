@@ -57,12 +57,201 @@ def setTconst(movie):
         print('url for movie '+title+' is broke')
         return str(-1)
 
-def getInfo(dictionary, movie_info, similar_info, genre_info, location_info,
+def writeToFiles(movie_info, similar_info, genre_info, location_info,
             plays_in_info, cast_info, crew_info, works_on_info, writers_info,
-            creates_info, music_info, artist_info, heard_in_info, award_record_info, movies):
+            creates_info, music_info, artist_info, heard_in_info, award_record_info):
+    movieFile = open('Data\movie.txt','a')
+    similarFile = open('Data\similar.txt','a')
+    genreFile = open('Data\genre.txt','a')
+    locationFile = open('Data\location.txt','a')
+    plays_inFile = open('Data\plays_in.txt','a')
+    castFile = open('Data\cast.txt','a')
+    crewFile = open('Data\crew.txt','a')
+    works_onFile = open('Data\works_on.txt','a')
+    writersFile = open('Data\writers.txt','a')
+    createsFile = open('Data\creates.txt','a')
+    musicFile = open('Data\music.txt','a')
+    artistFile = open('Data\\artist.txt','a')
+    heard_inFile = open('Data\heard_in.txt','a')
+    award_recordFile = open('Data\\award_record.txt','a')
+    try:
+        for e in movie_info:
+            toWrite = ''
+            for n in range(len(e)):
+                try:
+                    toWrite = toWrite+e[n]+',\t'
+                except:
+                    toWrite = toWrite+''
+            toWrite = toWrite+'\n'
+            movieFile.write(toWrite)
+        for e in similar_info:
+            toWrite = ''
+            for n in range(len(e)):
+                try:
+                    toWrite = toWrite+e[n]+',\t'
+                except:
+                    toWrite = toWrite+''
+            toWrite = toWrite+'\n'
+            similarFile.write(toWrite)
+
+        for e in genre_info:
+            toWrite = ''
+            for n in range(len(e)):
+                try:
+                    toWrite = toWrite+e[n]+',\t'
+                except:
+                    toWrite = toWrite+''
+            toWrite = toWrite+'\n'
+            genreFile.write(toWrite)
+
+        for e in location_info:
+            toWrite = ''
+            for n in range(len(e)):
+                try:
+                    toWrite = toWrite+e[n]+',\t'
+                except:
+                    toWrite = toWrite+''
+            toWrite = toWrite+'\n'
+            locationFile.write(toWrite)
+
+        for e in plays_in_info:
+            toWrite = ''
+            for n in range(len(e)):
+                try:
+                    toWrite = toWrite+e[n]+',\t'
+                except:
+                    toWrite = toWrite+''
+            toWrite = toWrite+'\n'
+            plays_inFile.write(toWrite)
+
+        for e in cast_info:
+            toWrite = ''
+            for n in range(len(e)):
+                try:
+                    toWrite = toWrite+e[n]+',\t'
+                except:
+                    toWrite = toWrite+''
+            toWrite = toWrite+'\n'
+            castFile.write(toWrite)
+
+        for e in crew_info:
+            toWrite = ''
+            for n in range(len(e)):
+                try:
+                    toWrite = toWrite+e[n]+',\t'
+                except:
+                    toWrite = toWrite+''
+            toWrite = toWrite+'\n'
+            crewFile.write(toWrite)
+
+        for e in works_on_info:
+            toWrite = ''
+            for n in range(len(e)):
+                try:
+                    toWrite = toWrite+e[n]+',\t'
+                except:
+                    toWrite = toWrite+''
+            toWrite = toWrite+'\n'
+            works_onFile.write(toWrite)
+
+        for e in writers_info:
+            toWrite = ''
+            for n in range(len(e)):
+                try:
+                    toWrite = toWrite+e[n]+',\t'
+                except:
+                    toWrite = toWrite+''
+            toWrite = toWrite+'\n'
+            writersFile.write(toWrite)
+
+        for e in creates_info:
+            toWrite = ''
+            for n in range(len(e)):
+                try:
+                    toWrite = toWrite+e[n]+',\t'
+                except:
+                    toWrite = toWrite+''
+            toWrite = toWrite+'\n'
+            createsFile.write(toWrite)
+
+        for e in music_info:
+            toWrite = ''
+            for n in range(len(e)):
+                try:
+                    toWrite = toWrite+e[n]+',\t'
+                except:
+                    toWrite = toWrite+''
+            toWrite = toWrite+'\n'
+            musicFile.write(toWrite)
+
+        for e in artist_info:
+            toWrite = ''
+            for n in range(len(e)):
+                try:
+                    toWrite = toWrite+e[n]+',\t'
+                except:
+                    toWrite = toWrite+''
+            toWrite = toWrite+'\n'
+            artistFile.write(toWrite)
+
+        for e in heard_in_info:
+            toWrite = ''
+            for n in range(len(e)):
+                try:
+                    toWrite = toWrite+e[n]+',\t'
+                except:
+                    toWrite = toWrite+''
+            toWrite = toWrite+'\n'
+            heard_inFile.write(toWrite)
+
+        for e in award_record_info:
+            toWrite = ''
+            for n in range(len(e)):
+                try:
+                    toWrite = toWrite+e[n]+',\t'
+                except:
+                    toWrite = toWrite+''
+            toWrite = toWrite+'\n'
+            award_recordFile.write(toWrite)
+    except:
+        print('Error writing to file')
+        
+    movieFile.close()
+    similarFile.close()
+    genreFile.close()
+    locationFile.close()
+    plays_inFile.close()
+    castFile.close()
+    crewFile.close()
+    works_onFile.close()
+    writersFile.close()
+    createsFile.close()
+    musicFile.close()
+    artistFile.close()
+    heard_inFile.close()
+    award_recordFile.close()
+
+
+def getInfo(dictionary, movies):
     failedMovies = []
     for movie in movies:
         try:
+            # Creating lists containing information to be written to a file
+            movie_info = []
+            similar_info = []
+            genre_info = []
+            location_info = []
+            plays_in_info = []
+            cast_info = []
+            crew_info = []
+            works_on_info = []
+            writers_info = []
+            creates_info = []
+            music_info = []
+            artist_info = []
+            heard_in_info = []
+            award_record_info = []
+    
             start_time = time.time()
             title = setTitle(movie)
             rating = setRating(movie)
@@ -86,7 +275,7 @@ def getInfo(dictionary, movie_info, similar_info, genre_info, location_info,
                     else:
                         crew.append(persons[p])
                 except:
-                    print('\n\n\n\nerr\n\n\n\n')
+                    print('\n\n\nerr\n\n\n')
 
             movie_info.append([title,thisMovie.getRD_date(),thisMovie.getTime_len(),
                             thisMovie.getContentRating(),rating,thisMovie.getBO_GrossUSA(),
@@ -121,9 +310,13 @@ def getInfo(dictionary, movie_info, similar_info, genre_info, location_info,
                 music_info.append([song.getTitle(), song.getlength()])
                 artist_info.append([song.getTitle(), song.getAuthor()])
                 heard_in_info.append([title, song.getTitle()])
+            
+            writeToFiles(movie_info, similar_info, genre_info, location_info,
+            plays_in_info, cast_info, crew_info, works_on_info, writers_info,
+            creates_info, music_info, artist_info, heard_in_info, award_record_info)
 
             end_time = time.time()
-            print('Ended search in '+str(end_time-start_time)+' seconds')
+            print('Ended search in '+str(end_time-start_time)+' seconds on movie '+title)
             # ***IMPORTANT***
             # IMDB might ban our ip address if we exceed 100 requests per minute
             #   using time.time() to make sure we spend a minimum of 1 minute per movie
@@ -155,187 +348,17 @@ if __name__ == '__main__':
 
     # Creating a dictionary to connect tconst and a movie's title
     dictionary = {}
-    # Creating lists containing information to be written to a file
-    movie_info = []
-    similar_info = []
-    genre_info = []
-    location_info = []
-    plays_in_info = []
-    cast_info = []
-    crew_info = []
-    works_on_info = []
-    writers_info = []
-    creates_info = []
-    music_info = []
-    artist_info = []
-    heard_in_info = []
-    award_record_info = []
+
 
     failedMovies = []
-    count = 0
+    count = 0   
+    
     while(len(failedMovies) > 1 or count <= 40):
-        failedMovies = getInfo(dictionary, movie_info, similar_info, genre_info, location_info,
-                plays_in_info, cast_info, crew_info, works_on_info, writers_info,
-                creates_info, music_info, artist_info, heard_in_info, award_record_info, movies)
+        failedMovies = getInfo(dictionary, movies)
         count = count + 1
         print('Number of failed movies: '+str(len(failedMovies)))
         print('After '+str(count)+' loops\n')
-
-
-    movieFile = open('Data\movie.txt','w')
-    similarFile = open('Data\similar.txt','w')
-    genreFile = open('Data\genre.txt','w')
-    locationFile = open('Data\location.txt','w')
-    plays_inFile = open('Data\plays_in.txt','w')
-    castFile = open('Data\cast.txt','w')
-    crewFile = open('Data\crew.txt','w')
-    works_onFile = open('Data\works_on.txt','w')
-    writersFile = open('Data\writers.txt','w')
-    createsFile = open('Data\creates.txt','w')
-    musicFile = open('Data\music.txt','w')
-    artistFile = open('Data\\artist.txt','w')
-    heard_inFile = open('Data\heard_in.txt','w')
-    award_recordFile = open('Data\\award_record.txt','w')
-
-    for e in movie_info:
-        toWrite = ''
-        for n in range(len(e)):
-            try:
-                toWrite = toWrite+e[n]+',\t'
-            except:
-                toWrite = toWrite+''
-        movieFile.write(toWrite)
-    for e in similar_info:
-        toWrite = ''
-        for n in range(len(e)):
-            try:
-                toWrite = toWrite+e[n]+',\t'
-            except:
-                toWrite = toWrite+''
-        similarFile.write(toWrite)
-
-    for e in genre_info:
-        toWrite = ''
-        for n in range(len(e)):
-            try:
-                toWrite = toWrite+e[n]+',\t'
-            except:
-                toWrite = toWrite+''
-        genreFile.write(toWrite)
-
-    for e in location_info:
-        toWrite = ''
-        for n in range(len(e)):
-            try:
-                toWrite = toWrite+e[n]+',\t'
-            except:
-                toWrite = toWrite+''
-        locationFile.write(toWrite)
-
-    for e in plays_in_info:
-        toWrite = ''
-        for n in range(len(e)):
-            try:
-                toWrite = toWrite+e[n]+',\t'
-            except:
-                toWrite = toWrite+''
-        plays_inFile.write(toWrite)
-
-    for e in cast_info:
-        toWrite = ''
-        for n in range(len(e)):
-            try:
-                toWrite = toWrite+e[n]+',\t'
-            except:
-                toWrite = toWrite+''
-        castFile.write(toWrite)
-
-    for e in crew_info:
-        toWrite = ''
-        for n in range(len(e)):
-            try:
-                toWrite = toWrite+e[n]+',\t'
-            except:
-                toWrite = toWrite+''
-        crewFile.write(toWrite)
-
-    for e in works_on_info:
-        toWrite = ''
-        for n in range(len(e)):
-            try:
-                toWrite = toWrite+e[n]+',\t'
-            except:
-                toWrite = toWrite+''
-        works_onFile.write(toWrite)
-
-    for e in writers_info:
-        toWrite = ''
-        for n in range(len(e)):
-            try:
-                toWrite = toWrite+e[n]+',\t'
-            except:
-                toWrite = toWrite+''
-        writersFile.write(toWrite)
-
-    for e in creates_info:
-        toWrite = ''
-        for n in range(len(e)):
-            try:
-                toWrite = toWrite+e[n]+',\t'
-            except:
-                toWrite = toWrite+''
-        createsFile.write(toWrite)
-
-    for e in music_info:
-        toWrite = ''
-        for n in range(len(e)):
-            try:
-                toWrite = toWrite+e[n]+',\t'
-            except:
-                toWrite = toWrite+''
-        musicFile.write(toWrite)
-
-    for e in artist_info:
-        toWrite = ''
-        for n in range(len(e)):
-            try:
-                toWrite = toWrite+e[n]+',\t'
-            except:
-                toWrite = toWrite+''
-        artistFile.write(toWrite)
-
-    for e in heard_in_info:
-        toWrite = ''
-        for n in range(len(e)):
-            try:
-                toWrite = toWrite+e[n]+',\t'
-            except:
-                toWrite = toWrite+''
-        heard_inFile.write(toWrite)
-
-    for e in award_record_info:
-        toWrite = ''
-        for n in range(len(e)):
-            try:
-                toWrite = toWrite+e[n]+',\t'
-            except:
-                toWrite = toWrite+''
-        award_recordFile.write(toWrite)
-
-    movieFile.close()
-    similarFile.close()
-    genreFile.close()
-    locationFile.close()
-    plays_inFile.close()
-    castFile.close()
-    crewFile.close()
-    works_onFile.close()
-    writersFile.close()
-    createsFile.close()
-    musicFile.close()
-    artistFile.close()
-    heard_inFile.close()
-    award_recordFile.close()
+        movies = failedMovies
 
     end_time = time.time()
     total_time = end_time - start_time()
