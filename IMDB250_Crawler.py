@@ -4,7 +4,6 @@ import requests
 #   It also makes the code much easier to read if you plan on printing or writing
 #   the code to a file to read through.
 from bs4 import BeautifulSoup
-import csv
 import time
 from People import People
 from Person import Person
