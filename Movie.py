@@ -160,11 +160,15 @@ class Movie:
         return self.ON_Date
 
     def setMusic(self,tconst):
-        # Follows the link to the soundtrack for the movie
-        sublink = tconst + '/soundtrack'
-        url = 'http://www.imdb.com/title/' + sublink
-        # Music will take the url and collect a list of songs from the link
-        self.music = Music(url)
+        try:
+            # Follows the link to the soundtrack for the movie
+            sublink = tconst + '/soundtrack'
+            url = 'http://www.imdb.com/title/' + sublink
+            # Music will take the url and collect a list of songs from the link
+            self.music = Music(url)
+        except:
+            print('\t*M Error getting music for '+self.title+' IMDB-id: '+tconst)
+            self.music = None
     def getMusic(self):
         return self.music
 

@@ -77,9 +77,12 @@ class People:
         for dep in keys:
             dep_IDs = dic[dep]
             for ID in dep_IDs:
-                p = Person(ID,dep,tconst)
-                thePeople.append(p)
-                # print(p)
+                try:
+                    p = Person(ID,dep,tconst)
+                    thePeople.append(p)
+                    # print(p)
+                except:
+                    print('Error getting data for person '+str(ID)+' and has been thrown out of the search on movie '+str(tconst))
         return thePeople
 
     def getPeople(self):
