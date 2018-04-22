@@ -1,0 +1,117 @@
+
+Failed to scan movie Schindler's List
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie The Lord of the Rings: The Return of the King
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Pulp Fiction
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Fight Club
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie The Lord of the Rings: The Fellowship of the Ring
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie The Lord of the Rings: The Two Towers
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Goodfellas
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Se7en
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie The Silence of the Lambs
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie The Usual Suspects
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Saving Private Ryan
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Léon: The Professional
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie The Departed
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Raiders of the Lost Ark
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Gladiator
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Alien
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Django Unchained
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Princess Mononoke
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie American Beauty
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Reservoir Dogs
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Taxi Driver
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie 3 Idiots
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Jagten
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Indiana Jones and the Last Crusade
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Heat
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Raging Bull
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Pan's Labyrinth
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Incendies
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie My Neighbor Totoro
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Howl's Moving Castle
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie A Beautiful Mind
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Casino
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Room
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie The Wolf of Wall Street
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie V for Vendetta
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Blade Runner
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Warrior
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie The Sixth Sense
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Kill Bill: Vol. 1
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Shutter Island
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Gone Girl
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Relatos salvajes
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Blade Runner 2049
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Jurassic Park
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Rush
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie 12 Years a Slave
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Memories of Murder
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Mad Max: Fury Road
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Logan
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Prisoners
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Nausicaä of the Valley of the Wind
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Catch Me If You Can
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Harry Potter and the Deathly Hallows: Part 2
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Rocky
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Donnie Darko
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie The Bourne Ultimatum
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie Jaws
+	Error due to 'NoneType' object has no attribute 'getName'
+Failed to scan movie The Help
+	Error due to 'NoneType' object has no attribute 'getName'

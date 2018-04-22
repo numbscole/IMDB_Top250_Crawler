@@ -1,542 +1,545 @@
-The Godfather,	Oscar,	1973,	Best Picture,	
-The Godfather,	Oscar,	1973,	Best Actor in a Leading Role,	
-The Godfather,	Oscar,	1973,	Best Writing, Screenplay Based on Material from Another Medium,	
-The Godfather,	Golden Globe,	1973,	Best Motion Picture - Drama,	
-The Godfather,	Golden Globe,	1973,	Best Actor in a Motion Picture - Drama,	
-The Godfather,	Golden Globe,	1973,	Best Director - Motion Picture,	
-The Godfather,	Golden Globe,	1973,	Best Screenplay - Motion Picture,	
-The Godfather,	Golden Globe,	1973,	Best Original Score - Motion Picture,	
-The Godfather,	Anthony Asquith Award for Film Music,	1973,	Nino Rota,	
-The Godfather: Part II,	Oscar,	1975,	Best Picture,	
-The Godfather: Part II,	Oscar,	1975,	Best Actor in a Supporting Role,	
-The Godfather: Part II,	Oscar,	1975,	Best Director,	
-The Godfather: Part II,	Oscar,	1975,	Best Writing, Screenplay Adapted From Other Material,	
-The Godfather: Part II,	Oscar,	1975,	Best Art Direction-Set Decoration,	
-The Godfather: Part II,	Oscar,	1975,	Best Music, Original Dramatic Score,	
-The Godfather: Part II,	BAFTA Film Award,	1976,	Best Actor,	
-The Dark Knight,	Oscar,	2009,	Best Performance by an Actor in a Supporting Role,	
-The Dark Knight,	Oscar,	2009,	Best Achievement in Sound Editing,	
-The Dark Knight,	Golden Globe,	2009,	Best Performance by an Actor in a Supporting Role in a Motion Picture,	
-The Dark Knight,	BAFTA Film Award,	2009,	Best Supporting Actor,	
-12 Angry Men,	BAFTA Film Award,	1958,	Best Foreign Actor,	
-Forrest Gump,	Oscar,	1995,	Best Picture,	
-Forrest Gump,	Oscar,	1995,	Best Actor in a Leading Role,	
-Forrest Gump,	Oscar,	1995,	Best Director,	
-Forrest Gump,	Oscar,	1995,	Best Writing, Screenplay Based on Material Previously Produced or Published,	
-Forrest Gump,	Oscar,	1995,	Best Film Editing,	
-Forrest Gump,	Oscar,	1995,	Best Effects, Visual Effects,	
-Forrest Gump,	Golden Globe,	1995,	Best Director - Motion Picture,	
-Forrest Gump,	Golden Globe,	1995,	Best Performance by an Actor in a Motion Picture - Drama,	
-Forrest Gump,	Golden Globe,	1995,	Best Motion Picture - Drama,	
-Forrest Gump,	BAFTA Film Award,	1995,	Best Special Effects,	
-Star Wars: Episode V - The Empire Strikes Back,	Oscar,	1981,	Best Sound,	
-Star Wars: Episode V - The Empire Strikes Back,	Special Achievement Award,	1981,	Brian Johnson,	
-Star Wars: Episode V - The Empire Strikes Back,	Anthony Asquith Award for Film Music,	1981,	John Williams,	
-Inception,	Oscar,	2011,	Best Achievement in Cinematography,	
-Inception,	Oscar,	2011,	Best Achievement in Sound Mixing,	
-Inception,	Oscar,	2011,	Best Achievement in Sound Editing,	
-Inception,	Oscar,	2011,	Best Achievement in Visual Effects,	
-Inception,	BAFTA Film Award,	2011,	Best Production Design,	
-Inception,	BAFTA Film Award,	2011,	Best Sound,	
-Inception,	BAFTA Film Award,	2011,	Best Special Visual Effects,	
-One Flew Over the Cuckoo's Nest,	Oscar,	1976,	Best Picture,	
-One Flew Over the Cuckoo's Nest,	Oscar,	1976,	Best Actor in a Leading Role,	
-One Flew Over the Cuckoo's Nest,	Oscar,	1976,	Best Actress in a Leading Role,	
-One Flew Over the Cuckoo's Nest,	Oscar,	1976,	Best Director,	
-One Flew Over the Cuckoo's Nest,	Oscar,	1976,	Best Writing, Screenplay Adapted From Other Material,	
-One Flew Over the Cuckoo's Nest,	Golden Globe,	1976,	Best Motion Picture - Drama,	
-One Flew Over the Cuckoo's Nest,	Golden Globe,	1976,	Best Acting Debut in a Motion Picture - Male,	
-One Flew Over the Cuckoo's Nest,	Golden Globe,	1976,	Best Actress in a Motion Picture - Drama,	
-One Flew Over the Cuckoo's Nest,	Golden Globe,	1976,	Best Director - Motion Picture,	
-One Flew Over the Cuckoo's Nest,	Golden Globe,	1976,	Best Screenplay - Motion Picture,	
-One Flew Over the Cuckoo's Nest,	Golden Globe,	1976,	Best Actor in a Motion Picture - Drama,	
-One Flew Over the Cuckoo's Nest,	BAFTA Film Award,	1977,	Best Actor,	
-One Flew Over the Cuckoo's Nest,	BAFTA Film Award,	1977,	Best Actress,	
-One Flew Over the Cuckoo's Nest,	BAFTA Film Award,	1977,	Best Direction,	
-One Flew Over the Cuckoo's Nest,	BAFTA Film Award,	1977,	Best Film,	
-One Flew Over the Cuckoo's Nest,	BAFTA Film Award,	1977,	Best Film Editing,	
-One Flew Over the Cuckoo's Nest,	BAFTA Film Award,	1977,	Best Supporting Actor,	
-The Matrix,	Oscar,	2000,	Best Film Editing,	
-The Matrix,	Oscar,	2000,	Best Sound,	
-The Matrix,	Oscar,	2000,	Best Effects, Sound Effects Editing,	
-The Matrix,	Oscar,	2000,	Best Effects, Visual Effects,	
-The Matrix,	BAFTA Film Award,	2000,	Best Sound,	
-The Matrix,	BAFTA Film Award,	2000,	Best Achievement in Special Visual Effects,	
-City of God,	BAFTA Film Award,	2003,	Best Editing,	
-Star Wars: Episode IV - A New Hope,	Oscar,	1978,	Best Art Direction-Set Decoration,	
-Star Wars: Episode IV - A New Hope,	Oscar,	1978,	Best Costume Design,	
-Star Wars: Episode IV - A New Hope,	Oscar,	1978,	Best Sound,	
-Star Wars: Episode IV - A New Hope,	Oscar,	1978,	Best Film Editing,	
-Star Wars: Episode IV - A New Hope,	Oscar,	1978,	Best Effects, Visual Effects,	
-Star Wars: Episode IV - A New Hope,	Oscar,	1978,	Best Music, Original Score,	
-Star Wars: Episode IV - A New Hope,	Special Achievement Award,	1978,	Ben Burtt,	
-Star Wars: Episode IV - A New Hope,	Golden Globe,	1978,	Best Original Score - Motion Picture,	
-Star Wars: Episode IV - A New Hope,	Anthony Asquith Award for Film Music,	1979,	John Williams,	
-Star Wars: Episode IV - A New Hope,	BAFTA Film Award,	1979,	Best Sound,	
-It's a Wonderful Life,	Golden Globe,	1947,	Best Director,	
-Life Is Beautiful,	Oscar,	1999,	Best Actor in a Leading Role,	
-Life Is Beautiful,	Oscar,	1999,	Best Music, Original Dramatic Score,	
-Life Is Beautiful,	Oscar,	1999,	Best Foreign Language Film,	
-Life Is Beautiful,	BAFTA Film Award,	1999,	Best Performance by an Actor in a Leading Role,	
-Interstellar,	Oscar,	2015,	Best Achievement in Visual Effects,	
-Interstellar,	BAFTA Film Award,	2015,	Best Special Visual Effects,	
-Psycho,	Golden Globe,	1961,	Best Supporting Actress,	
-Casablanca,	Oscar,	1944,	Best Picture,	
-Casablanca,	Oscar,	1944,	Best Director,	
-Casablanca,	Oscar,	1944,	Best Writing, Screenplay,	
-Terminator 2,	Oscar,	1992,	Best Sound,	
-Terminator 2,	Oscar,	1992,	Best Effects, Sound Effects Editing,	
-Terminator 2,	Oscar,	1992,	Best Effects, Visual Effects,	
-Terminator 2,	Oscar,	1992,	Best Makeup,	
-Terminator 2,	BAFTA Film Award,	1992,	Best Sound,	
-Terminator 2,	BAFTA Film Award,	1992,	Best Special Visual Effects,	
-Back to the Future,	Oscar,	1986,	Best Effects, Sound Effects Editing,	
-Whiplash,	Oscar,	2015,	Best Performance by an Actor in a Supporting Role,	
-Whiplash,	Oscar,	2015,	Best Achievement in Film Editing,	
-Whiplash,	Oscar,	2015,	Best Achievement in Sound Mixing,	
-Whiplash,	Golden Globe,	2015,	Best Performance by an Actor in a Supporting Role in a Motion Picture,	
-Whiplash,	BAFTA Film Award,	2015,	Best Supporting Actor,	
-Whiplash,	BAFTA Film Award,	2015,	Best Editing,	
-Whiplash,	BAFTA Film Award,	2015,	Best Sound,	
-The Lion King,	Oscar,	1995,	Best Music, Original Song,	
-The Lion King,	Oscar,	1995,	Best Music, Original Score,	
-The Lion King,	Golden Globe,	1995,	Best Original Score - Motion Picture,	
-The Lion King,	Golden Globe,	1995,	Best Original Song - Motion Picture,	
-The Lion King,	Golden Globe,	1995,	Best Motion Picture - Comedy or Musical,	
-The Lion King,	BAFTA Interactive Award,	2004,	DVD,	
-Apocalypse Now,	Oscar,	1980,	Best Cinematography,	
-Apocalypse Now,	Oscar,	1980,	Best Sound,	
-Apocalypse Now,	Golden Globe,	1980,	Best Director - Motion Picture,	
-Apocalypse Now,	Golden Globe,	1980,	Best Actor in a Supporting Role - Motion Picture,	
-Apocalypse Now,	Golden Globe,	1980,	Best Original Score - Motion Picture,	
-Apocalypse Now,	BAFTA Film Award,	1980,	Best Direction,	
-Apocalypse Now,	BAFTA Film Award,	1980,	Best Supporting Actor,	
-Cinema Paradiso,	Oscar,	1990,	Best Foreign Language Film,	
-Cinema Paradiso,	Golden Globe,	1990,	Best Foreign Language Film,	
-Cinema Paradiso,	BAFTA Film Award,	1991,	Best Actor,	
-Cinema Paradiso,	BAFTA Film Award,	1991,	Best Actor in a Supporting Role,	
-Cinema Paradiso,	BAFTA Film Award,	1991,	Best Film not in the English Language,	
-Cinema Paradiso,	BAFTA Film Award,	1991,	Best Original Film Score,	
-Cinema Paradiso,	BAFTA Film Award,	1991,	Best Screenplay - Original,	
-Sunset Blvd.,	Oscar,	1951,	Best Writing, Story and Screenplay,	
-Sunset Blvd.,	Oscar,	1951,	Best Art Direction-Set Decoration, Black-and-White,	
-Sunset Blvd.,	Oscar,	1951,	Best Music, Scoring of a Dramatic or Comedy Picture,	
-Sunset Blvd.,	Golden Globe,	1951,	Best Motion Picture - Drama,	
-Sunset Blvd.,	Golden Globe,	1951,	Best Director,	
-Sunset Blvd.,	Golden Globe,	1951,	Best Actress - Drama,	
-Sunset Blvd.,	Golden Globe,	1951,	Best Original Score,	
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	BAFTA Film Award,	1965,	Best British Art Direction (B/W),	
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	BAFTA Film Award,	1965,	Best British Film,	
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	BAFTA Film Award,	1965,	Best Film from any Source,	
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	UN Award,	1965,	,	
-The Lives of Others,	Oscar,	2007,	Best Foreign Language Film of the Year,	
-The Lives of Others,	BAFTA Film Award,	2008,	Best Film Not in the English Language,	
-Coco,	Oscar,	2018,	Best Achievement in Music Written for Motion Pictures (Original Song),	
-Coco,	Oscar,	2018,	Best Animated Feature Film,	
-Coco,	Golden Globe,	2018,	Best Motion Picture - Animated,	
-Coco,	BAFTA Film Award,	2018,	Best Animated Feature Film,	
-WALL·E,	Oscar,	2009,	Best Animated Feature Film of the Year,	
-WALL·E,	Golden Globe,	2009,	Best Animated Film,	
-WALL·E,	BAFTA Film Award,	2009,	Best Animated Film,	
-WALL·E,	BAFTA Children's Award,	2008,	Best Feature Film,	
-Witness for the Prosecution,	Golden Globe,	1958,	Best Supporting Actress,	
-Aliens,	Oscar,	1987,	Best Effects, Sound Effects Editing,	
-Aliens,	Oscar,	1987,	Best Effects, Visual Effects,	
-Aliens,	BAFTA Film Award,	1987,	Best Special Visual Effects,	
-Once Upon a Time in America,	BAFTA Film Award,	1985,	Best Costume Design,	
-Once Upon a Time in America,	BAFTA Film Award,	1985,	Best Score,	
-Citizen Kane,	Oscar,	1942,	Best Writing, Original Screenplay,	
-Braveheart,	Oscar,	1996,	Best Picture,	
-Braveheart,	Oscar,	1996,	Best Director,	
-Braveheart,	Oscar,	1996,	Best Cinematography,	
-Braveheart,	Oscar,	1996,	Best Effects, Sound Effects Editing,	
-Braveheart,	Oscar,	1996,	Best Makeup,	
-Braveheart,	Golden Globe,	1996,	Best Director - Motion Picture,	
-Braveheart,	BAFTA Film Award,	1996,	Best Cinematography,	
-Braveheart,	BAFTA Film Award,	1996,	Best Costume Design,	
-Braveheart,	BAFTA Film Award,	1996,	Best Sound,	
-Star Wars: Episode VI - Return of the Jedi,	Special Achievement Award,	1984,	Richard Edlund,	
-Star Wars: Episode VI - Return of the Jedi,	BAFTA Film Award,	1984,	Best Special Visual Effects,	
-Amélie,	BAFTA Film Award,	2002,	Best Screenplay - Original,	
-Amélie,	BAFTA Film Award,	2002,	Best Production Design,	
-Lawrence of Arabia,	Oscar,	1963,	Best Picture,	
-Lawrence of Arabia,	Oscar,	1963,	Best Director,	
-Lawrence of Arabia,	Oscar,	1963,	Best Cinematography, Color,	
-Lawrence of Arabia,	Oscar,	1963,	Best Art Direction-Set Decoration, Color,	
-Lawrence of Arabia,	Oscar,	1963,	Best Sound,	
-Lawrence of Arabia,	Oscar,	1963,	Best Film Editing,	
-Lawrence of Arabia,	Oscar,	1963,	Best Music, Score - Substantially Original,	
-Lawrence of Arabia,	Golden Globe,	1963,	Best Motion Picture - Drama,	
-Lawrence of Arabia,	Golden Globe,	1963,	Best Supporting Actor,	
-Lawrence of Arabia,	Golden Globe,	1963,	Best Director,	
-Lawrence of Arabia,	Golden Globe,	1963,	Best Cinematography - Color,	
-Lawrence of Arabia,	Golden Globe,	1963,	Most Promising Newcomer - Male,	
-Lawrence of Arabia,	Golden Globe,	1963,	Most Promising Newcomer - Male,	
-Lawrence of Arabia,	BAFTA Film Award,	1963,	Best British Actor,	
-Lawrence of Arabia,	BAFTA Film Award,	1963,	Best British Film,	
-Lawrence of Arabia,	BAFTA Film Award,	1963,	Best British Screenplay,	
-Lawrence of Arabia,	BAFTA Film Award,	1963,	Best Film from any Source,	
-Eternal Sunshine of the Spotless Mind,	Oscar,	2005,	Best Writing, Original Screenplay,	
-Eternal Sunshine of the Spotless Mind,	BAFTA Film Award,	2005,	Best Screenplay - Original,	
-Eternal Sunshine of the Spotless Mind,	BAFTA Film Award,	2005,	Best Editing,	
-Singin' in the Rain,	Golden Globe,	1953,	Best Actor - Comedy or Musical,	
-2001: A Space Odyssey,	Oscar,	1969,	Best Effects, Special Visual Effects,	
-2001: A Space Odyssey,	BAFTA Film Award,	1969,	Best Art Direction,	
-2001: A Space Odyssey,	BAFTA Film Award,	1969,	Best Cinematography,	
-2001: A Space Odyssey,	BAFTA Film Award,	1969,	Best Sound Track,	
-Toy Story,	Special Achievement Award,	1996,	John Lasseter,	
-To Kill a Mockingbird,	Oscar,	1963,	Best Actor in a Leading Role,	
-To Kill a Mockingbird,	Oscar,	1963,	Best Writing, Screenplay Based on Material from Another Medium,	
-To Kill a Mockingbird,	Oscar,	1963,	Best Art Direction-Set Decoration, Black-and-White,	
-To Kill a Mockingbird,	Golden Globe,	1963,	Best Actor - Drama,	
-To Kill a Mockingbird,	Golden Globe,	1963,	Best Original Score,	
-To Kill a Mockingbird,	Golden Globe,	1963,	Best Film Promoting International Understanding,	
-Bicycle Thieves,	Honorary Award,	1950,	,	
-Bicycle Thieves,	Golden Globe,	1950,	Best Foreign Film,	
-Bicycle Thieves,	BAFTA Film Award,	1950,	Best Film from any Source,	
-Inglourious Basterds,	Oscar,	2010,	Best Performance by an Actor in a Supporting Role,	
-Inglourious Basterds,	Golden Globe,	2010,	Best Performance by an Actor in a Supporting Role in a Motion Picture,	
-Inglourious Basterds,	BAFTA Film Award,	2010,	Best Supporting Actor,	
-The Sting,	Oscar,	1974,	Best Picture,	
-The Sting,	Oscar,	1974,	Best Director,	
-The Sting,	Oscar,	1974,	Best Writing, Story and Screenplay Based on Factual Material or Material Not Previously Published or Produced,	
-The Sting,	Oscar,	1974,	Best Art Direction-Set Decoration,	
-The Sting,	Oscar,	1974,	Best Costume Design,	
-The Sting,	Oscar,	1974,	Best Film Editing,	
-The Sting,	Oscar,	1974,	Best Music, Scoring Original Song Score and/or Adaptation,	
-Toy Story 3,	Oscar,	2011,	Best Animated Feature Film of the Year,	
-Toy Story 3,	Oscar,	2011,	Best Achievement in Music Written for Motion Pictures, Original Song,	
-Toy Story 3,	Golden Globe,	2011,	Best Animated Film,	
-Toy Story 3,	BAFTA Film Award,	2011,	Best Animated Film,	
-Good Will Hunting,	Oscar,	1998,	Best Actor in a Supporting Role,	
-Good Will Hunting,	Oscar,	1998,	Best Writing, Screenplay Written Directly for the Screen,	
-Good Will Hunting,	Golden Globe,	1998,	Best Screenplay - Motion Picture,	
-L.A. Confidential,	Oscar,	1998,	Best Actress in a Supporting Role,	
-L.A. Confidential,	Oscar,	1998,	Best Writing, Screenplay Based on Material Previously Produced or Published,	
-L.A. Confidential,	Golden Globe,	1998,	Best Performance by an Actress in a Supporting Role in a Motion Picture,	
-L.A. Confidential,	BAFTA Film Award,	1998,	Best Editing,	
-L.A. Confidential,	BAFTA Film Award,	1998,	Best Sound,	
-The Apartment,	Oscar,	1961,	Best Picture,	
-The Apartment,	Oscar,	1961,	Best Director,	
-The Apartment,	Oscar,	1961,	Best Writing, Story and Screenplay - Written Directly for the Screen,	
-The Apartment,	Oscar,	1961,	Best Art Direction-Set Decoration, Black-and-White,	
-The Apartment,	Oscar,	1961,	Best Film Editing,	
-The Apartment,	Golden Globe,	1961,	Best Motion Picture - Comedy,	
-The Apartment,	Golden Globe,	1961,	Best Actress - Comedy or Musical,	
-The Apartment,	Golden Globe,	1961,	Best Actor - Comedy or Musical,	
-The Apartment,	BAFTA Film Award,	1961,	Best Film from any Source,	
-The Apartment,	BAFTA Film Award,	1961,	Best Foreign Actor,	
-The Apartment,	BAFTA Film Award,	1961,	Best Foreign Actress,	
-A Separation,	Oscar,	2012,	Best Foreign Language Film of the Year,	
-A Separation,	Golden Globe,	2012,	Best Foreign Language Film,	
-Up,	Oscar,	2010,	Best Achievement in Music Written for Motion Pictures, Original Score,	
-Up,	Oscar,	2010,	Best Animated Feature Film of the Year,	
-Up,	Golden Globe,	2010,	Best Original Score - Motion Picture,	
-Up,	Golden Globe,	2010,	Best Animated Feature Film,	
-Up,	Anthony Asquith Award for Film Music,	2010,	Michael Giacchino,	
-Up,	BAFTA Film Award,	2010,	Best Animated Film,	
-All About Eve,	Oscar,	1951,	Best Actor in a Supporting Role,	
-All About Eve,	Oscar,	1951,	Best Director,	
-All About Eve,	Oscar,	1951,	Best Writing, Screenplay,	
-All About Eve,	Oscar,	1951,	Best Costume Design, Black-and-White,	
-All About Eve,	Oscar,	1951,	Best Sound, Recording,	
-All About Eve,	Oscar,	1951,	Best Picture,	
-All About Eve,	Golden Globe,	1951,	Best Screenplay,	
-All About Eve,	BAFTA Film Award,	1951,	Best Film from any Source,	
-Some Like It Hot,	Oscar,	1960,	Best Costume Design, Black-and-White,	
-Some Like It Hot,	Golden Globe,	1960,	Best Motion Picture - Comedy,	
-Some Like It Hot,	Golden Globe,	1960,	Best Actress - Comedy or Musical,	
-Some Like It Hot,	Golden Globe,	1960,	Best Actor - Comedy or Musical,	
-Some Like It Hot,	BAFTA Film Award,	1960,	Best Foreign Actor,	
-Unforgiven,	Oscar,	1993,	Best Picture,	
-Unforgiven,	Oscar,	1993,	Best Actor in a Supporting Role,	
-Unforgiven,	Oscar,	1993,	Best Director,	
-Unforgiven,	Oscar,	1993,	Best Film Editing,	
-Unforgiven,	Golden Globe,	1993,	Best Director - Motion Picture,	
-Unforgiven,	Golden Globe,	1993,	Best Performance by an Actor in a Supporting Role in a Motion Picture,	
-Unforgiven,	BAFTA Film Award,	1993,	Best Actor in a Supporting Role,	
-The Treasure of the Sierra Madre,	Oscar,	1949,	Best Actor in a Supporting Role,	
-The Treasure of the Sierra Madre,	Oscar,	1949,	Best Director,	
-The Treasure of the Sierra Madre,	Oscar,	1949,	Best Writing, Screenplay,	
-The Treasure of the Sierra Madre,	Golden Globe,	1949,	Best Picture,	
-The Treasure of the Sierra Madre,	Golden Globe,	1949,	Best Director,	
-The Treasure of the Sierra Madre,	Golden Globe,	1949,	Best Supporting Actor,	
-The Third Man,	Oscar,	1951,	Best Cinematography, Black-and-White,	
-The Third Man,	BAFTA Film Award,	1950,	Best British Film,	
-Three Billboards Outside Ebbing, Missouri,	Oscar,	2018,	Best Performance by an Actress in a Leading Role,	
-Three Billboards Outside Ebbing, Missouri,	Oscar,	2018,	Best Performance by an Actor in a Supporting Role,	
-Three Billboards Outside Ebbing, Missouri,	Golden Globe,	2018,	Best Motion Picture - Drama,	
-Three Billboards Outside Ebbing, Missouri,	Golden Globe,	2018,	Best Screenplay - Motion Picture,	
-Three Billboards Outside Ebbing, Missouri,	Golden Globe,	2018,	Best Performance by an Actress in a Motion Picture - Drama,	
-Three Billboards Outside Ebbing, Missouri,	Golden Globe,	2018,	Best Performance by an Actor in a Supporting Role in a Motion Picture,	
-Three Billboards Outside Ebbing, Missouri,	BAFTA Film Award,	2018,	Best Leading Actress,	
-Three Billboards Outside Ebbing, Missouri,	BAFTA Film Award,	2018,	Best Screenplay (Original),	
-Three Billboards Outside Ebbing, Missouri,	BAFTA Film Award,	2018,	Best Film,	
-Three Billboards Outside Ebbing, Missouri,	BAFTA Film Award,	2018,	Best Supporting Actor,	
-Three Billboards Outside Ebbing, Missouri,	BAFTA Film Award,	2018,	Outstanding British Film of the Year,	
-Chinatown,	Oscar,	1975,	Best Writing, Original Screenplay,	
-Chinatown,	Golden Globe,	1975,	Best Motion Picture - Drama,	
-Chinatown,	Golden Globe,	1975,	Best Director - Motion Picture,	
-Chinatown,	Golden Globe,	1975,	Best Actor in a Motion Picture - Drama,	
-Chinatown,	Golden Globe,	1975,	Best Screenplay - Motion Picture,	
-Chinatown,	BAFTA Film Award,	1975,	Best Actor,	
-Chinatown,	BAFTA Film Award,	1975,	Best Direction,	
-Chinatown,	BAFTA Film Award,	1975,	Best Screenplay,	
-Ran,	Oscar,	1986,	Best Costume Design,	
-Ran,	BAFTA Film Award,	1987,	Best Foreign Language Film,	
-Ran,	BAFTA Film Award,	1987,	Best Make Up Artist,	
-Judgment at Nuremberg,	Oscar,	1962,	Best Actor in a Leading Role,	
-Judgment at Nuremberg,	Oscar,	1962,	Best Writing, Screenplay Based on Material from Another Medium,	
-Judgment at Nuremberg,	Golden Globe,	1962,	Best Director,	
-Judgment at Nuremberg,	Golden Globe,	1962,	Best Actor - Drama,	
-The Secret in Their Eyes,	Oscar,	2010,	Best Foreign Language Film of the Year,	
-The Bridge on the River Kwai,	Oscar,	1958,	Best Picture,	
-The Bridge on the River Kwai,	Oscar,	1958,	Best Actor in a Leading Role,	
-The Bridge on the River Kwai,	Oscar,	1958,	Best Director,	
-The Bridge on the River Kwai,	Oscar,	1958,	Best Writing, Screenplay Based on Material from Another Medium,	
-The Bridge on the River Kwai,	Oscar,	1958,	Best Cinematography,	
-The Bridge on the River Kwai,	Oscar,	1958,	Best Film Editing,	
-The Bridge on the River Kwai,	Oscar,	1958,	Best Music, Scoring,	
-The Bridge on the River Kwai,	Golden Globe,	1958,	Best Motion Picture - Drama,	
-The Bridge on the River Kwai,	Golden Globe,	1958,	Best Actor - Drama,	
-The Bridge on the River Kwai,	Golden Globe,	1958,	Best Director,	
-The Bridge on the River Kwai,	BAFTA Film Award,	1958,	Best British Actor,	
-The Bridge on the River Kwai,	BAFTA Film Award,	1958,	Best British Film,	
-The Bridge on the River Kwai,	BAFTA Film Award,	1958,	Best British Screenplay,	
-The Bridge on the River Kwai,	BAFTA Film Award,	1958,	Best Film from any Source,	
-On the Waterfront,	Oscar,	1955,	Best Picture,	
-On the Waterfront,	Oscar,	1955,	Best Actor in a Leading Role,	
-On the Waterfront,	Oscar,	1955,	Best Actress in a Supporting Role,	
-On the Waterfront,	Oscar,	1955,	Best Director,	
-On the Waterfront,	Oscar,	1955,	Best Writing, Story and Screenplay,	
-On the Waterfront,	Oscar,	1955,	Best Cinematography, Black-and-White,	
-On the Waterfront,	Oscar,	1955,	Best Art Direction-Set Decoration, Black-and-White,	
-On the Waterfront,	Oscar,	1955,	Best Film Editing,	
-On the Waterfront,	Golden Globe,	1955,	Best Motion Picture - Drama,	
-On the Waterfront,	Golden Globe,	1955,	Best Actor - Drama,	
-On the Waterfront,	Golden Globe,	1955,	Best Director,	
-On the Waterfront,	Golden Globe,	1955,	Best Cinematography - Black and White,	
-On the Waterfront,	BAFTA Film Award,	1955,	Best Foreign Actor,	
-Inside Out,	Oscar,	2016,	Best Animated Feature Film of the Year,	
-Inside Out,	Golden Globe,	2016,	Best Motion Picture - Animated,	
-Inside Out,	BAFTA Film Award,	2016,	Best Animated Film,	
-Lock, Stock and Two Smoking Barrels,	Audience Award,	1999,	,	
-Mr. Smith Goes to Washington,	Oscar,	1940,	Best Writing, Original Story,	
-The Elephant Man,	BAFTA Film Award,	1981,	Best Actor,	
-The Elephant Man,	BAFTA Film Award,	1981,	Best Film,	
-The Elephant Man,	BAFTA Film Award,	1981,	Best Production Design/Art Direction,	
-Wild Strawberries,	Golden Globe,	1960,	Best Foreign Film,	
-Trainspotting,	BAFTA Film Award,	1996,	Best Screenplay - Adapted,	
-Trainspotting,	BAFTA Scotland Award,	1997,	Best Feature Film,	
-Trainspotting,	BAFTA Scotland Award,	1997,	Best Actor - Film,	
-Gone with the Wind,	Honorary Award,	1940,	William Cameron Menzies,	
-Gone with the Wind,	Oscar,	1940,	Best Actress in a Leading Role,	
-Gone with the Wind,	Oscar,	1940,	Best Actress in a Supporting Role,	
-Gone with the Wind,	Oscar,	1940,	Best Director,	
-Gone with the Wind,	Oscar,	1940,	Best Writing, Screenplay,	
-Gone with the Wind,	Oscar,	1940,	Best Cinematography, Color,	
-Gone with the Wind,	Oscar,	1940,	Best Art Direction,	
-Gone with the Wind,	Oscar,	1940,	Best Film Editing,	
-Gone with the Wind,	Oscar,	1940,	Best Picture,	
-Gone with the Wind,	Technical Achievement Award,	1940,	R.D. Musgrave,	
-No Country for Old Men,	Oscar,	2008,	Best Motion Picture of the Year,	
-No Country for Old Men,	Oscar,	2008,	Best Performance by an Actor in a Supporting Role,	
-No Country for Old Men,	Oscar,	2008,	Best Achievement in Directing,	
-No Country for Old Men,	Oscar,	2008,	Best Writing, Adapted Screenplay,	
-No Country for Old Men,	Golden Globe,	2008,	Best Performance by an Actor in a Supporting Role in a Motion Picture,	
-No Country for Old Men,	Golden Globe,	2008,	Best Screenplay - Motion Picture,	
-No Country for Old Men,	BAFTA Film Award,	2008,	Best Supporting Actor,	
-No Country for Old Men,	BAFTA Film Award,	2008,	Best Cinematography,	
-No Country for Old Men,	David Lean Award for Direction,	2008,	Best Director,	
-Fargo,	Oscar,	1997,	Best Actress in a Leading Role,	
-Fargo,	Oscar,	1997,	Best Writing, Screenplay Written Directly for the Screen,	
-Fargo,	David Lean Award for Direction,	1997,	Joel Coen,	
-The Deer Hunter,	Oscar,	1979,	Best Picture,	
-The Deer Hunter,	Oscar,	1979,	Best Actor in a Supporting Role,	
-The Deer Hunter,	Oscar,	1979,	Best Director,	
-The Deer Hunter,	Oscar,	1979,	Best Sound,	
-The Deer Hunter,	Oscar,	1979,	Best Film Editing,	
-The Deer Hunter,	Golden Globe,	1979,	Best Director - Motion Picture,	
-The Deer Hunter,	BAFTA Film Award,	1980,	Best Cinematography,	
-The Deer Hunter,	BAFTA Film Award,	1980,	Best Editing,	
-There Will Be Blood,	Oscar,	2008,	Best Performance by an Actor in a Leading Role,	
-There Will Be Blood,	Oscar,	2008,	Best Achievement in Cinematography,	
-There Will Be Blood,	Golden Globe,	2008,	Best Performance by an Actor in a Motion Picture - Drama,	
-There Will Be Blood,	BAFTA Film Award,	2008,	Best Leading Actor,	
-Finding Nemo,	Oscar,	2004,	Best Animated Feature,	
-Sunrise,	Oscar,	1929,	Best Picture, Unique and Artistic Production,	
-Sunrise,	Oscar,	1929,	Best Actress in a Leading Role,	
-Sunrise,	Oscar,	1929,	Best Cinematography,	
-Cool Hand Luke,	Oscar,	1968,	Best Actor in a Supporting Role,	
-Rebecca,	Oscar,	1941,	Best Picture,	
-Rebecca,	Oscar,	1941,	Best Cinematography, Black-and-White,	
-Hacksaw Ridge,	Oscar,	2017,	Best Achievement in Film Editing,	
-Hacksaw Ridge,	Oscar,	2017,	Best Achievement in Sound Mixing,	
-Hacksaw Ridge,	BAFTA Film Award,	2017,	Best Editing,	
-Into the Wild,	Golden Globe,	2008,	Best Original Song - Motion Picture,	
-It Happened One Night,	Oscar,	1935,	Best Picture,	
-It Happened One Night,	Oscar,	1935,	Best Actor in a Leading Role,	
-It Happened One Night,	Oscar,	1935,	Best Actress in a Leading Role,	
-It Happened One Night,	Oscar,	1935,	Best Director,	
-It Happened One Night,	Oscar,	1935,	Best Writing, Adaptation,	
-Platoon,	Oscar,	1987,	Best Picture,	
-Platoon,	Oscar,	1987,	Best Director,	
-Platoon,	Oscar,	1987,	Best Sound,	
-Platoon,	Oscar,	1987,	Best Film Editing,	
-Platoon,	Golden Globe,	1987,	Best Motion Picture - Drama,	
-Platoon,	Golden Globe,	1987,	Best Director - Motion Picture,	
-Platoon,	Golden Globe,	1987,	Best Performance by an Actor in a Supporting Role in a Motion Picture,	
-Platoon,	BAFTA Film Award,	1988,	Best Direction,	
-Platoon,	BAFTA Film Award,	1988,	Best Editing,	
-Network,	Oscar,	1977,	Best Actor in a Leading Role,	
-Network,	Oscar,	1977,	Best Actress in a Leading Role,	
-Network,	Oscar,	1977,	Best Actress in a Supporting Role,	
-Network,	Oscar,	1977,	Best Writing, Screenplay Written Directly for the Screen,	
-Network,	Golden Globe,	1977,	Best Director - Motion Picture,	
-Network,	Golden Globe,	1977,	Best Actor in Motion Picture - Drama,	
-Network,	Golden Globe,	1977,	Best Actress in a Motion Picture - Drama,	
-Network,	Golden Globe,	1977,	Best Screenplay - Motion Picture,	
-Network,	BAFTA Film Award,	1978,	Best Actor,	
-The Grand Budapest Hotel,	Oscar,	2015,	Best Achievement in Costume Design,	
-The Grand Budapest Hotel,	Oscar,	2015,	Best Achievement in Makeup and Hairstyling,	
-The Grand Budapest Hotel,	Oscar,	2015,	Best Achievement in Music Written for Motion Pictures, Original Score,	
-The Grand Budapest Hotel,	Oscar,	2015,	Best Achievement in Production Design,	
-The Grand Budapest Hotel,	Golden Globe,	2015,	Best Motion Picture - Comedy or Musical,	
-The Grand Budapest Hotel,	BAFTA Film Award,	2015,	Best Original Music,	
-The Grand Budapest Hotel,	BAFTA Film Award,	2015,	Best Costume Design,	
-The Grand Budapest Hotel,	BAFTA Film Award,	2015,	Best Production Design,	
-The Grand Budapest Hotel,	BAFTA Film Award,	2015,	Best Original Screenplay,	
-The Grand Budapest Hotel,	BAFTA Film Award,	2015,	Best Make Up & Hair,	
-The Wages of Fear,	BAFTA Film Award,	1955,	Best Film from any Source,	
-Ben-Hur,	Oscar,	1960,	Best Picture,	
-Ben-Hur,	Oscar,	1960,	Best Actor in a Leading Role,	
-Ben-Hur,	Oscar,	1960,	Best Actor in a Supporting Role,	
-Ben-Hur,	Oscar,	1960,	Best Director,	
-Ben-Hur,	Oscar,	1960,	Best Cinematography, Color,	
-Ben-Hur,	Oscar,	1960,	Best Art Direction-Set Decoration, Color,	
-Ben-Hur,	Oscar,	1960,	Best Costume Design, Color,	
-Ben-Hur,	Oscar,	1960,	Best Sound,	
-Ben-Hur,	Oscar,	1960,	Best Film Editing,	
-Ben-Hur,	Oscar,	1960,	Best Effects, Special Effects,	
-Ben-Hur,	Oscar,	1960,	Best Music, Scoring of a Dramatic or Comedy Picture,	
-Ben-Hur,	Golden Globe,	1960,	Best Motion Picture - Drama,	
-Ben-Hur,	Golden Globe,	1960,	Best Director,	
-Ben-Hur,	Golden Globe,	1960,	Best Supporting Actor,	
-Ben-Hur,	Special Award,	1960,	Andrew Marton,	
-Ben-Hur,	BAFTA Film Award,	1960,	Best Film from any Source,	
-The Truman Show,	Golden Globe,	1999,	Best Performance by an Actor in a Motion Picture - Drama,	
-The Truman Show,	Golden Globe,	1999,	Best Performance by an Actor in a Supporting Role in a Motion Picture,	
-The Truman Show,	Golden Globe,	1999,	Best Original Score - Motion Picture,	
-The Truman Show,	BAFTA Film Award,	1999,	Best Screenplay - Original,	
-The Truman Show,	BAFTA Film Award,	1999,	Best Production Design,	
-The Truman Show,	David Lean Award for Direction,	1999,	Peter Weir,	
-Million Dollar Baby,	Oscar,	2005,	Best Motion Picture of the Year,	
-Million Dollar Baby,	Oscar,	2005,	Best Performance by an Actress in a Leading Role,	
-Million Dollar Baby,	Oscar,	2005,	Best Performance by an Actor in a Supporting Role,	
-Million Dollar Baby,	Oscar,	2005,	Best Achievement in Directing,	
-Million Dollar Baby,	Golden Globe,	2005,	Best Performance by an Actress in a Motion Picture - Drama,	
-Million Dollar Baby,	Golden Globe,	2005,	Best Director - Motion Picture,	
-Spotlight,	Oscar,	2016,	Best Motion Picture of the Year,	
-Spotlight,	Oscar,	2016,	Best Writing, Original Screenplay,	
-Spotlight,	BAFTA Film Award,	2016,	Best Original Screenplay,	
-Amores Perros,	BAFTA Film Award,	2002,	Best Film not in the English Language,	
-Butch Cassidy and the Sundance Kid,	Oscar,	1970,	Best Writing, Story and Screenplay Based on Material Not Previously Published or Produced,	
-Butch Cassidy and the Sundance Kid,	Oscar,	1970,	Best Cinematography,	
-Butch Cassidy and the Sundance Kid,	Oscar,	1970,	Best Music, Original Song,	
-Butch Cassidy and the Sundance Kid,	Oscar,	1970,	Best Music, Original Score for a Motion Picture (not a Musical),	
-Butch Cassidy and the Sundance Kid,	Golden Globe,	1970,	Best Original Score,	
-Butch Cassidy and the Sundance Kid,	Anthony Asquith Award for Film Music,	1971,	Burt Bacharach,	
-Butch Cassidy and the Sundance Kid,	BAFTA Film Award,	1971,	Best Cinematography,	
-Butch Cassidy and the Sundance Kid,	BAFTA Film Award,	1971,	Best Direction,	
-Butch Cassidy and the Sundance Kid,	BAFTA Film Award,	1971,	Best Film,	
-Butch Cassidy and the Sundance Kid,	BAFTA Film Award,	1971,	Best Film Editing,	
-Butch Cassidy and the Sundance Kid,	BAFTA Film Award,	1971,	Best Screenplay,	
-Butch Cassidy and the Sundance Kid,	BAFTA Film Award,	1971,	Best Sound Track,	
-Butch Cassidy and the Sundance Kid,	BAFTA Film Award,	1971,	Best Actor,	
-Butch Cassidy and the Sundance Kid,	BAFTA Film Award,	1971,	Best Actress,	
-La La Land,	Oscar,	2017,	Best Performance by an Actress in a Leading Role,	
-La La Land,	Oscar,	2017,	Best Achievement in Directing,	
-La La Land,	Oscar,	2017,	Best Achievement in Cinematography,	
-La La Land,	Oscar,	2017,	Best Achievement in Music Written for Motion Pictures (Original Score),	
-La La Land,	Oscar,	2017,	Best Achievement in Music Written for Motion Pictures (Original Song),	
-La La Land,	Oscar,	2017,	Best Achievement in Production Design,	
-La La Land,	Golden Globe,	2017,	Best Motion Picture - Musical or Comedy,	
-La La Land,	Golden Globe,	2017,	Best Performance by an Actor in a Motion Picture - Musical or Comedy,	
-La La Land,	Golden Globe,	2017,	Best Performance by an Actress in a Motion Picture - Musical or Comedy,	
-La La Land,	Golden Globe,	2017,	Best Director - Motion Picture,	
-La La Land,	Golden Globe,	2017,	Best Screenplay - Motion Picture,	
-La La Land,	Golden Globe,	2017,	Best Original Song - Motion Picture,	
-La La Land,	Golden Globe,	2017,	Best Original Score - Motion Picture,	
-La La Land,	BAFTA Film Award,	2017,	Best Film,	
-La La Land,	BAFTA Film Award,	2017,	Best Leading Actress,	
-La La Land,	BAFTA Film Award,	2017,	Best Cinematography,	
-La La Land,	BAFTA Film Award,	2017,	Original Music,	
-La La Land,	David Lean Award for Direction,	2017,	Damien Chazelle,	
-The Grapes of Wrath,	Oscar,	1941,	Best Actress in a Supporting Role,	
-The Grapes of Wrath,	Oscar,	1941,	Best Director,	
-The Nights of Cabiria,	Oscar,	1958,	Best Foreign Language Film,	
-Monsters, Inc.,	Oscar,	2002,	Best Music, Original Song,	
-Monsters, Inc.,	BAFTA Children's Award,	2002,	Best Feature Film,	
-Barry Lyndon,	Oscar,	1976,	Best Cinematography,	
-Barry Lyndon,	Oscar,	1976,	Best Art Direction-Set Decoration,	
-Barry Lyndon,	Oscar,	1976,	Best Costume Design,	
-Barry Lyndon,	Oscar,	1976,	Best Music, Scoring Original Song Score and/or Adaptation,	
-Barry Lyndon,	BAFTA Film Award,	1976,	Best Cinematography,	
-Barry Lyndon,	BAFTA Film Award,	1976,	Best Direction,	
-Paper Moon,	Oscar,	1974,	Best Actress in a Supporting Role,	
-Paper Moon,	Golden Globe,	1974,	Most Promising Newcomer - Female,	
-Gandhi,	Oscar,	1983,	Best Picture,	
-Gandhi,	Oscar,	1983,	Best Actor in a Leading Role,	
-Gandhi,	Oscar,	1983,	Best Director,	
-Gandhi,	Oscar,	1983,	Best Writing, Screenplay Written Directly for the Screen,	
-Gandhi,	Oscar,	1983,	Best Cinematography,	
-Gandhi,	Oscar,	1983,	Best Art Direction-Set Decoration,	
-Gandhi,	Oscar,	1983,	Best Costume Design,	
-Gandhi,	Oscar,	1983,	Best Film Editing,	
-Gandhi,	Golden Globe,	1983,	Best Foreign Film,	
-Gandhi,	Golden Globe,	1983,	Best Director - Motion Picture,	
-Gandhi,	Golden Globe,	1983,	Best Actor in a Motion Picture - Drama,	
-Gandhi,	Golden Globe,	1983,	New Star of the Year in a Motion Picture - Male,	
-Gandhi,	Golden Globe,	1983,	Best Screenplay - Motion Picture,	
-Gandhi,	BAFTA Film Award,	1983,	Best Actor,	
-Gandhi,	BAFTA Film Award,	1983,	Best Direction,	
-Gandhi,	BAFTA Film Award,	1983,	Best Film,	
-Gandhi,	BAFTA Film Award,	1983,	Most Outstanding Newcomer to Leading Film Roles,	
-Gandhi,	BAFTA Film Award,	1983,	Best Supporting Actress,	
-Groundhog Day,	BAFTA Film Award,	1994,	Best Screenplay - Original,	
-The Wizard of Oz,	Oscar,	1940,	Best Music, Original Song,	
-The Wizard of Oz,	Oscar,	1940,	Best Music, Original Score,	
-Dead Poets Society,	Oscar,	1990,	Best Writing, Screenplay Written Directly for the Screen,	
-Dead Poets Society,	BAFTA Film Award,	1990,	Best Film,	
-Dead Poets Society,	BAFTA Film Award,	1990,	Best Original Film Score,	
-Annie Hall,	Oscar,	1978,	Best Picture,	
-Annie Hall,	Oscar,	1978,	Best Actress in a Leading Role,	
-Annie Hall,	Oscar,	1978,	Best Director,	
-Annie Hall,	Oscar,	1978,	Best Writing, Screenplay Written Directly for the Screen,	
-Annie Hall,	Golden Globe,	1978,	Best Actress in a Motion Picture - Comedy or Musical,	
-Annie Hall,	BAFTA Film Award,	1978,	Best Actress,	
-Annie Hall,	BAFTA Film Award,	1978,	Best Direction,	
-Annie Hall,	BAFTA Film Award,	1978,	Best Editing,	
-Annie Hall,	BAFTA Film Award,	1978,	Best Film,	
-Annie Hall,	BAFTA Film Award,	1978,	Best Screenplay,	
-8½,	Oscar,	1964,	Best Costume Design, Black-and-White,	
-8½,	Oscar,	1964,	Best Foreign Language Film,	
-The Best Years of Our Lives,	Honorary Award,	1947,	Harold Russell,	
-The Best Years of Our Lives,	Oscar,	1947,	Best Picture,	
-The Best Years of Our Lives,	Oscar,	1947,	Best Actor in a Leading Role,	
-The Best Years of Our Lives,	Oscar,	1947,	Best Actor in a Supporting Role,	
-The Best Years of Our Lives,	Oscar,	1947,	Best Director,	
-The Best Years of Our Lives,	Oscar,	1947,	Best Writing, Screenplay,	
-The Best Years of Our Lives,	Oscar,	1947,	Best Film Editing,	
-The Best Years of Our Lives,	Oscar,	1947,	Best Music, Scoring of a Dramatic or Comedy Picture,	
-The Best Years of Our Lives,	Golden Globe,	1947,	Best Picture,	
-The Best Years of Our Lives,	Special Award,	1947,	Harold Russell,	
-The Best Years of Our Lives,	BAFTA Film Award,	1948,	Best Film from any Source,	
-Paris, Texas,	BAFTA Film Award,	1985,	Best Direction,	
-Twelve Monkeys,	Golden Globe,	1996,	Best Performance by an Actor in a Supporting Role in a Motion Picture,	
-The Battle of Algiers,	UN Award,	1972,	,	
-Beauty and the Beast,	Oscar,	1992,	Best Music, Original Song,	
-Beauty and the Beast,	Oscar,	1992,	Best Music, Original Score,	
-Beauty and the Beast,	Golden Globe,	1992,	Best Original Score - Motion Picture,	
-Beauty and the Beast,	Golden Globe,	1992,	Best Original Song - Motion Picture,	
-Beauty and the Beast,	Golden Globe,	1992,	Best Motion Picture - Comedy or Musical,	
+The Godfather%	Oscar%	1973%	Best Picture%	
+The Godfather%	Oscar%	1973%	Best Actor in a Leading Role%	
+The Godfather%	Oscar%	1973%	Best Writing, Screenplay Based on Material from Another Medium%	
+The Godfather%	Golden Globe%	1973%	Best Motion Picture - Drama%	
+The Godfather%	Golden Globe%	1973%	Best Actor in a Motion Picture - Drama%	
+The Godfather%	Golden Globe%	1973%	Best Director - Motion Picture%	
+The Godfather%	Golden Globe%	1973%	Best Screenplay - Motion Picture%	
+The Godfather%	Golden Globe%	1973%	Best Original Score - Motion Picture%	
+The Godfather%	Anthony Asquith Award for Film Music%	1973%	Nino Rota%	
+The Godfather: Part II%	Oscar%	1975%	Best Picture%	
+The Godfather: Part II%	Oscar%	1975%	Best Actor in a Supporting Role%	
+The Godfather: Part II%	Oscar%	1975%	Best Director%	
+The Godfather: Part II%	Oscar%	1975%	Best Writing, Screenplay Adapted From Other Material%	
+The Godfather: Part II%	Oscar%	1975%	Best Art Direction-Set Decoration%	
+The Godfather: Part II%	Oscar%	1975%	Best Music, Original Dramatic Score%	
+The Godfather: Part II%	BAFTA Film Award%	1976%	Best Actor%	
+The Dark Knight%	Oscar%	2009%	Best Performance by an Actor in a Supporting Role%	
+The Dark Knight%	Oscar%	2009%	Best Achievement in Sound Editing%	
+The Dark Knight%	Golden Globe%	2009%	Best Performance by an Actor in a Supporting Role in a Motion Picture%	
+The Dark Knight%	BAFTA Film Award%	2009%	Best Supporting Actor%	
+12 Angry Men%	BAFTA Film Award%	1958%	Best Foreign Actor%	
+Forrest Gump%	Oscar%	1995%	Best Picture%	
+Forrest Gump%	Oscar%	1995%	Best Actor in a Leading Role%	
+Forrest Gump%	Oscar%	1995%	Best Director%	
+Forrest Gump%	Oscar%	1995%	Best Writing, Screenplay Based on Material Previously Produced or Published%	
+Forrest Gump%	Oscar%	1995%	Best Film Editing%	
+Forrest Gump%	Oscar%	1995%	Best Effects, Visual Effects%	
+Forrest Gump%	Golden Globe%	1995%	Best Director - Motion Picture%	
+Forrest Gump%	Golden Globe%	1995%	Best Performance by an Actor in a Motion Picture - Drama%	
+Forrest Gump%	Golden Globe%	1995%	Best Motion Picture - Drama%	
+Forrest Gump%	BAFTA Film Award%	1995%	Best Special Effects%	
+Star Wars: Episode V - The Empire Strikes Back%	Oscar%	1981%	Best Sound%	
+Star Wars: Episode V - The Empire Strikes Back%	Special Achievement Award%	1981%	Brian Johnson%	
+Star Wars: Episode V - The Empire Strikes Back%	Anthony Asquith Award for Film Music%	1981%	John Williams%	
+Inception%	Oscar%	2011%	Best Achievement in Cinematography%	
+Inception%	Oscar%	2011%	Best Achievement in Sound Mixing%	
+Inception%	Oscar%	2011%	Best Achievement in Sound Editing%	
+Inception%	Oscar%	2011%	Best Achievement in Visual Effects%	
+Inception%	BAFTA Film Award%	2011%	Best Production Design%	
+Inception%	BAFTA Film Award%	2011%	Best Sound%	
+Inception%	BAFTA Film Award%	2011%	Best Special Visual Effects%	
+One Flew Over the Cuckoo's Nest%	Oscar%	1976%	Best Picture%	
+One Flew Over the Cuckoo's Nest%	Oscar%	1976%	Best Actor in a Leading Role%	
+One Flew Over the Cuckoo's Nest%	Oscar%	1976%	Best Actress in a Leading Role%	
+One Flew Over the Cuckoo's Nest%	Oscar%	1976%	Best Director%	
+One Flew Over the Cuckoo's Nest%	Oscar%	1976%	Best Writing, Screenplay Adapted From Other Material%	
+One Flew Over the Cuckoo's Nest%	Golden Globe%	1976%	Best Motion Picture - Drama%	
+One Flew Over the Cuckoo's Nest%	Golden Globe%	1976%	Best Acting Debut in a Motion Picture - Male%	
+One Flew Over the Cuckoo's Nest%	Golden Globe%	1976%	Best Actress in a Motion Picture - Drama%	
+One Flew Over the Cuckoo's Nest%	Golden Globe%	1976%	Best Director - Motion Picture%	
+One Flew Over the Cuckoo's Nest%	Golden Globe%	1976%	Best Screenplay - Motion Picture%	
+One Flew Over the Cuckoo's Nest%	Golden Globe%	1976%	Best Actor in a Motion Picture - Drama%	
+One Flew Over the Cuckoo's Nest%	BAFTA Film Award%	1977%	Best Actor%	
+One Flew Over the Cuckoo's Nest%	BAFTA Film Award%	1977%	Best Actress%	
+One Flew Over the Cuckoo's Nest%	BAFTA Film Award%	1977%	Best Direction%	
+One Flew Over the Cuckoo's Nest%	BAFTA Film Award%	1977%	Best Film%	
+One Flew Over the Cuckoo's Nest%	BAFTA Film Award%	1977%	Best Film Editing%	
+One Flew Over the Cuckoo's Nest%	BAFTA Film Award%	1977%	Best Supporting Actor%	
+The Matrix%	Oscar%	2000%	Best Film Editing%	
+The Matrix%	Oscar%	2000%	Best Sound%	
+The Matrix%	Oscar%	2000%	Best Effects, Sound Effects Editing%	
+The Matrix%	Oscar%	2000%	Best Effects, Visual Effects%	
+The Matrix%	BAFTA Film Award%	2000%	Best Sound%	
+The Matrix%	BAFTA Film Award%	2000%	Best Achievement in Special Visual Effects%	
+City of God%	BAFTA Film Award%	2003%	Best Editing%	
+Star Wars: Episode IV - A New Hope%	Oscar%	1978%	Best Art Direction-Set Decoration%	
+Star Wars: Episode IV - A New Hope%	Oscar%	1978%	Best Costume Design%	
+Star Wars: Episode IV - A New Hope%	Oscar%	1978%	Best Sound%	
+Star Wars: Episode IV - A New Hope%	Oscar%	1978%	Best Film Editing%	
+Star Wars: Episode IV - A New Hope%	Oscar%	1978%	Best Effects, Visual Effects%	
+Star Wars: Episode IV - A New Hope%	Oscar%	1978%	Best Music, Original Score%	
+Star Wars: Episode IV - A New Hope%	Special Achievement Award%	1978%	Ben Burtt%	
+Star Wars: Episode IV - A New Hope%	Golden Globe%	1978%	Best Original Score - Motion Picture%	
+Star Wars: Episode IV - A New Hope%	Anthony Asquith Award for Film Music%	1979%	John Williams%	
+Star Wars: Episode IV - A New Hope%	BAFTA Film Award%	1979%	Best Sound%	
+It's a Wonderful Life%	Golden Globe%	1947%	Best Director%	
+Life Is Beautiful%	Oscar%	1999%	Best Actor in a Leading Role%	
+Life Is Beautiful%	Oscar%	1999%	Best Music, Original Dramatic Score%	
+Life Is Beautiful%	Oscar%	1999%	Best Foreign Language Film%	
+Life Is Beautiful%	BAFTA Film Award%	1999%	Best Performance by an Actor in a Leading Role%	
+Interstellar%	Oscar%	2015%	Best Achievement in Visual Effects%	
+Interstellar%	BAFTA Film Award%	2015%	Best Special Visual Effects%	
+Psycho%	Golden Globe%	1961%	Best Supporting Actress%	
+Casablanca%	Oscar%	1944%	Best Picture%	
+Casablanca%	Oscar%	1944%	Best Director%	
+Casablanca%	Oscar%	1944%	Best Writing, Screenplay%	
+Terminator 2%	Oscar%	1992%	Best Sound%	
+Terminator 2%	Oscar%	1992%	Best Effects, Sound Effects Editing%	
+Terminator 2%	Oscar%	1992%	Best Effects, Visual Effects%	
+Terminator 2%	Oscar%	1992%	Best Makeup%	
+Terminator 2%	BAFTA Film Award%	1992%	Best Sound%	
+Terminator 2%	BAFTA Film Award%	1992%	Best Special Visual Effects%	
+Back to the Future%	Oscar%	1986%	Best Effects, Sound Effects Editing%	
+Whiplash%	Oscar%	2015%	Best Performance by an Actor in a Supporting Role%	
+Whiplash%	Oscar%	2015%	Best Achievement in Film Editing%	
+Whiplash%	Oscar%	2015%	Best Achievement in Sound Mixing%	
+Whiplash%	Golden Globe%	2015%	Best Performance by an Actor in a Supporting Role in a Motion Picture%	
+Whiplash%	BAFTA Film Award%	2015%	Best Supporting Actor%	
+Whiplash%	BAFTA Film Award%	2015%	Best Editing%	
+Whiplash%	BAFTA Film Award%	2015%	Best Sound%	
+The Lion King%	Oscar%	1995%	Best Music, Original Song%	
+The Lion King%	Oscar%	1995%	Best Music, Original Score%	
+The Lion King%	Golden Globe%	1995%	Best Original Score - Motion Picture%	
+The Lion King%	Golden Globe%	1995%	Best Original Song - Motion Picture%	
+The Lion King%	Golden Globe%	1995%	Best Motion Picture - Comedy or Musical%	
+The Lion King%	BAFTA Interactive Award%	2004%	DVD%	
+Apocalypse Now%	Oscar%	1980%	Best Cinematography%	
+Apocalypse Now%	Oscar%	1980%	Best Sound%	
+Apocalypse Now%	Golden Globe%	1980%	Best Director - Motion Picture%	
+Apocalypse Now%	Golden Globe%	1980%	Best Actor in a Supporting Role - Motion Picture%	
+Apocalypse Now%	Golden Globe%	1980%	Best Original Score - Motion Picture%	
+Apocalypse Now%	BAFTA Film Award%	1980%	Best Direction%	
+Apocalypse Now%	BAFTA Film Award%	1980%	Best Supporting Actor%	
+Cinema Paradiso%	Oscar%	1990%	Best Foreign Language Film%	
+Cinema Paradiso%	Golden Globe%	1990%	Best Foreign Language Film%	
+Cinema Paradiso%	BAFTA Film Award%	1991%	Best Actor%	
+Cinema Paradiso%	BAFTA Film Award%	1991%	Best Actor in a Supporting Role%	
+Cinema Paradiso%	BAFTA Film Award%	1991%	Best Film not in the English Language%	
+Cinema Paradiso%	BAFTA Film Award%	1991%	Best Original Film Score%	
+Cinema Paradiso%	BAFTA Film Award%	1991%	Best Screenplay - Original%	
+Sunset Blvd.%	Oscar%	1951%	Best Writing, Story and Screenplay%	
+Sunset Blvd.%	Oscar%	1951%	Best Art Direction-Set Decoration, Black-and-White%	
+Sunset Blvd.%	Oscar%	1951%	Best Music, Scoring of a Dramatic or Comedy Picture%	
+Sunset Blvd.%	Golden Globe%	1951%	Best Motion Picture - Drama%	
+Sunset Blvd.%	Golden Globe%	1951%	Best Director%	
+Sunset Blvd.%	Golden Globe%	1951%	Best Actress - Drama%	
+Sunset Blvd.%	Golden Globe%	1951%	Best Original Score%	
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	BAFTA Film Award%	1965%	Best British Art Direction (B/W)%	
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	BAFTA Film Award%	1965%	Best British Film%	
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	BAFTA Film Award%	1965%	Best Film from any Source%	
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	UN Award%	1965%	%	
+The Lives of Others%	Oscar%	2007%	Best Foreign Language Film of the Year%	
+The Lives of Others%	BAFTA Film Award%	2008%	Best Film Not in the English Language%	
+Coco%	Oscar%	2018%	Best Achievement in Music Written for Motion Pictures (Original Song)%	
+Coco%	Oscar%	2018%	Best Animated Feature Film%	
+Coco%	Golden Globe%	2018%	Best Motion Picture - Animated%	
+Coco%	BAFTA Film Award%	2018%	Best Animated Feature Film%	
+WALL·E%	Oscar%	2009%	Best Animated Feature Film of the Year%	
+WALL·E%	Golden Globe%	2009%	Best Animated Film%	
+WALL·E%	BAFTA Film Award%	2009%	Best Animated Film%	
+WALL·E%	BAFTA Children's Award%	2008%	Best Feature Film%	
+Witness for the Prosecution%	Golden Globe%	1958%	Best Supporting Actress%	
+Aliens%	Oscar%	1987%	Best Effects, Sound Effects Editing%	
+Aliens%	Oscar%	1987%	Best Effects, Visual Effects%	
+Aliens%	BAFTA Film Award%	1987%	Best Special Visual Effects%	
+Once Upon a Time in America%	BAFTA Film Award%	1985%	Best Costume Design%	
+Once Upon a Time in America%	BAFTA Film Award%	1985%	Best Score%	
+Citizen Kane%	Oscar%	1942%	Best Writing, Original Screenplay%	
+Braveheart%	Oscar%	1996%	Best Picture%	
+Braveheart%	Oscar%	1996%	Best Director%	
+Braveheart%	Oscar%	1996%	Best Cinematography%	
+Braveheart%	Oscar%	1996%	Best Effects, Sound Effects Editing%	
+Braveheart%	Oscar%	1996%	Best Makeup%	
+Braveheart%	Golden Globe%	1996%	Best Director - Motion Picture%	
+Braveheart%	BAFTA Film Award%	1996%	Best Cinematography%	
+Braveheart%	BAFTA Film Award%	1996%	Best Costume Design%	
+Braveheart%	BAFTA Film Award%	1996%	Best Sound%	
+Star Wars: Episode VI - Return of the Jedi%	Special Achievement Award%	1984%	Richard Edlund%	
+Star Wars: Episode VI - Return of the Jedi%	BAFTA Film Award%	1984%	Best Special Visual Effects%	
+Amélie%	BAFTA Film Award%	2002%	Best Screenplay - Original%	
+Amélie%	BAFTA Film Award%	2002%	Best Production Design%	
+Lawrence of Arabia%	Oscar%	1963%	Best Picture%	
+Lawrence of Arabia%	Oscar%	1963%	Best Director%	
+Lawrence of Arabia%	Oscar%	1963%	Best Cinematography, Color%	
+Lawrence of Arabia%	Oscar%	1963%	Best Art Direction-Set Decoration, Color%	
+Lawrence of Arabia%	Oscar%	1963%	Best Sound%	
+Lawrence of Arabia%	Oscar%	1963%	Best Film Editing%	
+Lawrence of Arabia%	Oscar%	1963%	Best Music, Score - Substantially Original%	
+Lawrence of Arabia%	Golden Globe%	1963%	Best Motion Picture - Drama%	
+Lawrence of Arabia%	Golden Globe%	1963%	Best Supporting Actor%	
+Lawrence of Arabia%	Golden Globe%	1963%	Best Director%	
+Lawrence of Arabia%	Golden Globe%	1963%	Best Cinematography - Color%	
+Lawrence of Arabia%	Golden Globe%	1963%	Most Promising Newcomer - Male%	
+Lawrence of Arabia%	Golden Globe%	1963%	Most Promising Newcomer - Male%	
+Lawrence of Arabia%	BAFTA Film Award%	1963%	Best British Actor%	
+Lawrence of Arabia%	BAFTA Film Award%	1963%	Best British Film%	
+Lawrence of Arabia%	BAFTA Film Award%	1963%	Best British Screenplay%	
+Lawrence of Arabia%	BAFTA Film Award%	1963%	Best Film from any Source%	
+Eternal Sunshine of the Spotless Mind%	Oscar%	2005%	Best Writing, Original Screenplay%	
+Eternal Sunshine of the Spotless Mind%	BAFTA Film Award%	2005%	Best Screenplay - Original%	
+Eternal Sunshine of the Spotless Mind%	BAFTA Film Award%	2005%	Best Editing%	
+Singin' in the Rain%	Golden Globe%	1953%	Best Actor - Comedy or Musical%	
+2001: A Space Odyssey%	Oscar%	1969%	Best Effects, Special Visual Effects%	
+2001: A Space Odyssey%	BAFTA Film Award%	1969%	Best Art Direction%	
+2001: A Space Odyssey%	BAFTA Film Award%	1969%	Best Cinematography%	
+2001: A Space Odyssey%	BAFTA Film Award%	1969%	Best Sound Track%	
+Toy Story%	Special Achievement Award%	1996%	John Lasseter%	
+To Kill a Mockingbird%	Oscar%	1963%	Best Actor in a Leading Role%	
+To Kill a Mockingbird%	Oscar%	1963%	Best Writing, Screenplay Based on Material from Another Medium%	
+To Kill a Mockingbird%	Oscar%	1963%	Best Art Direction-Set Decoration, Black-and-White%	
+To Kill a Mockingbird%	Golden Globe%	1963%	Best Actor - Drama%	
+To Kill a Mockingbird%	Golden Globe%	1963%	Best Original Score%	
+To Kill a Mockingbird%	Golden Globe%	1963%	Best Film Promoting International Understanding%	
+Inglourious Basterds%	Oscar%	2010%	Best Performance by an Actor in a Supporting Role%	
+Inglourious Basterds%	Golden Globe%	2010%	Best Performance by an Actor in a Supporting Role in a Motion Picture%	
+Inglourious Basterds%	BAFTA Film Award%	2010%	Best Supporting Actor%	
+Bicycle Thieves%	Honorary Award%	1950%	%	
+Bicycle Thieves%	Golden Globe%	1950%	Best Foreign Film%	
+Bicycle Thieves%	BAFTA Film Award%	1950%	Best Film from any Source%	
+The Sting%	Oscar%	1974%	Best Picture%	
+The Sting%	Oscar%	1974%	Best Director%	
+The Sting%	Oscar%	1974%	Best Writing, Story and Screenplay Based on Factual Material or Material Not Previously Published or Produced%	
+The Sting%	Oscar%	1974%	Best Art Direction-Set Decoration%	
+The Sting%	Oscar%	1974%	Best Costume Design%	
+The Sting%	Oscar%	1974%	Best Film Editing%	
+The Sting%	Oscar%	1974%	Best Music, Scoring Original Song Score and/or Adaptation%	
+Toy Story 3%	Oscar%	2011%	Best Animated Feature Film of the Year%	
+Toy Story 3%	Oscar%	2011%	Best Achievement in Music Written for Motion Pictures, Original Song%	
+Toy Story 3%	Golden Globe%	2011%	Best Animated Film%	
+Toy Story 3%	BAFTA Film Award%	2011%	Best Animated Film%	
+Good Will Hunting%	Oscar%	1998%	Best Actor in a Supporting Role%	
+Good Will Hunting%	Oscar%	1998%	Best Writing, Screenplay Written Directly for the Screen%	
+Good Will Hunting%	Golden Globe%	1998%	Best Screenplay - Motion Picture%	
+L.A. Confidential%	Oscar%	1998%	Best Actress in a Supporting Role%	
+L.A. Confidential%	Oscar%	1998%	Best Writing, Screenplay Based on Material Previously Produced or Published%	
+L.A. Confidential%	Golden Globe%	1998%	Best Performance by an Actress in a Supporting Role in a Motion Picture%	
+L.A. Confidential%	BAFTA Film Award%	1998%	Best Editing%	
+L.A. Confidential%	BAFTA Film Award%	1998%	Best Sound%	
+The Apartment%	Oscar%	1961%	Best Picture%	
+The Apartment%	Oscar%	1961%	Best Director%	
+The Apartment%	Oscar%	1961%	Best Writing, Story and Screenplay - Written Directly for the Screen%	
+The Apartment%	Oscar%	1961%	Best Art Direction-Set Decoration, Black-and-White%	
+The Apartment%	Oscar%	1961%	Best Film Editing%	
+The Apartment%	Golden Globe%	1961%	Best Motion Picture - Comedy%	
+The Apartment%	Golden Globe%	1961%	Best Actress - Comedy or Musical%	
+The Apartment%	Golden Globe%	1961%	Best Actor - Comedy or Musical%	
+The Apartment%	BAFTA Film Award%	1961%	Best Film from any Source%	
+The Apartment%	BAFTA Film Award%	1961%	Best Foreign Actor%	
+The Apartment%	BAFTA Film Award%	1961%	Best Foreign Actress%	
+A Separation%	Oscar%	2012%	Best Foreign Language Film of the Year%	
+A Separation%	Golden Globe%	2012%	Best Foreign Language Film%	
+Up%	Oscar%	2010%	Best Achievement in Music Written for Motion Pictures, Original Score%	
+Up%	Oscar%	2010%	Best Animated Feature Film of the Year%	
+Up%	Golden Globe%	2010%	Best Original Score - Motion Picture%	
+Up%	Golden Globe%	2010%	Best Animated Feature Film%	
+Up%	Anthony Asquith Award for Film Music%	2010%	Michael Giacchino%	
+Up%	BAFTA Film Award%	2010%	Best Animated Film%	
+All About Eve%	Oscar%	1951%	Best Actor in a Supporting Role%	
+All About Eve%	Oscar%	1951%	Best Director%	
+All About Eve%	Oscar%	1951%	Best Writing, Screenplay%	
+All About Eve%	Oscar%	1951%	Best Costume Design, Black-and-White%	
+All About Eve%	Oscar%	1951%	Best Sound, Recording%	
+All About Eve%	Oscar%	1951%	Best Picture%	
+All About Eve%	Golden Globe%	1951%	Best Screenplay%	
+All About Eve%	BAFTA Film Award%	1951%	Best Film from any Source%	
+Some Like It Hot%	Oscar%	1960%	Best Costume Design, Black-and-White%	
+Some Like It Hot%	Golden Globe%	1960%	Best Motion Picture - Comedy%	
+Some Like It Hot%	Golden Globe%	1960%	Best Actress - Comedy or Musical%	
+Some Like It Hot%	Golden Globe%	1960%	Best Actor - Comedy or Musical%	
+Some Like It Hot%	BAFTA Film Award%	1960%	Best Foreign Actor%	
+Unforgiven%	Oscar%	1993%	Best Picture%	
+Unforgiven%	Oscar%	1993%	Best Actor in a Supporting Role%	
+Unforgiven%	Oscar%	1993%	Best Director%	
+Unforgiven%	Oscar%	1993%	Best Film Editing%	
+Unforgiven%	Golden Globe%	1993%	Best Director - Motion Picture%	
+Unforgiven%	Golden Globe%	1993%	Best Performance by an Actor in a Supporting Role in a Motion Picture%	
+Unforgiven%	BAFTA Film Award%	1993%	Best Actor in a Supporting Role%	
+The Treasure of the Sierra Madre%	Oscar%	1949%	Best Actor in a Supporting Role%	
+The Treasure of the Sierra Madre%	Oscar%	1949%	Best Director%	
+The Treasure of the Sierra Madre%	Oscar%	1949%	Best Writing, Screenplay%	
+The Treasure of the Sierra Madre%	Golden Globe%	1949%	Best Picture%	
+The Treasure of the Sierra Madre%	Golden Globe%	1949%	Best Director%	
+The Treasure of the Sierra Madre%	Golden Globe%	1949%	Best Supporting Actor%	
+The Third Man%	Oscar%	1951%	Best Cinematography, Black-and-White%	
+The Third Man%	BAFTA Film Award%	1950%	Best British Film%	
+Three Billboards Outside Ebbing, Missouri%	Oscar%	2018%	Best Performance by an Actress in a Leading Role%	
+Three Billboards Outside Ebbing, Missouri%	Oscar%	2018%	Best Performance by an Actor in a Supporting Role%	
+Three Billboards Outside Ebbing, Missouri%	Golden Globe%	2018%	Best Motion Picture - Drama%	
+Three Billboards Outside Ebbing, Missouri%	Golden Globe%	2018%	Best Screenplay - Motion Picture%	
+Three Billboards Outside Ebbing, Missouri%	Golden Globe%	2018%	Best Performance by an Actress in a Motion Picture - Drama%	
+Three Billboards Outside Ebbing, Missouri%	Golden Globe%	2018%	Best Performance by an Actor in a Supporting Role in a Motion Picture%	
+Three Billboards Outside Ebbing, Missouri%	BAFTA Film Award%	2018%	Best Leading Actress%	
+Three Billboards Outside Ebbing, Missouri%	BAFTA Film Award%	2018%	Best Screenplay (Original)%	
+Three Billboards Outside Ebbing, Missouri%	BAFTA Film Award%	2018%	Best Film%	
+Three Billboards Outside Ebbing, Missouri%	BAFTA Film Award%	2018%	Best Supporting Actor%	
+Three Billboards Outside Ebbing, Missouri%	BAFTA Film Award%	2018%	Outstanding British Film of the Year%	
+Chinatown%	Oscar%	1975%	Best Writing, Original Screenplay%	
+Chinatown%	Golden Globe%	1975%	Best Motion Picture - Drama%	
+Chinatown%	Golden Globe%	1975%	Best Director - Motion Picture%	
+Chinatown%	Golden Globe%	1975%	Best Actor in a Motion Picture - Drama%	
+Chinatown%	Golden Globe%	1975%	Best Screenplay - Motion Picture%	
+Chinatown%	BAFTA Film Award%	1975%	Best Actor%	
+Chinatown%	BAFTA Film Award%	1975%	Best Direction%	
+Chinatown%	BAFTA Film Award%	1975%	Best Screenplay%	
+Ran%	Oscar%	1986%	Best Costume Design%	
+Ran%	BAFTA Film Award%	1987%	Best Foreign Language Film%	
+Ran%	BAFTA Film Award%	1987%	Best Make Up Artist%	
+Judgment at Nuremberg%	Oscar%	1962%	Best Actor in a Leading Role%	
+Judgment at Nuremberg%	Oscar%	1962%	Best Writing, Screenplay Based on Material from Another Medium%	
+Judgment at Nuremberg%	Golden Globe%	1962%	Best Director%	
+Judgment at Nuremberg%	Golden Globe%	1962%	Best Actor - Drama%	
+The Secret in Their Eyes%	Oscar%	2010%	Best Foreign Language Film of the Year%	
+The Bridge on the River Kwai%	Oscar%	1958%	Best Picture%	
+The Bridge on the River Kwai%	Oscar%	1958%	Best Actor in a Leading Role%	
+The Bridge on the River Kwai%	Oscar%	1958%	Best Director%	
+The Bridge on the River Kwai%	Oscar%	1958%	Best Writing, Screenplay Based on Material from Another Medium%	
+The Bridge on the River Kwai%	Oscar%	1958%	Best Cinematography%	
+The Bridge on the River Kwai%	Oscar%	1958%	Best Film Editing%	
+The Bridge on the River Kwai%	Oscar%	1958%	Best Music, Scoring%	
+The Bridge on the River Kwai%	Golden Globe%	1958%	Best Motion Picture - Drama%	
+The Bridge on the River Kwai%	Golden Globe%	1958%	Best Actor - Drama%	
+The Bridge on the River Kwai%	Golden Globe%	1958%	Best Director%	
+The Bridge on the River Kwai%	BAFTA Film Award%	1958%	Best British Actor%	
+The Bridge on the River Kwai%	BAFTA Film Award%	1958%	Best British Film%	
+The Bridge on the River Kwai%	BAFTA Film Award%	1958%	Best British Screenplay%	
+The Bridge on the River Kwai%	BAFTA Film Award%	1958%	Best Film from any Source%	
+On the Waterfront%	Oscar%	1955%	Best Picture%	
+On the Waterfront%	Oscar%	1955%	Best Actor in a Leading Role%	
+On the Waterfront%	Oscar%	1955%	Best Actress in a Supporting Role%	
+On the Waterfront%	Oscar%	1955%	Best Director%	
+On the Waterfront%	Oscar%	1955%	Best Writing, Story and Screenplay%	
+On the Waterfront%	Oscar%	1955%	Best Cinematography, Black-and-White%	
+On the Waterfront%	Oscar%	1955%	Best Art Direction-Set Decoration, Black-and-White%	
+On the Waterfront%	Oscar%	1955%	Best Film Editing%	
+On the Waterfront%	Golden Globe%	1955%	Best Motion Picture - Drama%	
+On the Waterfront%	Golden Globe%	1955%	Best Actor - Drama%	
+On the Waterfront%	Golden Globe%	1955%	Best Director%	
+On the Waterfront%	Golden Globe%	1955%	Best Cinematography - Black and White%	
+On the Waterfront%	BAFTA Film Award%	1955%	Best Foreign Actor%	
+Inside Out%	Oscar%	2016%	Best Animated Feature Film of the Year%	
+Inside Out%	Golden Globe%	2016%	Best Motion Picture - Animated%	
+Inside Out%	BAFTA Film Award%	2016%	Best Animated Film%	
+Lock, Stock and Two Smoking Barrels%	Audience Award%	1999%	%	
+Mr. Smith Goes to Washington%	Oscar%	1940%	Best Writing, Original Story%	
+The Elephant Man%	BAFTA Film Award%	1981%	Best Actor%	
+The Elephant Man%	BAFTA Film Award%	1981%	Best Film%	
+The Elephant Man%	BAFTA Film Award%	1981%	Best Production Design/Art Direction%	
+Wild Strawberries%	Golden Globe%	1960%	Best Foreign Film%	
+Trainspotting%	BAFTA Film Award%	1996%	Best Screenplay - Adapted%	
+Trainspotting%	BAFTA Scotland Award%	1997%	Best Feature Film%	
+Trainspotting%	BAFTA Scotland Award%	1997%	Best Actor - Film%	
+Gone with the Wind%	Honorary Award%	1940%	William Cameron Menzies%	
+Gone with the Wind%	Oscar%	1940%	Best Actress in a Leading Role%	
+Gone with the Wind%	Oscar%	1940%	Best Actress in a Supporting Role%	
+Gone with the Wind%	Oscar%	1940%	Best Director%	
+Gone with the Wind%	Oscar%	1940%	Best Writing, Screenplay%	
+Gone with the Wind%	Oscar%	1940%	Best Cinematography, Color%	
+Gone with the Wind%	Oscar%	1940%	Best Art Direction%	
+Gone with the Wind%	Oscar%	1940%	Best Film Editing%	
+Gone with the Wind%	Oscar%	1940%	Best Picture%	
+Gone with the Wind%	Technical Achievement Award%	1940%	R.D. Musgrave%	
+No Country for Old Men%	Oscar%	2008%	Best Motion Picture of the Year%	
+No Country for Old Men%	Oscar%	2008%	Best Performance by an Actor in a Supporting Role%	
+No Country for Old Men%	Oscar%	2008%	Best Achievement in Directing%	
+No Country for Old Men%	Oscar%	2008%	Best Writing, Adapted Screenplay%	
+No Country for Old Men%	Golden Globe%	2008%	Best Performance by an Actor in a Supporting Role in a Motion Picture%	
+No Country for Old Men%	Golden Globe%	2008%	Best Screenplay - Motion Picture%	
+No Country for Old Men%	BAFTA Film Award%	2008%	Best Supporting Actor%	
+No Country for Old Men%	BAFTA Film Award%	2008%	Best Cinematography%	
+No Country for Old Men%	David Lean Award for Direction%	2008%	Best Director%	
+Fargo%	Oscar%	1997%	Best Actress in a Leading Role%	
+Fargo%	Oscar%	1997%	Best Writing, Screenplay Written Directly for the Screen%	
+Fargo%	David Lean Award for Direction%	1997%	Joel Coen%	
+The Deer Hunter%	Oscar%	1979%	Best Picture%	
+The Deer Hunter%	Oscar%	1979%	Best Actor in a Supporting Role%	
+The Deer Hunter%	Oscar%	1979%	Best Director%	
+The Deer Hunter%	Oscar%	1979%	Best Sound%	
+The Deer Hunter%	Oscar%	1979%	Best Film Editing%	
+The Deer Hunter%	Golden Globe%	1979%	Best Director - Motion Picture%	
+The Deer Hunter%	BAFTA Film Award%	1980%	Best Cinematography%	
+The Deer Hunter%	BAFTA Film Award%	1980%	Best Editing%	
+There Will Be Blood%	Oscar%	2008%	Best Performance by an Actor in a Leading Role%	
+There Will Be Blood%	Oscar%	2008%	Best Achievement in Cinematography%	
+There Will Be Blood%	Golden Globe%	2008%	Best Performance by an Actor in a Motion Picture - Drama%	
+There Will Be Blood%	BAFTA Film Award%	2008%	Best Leading Actor%	
+Finding Nemo%	Oscar%	2004%	Best Animated Feature%	
+Sunrise%	Oscar%	1929%	Best Picture, Unique and Artistic Production%	
+Sunrise%	Oscar%	1929%	Best Actress in a Leading Role%	
+Sunrise%	Oscar%	1929%	Best Cinematography%	
+Cool Hand Luke%	Oscar%	1968%	Best Actor in a Supporting Role%	
+Rebecca%	Oscar%	1941%	Best Picture%	
+Rebecca%	Oscar%	1941%	Best Cinematography, Black-and-White%	
+Hacksaw Ridge%	Oscar%	2017%	Best Achievement in Film Editing%	
+Hacksaw Ridge%	Oscar%	2017%	Best Achievement in Sound Mixing%	
+Hacksaw Ridge%	BAFTA Film Award%	2017%	Best Editing%	
+Into the Wild%	Golden Globe%	2008%	Best Original Song - Motion Picture%	
+It Happened One Night%	Oscar%	1935%	Best Picture%	
+It Happened One Night%	Oscar%	1935%	Best Actor in a Leading Role%	
+It Happened One Night%	Oscar%	1935%	Best Actress in a Leading Role%	
+It Happened One Night%	Oscar%	1935%	Best Director%	
+It Happened One Night%	Oscar%	1935%	Best Writing, Adaptation%	
+Platoon%	Oscar%	1987%	Best Picture%	
+Platoon%	Oscar%	1987%	Best Director%	
+Platoon%	Oscar%	1987%	Best Sound%	
+Platoon%	Oscar%	1987%	Best Film Editing%	
+Platoon%	Golden Globe%	1987%	Best Motion Picture - Drama%	
+Platoon%	Golden Globe%	1987%	Best Director - Motion Picture%	
+Platoon%	Golden Globe%	1987%	Best Performance by an Actor in a Supporting Role in a Motion Picture%	
+Platoon%	BAFTA Film Award%	1988%	Best Direction%	
+Platoon%	BAFTA Film Award%	1988%	Best Editing%	
+Network%	Oscar%	1977%	Best Actor in a Leading Role%	
+Network%	Oscar%	1977%	Best Actress in a Leading Role%	
+Network%	Oscar%	1977%	Best Actress in a Supporting Role%	
+Network%	Oscar%	1977%	Best Writing, Screenplay Written Directly for the Screen%	
+Network%	Golden Globe%	1977%	Best Director - Motion Picture%	
+Network%	Golden Globe%	1977%	Best Actor in Motion Picture - Drama%	
+Network%	Golden Globe%	1977%	Best Actress in a Motion Picture - Drama%	
+Network%	Golden Globe%	1977%	Best Screenplay - Motion Picture%	
+Network%	BAFTA Film Award%	1978%	Best Actor%	
+The Grand Budapest Hotel%	Oscar%	2015%	Best Achievement in Costume Design%	
+The Grand Budapest Hotel%	Oscar%	2015%	Best Achievement in Makeup and Hairstyling%	
+The Grand Budapest Hotel%	Oscar%	2015%	Best Achievement in Music Written for Motion Pictures, Original Score%	
+The Grand Budapest Hotel%	Oscar%	2015%	Best Achievement in Production Design%	
+The Grand Budapest Hotel%	Golden Globe%	2015%	Best Motion Picture - Comedy or Musical%	
+The Grand Budapest Hotel%	BAFTA Film Award%	2015%	Best Original Music%	
+The Grand Budapest Hotel%	BAFTA Film Award%	2015%	Best Costume Design%	
+The Grand Budapest Hotel%	BAFTA Film Award%	2015%	Best Production Design%	
+The Grand Budapest Hotel%	BAFTA Film Award%	2015%	Best Original Screenplay%	
+The Grand Budapest Hotel%	BAFTA Film Award%	2015%	Best Make Up & Hair%	
+The Wages of Fear%	BAFTA Film Award%	1955%	Best Film from any Source%	
+Ben-Hur%	Oscar%	1960%	Best Picture%	
+Ben-Hur%	Oscar%	1960%	Best Actor in a Leading Role%	
+Ben-Hur%	Oscar%	1960%	Best Actor in a Supporting Role%	
+Ben-Hur%	Oscar%	1960%	Best Director%	
+Ben-Hur%	Oscar%	1960%	Best Cinematography, Color%	
+Ben-Hur%	Oscar%	1960%	Best Art Direction-Set Decoration, Color%	
+Ben-Hur%	Oscar%	1960%	Best Costume Design, Color%	
+Ben-Hur%	Oscar%	1960%	Best Sound%	
+Ben-Hur%	Oscar%	1960%	Best Film Editing%	
+Ben-Hur%	Oscar%	1960%	Best Effects, Special Effects%	
+Ben-Hur%	Oscar%	1960%	Best Music, Scoring of a Dramatic or Comedy Picture%	
+Ben-Hur%	Golden Globe%	1960%	Best Motion Picture - Drama%	
+Ben-Hur%	Golden Globe%	1960%	Best Director%	
+Ben-Hur%	Golden Globe%	1960%	Best Supporting Actor%	
+Ben-Hur%	Special Award%	1960%	Andrew Marton%	
+Ben-Hur%	BAFTA Film Award%	1960%	Best Film from any Source%	
+The Truman Show%	Golden Globe%	1999%	Best Performance by an Actor in a Motion Picture - Drama%	
+The Truman Show%	Golden Globe%	1999%	Best Performance by an Actor in a Supporting Role in a Motion Picture%	
+The Truman Show%	Golden Globe%	1999%	Best Original Score - Motion Picture%	
+The Truman Show%	BAFTA Film Award%	1999%	Best Screenplay - Original%	
+The Truman Show%	BAFTA Film Award%	1999%	Best Production Design%	
+The Truman Show%	David Lean Award for Direction%	1999%	Peter Weir%	
+Million Dollar Baby%	Oscar%	2005%	Best Motion Picture of the Year%	
+Million Dollar Baby%	Oscar%	2005%	Best Performance by an Actress in a Leading Role%	
+Million Dollar Baby%	Oscar%	2005%	Best Performance by an Actor in a Supporting Role%	
+Million Dollar Baby%	Oscar%	2005%	Best Achievement in Directing%	
+Million Dollar Baby%	Golden Globe%	2005%	Best Performance by an Actress in a Motion Picture - Drama%	
+Million Dollar Baby%	Golden Globe%	2005%	Best Director - Motion Picture%	
+Spotlight%	Oscar%	2016%	Best Motion Picture of the Year%	
+Spotlight%	Oscar%	2016%	Best Writing, Original Screenplay%	
+Spotlight%	BAFTA Film Award%	2016%	Best Original Screenplay%	
+Amores Perros%	BAFTA Film Award%	2002%	Best Film not in the English Language%	
+Butch Cassidy and the Sundance Kid%	Oscar%	1970%	Best Writing, Story and Screenplay Based on Material Not Previously Published or Produced%	
+Butch Cassidy and the Sundance Kid%	Oscar%	1970%	Best Cinematography%	
+Butch Cassidy and the Sundance Kid%	Oscar%	1970%	Best Music, Original Song%	
+Butch Cassidy and the Sundance Kid%	Oscar%	1970%	Best Music, Original Score for a Motion Picture (not a Musical)%	
+Butch Cassidy and the Sundance Kid%	Golden Globe%	1970%	Best Original Score%	
+Butch Cassidy and the Sundance Kid%	Anthony Asquith Award for Film Music%	1971%	Burt Bacharach%	
+Butch Cassidy and the Sundance Kid%	BAFTA Film Award%	1971%	Best Cinematography%	
+Butch Cassidy and the Sundance Kid%	BAFTA Film Award%	1971%	Best Direction%	
+Butch Cassidy and the Sundance Kid%	BAFTA Film Award%	1971%	Best Film%	
+Butch Cassidy and the Sundance Kid%	BAFTA Film Award%	1971%	Best Film Editing%	
+Butch Cassidy and the Sundance Kid%	BAFTA Film Award%	1971%	Best Screenplay%	
+Butch Cassidy and the Sundance Kid%	BAFTA Film Award%	1971%	Best Sound Track%	
+Butch Cassidy and the Sundance Kid%	BAFTA Film Award%	1971%	Best Actor%	
+Butch Cassidy and the Sundance Kid%	BAFTA Film Award%	1971%	Best Actress%	
+La La Land%	Oscar%	2017%	Best Performance by an Actress in a Leading Role%	
+La La Land%	Oscar%	2017%	Best Achievement in Directing%	
+La La Land%	Oscar%	2017%	Best Achievement in Cinematography%	
+La La Land%	Oscar%	2017%	Best Achievement in Music Written for Motion Pictures (Original Score)%	
+La La Land%	Oscar%	2017%	Best Achievement in Music Written for Motion Pictures (Original Song)%	
+La La Land%	Oscar%	2017%	Best Achievement in Production Design%	
+La La Land%	Golden Globe%	2017%	Best Motion Picture - Musical or Comedy%	
+La La Land%	Golden Globe%	2017%	Best Performance by an Actor in a Motion Picture - Musical or Comedy%	
+La La Land%	Golden Globe%	2017%	Best Performance by an Actress in a Motion Picture - Musical or Comedy%	
+La La Land%	Golden Globe%	2017%	Best Director - Motion Picture%	
+La La Land%	Golden Globe%	2017%	Best Screenplay - Motion Picture%	
+La La Land%	Golden Globe%	2017%	Best Original Song - Motion Picture%	
+La La Land%	Golden Globe%	2017%	Best Original Score - Motion Picture%	
+La La Land%	BAFTA Film Award%	2017%	Best Film%	
+La La Land%	BAFTA Film Award%	2017%	Best Leading Actress%	
+La La Land%	BAFTA Film Award%	2017%	Best Cinematography%	
+La La Land%	BAFTA Film Award%	2017%	Original Music%	
+La La Land%	David Lean Award for Direction%	2017%	Damien Chazelle%	
+The Nights of Cabiria%	Oscar%	1958%	Best Foreign Language Film%	
+The Grapes of Wrath%	Oscar%	1941%	Best Actress in a Supporting Role%	
+The Grapes of Wrath%	Oscar%	1941%	Best Director%	
+Monsters, Inc.%	Oscar%	2002%	Best Music, Original Song%	
+Monsters, Inc.%	BAFTA Children's Award%	2002%	Best Feature Film%	
+Barry Lyndon%	Oscar%	1976%	Best Cinematography%	
+Barry Lyndon%	Oscar%	1976%	Best Art Direction-Set Decoration%	
+Barry Lyndon%	Oscar%	1976%	Best Costume Design%	
+Barry Lyndon%	Oscar%	1976%	Best Music, Scoring Original Song Score and/or Adaptation%	
+Barry Lyndon%	BAFTA Film Award%	1976%	Best Cinematography%	
+Barry Lyndon%	BAFTA Film Award%	1976%	Best Direction%	
+Paper Moon%	Oscar%	1974%	Best Actress in a Supporting Role%	
+Paper Moon%	Golden Globe%	1974%	Most Promising Newcomer - Female%	
+Gandhi%	Oscar%	1983%	Best Picture%	
+Gandhi%	Oscar%	1983%	Best Actor in a Leading Role%	
+Gandhi%	Oscar%	1983%	Best Director%	
+Gandhi%	Oscar%	1983%	Best Writing, Screenplay Written Directly for the Screen%	
+Gandhi%	Oscar%	1983%	Best Cinematography%	
+Gandhi%	Oscar%	1983%	Best Art Direction-Set Decoration%	
+Gandhi%	Oscar%	1983%	Best Costume Design%	
+Gandhi%	Oscar%	1983%	Best Film Editing%	
+Gandhi%	Golden Globe%	1983%	Best Foreign Film%	
+Gandhi%	Golden Globe%	1983%	Best Director - Motion Picture%	
+Gandhi%	Golden Globe%	1983%	Best Actor in a Motion Picture - Drama%	
+Gandhi%	Golden Globe%	1983%	New Star of the Year in a Motion Picture - Male%	
+Gandhi%	Golden Globe%	1983%	Best Screenplay - Motion Picture%	
+Gandhi%	BAFTA Film Award%	1983%	Best Actor%	
+Gandhi%	BAFTA Film Award%	1983%	Best Direction%	
+Gandhi%	BAFTA Film Award%	1983%	Best Film%	
+Gandhi%	BAFTA Film Award%	1983%	Most Outstanding Newcomer to Leading Film Roles%	
+Gandhi%	BAFTA Film Award%	1983%	Best Supporting Actress%	
+Groundhog Day%	BAFTA Film Award%	1994%	Best Screenplay - Original%	
+The Wizard of Oz%	Oscar%	1940%	Best Music, Original Song%	
+The Wizard of Oz%	Oscar%	1940%	Best Music, Original Score%	
+Dead Poets Society%	Oscar%	1990%	Best Writing, Screenplay Written Directly for the Screen%	
+Dead Poets Society%	BAFTA Film Award%	1990%	Best Film%	
+Dead Poets Society%	BAFTA Film Award%	1990%	Best Original Film Score%	
+Annie Hall%	Oscar%	1978%	Best Picture%	
+Annie Hall%	Oscar%	1978%	Best Actress in a Leading Role%	
+Annie Hall%	Oscar%	1978%	Best Director%	
+Annie Hall%	Oscar%	1978%	Best Writing, Screenplay Written Directly for the Screen%	
+Annie Hall%	Golden Globe%	1978%	Best Actress in a Motion Picture - Comedy or Musical%	
+Annie Hall%	BAFTA Film Award%	1978%	Best Actress%	
+Annie Hall%	BAFTA Film Award%	1978%	Best Direction%	
+Annie Hall%	BAFTA Film Award%	1978%	Best Editing%	
+Annie Hall%	BAFTA Film Award%	1978%	Best Film%	
+Annie Hall%	BAFTA Film Award%	1978%	Best Screenplay%	
+8½%	Oscar%	1964%	Best Costume Design, Black-and-White%	
+8½%	Oscar%	1964%	Best Foreign Language Film%	
+The Best Years of Our Lives%	Honorary Award%	1947%	Harold Russell%	
+The Best Years of Our Lives%	Oscar%	1947%	Best Picture%	
+The Best Years of Our Lives%	Oscar%	1947%	Best Actor in a Leading Role%	
+The Best Years of Our Lives%	Oscar%	1947%	Best Actor in a Supporting Role%	
+The Best Years of Our Lives%	Oscar%	1947%	Best Director%	
+The Best Years of Our Lives%	Oscar%	1947%	Best Writing, Screenplay%	
+The Best Years of Our Lives%	Oscar%	1947%	Best Film Editing%	
+The Best Years of Our Lives%	Oscar%	1947%	Best Music, Scoring of a Dramatic or Comedy Picture%	
+The Best Years of Our Lives%	Golden Globe%	1947%	Best Picture%	
+The Best Years of Our Lives%	Special Award%	1947%	Harold Russell%	
+The Best Years of Our Lives%	BAFTA Film Award%	1948%	Best Film from any Source%	
+Paris, Texas%	BAFTA Film Award%	1985%	Best Direction%	
+Twelve Monkeys%	Golden Globe%	1996%	Best Performance by an Actor in a Supporting Role in a Motion Picture%	
+Beauty and the Beast%	Oscar%	1992%	Best Music, Original Song%	
+Beauty and the Beast%	Oscar%	1992%	Best Music, Original Score%	
+Beauty and the Beast%	Golden Globe%	1992%	Best Original Score - Motion Picture%	
+Beauty and the Beast%	Golden Globe%	1992%	Best Original Song - Motion Picture%	
+Beauty and the Beast%	Golden Globe%	1992%	Best Motion Picture - Comedy or Musical%	
+The Battle of Algiers%	UN Award%	1972%	%	
+Dog Day Afternoon%	Oscar%	1976%	Best Writing, Original Screenplay%	
+Dog Day Afternoon%	BAFTA Film Award%	1976%	Best Actor%	
+Dog Day Afternoon%	BAFTA Film Award%	1976%	Best Film Editing%	

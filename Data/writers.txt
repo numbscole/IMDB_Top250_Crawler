@@ -1,248 +1,248 @@
-Frank Darabont,	28-DEC-59,	
-Francis Ford Coppola,	07-DEC-39,	
-Mario Puzo,	15-OCT-20,	
-Mario Puzo,	15-OCT-20,	
-Mario Puzo,	15-OCT-20,	
-Christopher Nolan,	30-DEC-70,	
-Christopher Nolan,	30-DEC-70,	
-Reginald Rose,	10-DEC-20,	
-Sergio Leone,	03-DEC-29,	
-Agenore Incrocci,	04-DEC-19,	
-Eric Roth,	22-DEC-45,	
-Lawrence Kasdan,	14-DEC-49,	
-George Lucas,	14-DEC-44,	
-Bo Goldman,	10-DEC-32,	
-Ken Kesey,	17-DEC-35,	
-Lilly Wachowski,	29-DEC-67,	
-Lana Wachowski,	21-DEC-65,	
-Paulo Lins,	NULL,	
-Bráulio Mantovani,	NULL,	
-Albert Hackett,	16-DEC-00,	
-Frank Capra,	18-DEC-97,	
-Roberto Benigni,	27-OCT-52,	
-Christopher Nolan,	30-DEC-70,	
-Frank Darabont,	28-DEC-59,	
-Robert Bloch,	05-DEC-17,	
-Sergio Leone,	03-DEC-29,	
-Dario Argento,	07-DEC-40,	
-Harry Carr,	NULL,	
-Harry Crocker,	02-DEC-93,	
-Philip G. Epstein,	22-DEC-09,	
-Howard Koch,	12-DEC-01,	
-Olivier Nakache,	NULL,	
-Eric Toledano,	NULL,	
-William Wisher Jr.,	NULL,	
-Cornell Woolrich,	04-DEC-03,	
-Bob Gale,	25-DEC-51,	
-Jonathan Roberts,	NULL,	
-Linda Woolverton,	NULL,	
-Christopher Nolan,	30-DEC-70,	
-Christopher Priest,	14-DEC-43,	
-Jonathan Nolan,	06-DEC-76,	
-Francis Ford Coppola,	07-DEC-39,	
-Michael Herr,	NULL,	
-Giuseppe Tornatore,	27-DEC-56,	
-Billy Wilder,	22-DEC-06,	
-D.M. Marshman Jr.,	NULL,	
-Terry Southern,	01-DEC-24,	
-Peter George,	26-DEC-24,	
-Isao Takahata,	29-OCT-35,	
-Calder Willingham,	23-DEC-22,	
-Jim Thompson,	NULL,	
-Jason Katz,	NULL,	
-Matthew Aldrich,	NULL,	
-Stanley Kubrick,	26-DEC-28,	
-Diane Johnson,	NULL,	
-Pete Docter,	09-OCT-68,	
-Andrew Stanton,	03-DEC-65,	
-Christopher Nolan,	30-DEC-70,	
-Christopher Nolan,	30-DEC-70,	
-Billy Wilder,	22-DEC-06,	
-Harry Kurnitz,	05-DEC-08,	
-Nobuaki Minegishi,	NULL,	
-Park Chan-wook,	23-DEC-63,	
-David Giler,	NULL,	
-Walter Hill,	10-DEC-42,	
-Leonardo Benvenuti,	NULL,	
-Piero De Bernardi,	NULL,	
-Lothar G. Buchheim,	06-DEC-18,	
-Orson Welles,	06-DEC-15,	
-John Houseman,	22-DEC-02,	
-Samuel A. Taylor,	13-DEC-12,	
-Pierre Boileau,	28-DEC-06,	
-George Lucas,	14-DEC-44,	
-George Lucas,	14-DEC-44,	
-Fritz Lang,	05-DEC-90,	
-Makoto Shinkai,	09-DEC-73,	
-Hubert Selby Jr.,	23-DEC-28,	
-Darren Aronofsky,	12-DEC-69,	
-Amole Gupte,	NULL,	
-Amole Gupte,	NULL,	
-Jean-Pierre Jeunet,	03-DEC-53,	
-Guillaume Laurant,	NULL,	
-Anthony Burgess,	25-DEC-17,	
-Robert Bolt,	15-DEC-24,	
-Michael Wilson,	NULL,	
-Michel Gondry,	08-DEC-63,	
-Pierre Bismuth,	NULL,	
-Raymond Chandler,	23-DEC-88,	
-James M. Cain,	01-DEC-92,	
-Betty Comden,	03-DEC-17,	
-Adolph Green,	02-DEC-14,	
-Arthur C. Clarke,	16-DEC-17,	
-Arthur C. Clarke,	16-DEC-17,	
-Pete Docter,	09-OCT-68,	
-Andrew Stanton,	03-DEC-65,	
-Horton Foote,	14-DEC-16,	
-Michael Herr,	NULL,	
-Gustav Hasford,	28-NOV-47,	
-Luigi Bartolini,	NULL,	
-Oreste Biancoli,	NULL,	
-Andrew Stanton,	03-DEC-65,	
-Lee Unkrich,	08-DEC-67,	
-Ben Affleck,	15-DEC-72,	
-Graham Chapman,	08-DEC-41,	
-John Cleese,	27-OCT-39,	
-Eric Idle,	29-DEC-43,	
-Fulvio Morsella,	NULL,	
-Luciano Vincenzoni,	NULL,	
-Armitage Trail,	NULL,	
-Howard Hawks,	30-DEC-96,	
-Brian Helgeland,	17-DEC-61,	
-Curtis Hanson,	24-DEC-45,	
-I. A. L. Diamond,	27-DEC-20,	
-Thea von Harbou,	27-DEC-88,	
-Fritz Lang,	05-DEC-90,	
-Bob Peterson,	18-DEC-61,	
-Tom McCarthy,	30-DEC-66,	
-David S. Goyer,	22-DEC-65,	
-Christopher Nolan,	30-DEC-70,	
-I. A. L. Diamond,	27-DEC-20,	
-Robert Thoeren,	21-DEC-03,	
-B. Traven,	NULL,	
-Joachim Fest,	NULL,	
-Traudl Junge,	NULL,	
-Jeb Stuart,	21-DEC-56,	
-Steven E. de Souza,	17-NOV-47,	
-James Clavell,	10-OCT-24,	
-W.R. Burnett,	25-NOV-99,	
-Graham Greene,	02-OCT-04,	
-Orson Welles,	06-DEC-15,	
-Roman Polanski,	18-DEC-33,	
-Hideo Oguni,	09-DEC-04,	
-Masato Ide,	NULL,	
-Abby Mann,	NULL,	
-Montgomery Clift,	17-OCT-20,	
-Juan José Campanella,	19-DEC-59,	
-Eduardo Sacheri,	NULL,	
-Carl Foreman,	23-DEC-14,	
-Michael Wilson,	NULL,	
-Budd Schulberg,	27-DEC-14,	
-Malcolm Johnson,	27-DEC-04,	
-Pete Docter,	09-OCT-68,	
-Ronnie del Carmen,	31-DEC-59,	
-Pete Docter,	09-OCT-68,	
-Ingmar Bergman,	14-DEC-18,	
-Lewis R. Foster,	05-DEC-98,	
-Myles Connolly,	NULL,	
-Eric Bergren,	NULL,	
-David Lynch,	20-DEC-46,	
-Joseph A. Mitchell,	NULL,	
-Clyde Bruckman,	20-DEC-94,	
-Buster Keaton,	04-OCT-95,	
-Clyde Bruckman,	20-DEC-94,	
-Al Boasberg,	NULL,	
-Frederick Knott,	26-DEC-16,	
-John Hodge,	NULL,	
-Sidney Howard,	NULL,	
-Oliver H.P. Garrett,	06-DEC-94,	
-Nick Schenk,	NULL,	
-Joel Coen,	29-NOV-54,	
-Ethan Coen,	21-DEC-57,	
-Cormac McCarthy,	20-DEC-33,	
-Ethan Coen,	21-DEC-57,	
-Joel Coen,	29-NOV-54,	
-Deric Washburn,	NULL,	
-Louis Garfinkle,	NULL,	
-Upton Sinclair,	20-DEC-78,	
-Andrew Stanton,	03-DEC-65,	
-Andrew Stanton,	03-DEC-65,	
-Bob Peterson,	18-DEC-61,	
-Ethan Coen,	21-DEC-57,	
-Joel Coen,	29-NOV-54,	
-Ales Adamovich,	NULL,	
-Elem Klimov,	09-DEC-33,	
-Hermann Sudermann,	30-DEC-57,	
-Katherine Hilliker,	NULL,	
-Frank Pierson,	12-DEC-25,	
-Donn Pearce,	NULL,	
-Robert E. Sherwood,	NULL,	
-Joan Harrison,	NULL,	
-Andrew Knight,	NULL,	
-Dean DeBlois,	07-DEC-70,	
-Chris Sanders,	15-DEC-60,	
-Andrei Tarkovsky,	04-DEC-32,	
-Jon Krakauer,	NULL,	
-John Cleese,	27-OCT-39,	
-Terry Gilliam,	22-NOV-40,	
-Prasoon Joshi,	NULL,	
-Rakeysh Omprakash Mehra,	07-DEC-63,	
-Samuel Hopkins Adams,	NULL,	
-Carl Theodor Dreyer,	03-DEC-89,	
-Terry George,	20-DEC-52,	
-Jim Sheridan,	06-DEC-49,	
-Raynold Gideon,	NULL,	
-Terry George,	20-DEC-52,	
-Wes Anderson,	01-DEC-69,	
-Wes Anderson,	01-DEC-69,	
-Boris Strugatsky,	15-DEC-33,	
-Arkadiy Strugatskiy,	28-DEC-25,	
-Henri-Georges Clouzot,	20-NOV-07,	
-Jérôme Géronimi,	NULL,	
-Karl Tunberg,	11-DEC-09,	
-Gore Vidal,	03-OCT-25,	
-F.X. Toole,	NULL,	
-Marcel Moussy,	07-DEC-24,	
-François Truffaut,	06-DEC-32,	
-Tom McCarthy,	30-DEC-66,	
-Kim Krizan,	01-NOV-61,	
-William Goldman,	12-DEC-31,	
-Dashiell Hammett,	27-DEC-94,	
-Neeraj Pandey,	NULL,	
-John Steinbeck,	27-DEC-02,	
-Ennio Flaiano,	05-DEC-10,	
-Tullio Pinelli,	24-DEC-08,	
-Pete Docter,	09-OCT-68,	
-Jill Culton,	NULL,	
-Jeff Pidgeon,	19-DEC-65,	
-Thomas Narcejac,	03-DEC-08,	
-Henri-Georges Clouzot,	20-NOV-07,	
-William Makepeace Thackeray,	18-DEC-11,	
-Alvin Sargent,	12-DEC-27,	
-Whit Masterson,	NULL,	
-Franklin Coen,	25-DEC-12,	
-Gale Anne Hurd,	25-OCT-55,	
-William Wisher Jr.,	NULL,	
-Harold Ramis,	21-NOV-44,	
-Danny Rubin,	NULL,	
-Florence Ryerson,	NULL,	
-Edgar Allan Woolf,	NULL,	
-Marshall Brickman,	25-DEC-41,	
-Ennio Flaiano,	05-DEC-10,	
-Federico Fellini,	20-DEC-20,	
-MacKinlay Kantor,	NULL,	
-Sam Shepard,	05-NOV-43,	
-Walter Donohue,	NULL,	
-Alan Mak,	01-DEC-65,	
-Felix Chong,	01-DEC-68,	
-David Webb Peoples,	NULL,	
-Janet Peoples,	NULL,	
-Anurag Kashyap,	10-DEC-72,	
-Sachin K. Ladia,	NULL,	
-Julie Delpy,	21-DEC-69,	
-Ethan Hawke,	06-NOV-70,	
-Franco Solinas,	NULL,	
-Gillo Pontecorvo,	19-NOV-19,	
-Linda Woolverton,	NULL,	
-Brenda Chapman,	NULL,	
-Chris Sanders,	15-DEC-60,	
+Frank Darabont%	28-DEC-59%	
+Francis Ford Coppola%	07-DEC-39%	
+Mario Puzo%	15-OCT-20%	
+Mario Puzo%	15-OCT-20%	
+Mario Puzo%	15-OCT-20%	
+Christopher Nolan%	30-DEC-70%	
+Christopher Nolan%	30-DEC-70%	
+Reginald Rose%	10-DEC-20%	
+Sergio Leone%	03-DEC-29%	
+Agenore Incrocci%	04-DEC-19%	
+Eric Roth%	22-DEC-45%	
+Lawrence Kasdan%	14-DEC-49%	
+George Lucas%	14-DEC-44%	
+Bo Goldman%	10-DEC-32%	
+Ken Kesey%	17-DEC-35%	
+Lilly Wachowski%	29-DEC-67%	
+Lana Wachowski%	21-DEC-65%	
+Paulo Lins%	NULL%	
+Bráulio Mantovani%	NULL%	
+Albert Hackett%	16-DEC-00%	
+Frank Capra%	18-DEC-97%	
+Roberto Benigni%	27-OCT-52%	
+Christopher Nolan%	30-DEC-70%	
+Frank Darabont%	28-DEC-59%	
+Robert Bloch%	05-DEC-17%	
+Sergio Leone%	03-DEC-29%	
+Dario Argento%	07-DEC-40%	
+Harry Carr%	NULL%	
+Harry Crocker%	02-DEC-93%	
+Philip G. Epstein%	22-DEC-09%	
+Howard Koch%	12-DEC-01%	
+Olivier Nakache%	NULL%	
+Eric Toledano%	NULL%	
+William Wisher Jr.%	NULL%	
+Cornell Woolrich%	04-DEC-03%	
+Bob Gale%	25-DEC-51%	
+Jonathan Roberts%	NULL%	
+Linda Woolverton%	NULL%	
+Christopher Nolan%	30-DEC-70%	
+Christopher Priest%	14-DEC-43%	
+Jonathan Nolan%	06-DEC-76%	
+Francis Ford Coppola%	07-DEC-39%	
+Michael Herr%	NULL%	
+Giuseppe Tornatore%	27-DEC-56%	
+Billy Wilder%	22-DEC-06%	
+D.M. Marshman Jr.%	NULL%	
+Terry Southern%	01-DEC-24%	
+Peter George%	26-DEC-24%	
+Isao Takahata%	29-OCT-35%	
+Calder Willingham%	23-DEC-22%	
+Jim Thompson%	NULL%	
+Jason Katz%	NULL%	
+Matthew Aldrich%	NULL%	
+Stanley Kubrick%	26-DEC-28%	
+Diane Johnson%	NULL%	
+Pete Docter%	09-OCT-68%	
+Andrew Stanton%	03-DEC-65%	
+Christopher Nolan%	30-DEC-70%	
+Christopher Nolan%	30-DEC-70%	
+Billy Wilder%	22-DEC-06%	
+Harry Kurnitz%	05-DEC-08%	
+Nobuaki Minegishi%	NULL%	
+Park Chan-wook%	23-DEC-63%	
+David Giler%	NULL%	
+Walter Hill%	10-DEC-42%	
+Leonardo Benvenuti%	NULL%	
+Piero De Bernardi%	NULL%	
+Lothar G. Buchheim%	06-DEC-18%	
+Orson Welles%	06-DEC-15%	
+John Houseman%	22-DEC-02%	
+Samuel A. Taylor%	13-DEC-12%	
+Pierre Boileau%	28-DEC-06%	
+George Lucas%	14-DEC-44%	
+George Lucas%	14-DEC-44%	
+Fritz Lang%	05-DEC-90%	
+Makoto Shinkai%	09-DEC-73%	
+Hubert Selby Jr.%	23-DEC-28%	
+Darren Aronofsky%	12-DEC-69%	
+Amole Gupte%	NULL%	
+Amole Gupte%	NULL%	
+Jean-Pierre Jeunet%	03-DEC-53%	
+Guillaume Laurant%	NULL%	
+Anthony Burgess%	25-DEC-17%	
+Robert Bolt%	15-DEC-24%	
+Michael Wilson%	NULL%	
+Michel Gondry%	08-DEC-63%	
+Pierre Bismuth%	NULL%	
+Raymond Chandler%	23-DEC-88%	
+James M. Cain%	01-DEC-92%	
+Betty Comden%	03-DEC-17%	
+Adolph Green%	02-DEC-14%	
+Arthur C. Clarke%	16-DEC-17%	
+Arthur C. Clarke%	16-DEC-17%	
+Pete Docter%	09-OCT-68%	
+Andrew Stanton%	03-DEC-65%	
+Horton Foote%	14-DEC-16%	
+Michael Herr%	NULL%	
+Gustav Hasford%	28-NOV-47%	
+Luigi Bartolini%	NULL%	
+Oreste Biancoli%	NULL%	
+Andrew Stanton%	03-DEC-65%	
+Lee Unkrich%	08-DEC-67%	
+Ben Affleck%	15-DEC-72%	
+Graham Chapman%	08-DEC-41%	
+John Cleese%	27-OCT-39%	
+Eric Idle%	29-DEC-43%	
+Fulvio Morsella%	NULL%	
+Luciano Vincenzoni%	NULL%	
+Armitage Trail%	NULL%	
+Howard Hawks%	30-DEC-96%	
+Brian Helgeland%	17-DEC-61%	
+Curtis Hanson%	24-DEC-45%	
+I. A. L. Diamond%	27-DEC-20%	
+Thea von Harbou%	27-DEC-88%	
+Fritz Lang%	05-DEC-90%	
+Bob Peterson%	18-DEC-61%	
+Tom McCarthy%	30-DEC-66%	
+David S. Goyer%	22-DEC-65%	
+Christopher Nolan%	30-DEC-70%	
+I. A. L. Diamond%	27-DEC-20%	
+Robert Thoeren%	21-DEC-03%	
+B. Traven%	NULL%	
+Joachim Fest%	NULL%	
+Traudl Junge%	NULL%	
+Jeb Stuart%	21-DEC-56%	
+Steven E. de Souza%	17-NOV-47%	
+James Clavell%	10-OCT-24%	
+W.R. Burnett%	25-NOV-99%	
+Graham Greene%	02-OCT-04%	
+Orson Welles%	06-DEC-15%	
+Roman Polanski%	18-DEC-33%	
+Hideo Oguni%	09-DEC-04%	
+Masato Ide%	NULL%	
+Abby Mann%	NULL%	
+Montgomery Clift%	17-OCT-20%	
+Juan José Campanella%	19-DEC-59%	
+Eduardo Sacheri%	NULL%	
+Carl Foreman%	23-DEC-14%	
+Michael Wilson%	NULL%	
+Budd Schulberg%	27-DEC-14%	
+Malcolm Johnson%	27-DEC-04%	
+Pete Docter%	09-OCT-68%	
+Ronnie del Carmen%	31-DEC-59%	
+Pete Docter%	09-OCT-68%	
+Ingmar Bergman%	14-DEC-18%	
+Lewis R. Foster%	05-DEC-98%	
+Myles Connolly%	NULL%	
+Eric Bergren%	NULL%	
+David Lynch%	20-DEC-46%	
+Buster Keaton%	04-OCT-95%	
+Clyde Bruckman%	20-DEC-94%	
+Al Boasberg%	NULL%	
+Joseph A. Mitchell%	NULL%	
+Clyde Bruckman%	20-DEC-94%	
+Frederick Knott%	26-DEC-16%	
+John Hodge%	NULL%	
+Sidney Howard%	NULL%	
+Oliver H.P. Garrett%	06-DEC-94%	
+Nick Schenk%	NULL%	
+Joel Coen%	29-NOV-54%	
+Ethan Coen%	21-DEC-57%	
+Cormac McCarthy%	20-DEC-33%	
+Ethan Coen%	21-DEC-57%	
+Joel Coen%	29-NOV-54%	
+Deric Washburn%	NULL%	
+Louis Garfinkle%	NULL%	
+Upton Sinclair%	20-DEC-78%	
+Andrew Stanton%	03-DEC-65%	
+Andrew Stanton%	03-DEC-65%	
+Bob Peterson%	18-DEC-61%	
+Ethan Coen%	21-DEC-57%	
+Joel Coen%	29-NOV-54%	
+Ales Adamovich%	NULL%	
+Elem Klimov%	09-DEC-33%	
+Hermann Sudermann%	30-DEC-57%	
+Katherine Hilliker%	NULL%	
+Frank Pierson%	12-DEC-25%	
+Donn Pearce%	NULL%	
+Robert E. Sherwood%	NULL%	
+Joan Harrison%	NULL%	
+Andrew Knight%	NULL%	
+Dean DeBlois%	07-DEC-70%	
+Chris Sanders%	15-DEC-60%	
+Andrei Tarkovsky%	04-DEC-32%	
+Jon Krakauer%	NULL%	
+John Cleese%	27-OCT-39%	
+Terry Gilliam%	22-NOV-40%	
+Samuel Hopkins Adams%	NULL%	
+Prasoon Joshi%	NULL%	
+Rakeysh Omprakash Mehra%	07-DEC-63%	
+Carl Theodor Dreyer%	03-DEC-89%	
+Terry George%	20-DEC-52%	
+Jim Sheridan%	06-DEC-49%	
+Raynold Gideon%	NULL%	
+Terry George%	20-DEC-52%	
+Wes Anderson%	01-DEC-69%	
+Wes Anderson%	01-DEC-69%	
+Boris Strugatsky%	15-DEC-33%	
+Arkadiy Strugatskiy%	28-DEC-25%	
+Henri-Georges Clouzot%	20-NOV-07%	
+Jérôme Géronimi%	NULL%	
+Karl Tunberg%	11-DEC-09%	
+Gore Vidal%	03-OCT-25%	
+F.X. Toole%	NULL%	
+Marcel Moussy%	07-DEC-24%	
+François Truffaut%	06-DEC-32%	
+Tom McCarthy%	30-DEC-66%	
+Kim Krizan%	01-NOV-61%	
+William Goldman%	12-DEC-31%	
+Dashiell Hammett%	27-DEC-94%	
+Neeraj Pandey%	NULL%	
+Ennio Flaiano%	05-DEC-10%	
+Tullio Pinelli%	24-DEC-08%	
+John Steinbeck%	27-DEC-02%	
+Pete Docter%	09-OCT-68%	
+Jill Culton%	NULL%	
+Jeff Pidgeon%	19-DEC-65%	
+Thomas Narcejac%	03-DEC-08%	
+Henri-Georges Clouzot%	20-NOV-07%	
+William Makepeace Thackeray%	18-DEC-11%	
+Alvin Sargent%	12-DEC-27%	
+Gale Anne Hurd%	25-OCT-55%	
+William Wisher Jr.%	NULL%	
+Whit Masterson%	NULL%	
+Franklin Coen%	25-DEC-12%	
+Harold Ramis%	21-NOV-44%	
+Danny Rubin%	NULL%	
+Florence Ryerson%	NULL%	
+Edgar Allan Woolf%	NULL%	
+Marshall Brickman%	25-DEC-41%	
+Ennio Flaiano%	05-DEC-10%	
+Federico Fellini%	20-DEC-20%	
+MacKinlay Kantor%	NULL%	
+Sam Shepard%	05-NOV-43%	
+Walter Donohue%	NULL%	
+Alan Mak%	01-DEC-65%	
+Felix Chong%	01-DEC-68%	
+David Webb Peoples%	NULL%	
+Janet Peoples%	NULL%	
+Anurag Kashyap%	10-DEC-72%	
+Sachin K. Ladia%	NULL%	
+Julie Delpy%	21-DEC-69%	
+Ethan Hawke%	06-NOV-70%	
+Linda Woolverton%	NULL%	
+Brenda Chapman%	NULL%	
+Chris Sanders%	15-DEC-60%	
+Franco Solinas%	NULL%	
+Gillo Pontecorvo%	19-NOV-19%	

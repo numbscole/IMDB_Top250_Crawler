@@ -1,2100 +1,2116 @@
-Liz Glotzer,	The Shawshank Redemption,	
-David V. Lester,	The Shawshank Redemption,	
-Niki Marvin,	The Shawshank Redemption,	
-Thomas Newman,	The Shawshank Redemption,	
-Roger Deakins,	The Shawshank Redemption,	
-Richard Francis-Bruce,	The Shawshank Redemption,	
-Deborah Aquila,	The Shawshank Redemption,	
-Terence Marsh,	The Shawshank Redemption,	
-Peter Landsdown Smith,	The Shawshank Redemption,	
-Michael Seirton,	The Shawshank Redemption,	
-Elizabeth McBride,	The Shawshank Redemption,	
-Bob Williams,	The Shawshank Redemption,	
-Melissa Taylor,	The Shawshank Redemption,	
-Barbara Harris,	The Shawshank Redemption,	
-Gray Frederickson,	The Godfather,	
-Albert S. Ruddy,	The Godfather,	
-Robert Evans,	The Godfather,	
-Nino Rota,	The Godfather,	
-Gordon Willis,	The Godfather,	
-William Reynolds,	The Godfather,	
-Peter Zinner,	The Godfather,	
-Louis DiGiaimo,	The Godfather,	
-Andrea Eastman,	The Godfather,	
-Fred Roos,	The Godfather,	
-Dean Tavoularis,	The Godfather,	
-Warren Clymer,	The Godfather,	
-Philip Smith,	The Godfather,	
-Anna Hill Johnstone,	The Godfather,	
-Sass Bedig,	The Godfather,	
-Joe Lombardi,	The Godfather,	
-Francis Ford Coppola,	The Godfather: Part II,	
-Gray Frederickson,	The Godfather: Part II,	
-Fred Roos,	The Godfather: Part II,	
-Nino Rota,	The Godfather: Part II,	
-Gordon Willis,	The Godfather: Part II,	
-Barry Malkin,	The Godfather: Part II,	
-Richard Marks,	The Godfather: Part II,	
-Peter Zinner,	The Godfather: Part II,	
-Jane Feinberg,	The Godfather: Part II,	
-Mike Fenton,	The Godfather: Part II,	
-Vic Ramos,	The Godfather: Part II,	
-Dean Tavoularis,	The Godfather: Part II,	
-Angelo P. Graham,	The Godfather: Part II,	
-John Dapper,	The Godfather: Part II,	
-George R. Nelson,	The Godfather: Part II,	
-Theadora Van Runkle,	The Godfather: Part II,	
-Joe Lombardi,	The Godfather: Part II,	
-Maurizio Lucci,	The Godfather: Part II,	
-Maurice Schell,	The Godfather: Part II,	
-Kevin De La Noy,	The Dark Knight,	
-Jordan Goldberg,	The Dark Knight,	
-Philip Lee,	The Dark Knight,	
-James Newton Howard,	The Dark Knight,	
-Hans Zimmer,	The Dark Knight,	
-Wally Pfister,	The Dark Knight,	
-Lee Smith,	The Dark Knight,	
-John Papsidera,	The Dark Knight,	
-Lucinda Syson,	The Dark Knight,	
-Barbara Harris,	The Dark Knight,	
-Nathan Crowley,	The Dark Knight,	
-Mark Bartholomew,	The Dark Knight,	
-James Hambidge,	The Dark Knight,	
-Craig Jackson,	The Dark Knight,	
-Peter Lando,	The Dark Knight,	
-Lindy Hemming,	The Dark Knight,	
-Victor Abbene,	The Dark Knight,	
-Nicholas Gall,	The Dark Knight,	
-Elaine Grainger,	The Dark Knight,	
-Henry Fonda,	12 Angry Men,	
-George Justin,	12 Angry Men,	
-Reginald Rose,	12 Angry Men,	
-Kenyon Hopkins,	12 Angry Men,	
-Boris Kaufman,	12 Angry Men,	
-Carl Lerner,	12 Angry Men,	
-Robert Markel,	12 Angry Men,	
-Alberto Grimaldi,	The Good, the Bad and the Ugly,	
-Ennio Morricone,	The Good, the Bad and the Ugly,	
-Tonino Delli Colli,	The Good, the Bad and the Ugly,	
-Eugenio Alabiso,	The Good, the Bad and the Ugly,	
-Nino Baragli,	The Good, the Bad and the Ugly,	
-Carlo Simi,	The Good, the Bad and the Ugly,	
-Carlo Simi,	The Good, the Bad and the Ugly,	
-Eros Bacciucchi,	The Good, the Bad and the Ugly,	
-Giovanni Corridori,	The Good, the Bad and the Ugly,	
-Wendy Finerman,	Forrest Gump,	
-Charles Newirth,	Forrest Gump,	
-Steve Starkey,	Forrest Gump,	
-Alan Silvestri,	Forrest Gump,	
-Don Burgess,	Forrest Gump,	
-Arthur Schmidt,	Forrest Gump,	
-Ellen Lewis,	Forrest Gump,	
-Rick Carter,	Forrest Gump,	
-Leslie McDonald,	Forrest Gump,	
-William James Teegarden,	Forrest Gump,	
-Nancy Haigh,	Forrest Gump,	
-Joanna Johnston,	Forrest Gump,	
-Allen Hall,	Forrest Gump,	
-Leah Anton,	Forrest Gump,	
-Tona B. Dahlquist,	Forrest Gump,	
-Tracy Kilpatrick,	Forrest Gump,	
-Jim Bloom,	Star Wars: Episode V - The Empire Strikes Back,	
-Gary Kurtz,	Star Wars: Episode V - The Empire Strikes Back,	
-George Lucas,	Star Wars: Episode V - The Empire Strikes Back,	
-John Williams,	Star Wars: Episode V - The Empire Strikes Back,	
-Peter Suschitzky,	Star Wars: Episode V - The Empire Strikes Back,	
-Paul Hirsch,	Star Wars: Episode V - The Empire Strikes Back,	
-George Lucas,	Star Wars: Episode V - The Empire Strikes Back,	
-Irene Lamb,	Star Wars: Episode V - The Empire Strikes Back,	
-Terry Liebling,	Star Wars: Episode V - The Empire Strikes Back,	
-Norman Reynolds,	Star Wars: Episode V - The Empire Strikes Back,	
-Leslie Dilley,	Star Wars: Episode V - The Empire Strikes Back,	
-Harry Lange,	Star Wars: Episode V - The Empire Strikes Back,	
-Alan Tomkins,	Star Wars: Episode V - The Empire Strikes Back,	
-Michael Ford,	Star Wars: Episode V - The Empire Strikes Back,	
-John Mollo,	Star Wars: Episode V - The Empire Strikes Back,	
-Nick Allder,	Star Wars: Episode V - The Empire Strikes Back,	
-Alan Bryce,	Star Wars: Episode V - The Empire Strikes Back,	
-Peter Amundson,	Star Wars: Episode V - The Empire Strikes Back,	
-Zakaria Alaoui,	Inception,	
-John Bernard,	Inception,	
-Chris Brigham,	Inception,	
-Hans Zimmer,	Inception,	
-Wally Pfister,	Inception,	
-Lee Smith,	Inception,	
-John Papsidera,	Inception,	
-Guy Dyas,	Inception,	
-Luke Freeborn,	Inception,	
-Brad Ricker,	Inception,	
-Dean Wolcott,	Inception,	
-Larry Dias,	Inception,	
-Douglas A. Mowat,	Inception,	
-Jeffrey Kurland,	Inception,	
-Victor Abbene,	Inception,	
-Michael Douglas,	One Flew Over the Cuckoo's Nest,	
-Martin Fink,	One Flew Over the Cuckoo's Nest,	
-Saul Zaentz,	One Flew Over the Cuckoo's Nest,	
-Jack Nitzsche,	One Flew Over the Cuckoo's Nest,	
-Haskell Wexler,	One Flew Over the Cuckoo's Nest,	
-Sheldon Kahn,	One Flew Over the Cuckoo's Nest,	
-Lynzee Klingman,	One Flew Over the Cuckoo's Nest,	
-Jane Feinberg,	One Flew Over the Cuckoo's Nest,	
-Mike Fenton,	One Flew Over the Cuckoo's Nest,	
-Paul Sylbert,	One Flew Over the Cuckoo's Nest,	
-Edwin O'Donovan,	One Flew Over the Cuckoo's Nest,	
-Aggie Guerard Rodgers,	One Flew Over the Cuckoo's Nest,	
-Bruce Berman,	The Matrix,	
-Dan Cracchiolo,	The Matrix,	
-Carol Hughes,	The Matrix,	
-Don Davis,	The Matrix,	
-Bill Pope,	The Matrix,	
-Zach Staenberg,	The Matrix,	
-Mali Finn,	The Matrix,	
-Shauna Wolifson,	The Matrix,	
-Owen Paterson,	The Matrix,	
-Hugh Bateup,	The Matrix,	
-Michelle McGahey,	The Matrix,	
-Lisa Brennan,	The Matrix,	
-Kym Barrett,	The Matrix,	
-Brian Belcher,	The Matrix,	
-Maureen Whalen,	The Matrix,	
-Andrea Barata Ribeiro,	City of God,	
-Marc Beauchamps,	City of God,	
-Bel Berlinck,	City of God,	
-Ed Cortês,	City of God,	
-Antonio Pinto,	City of God,	
-César Charlone,	City of God,	
-Daniel Rezende,	City of God,	
-Tulé Peak,	City of God,	
-Bia Salgado,	City of God,	
-Inês Salgado,	City of God,	
-Renato Batata,	City of God,	
-Gary Kurtz,	Star Wars: Episode IV - A New Hope,	
-George Lucas,	Star Wars: Episode IV - A New Hope,	
-Rick McCallum,	Star Wars: Episode IV - A New Hope,	
-John Williams,	Star Wars: Episode IV - A New Hope,	
-Gilbert Taylor,	Star Wars: Episode IV - A New Hope,	
-Richard Chew,	Star Wars: Episode IV - A New Hope,	
-Paul Hirsch,	Star Wars: Episode IV - A New Hope,	
-Dianne Crittenden,	Star Wars: Episode IV - A New Hope,	
-Irene Lamb,	Star Wars: Episode IV - A New Hope,	
-Vic Ramos,	Star Wars: Episode IV - A New Hope,	
-John Barry,	Star Wars: Episode IV - A New Hope,	
-Leslie Dilley,	Star Wars: Episode IV - A New Hope,	
-Norman Reynolds,	Star Wars: Episode IV - A New Hope,	
-Roger Christian,	Star Wars: Episode IV - A New Hope,	
-John Mollo,	Star Wars: Episode IV - A New Hope,	
-John Stears,	Star Wars: Episode IV - A New Hope,	
-Karen Ansel,	Star Wars: Episode IV - A New Hope,	
-Frank Capra,	It's a Wonderful Life,	
-Dimitri Tiomkin,	It's a Wonderful Life,	
-Joseph F. Biroc,	It's a Wonderful Life,	
-Joseph Walker,	It's a Wonderful Life,	
-Victor Milner,	It's a Wonderful Life,	
-William Hornbeck,	It's a Wonderful Life,	
-Jack Okey,	It's a Wonderful Life,	
-William Cameron Menzies,	It's a Wonderful Life,	
-Emile Kuri,	It's a Wonderful Life,	
-Edward Stevenson,	It's a Wonderful Life,	
-Russell A. Cully,	It's a Wonderful Life,	
-Daniel Hays,	It's a Wonderful Life,	
-Gianluigi Braschi,	Life Is Beautiful,	
-Mario Cotone,	Life Is Beautiful,	
-John M. Davis,	Life Is Beautiful,	
-Nicola Piovani,	Life Is Beautiful,	
-Tonino Delli Colli,	Life Is Beautiful,	
-Simona Paggi,	Life Is Beautiful,	
-Danilo Donati,	Life Is Beautiful,	
-Danilo Donati,	Life Is Beautiful,	
-Danilo Donati,	Life Is Beautiful,	
-Giovanni Corridori,	Life Is Beautiful,	
-Mark Bennett,	Life Is Beautiful,	
-Savannah Haske,	Life Is Beautiful,	
-Jenny Basen,	Interstellar,	
-Hans Zimmer,	Interstellar,	
-Hoyte van Hoytema,	Interstellar,	
-Lee Smith,	Interstellar,	
-John Papsidera,	Interstellar,	
-Nathan Crowley,	Interstellar,	
-Kendelle Elliott,	Interstellar,	
-Eggert Ketilsson,	Interstellar,	
-David F. Klassen,	Interstellar,	
-Gary Fettis,	Interstellar,	
-Mary Zophres,	Interstellar,	
-Ryan Arndt,	Interstellar,	
-Deanna Brigidi,	Interstellar,	
-Barbara Harris,	Interstellar,	
-Frank Darabont,	The Green Mile,	
-David Valdes,	The Green Mile,	
-Thomas Newman,	The Green Mile,	
-David Tattersall,	The Green Mile,	
-Richard Francis-Bruce,	The Green Mile,	
-Mali Finn,	The Green Mile,	
-Terence Marsh,	The Green Mile,	
-William Cruse,	The Green Mile,	
-Michael Seirton,	The Green Mile,	
-Karyn Wagner,	The Green Mile,	
-Luke Khanlian,	The Green Mile,	
-Craig Barron,	The Green Mile,	
-Thomas Clary,	The Green Mile,	
-Barbara Harris,	The Green Mile,	
-Bill Carraro,	American History X,	
-Michael DeLuca,	American History X,	
-Anne Dudley,	American History X,	
-Tony Kaye,	American History X,	
-Gerald B. Greenberg,	American History X,	
-Alan Heim,	American History X,	
-Valerie McCaffrey,	American History X,	
-Jon Gary Steele,	American History X,	
-J. Kyler Black,	American History X,	
-Dan Olexiewicz,	American History X,	
-Tessa Posnansky,	American History X,	
-Doug Hall,	American History X,	
-Thomas L. Bellissimo,	American History X,	
-Joe Adams,	American History X,	
-Bill Dance,	American History X,	
-Alfred Hitchcock,	Psycho,	
-Bernard Herrmann,	Psycho,	
-John L. Russell,	Psycho,	
-George Tomasini,	Psycho,	
-Jere Henshaw,	Psycho,	
-Robert Clatworthy,	Psycho,	
-Joseph Hurley,	Psycho,	
-George Milo,	Psycho,	
-Rita Riggs,	Psycho,	
-Clarence Champagne,	Psycho,	
-Bino Cicogna,	Once Upon a Time in the West,	
-Fulvio Morsella,	Once Upon a Time in the West,	
-Ennio Morricone,	Once Upon a Time in the West,	
-Tonino Delli Colli,	Once Upon a Time in the West,	
-Nino Baragli,	Once Upon a Time in the West,	
-Carlo Simi,	Once Upon a Time in the West,	
-Carlo Simi,	Once Upon a Time in the West,	
-Rafael Ferri,	Once Upon a Time in the West,	
-Carlo Leva,	Once Upon a Time in the West,	
-Carlo Simi,	Once Upon a Time in the West,	
-Antonella Pompei,	Once Upon a Time in the West,	
-Eros Bacciucchi,	Once Upon a Time in the West,	
-Charlie Chaplin,	City Lights,	
-Charlie Chaplin,	City Lights,	
-Gordon Pollock,	City Lights,	
-Roland Totheroh,	City Lights,	
-Charlie Chaplin,	City Lights,	
-Willard Nico,	City Lights,	
-Al Ernest Garcia,	City Lights,	
-Henry Clive,	City Lights,	
-Hal B. Wallis,	Casablanca,	
-Jack Warner,	Casablanca,	
-Max Steiner,	Casablanca,	
-Arthur Edeson,	Casablanca,	
-Owen Marks,	Casablanca,	
-Carl Jules Weyl,	Casablanca,	
-George James Hopkins,	Casablanca,	
-Orry-Kelly,	Casablanca,	
-Lawrence W. Butler,	Casablanca,	
-Willard Van Enger,	Casablanca,	
-Chris Crowell,	Casablanca,	
-Arnaud Bertrand,	The Intouchables,	
-Dominique Boutonnat,	The Intouchables,	
-Ludovico Einaudi,	The Intouchables,	
-Mathieu Vadepied,	The Intouchables,	
-Dorian Rigal-Ansous,	The Intouchables,	
-Gigi Akoka,	The Intouchables,	
-Marie-France Michel,	The Intouchables,	
-François Emmanuelli,	The Intouchables,	
-Mathieu Vadepied,	The Intouchables,	
-Olivia Bloch-Lainé,	The Intouchables,	
-Isabelle Pannetier,	The Intouchables,	
-Laurent Brett,	The Intouchables,	
-Charlie Chaplin,	Modern Times,	
-Charlie Chaplin,	Modern Times,	
-Ira H. Morgan,	Modern Times,	
-Roland Totheroh,	Modern Times,	
-Charlie Chaplin,	Modern Times,	
-Willard Nico,	Modern Times,	
-Al Ernest Garcia,	Modern Times,	
-Charles D. Hall,	Modern Times,	
-J. Russell Spencer,	Modern Times,	
-J. Russell Spencer,	Modern Times,	
-Bud Thackery,	Modern Times,	
-Stephanie Austin,	Terminator 2,	
-James Cameron,	Terminator 2,	
-Gale Anne Hurd,	Terminator 2,	
-Brad Fiedel,	Terminator 2,	
-Adam Greenberg,	Terminator 2,	
-Conrad Buff IV,	Terminator 2,	
-Dody Dorn,	Terminator 2,	
-Mark Goldblatt,	Terminator 2,	
-Mali Finn,	Terminator 2,	
-Joseph C. Nemec III,	Terminator 2,	
-Joseph P. Lucky,	Terminator 2,	
-John M. Dwyer,	Terminator 2,	
-Marlene Stewart,	Terminator 2,	
-Abra Edelman,	Terminator 2,	
-Emily Schweber,	Terminator 2,	
-Paul Cruz,	Terminator 2,	
-Alfred Hitchcock,	Rear Window,	
-Franz Waxman,	Rear Window,	
-Robert Burks,	Rear Window,	
-George Tomasini,	Rear Window,	
-J. McMillan Johnson,	Rear Window,	
-Hal Pereira,	Rear Window,	
-Sam Comer,	Rear Window,	
-Ray Moyer,	Rear Window,	
-Edith Head,	Rear Window,	
-John P. Fulton,	Rear Window,	
-Neil Canton,	Back to the Future,	
-Bob Gale,	Back to the Future,	
-Kathleen Kennedy,	Back to the Future,	
-Alan Silvestri,	Back to the Future,	
-Dean Cundey,	Back to the Future,	
-Harry Keramidas,	Back to the Future,	
-Arthur Schmidt,	Back to the Future,	
-Jane Feinberg,	Back to the Future,	
-Mike Fenton,	Back to the Future,	
-Judy Taylor,	Back to the Future,	
-Lawrence G. Paull,	Back to the Future,	
-Todd Hallowell,	Back to the Future,	
-Hal Gausman,	Back to the Future,	
-Deborah Lynn Scott,	Back to the Future,	
-Ellen E. Lichtwardt,	Back to the Future,	
-Jason Blum,	Whiplash,	
-Nicholas Britell,	Whiplash,	
-Phillip Dawe,	Whiplash,	
-Justin Hurwitz,	Whiplash,	
-Sharone Meir,	Whiplash,	
-Tom Cross,	Whiplash,	
-Terri Taylor,	Whiplash,	
-Melanie Jones,	Whiplash,	
-Hunter Brown,	Whiplash,	
-Karuna Karmarkar,	Whiplash,	
-Lisa Norcia,	Whiplash,	
-Jamison Scott Goei,	Whiplash,	
-Sarah Domeier,	Whiplash,	
-Barbara Harris,	Whiplash,	
-Alice Dewey,	The Lion King,	
-Don Hahn,	The Lion King,	
-Sarah McArthur,	The Lion King,	
-Hans Zimmer,	The Lion King,	
-Ivan Bilancio,	The Lion King,	
-Brian Chavanne,	The Lion King,	
-Chris Sanders,	The Lion King,	
-Rob Bekuhrs,	The Lion King,	
-Barbara Harris,	The Lion King,	
-Ned Lott,	The Lion King,	
-Christopher Ball,	The Prestige,	
-Valerie Dean,	The Prestige,	
-Jordan Goldberg,	The Prestige,	
-David Julyan,	The Prestige,	
-Wally Pfister,	The Prestige,	
-Lee Smith,	The Prestige,	
-John Papsidera,	The Prestige,	
-Nathan Crowley,	The Prestige,	
-Kevin Kavanaugh,	The Prestige,	
-Julie Ochipinti,	The Prestige,	
-Joan Bergin,	The Prestige,	
-David Blitstein,	The Prestige,	
-Barbara Harris,	The Prestige,	
-Christopher Ball,	Memento,	
-Elaine Dysinger,	Memento,	
-Aaron Ryder,	Memento,	
-David Julyan,	Memento,	
-Wally Pfister,	Memento,	
-Dody Dorn,	Memento,	
-John Papsidera,	Memento,	
-Patti Podesta,	Memento,	
-Danielle Berman,	Memento,	
-Cindy Evans,	Memento,	
-Christopher Dusendschon,	Memento,	
-Barbara Harris,	Memento,	
-Wendy O'Brien,	Memento,	
-John Ashley,	Apocalypse Now,	
-Francis Ford Coppola,	Apocalypse Now,	
-Carmine Coppola,	Apocalypse Now,	
-Francis Ford Coppola,	Apocalypse Now,	
-Vittorio Storaro,	Apocalypse Now,	
-Lisa Fruchtman,	Apocalypse Now,	
-Gerald B. Greenberg,	Apocalypse Now,	
-Walter Murch,	Apocalypse Now,	
-Terry Liebling,	Apocalypse Now,	
-Vic Ramos,	Apocalypse Now,	
-Dean Tavoularis,	Apocalypse Now,	
-Angelo P. Graham,	Apocalypse Now,	
-George R. Nelson,	Apocalypse Now,	
-Lawrence J. Cavanaugh,	Apocalypse Now,	
-Charlie Chaplin,	The Great Dictator,	
-Carter DeHaven,	The Great Dictator,	
-Charlie Chaplin,	The Great Dictator,	
-Meredith Willson,	The Great Dictator,	
-Karl Struss,	The Great Dictator,	
-Roland Totheroh,	The Great Dictator,	
-Willard Nico,	The Great Dictator,	
-J. Russell Spencer,	The Great Dictator,	
-Edward G. Boyle,	The Great Dictator,	
-Ralph Hammeras,	The Great Dictator,	
-Jack Cosgrove,	The Great Dictator,	
-Franco Cristaldi,	Cinema Paradiso,	
-Giovanna Romagnoli,	Cinema Paradiso,	
-Ennio Morricone,	Cinema Paradiso,	
-Blasco Giurato,	Cinema Paradiso,	
-Mario Morra,	Cinema Paradiso,	
-Andrea Crisanti,	Cinema Paradiso,	
-Danilo Bollettini,	Cinema Paradiso,	
-Giovanni Corridori,	Cinema Paradiso,	
-Charles Brackett,	Sunset Blvd.,	
-Franz Waxman,	Sunset Blvd.,	
-John F. Seitz,	Sunset Blvd.,	
-Arthur P. Schmidt,	Sunset Blvd.,	
-Hans Dreier,	Sunset Blvd.,	
-John Meehan,	Sunset Blvd.,	
-Sam Comer,	Sunset Blvd.,	
-Ray Moyer,	Sunset Blvd.,	
-Edith Head,	Sunset Blvd.,	
-Farciot Edouart,	Sunset Blvd.,	
-Gordon Jennings,	Sunset Blvd.,	
-Stanley Kubrick,	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	
-Victor Lyndon,	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	
-Leon Minoff,	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	
-Laurie Johnson,	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	
-Gilbert Taylor,	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	
-Anthony Harvey,	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	
-Ken Adam,	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	
-Peter Murton,	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	
-Wally Veevers,	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	
-Alan Bryce,	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	
-Arthur 'Weegee' Fellig,	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,	
-David Del Rio,	Grave of the Fireflies,	
-Tooru Hara,	Grave of the Fireflies,	
-Michio Mamiya,	Grave of the Fireflies,	
-Nobuo Koyama,	Grave of the Fireflies,	
-Takeshi Seyama,	Grave of the Fireflies,	
-Nizou Yamamoto,	Grave of the Fireflies,	
-Kaoru Tanifuji,	Grave of the Fireflies,	
-Quirin Berg,	The Lives of Others,	
-Claudia Gladziejewski,	The Lives of Others,	
-Dirk Hamm,	The Lives of Others,	
-Stéphane Moucha,	The Lives of Others,	
-Gabriel Yared,	The Lives of Others,	
-Hagen Bogdanski,	The Lives of Others,	
-Patricia Rommel,	The Lives of Others,	
-Simone Bär,	The Lives of Others,	
-Silke Buhr,	The Lives of Others,	
-Christiane Rothe,	The Lives of Others,	
-Frank Noack,	The Lives of Others,	
-Gabriele Binder,	The Lives of Others,	
-Hans Seck,	The Lives of Others,	
-Iris Müller,	The Lives of Others,	
-James B. Harris,	Paths of Glory,	
-Kirk Douglas,	Paths of Glory,	
-Stanley Kubrick,	Paths of Glory,	
-Gerald Fried,	Paths of Glory,	
-Georg Krause,	Paths of Glory,	
-Eva Kroll,	Paths of Glory,	
-Ludwig Reiber,	Paths of Glory,	
-Ilse Dubois,	Paths of Glory,	
-Erwin Lange,	Paths of Glory,	
-Darla K. Anderson,	Coco,	
-Mary Alice Drumm,	Coco,	
-John Lasseter,	Coco,	
-Michael Giacchino,	Coco,	
-Steve Bloom,	Coco,	
-Lee Unkrich,	Coco,	
-Carla Hool,	Coco,	
-Natalie Lyon,	Coco,	
-Kevin Reher,	Coco,	
-Harley Jessup,	Coco,	
-Terri Douglas,	Coco,	
-Robert Fryer,	The Shining,	
-Jan Harlan,	The Shining,	
-Wendy Carlos,	The Shining,	
-Rachel Elkind,	The Shining,	
-John Alcott,	The Shining,	
-Ray Lovejoy,	The Shining,	
-James Liggat,	The Shining,	
-Roy Walker,	The Shining,	
-Leslie Tomkins,	The Shining,	
-Milena Canonero,	The Shining,	
-Lindsey Collins,	WALL·E,	
-John Lasseter,	WALL·E,	
-Gillian Libbert,	WALL·E,	
-Thomas Newman,	WALL·E,	
-Jeremy Lasky,	WALL·E,	
-Stephen Schaffer,	WALL·E,	
-Natalie Lyon,	WALL·E,	
-Kevin Reher,	WALL·E,	
-Ralph Eggleston,	WALL·E,	
-Bert Berry,	WALL·E,	
-Robert Kondo,	WALL·E,	
-Robert Anderson,	WALL·E,	
-Nancy Hayes,	WALL·E,	
-Mickie McGowan,	WALL·E,	
-Kevin De La Noy,	The Dark Knight Rises,	
-Jordan Goldberg,	The Dark Knight Rises,	
-Benjamin Melniker,	The Dark Knight Rises,	
-Hans Zimmer,	The Dark Knight Rises,	
-Wally Pfister,	The Dark Knight Rises,	
-Lee Smith,	The Dark Knight Rises,	
-John Papsidera,	The Dark Knight Rises,	
-Toby Whale,	The Dark Knight Rises,	
-Nathan Crowley,	The Dark Knight Rises,	
-Kevin Kavanaugh,	The Dark Knight Rises,	
-Toby Britton,	The Dark Knight Rises,	
-Kate Grimble,	The Dark Knight Rises,	
-Zack Grobler,	The Dark Knight Rises,	
-Paki Smith,	The Dark Knight Rises,	
-Lindy Hemming,	The Dark Knight Rises,	
-Ryan Arndt,	The Dark Knight Rises,	
-Shannon Cain,	The Dark Knight Rises,	
-Arthur Hornblow Jr.,	Witness for the Prosecution,	
-Edward Small,	Witness for the Prosecution,	
-Matty Malneck,	Witness for the Prosecution,	
-Russell Harlan,	Witness for the Prosecution,	
-Daniel Mandell,	Witness for the Prosecution,	
-Alexandre Trauner,	Witness for the Prosecution,	
-Howard Bristol,	Witness for the Prosecution,	
-Lee Zavitz,	Witness for the Prosecution,	
-Han Jd,	Oldeuboi,	
-Dong-ju Kim,	Oldeuboi,	
-Young-wuk Cho,	Oldeuboi,	
-Chung Chung-hoon,	Oldeuboi,	
-Kim Sang-beom,	Oldeuboi,	
-Cho Sang-kyung,	Oldeuboi,	
-C. Jin Im,	Oldeuboi,	
-Sung-jin Jung,	Oldeuboi,	
-Jeon-hyeong Lee,	Oldeuboi,	
-Gordon Carroll,	Aliens,	
-David Giler,	Aliens,	
-Walter Hill,	Aliens,	
-James Horner,	Aliens,	
-Adrian Biddle,	Aliens,	
-Ray Lovejoy,	Aliens,	
-Peter Lamont,	Aliens,	
-Terry Ackland-Snow,	Aliens,	
-Ken Court,	Aliens,	
-Bert Davey,	Aliens,	
-Crispian Sallis,	Aliens,	
-Emma Porteous,	Aliens,	
-Norman Baillie,	Aliens,	
-Doug Beswick,	Aliens,	
-Jane Feinberg,	Aliens,	
-Mike Fenton,	Aliens,	
-Mary Selway,	Aliens,	
-Mark Damon,	Once Upon a Time in America,	
-Claudio Mancini,	Once Upon a Time in America,	
-Arnon Milchan,	Once Upon a Time in America,	
-Ennio Morricone,	Once Upon a Time in America,	
-Tonino Delli Colli,	Once Upon a Time in America,	
-Nino Baragli,	Once Upon a Time in America,	
-Cis Corman,	Once Upon a Time in America,	
-Joy Todd,	Once Upon a Time in America,	
-Carlo Simi,	Once Upon a Time in America,	
-Gabriella Pescucci,	Once Upon a Time in America,	
-Louis Craig,	Once Upon a Time in America,	
-Sylvie Bourque,	Once Upon a Time in America,	
-Michael Bittins,	Das Boot,	
-Mark Damon,	Das Boot,	
-Ortwin Freyermuth,	Das Boot,	
-Klaus Doldinger,	Das Boot,	
-Jost Vacano,	Das Boot,	
-Hannes Nikel,	Das Boot,	
-Willy Schlenter,	Das Boot,	
-Rolf Zehetbauer,	Das Boot,	
-Götz Weidner,	Das Boot,	
-Monika Bauert,	Das Boot,	
-Karl Baumgartner,	Das Boot,	
-Karl-Heinz Bochnig,	Das Boot,	
-Max Gretmann,	Das Boot,	
-Orson Welles,	Citizen Kane,	
-George Schaefer,	Citizen Kane,	
-Bernard Herrmann,	Citizen Kane,	
-Gregg Toland,	Citizen Kane,	
-Robert Wise,	Citizen Kane,	
-Van Nest Polglase,	Citizen Kane,	
-Darrell Silvera,	Citizen Kane,	
-Edward Stevenson,	Citizen Kane,	
-Vernon L. Walker,	Citizen Kane,	
-Russell A. Cully,	Citizen Kane,	
-Linwood G. Dunn,	Citizen Kane,	
-Herbert Coleman,	Vertigo,	
-Alfred Hitchcock,	Vertigo,	
-Bernard Herrmann,	Vertigo,	
-Robert Burks,	Vertigo,	
-George Tomasini,	Vertigo,	
-Bert McKay,	Vertigo,	
-Henry Bumstead,	Vertigo,	
-Hal Pereira,	Vertigo,	
-Sam Comer,	Vertigo,	
-Frank R. McKelvy,	Vertigo,	
-Edith Head,	Vertigo,	
-Farciot Edouart,	Vertigo,	
-John P. Fulton,	Vertigo,	
-W. Wallace Kelley,	Vertigo,	
-Herbert Coleman,	North by Northwest,	
-Alfred Hitchcock,	North by Northwest,	
-Bernard Herrmann,	North by Northwest,	
-Robert Burks,	North by Northwest,	
-George Tomasini,	North by Northwest,	
-Leonard Murphy,	North by Northwest,	
-Robert F. Boyle,	North by Northwest,	
-William A. Horning,	North by Northwest,	
-Merrill Pye,	North by Northwest,	
-Henry Grace,	North by Northwest,	
-Frank R. McKelvy,	North by Northwest,	
-A. Arnold Gillespie,	North by Northwest,	
-Lee LeBlanc,	North by Northwest,	
-Cliff Shirpser,	North by Northwest,	
-Larry Leverett,	North by Northwest,	
-Bruce Davey,	Braveheart,	
-Mel Gibson,	Braveheart,	
-Alan Ladd, Jr.,	Braveheart,	
-James Horner,	Braveheart,	
-John Toll,	Braveheart,	
-Steven Rosenblum,	Braveheart,	
-Patsy Pollock,	Braveheart,	
-Thomas E. Sanders,	Braveheart,	
-Ken Court,	Braveheart,	
-Nathan Crowley,	Braveheart,	
-Daniel T. Dorrance,	Braveheart,	
-Peter Howitt,	Braveheart,	
-Charles Knode,	Braveheart,	
-Nick Allder,	Braveheart,	
-Tricia Henry Ashford,	Braveheart,	
-Leo Davis,	Braveheart,	
-Julia Duff,	Braveheart,	
-Jim Bloom,	Star Wars: Episode VI - Return of the Jedi,	
-Howard G. Kazanjian,	Star Wars: Episode VI - Return of the Jedi,	
-George Lucas,	Star Wars: Episode VI - Return of the Jedi,	
-John Williams,	Star Wars: Episode VI - Return of the Jedi,	
-Alan Hume,	Star Wars: Episode VI - Return of the Jedi,	
-Alec Mills,	Star Wars: Episode VI - Return of the Jedi,	
-Sean Barton,	Star Wars: Episode VI - Return of the Jedi,	
-Duwayne Dunham,	Star Wars: Episode VI - Return of the Jedi,	
-Mary Selway,	Star Wars: Episode VI - Return of the Jedi,	
-Norman Reynolds,	Star Wars: Episode VI - Return of the Jedi,	
-Fred Hole,	Star Wars: Episode VI - Return of the Jedi,	
-James L. Schoppe,	Star Wars: Episode VI - Return of the Jedi,	
-Michael Ford,	Star Wars: Episode VI - Return of the Jedi,	
-Harry Lange,	Star Wars: Episode VI - Return of the Jedi,	
-Aggie Guerard Rodgers,	Star Wars: Episode VI - Return of the Jedi,	
-Nilo Rodis-Jamero,	Star Wars: Episode VI - Return of the Jedi,	
-Roy Arbogast,	Star Wars: Episode VI - Return of the Jedi,	
-Kevin Pike,	Star Wars: Episode VI - Return of the Jedi,	
-Peter Amundson,	Star Wars: Episode VI - Return of the Jedi,	
-Seymour Nebenzal,	M,	
-Fritz Arno Wagner,	M,	
-Paul Falkenberg,	M,	
-Emil Hasler,	M,	
-Karl Vollbrecht,	M,	
-Nishith Dadhich,	Dangal,	
-Siddharth Roy Kapur,	Dangal,	
-Pritam Chakraborty,	Dangal,	
-Ballu Saluja,	Dangal,	
-Mukesh Chhabra,	Dangal,	
-Teddy Maurya,	Dangal,	
-Tatsuro Hatanaka,	Kimi no na wa.,	
-Minami Ichikawa,	Kimi no na wa.,	
-Makoto Shinkai,	Kimi no na wa.,	
-Makoto Shinkai,	Kimi no na wa.,	
-Takumi Tanji,	Kimi no na wa.,	
-Stephanie Sheh,	Kimi no na wa.,	
-Ben Barenholtz,	Requiem for a Dream,	
-Beau Flynn,	Requiem for a Dream,	
-Scott Franklin,	Requiem for a Dream,	
-Clint Mansell,	Requiem for a Dream,	
-Matthew Libatique,	Requiem for a Dream,	
-Jay Rabinowitz,	Requiem for a Dream,	
-Ann Goulder,	Requiem for a Dream,	
-Anne McCarthy,	Requiem for a Dream,	
-Mary Vernieu,	Requiem for a Dream,	
-James Chinlund,	Requiem for a Dream,	
-Judy Rhee,	Requiem for a Dream,	
-Ondine Karady,	Requiem for a Dream,	
-Laura Jean Shannon,	Requiem for a Dream,	
-Mark Bero,	Requiem for a Dream,	
-Drew Jiritano,	Requiem for a Dream,	
-Andrew Mortelliti,	Requiem for a Dream,	
-Jeremy Dawson,	Requiem for a Dream,	
-Ray Lewis,	Requiem for a Dream,	
-Lori Eastside,	Requiem for a Dream,	
-Aamir Khan,	Taare Zameen Par,	
-Shankar Mahadevan,	Taare Zameen Par,	
-Loy Mendonsa,	Taare Zameen Par,	
-Ehsaan Noorani,	Taare Zameen Par,	
-Deepa Bhatia,	Taare Zameen Par,	
-Shruti Gupte,	Taare Zameen Par,	
-Helmut Breuer,	Amélie,	
-Bastian Griese,	Amélie,	
-Arne Meerkamp van Embden,	Amélie,	
-Yann Tiersen,	Amélie,	
-Bruno Delbonnel,	Amélie,	
-Hervé Schneid,	Amélie,	
-Pierre-Jacques Bénichou,	Amélie,	
-Aline Bonetto,	Amélie,	
-Volker Schäfer,	Amélie,	
-Marie-Laure Valla,	Amélie,	
-Madeline Fontaine,	Amélie,	
-Valerie Espagne,	Amélie,	
-Stanley Kubrick,	A Clockwork Orange,	
-Si Litvinoff,	A Clockwork Orange,	
-Max L. Raab,	A Clockwork Orange,	
-John Alcott,	A Clockwork Orange,	
-Bill Butler,	A Clockwork Orange,	
-James Liggat,	A Clockwork Orange,	
-John Barry,	A Clockwork Orange,	
-Russell Hagg,	A Clockwork Orange,	
-Peter Sheilds,	A Clockwork Orange,	
-Milena Canonero,	A Clockwork Orange,	
-Mark Freund,	A Clockwork Orange,	
-Sam Spiegel,	Lawrence of Arabia,	
-David Lean,	Lawrence of Arabia,	
-Maurice Jarre,	Lawrence of Arabia,	
-Freddie Young,	Lawrence of Arabia,	
-Anne V. Coates,	Lawrence of Arabia,	
-Maude Spector,	Lawrence of Arabia,	
-John Box,	Lawrence of Arabia,	
-John Stoll,	Lawrence of Arabia,	
-Anthony Masters,	Lawrence of Arabia,	
-Dario Simoni,	Lawrence of Arabia,	
-Phyllis Dalton,	Lawrence of Arabia,	
-Cliff Richardson,	Lawrence of Arabia,	
-Wally Veevers,	Lawrence of Arabia,	
-Georges Bermann,	Eternal Sunshine of the Spotless Mind,	
-Anthony Bregman,	Eternal Sunshine of the Spotless Mind,	
-David L. Bushell,	Eternal Sunshine of the Spotless Mind,	
-Jon Brion,	Eternal Sunshine of the Spotless Mind,	
-Ellen Kuras,	Eternal Sunshine of the Spotless Mind,	
-Valdís Óskarsdóttir,	Eternal Sunshine of the Spotless Mind,	
-Jeanne McCarthy,	Eternal Sunshine of the Spotless Mind,	
-Dan Leigh,	Eternal Sunshine of the Spotless Mind,	
-David Stein,	Eternal Sunshine of the Spotless Mind,	
-Ron von Blomberg,	Eternal Sunshine of the Spotless Mind,	
-Melissa Toth,	Eternal Sunshine of the Spotless Mind,	
-Mark Bero,	Eternal Sunshine of the Spotless Mind,	
-Drew Jiritano,	Eternal Sunshine of the Spotless Mind,	
-Blythe Cappello,	Eternal Sunshine of the Spotless Mind,	
-Linda R. Chen,	Eternal Sunshine of the Spotless Mind,	
-Natasha Cuba,	Eternal Sunshine of the Spotless Mind,	
-Buddy G. DeSylva,	Double Indemnity,	
-Joseph Sistrom,	Double Indemnity,	
-Miklós Rózsa,	Double Indemnity,	
-John F. Seitz,	Double Indemnity,	
-Harvey Clermont,	Double Indemnity,	
-David Hall,	Double Indemnity,	
-Hans Dreier,	Double Indemnity,	
-Hal Pereira,	Double Indemnity,	
-David Hall,	Double Indemnity,	
-Bertram C. Granger,	Double Indemnity,	
-Edith Head,	Double Indemnity,	
-Farciot Edouart,	Double Indemnity,	
-Arthur Freed,	Singin' in the Rain,	
-Roger Edens,	Singin' in the Rain,	
-Lennie Hayton,	Singin' in the Rain,	
-Harold Rosson,	Singin' in the Rain,	
-Adrienne Fazan,	Singin' in the Rain,	
-Randall Duell,	Singin' in the Rain,	
-Cedric Gibbons,	Singin' in the Rain,	
-Jacques Mapes,	Singin' in the Rain,	
-Edwin B. Willis,	Singin' in the Rain,	
-Harry McAfee,	Singin' in the Rain,	
-Walter Plunkett,	Singin' in the Rain,	
-Warren Newcombe,	Singin' in the Rain,	
-Irving G. Ries,	Singin' in the Rain,	
-Stanley Kubrick,	2001: A Space Odyssey,	
-Victor Lyndon,	2001: A Space Odyssey,	
-Geoffrey Unsworth,	2001: A Space Odyssey,	
-Ray Lovejoy,	2001: A Space Odyssey,	
-James Liggat,	2001: A Space Odyssey,	
-Ernest Archer,	2001: A Space Odyssey,	
-Harry Lange,	2001: A Space Odyssey,	
-Anthony Masters,	2001: A Space Odyssey,	
-John Hoesli,	2001: A Space Odyssey,	
-Robert Cartwright,	2001: A Space Odyssey,	
-Les Bowie,	2001: A Space Odyssey,	
-Tom Howard,	2001: A Space Odyssey,	
-Stanley Kubrick,	2001: A Space Odyssey,	
-Bonnie Arnold,	Toy Story,	
-Ed Catmull,	Toy Story,	
-Ralph Guggenheim,	Toy Story,	
-Randy Newman,	Toy Story,	
-Robert Gordon,	Toy Story,	
-Lee Unkrich,	Toy Story,	
-Mike Fenton,	Toy Story,	
-Janet Hirshenson,	Toy Story,	
-Jane Jenkins,	Toy Story,	
-Ralph Eggleston,	Toy Story,	
-Mark Adams,	Toy Story,	
-Darla K. Anderson,	Toy Story,	
-Nancy Hayes,	Toy Story,	
-Ruth Lambert,	Toy Story,	
-Mickie McGowan,	Toy Story,	
-Alan J. Pakula,	To Kill a Mockingbird,	
-Harper Lee,	To Kill a Mockingbird,	
-Robert Mulligan,	To Kill a Mockingbird,	
-Elmer Bernstein,	To Kill a Mockingbird,	
-Russell Harlan,	To Kill a Mockingbird,	
-Aaron Stell,	To Kill a Mockingbird,	
-Boaty Boatwright,	To Kill a Mockingbird,	
-Henry Bumstead,	To Kill a Mockingbird,	
-Alexander Golitzen,	To Kill a Mockingbird,	
-Oliver Emert,	To Kill a Mockingbird,	
-Rosemary Odell,	To Kill a Mockingbird,	
-Carole Cowley,	To Kill a Mockingbird,	
-Jan Harlan,	Full Metal Jacket,	
-Michael Herr,	Full Metal Jacket,	
-Philip Hobbs,	Full Metal Jacket,	
-Vivian Kubrick,	Full Metal Jacket,	
-Douglas Milsome,	Full Metal Jacket,	
-Martin Hunter,	Full Metal Jacket,	
-Leon Vitali,	Full Metal Jacket,	
-Anton Furst,	Full Metal Jacket,	
-Keith Pain,	Full Metal Jacket,	
-Rod Stratfold,	Full Metal Jacket,	
-Leslie Tomkins,	Full Metal Jacket,	
-Barbara Drake,	Full Metal Jacket,	
-Keith Denny,	Full Metal Jacket,	
-Eddie Butler,	Full Metal Jacket,	
-Nguyen Thi My Chau,	Full Metal Jacket,	
-Marion Dougherty,	Full Metal Jacket,	
-Jane Feinberg,	Full Metal Jacket,	
-Giuseppe Amato,	Bicycle Thieves,	
-Vittorio De Sica,	Bicycle Thieves,	
-Alessandro Cicognini,	Bicycle Thieves,	
-Carlo Montuori,	Bicycle Thieves,	
-Eraldo Da Roma,	Bicycle Thieves,	
-Antonio Traverso,	Bicycle Thieves,	
-Lawrence Bender,	Inglourious Basterds,	
-William Paul Clark,	Inglourious Basterds,	
-Christoph Fisser,	Inglourious Basterds,	
-Robert Richardson,	Inglourious Basterds,	
-Sally Menke,	Inglourious Basterds,	
-David Wasco,	Inglourious Basterds,	
-Marco Bittner Rosser,	Inglourious Basterds,	
-Stephan O. Gessler,	Inglourious Basterds,	
-Sebastian T. Krawinkel,	Inglourious Basterds,	
-Sandy Reynolds-Wasco,	Inglourious Basterds,	
-Anna B. Sheppard,	Inglourious Basterds,	
-Gerd Nefzer,	Inglourious Basterds,	
-John Dykstra,	Inglourious Basterds,	
-Viktor Muller,	Inglourious Basterds,	
-Salvadore Brandt,	Inglourious Basterds,	
-Simone Bär,	Inglourious Basterds,	
-Olivier Carbone,	Inglourious Basterds,	
-Tony Bill,	The Sting,	
-Robert Crawford Jr.,	The Sting,	
-Julia Phillips,	The Sting,	
-Robert Surtees,	The Sting,	
-William Reynolds,	The Sting,	
-William Batliner,	The Sting,	
-Robert J. LaSanka,	The Sting,	
-Henry Bumstead,	The Sting,	
-James W. Payne,	The Sting,	
-Edith Head,	The Sting,	
-Bob Warner,	The Sting,	
-Albert Whitlock,	The Sting,	
-Darla K. Anderson,	Toy Story 3,	
-Nicole Paradis Grindle,	Toy Story 3,	
-John Lasseter,	Toy Story 3,	
-Randy Newman,	Toy Story 3,	
-Jeremy Lasky,	Toy Story 3,	
-Ken Schretzmann,	Toy Story 3,	
-Natalie Lyon,	Toy Story 3,	
-Kevin Reher,	Toy Story 3,	
-Bob Pauley,	Toy Story 3,	
-Robert Kondo,	Toy Story 3,	
-Daisuke 'Dice' Tsutsumi,	Toy Story 3,	
-Laura Beth Albright,	Toy Story 3,	
-Holly Dorff,	Toy Story 3,	
-Mickie McGowan,	Toy Story 3,	
-Michael Dreyer,	Snatch,	
-Stephen Marks,	Snatch,	
-Peter Morton,	Snatch,	
-John Murphy,	Snatch,	
-Tim Maurice-Jones,	Snatch,	
-Jon Harris,	Snatch,	
-Lucinda Syson,	Snatch,	
-Hugo Luczyc-Wyhowski,	Snatch,	
-Julie Philpott,	Snatch,	
-Linda Wilson,	Snatch,	
-Verity Hawkes,	Snatch,	
-Casper Lailey,	Snatch,	
-Barrie Gower,	Snatch,	
-Su Armstrong,	Good Will Hunting,	
-Lawrence Bender,	Good Will Hunting,	
-Jonathan Gordon,	Good Will Hunting,	
-Danny Elfman,	Good Will Hunting,	
-Jean-Yves Escoffier,	Good Will Hunting,	
-Pietro Scalia,	Good Will Hunting,	
-Kerry Barden,	Good Will Hunting,	
-Billy Hopkins,	Good Will Hunting,	
-Suzanne Smith,	Good Will Hunting,	
-Missy Stewart,	Good Will Hunting,	
-James McAteer,	Good Will Hunting,	
-Jaro Dick,	Good Will Hunting,	
-Beatrix Aruna Pasztor,	Good Will Hunting,	
-William 'Billy Jack' Jakielaszek,	Good Will Hunting,	
-Mark Bennett,	Good Will Hunting,	
-Kevin Fennessy,	Good Will Hunting,	
-Mark Forstater,	Monty Python and the Holy Grail,	
-John Goldstone,	Monty Python and the Holy Grail,	
-Michael White,	Monty Python and the Holy Grail,	
-Terry Bedford,	Monty Python and the Holy Grail,	
-John Hackney,	Monty Python and the Holy Grail,	
-Roy Forge Smith,	Monty Python and the Holy Grail,	
-Hazel Pethig,	Monty Python and the Holy Grail,	
-John Horton,	Monty Python and the Holy Grail,	
-Julian Doyle,	Monty Python and the Holy Grail,	
-Arturo González,	For a Few Dollars More,	
-Alfredo Fraile,	For a Few Dollars More,	
-Alberto Grimaldi,	For a Few Dollars More,	
-Ennio Morricone,	For a Few Dollars More,	
-Massimo Dallamano,	For a Few Dollars More,	
-Eugenio Alabiso,	For a Few Dollars More,	
-Giorgio Serrallonga,	For a Few Dollars More,	
-Giovanni Corridori,	For a Few Dollars More,	
-Eros Bacciucchi,	For a Few Dollars More,	
-Manuel Baquero,	For a Few Dollars More,	
-Martin Bregman,	Scarface,	
-Louis A. Stroller,	Scarface,	
-Giorgio Moroder,	Scarface,	
-John A. Alonzo,	Scarface,	
-Gerald B. Greenberg,	Scarface,	
-David Ray,	Scarface,	
-Alixe Gordin,	Scarface,	
-Edward Richardson,	Scarface,	
-Bruce Weintraub,	Scarface,	
-Patricia Norris,	Scarface,	
-Stan Parks,	Scarface,	
-Ken Pepiot,	Scarface,	
-George Zamora,	Scarface,	
-Bill Hansard,	Scarface,	
-Bob Morones,	Scarface,	
-Curtis Hanson,	L.A. Confidential,	
-Brian Helgeland,	L.A. Confidential,	
-Dan Kolsrud,	L.A. Confidential,	
-Jerry Goldsmith,	L.A. Confidential,	
-Dante Spinotti,	L.A. Confidential,	
-Peter Honess,	L.A. Confidential,	
-Mali Finn,	L.A. Confidential,	
-Jeannine Oppewall,	L.A. Confidential,	
-William Arnold,	L.A. Confidential,	
-Jay Hart,	L.A. Confidential,	
-Ruth Myers,	L.A. Confidential,	
-William N. Greene III,	L.A. Confidential,	
-Peter Donen,	L.A. Confidential,	
-Travis Baumann,	L.A. Confidential,	
-Barbara Harris,	L.A. Confidential,	
-Emily Schweber,	L.A. Confidential,	
-I. A. L. Diamond,	The Apartment,	
-Doane Harrison,	The Apartment,	
-Billy Wilder,	The Apartment,	
-Adolph Deutsch,	The Apartment,	
-Joseph LaShelle,	The Apartment,	
-Daniel Mandell,	The Apartment,	
-Alexandre Trauner,	The Apartment,	
-Edward G. Boyle,	The Apartment,	
-Milt Rice,	The Apartment,	
-Erich Pommer,	Metropolis,	
-Gottfried Huppertz,	Metropolis,	
-Abel Korzeniowski,	Metropolis,	
-Giorgio Moroder,	Metropolis,	
-Karl Freund,	Metropolis,	
-Günther Rittau,	Metropolis,	
-Walter Ruttmann,	Metropolis,	
-Otto Hunte,	Metropolis,	
-Erich Kettelhut,	Metropolis,	
-Karl Vollbrecht,	Metropolis,	
-Aenne Willkomm,	Metropolis,	
-Konstantin Irmen-Tschet,	Metropolis,	
-Erich Kettelhut,	Metropolis,	
-Jeff Matakovich,	Metropolis,	
-Eugen Schüfftan,	Metropolis,	
-Erich Kettelhut,	Metropolis,	
-Negar Eskandarfar,	A Separation,	
-Asghar Farhadi,	A Separation,	
-Sattar Oraki,	A Separation,	
-Mahmoud Kalari,	A Separation,	
-Hayedeh Safiyari,	A Separation,	
-Keyvan Moghaddam,	A Separation,	
-John Lasseter,	Up,	
-Kori Rae,	Up,	
-Denise Ream,	Up,	
-Michael Giacchino,	Up,	
-Patrick Lin,	Up,	
-Kevin Nolting,	Up,	
-Natalie Lyon,	Up,	
-Kevin Reher,	Up,	
-Ricky Nierva,	Up,	
-Mark Adams,	Up,	
-Ned Lott,	Up,	
-Mickie McGowan,	Up,	
-Darryl F. Zanuck,	All About Eve,	
-Alfred Newman,	All About Eve,	
-Milton Krasner,	All About Eve,	
-Barbara McLean,	All About Eve,	
-George W. Davis,	All About Eve,	
-Lyle R. Wheeler,	All About Eve,	
-Thomas Little,	All About Eve,	
-Walter M. Scott,	All About Eve,	
-Fred Sersen,	All About Eve,	
-Larry J. Franco,	Batman Begins,	
-Benjamin Melniker,	Batman Begins,	
-Lorne Orleans,	Batman Begins,	
-James Newton Howard,	Batman Begins,	
-Hans Zimmer,	Batman Begins,	
-Wally Pfister,	Batman Begins,	
-Lee Smith,	Batman Begins,	
-John Papsidera,	Batman Begins,	
-Lucinda Syson,	Batman Begins,	
-Nathan Crowley,	Batman Begins,	
-Peter Francis,	Batman Begins,	
-Paul Kirby,	Batman Begins,	
-Simon Lamont,	Batman Begins,	
-Gene Foad,	Batman Begins,	
-Paki Smith,	Batman Begins,	
-Lindy Hemming,	Batman Begins,	
-Aurelia Abate,	Batman Begins,	
-I. A. L. Diamond,	Some Like It Hot,	
-Doane Harrison,	Some Like It Hot,	
-Billy Wilder,	Some Like It Hot,	
-Adolph Deutsch,	Some Like It Hot,	
-Charles Lang,	Some Like It Hot,	
-Arthur P. Schmidt,	Some Like It Hot,	
-Phil Benjamin,	Some Like It Hot,	
-Ted Haworth,	Some Like It Hot,	
-Edward G. Boyle,	Some Like It Hot,	
-Milt Rice,	Some Like It Hot,	
-Daniel Hays,	Some Like It Hot,	
-Clint Eastwood,	Unforgiven,	
-Julian Ludwig,	Unforgiven,	
-David Valdes,	Unforgiven,	
-Lennie Niehaus,	Unforgiven,	
-Jack Green,	Unforgiven,	
-Joel Cox,	Unforgiven,	
-Phyllis Huffman,	Unforgiven,	
-Henry Bumstead,	Unforgiven,	
-Adrian Gorton,	Unforgiven,	
-Rick Roberts,	Unforgiven,	
-Janice Blackie-Goodine,	Unforgiven,	
-John Frazier,	Unforgiven,	
-Stuart Aikins,	Unforgiven,	
-William Haines,	Unforgiven,	
-Henry Blanke,	The Treasure of the Sierra Madre,	
-Jack Warner,	The Treasure of the Sierra Madre,	
-Max Steiner,	The Treasure of the Sierra Madre,	
-Ted D. McCord,	The Treasure of the Sierra Madre,	
-Owen Marks,	The Treasure of the Sierra Madre,	
-John Hughes,	The Treasure of the Sierra Madre,	
-Fred M. MacLean,	The Treasure of the Sierra Madre,	
-Hans F. Koenekamp,	The Treasure of the Sierra Madre,	
-William C. McGann,	The Treasure of the Sierra Madre,	
-Eddie Craven,	The Treasure of the Sierra Madre,	
-Wolf-Dietrich Brücker,	Downfall,	
-Bernd Eichinger,	Downfall,	
-Doris J. Heinze,	Downfall,	
-Stephan Zacharias,	Downfall,	
-Rainer Klausmann,	Downfall,	
-Hans Funck,	Downfall,	
-An Dorthe Braker,	Downfall,	
-Bernd Lepel,	Downfall,	
-Claudia Bobsin,	Downfall,	
-Daniel Alexandru,	Downfall,	
-Karl-Heinz Bochnig,	Downfall,	
-Alessandro Cioffi,	Downfall,	
-Uwe Bünker,	Downfall,	
-Charles Gordon,	Die Hard,	
-Lawrence Gordon,	Die Hard,	
-Beau Marks,	Die Hard,	
-Michael Kamen,	Die Hard,	
-Jan de Bont,	Die Hard,	
-Frank J. Urioste,	Die Hard,	
-Jackie Burch,	Die Hard,	
-Jackson De Govia,	Die Hard,	
-John R. Jensen,	Die Hard,	
-Philip Leonard,	Die Hard,	
-Marilyn Vance,	Die Hard,	
-William Aldridge,	Die Hard,	
-Yarek Alfer,	Die Hard,	
-Brent Boates,	Die Hard,	
-Ferne Cassel,	Die Hard,	
-John Sturges,	The Great Escape,	
-James Clavell,	The Great Escape,	
-Walter Mirisch,	The Great Escape,	
-Elmer Bernstein,	The Great Escape,	
-Daniel L. Fapp,	The Great Escape,	
-Ferris Webster,	The Great Escape,	
-Fernando Carrere,	The Great Escape,	
-Kurt Ripberger,	The Great Escape,	
-A. Paul Pollard,	The Great Escape,	
-Hugh Perceval,	The Third Man,	
-Carol Reed,	The Third Man,	
-Alexander Korda,	The Third Man,	
-Anton Karas,	The Third Man,	
-Robert Krasker,	The Third Man,	
-Oswald Hafenrichter,	The Third Man,	
-Dario Simoni,	The Third Man,	
-W. Percy Day,	The Third Man,	
-Hassan Hassandoost,	Children of Heaven,	
-Graham Broadbent,	Three Billboards Outside Ebbing, Missouri,	
-Peter Czernin,	Three Billboards Outside Ebbing, Missouri,	
-Carter Burwell,	Three Billboards Outside Ebbing, Missouri,	
-Ben Davis,	Three Billboards Outside Ebbing, Missouri,	
-Jon Gregory,	Three Billboards Outside Ebbing, Missouri,	
-Sarah Finn,	Three Billboards Outside Ebbing, Missouri,	
-Inbal Weinberg,	Three Billboards Outside Ebbing, Missouri,	
-Jesse Rosenthal,	Three Billboards Outside Ebbing, Missouri,	
-Merissa Lombardo,	Three Billboards Outside Ebbing, Missouri,	
-Melissa Toth,	Three Billboards Outside Ebbing, Missouri,	
-Burt Dalton,	Three Billboards Outside Ebbing, Missouri,	
-William Dawson,	Three Billboards Outside Ebbing, Missouri,	
-Hannah Cooper,	Three Billboards Outside Ebbing, Missouri,	
-C.O. Erickson,	Chinatown,	
-Robert Evans,	Chinatown,	
-Jerry Goldsmith,	Chinatown,	
-John A. Alonzo,	Chinatown,	
-Stanley Cortez,	Chinatown,	
-Sam O'Steen,	Chinatown,	
-Jane Feinberg,	Chinatown,	
-Mike Fenton,	Chinatown,	
-Richard Sylbert,	Chinatown,	
-W. Stewart Campbell,	Chinatown,	
-Ruby R. Levitt,	Chinatown,	
-Anthea Sylbert,	Chinatown,	
-Logan Frazee,	Chinatown,	
-Katsumi Furukawa,	Ran,	
-Masato Hara,	Ran,	
-Hisao Kurosawa,	Ran,	
-Toru Takemitsu,	Ran,	
-Asakazu Nakai,	Ran,	
-Takao Saitô,	Ran,	
-Shôji Ueda,	Ran,	
-Akira Kurosawa,	Ran,	
-Shinobu Muraki,	Ran,	
-Yoshirô Muraki,	Ran,	
-Emi Wada,	Ran,	
-Stanley Kramer,	Judgment at Nuremberg,	
-Philip Langner,	Judgment at Nuremberg,	
-Ernest Gold,	Judgment at Nuremberg,	
-Ernest Laszlo,	Judgment at Nuremberg,	
-Frederic Knudtson,	Judgment at Nuremberg,	
-James Lister,	Judgment at Nuremberg,	
-Rudolph Sternad,	Judgment at Nuremberg,	
-George Milo,	Judgment at Nuremberg,	
-Joe King,	Judgment at Nuremberg,	
-Mariela Besuievski,	The Secret in Their Eyes,	
-Juan José Campanella,	The Secret in Their Eyes,	
-Federico Jusid,	The Secret in Their Eyes,	
-Félix Monti,	The Secret in Their Eyes,	
-Juan José Campanella,	The Secret in Their Eyes,	
-Walter Rippell,	The Secret in Their Eyes,	
-Marcelo Pont Vergés,	The Secret in Their Eyes,	
-Cecilia Monti,	The Secret in Their Eyes,	
-Sebastián Mogordoy,	The Secret in Their Eyes,	
-Charlie Chaplin,	The Gold Rush,	
-Charlie Chaplin,	The Gold Rush,	
-William P. Perry,	The Gold Rush,	
-Carli Elinor,	The Gold Rush,	
-Roland Totheroh,	The Gold Rush,	
-Charlie Chaplin,	The Gold Rush,	
-Charles D. Hall,	The Gold Rush,	
-Sam Spiegel,	The Bridge on the River Kwai,	
-Malcolm Arnold,	The Bridge on the River Kwai,	
-Jack Hildyard,	The Bridge on the River Kwai,	
-Peter Taylor,	The Bridge on the River Kwai,	
-Donald M. Ashton,	The Bridge on the River Kwai,	
-Sam Spiegel,	On the Waterfront,	
-Leonard Bernstein,	On the Waterfront,	
-Boris Kaufman,	On the Waterfront,	
-Gene Milford,	On the Waterfront,	
-Richard Day,	On the Waterfront,	
-John Lasseter,	Inside Out,	
-Mark Nielsen,	Inside Out,	
-Jonas Rivera,	Inside Out,	
-Michael Giacchino,	Inside Out,	
-Kevin Nolting,	Inside Out,	
-Natalie Lyon,	Inside Out,	
-Kevin Reher,	Inside Out,	
-Ralph Eggleston,	Inside Out,	
-Barbara Harris,	Inside Out,	
-Mickie McGowan,	Inside Out,	
-Allan Ekelund,	The Seventh Seal,	
-Erik Nordgren,	The Seventh Seal,	
-Gunnar Fischer,	The Seventh Seal,	
-Lennart Wallén,	The Seventh Seal,	
-P.A. Lundgren,	The Seventh Seal,	
-Manne Lindholm,	The Seventh Seal,	
-Stephen Marks,	Lock, Stock and Two Smoking Barrels,	
-Georgia Masters,	Lock, Stock and Two Smoking Barrels,	
-Peter Morton,	Lock, Stock and Two Smoking Barrels,	
-David A. Hughes,	Lock, Stock and Two Smoking Barrels,	
-John Murphy,	Lock, Stock and Two Smoking Barrels,	
-Tim Maurice-Jones,	Lock, Stock and Two Smoking Barrels,	
-Niven Howie,	Lock, Stock and Two Smoking Barrels,	
-Celestia Fox,	Lock, Stock and Two Smoking Barrels,	
-Guy Ritchie,	Lock, Stock and Two Smoking Barrels,	
-Iain Andrews,	Lock, Stock and Two Smoking Barrels,	
-Eve Mavrakis,	Lock, Stock and Two Smoking Barrels,	
-Stephanie Collie,	Lock, Stock and Two Smoking Barrels,	
-Casper Lailey,	Lock, Stock and Two Smoking Barrels,	
-Martin Body,	Lock, Stock and Two Smoking Barrels,	
-Emma Buckley,	Lock, Stock and Two Smoking Barrels,	
-Frank Capra,	Mr. Smith Goes to Washington,	
-Dimitri Tiomkin,	Mr. Smith Goes to Washington,	
-Joseph Walker,	Mr. Smith Goes to Washington,	
-Al Clark,	Mr. Smith Goes to Washington,	
-Gene Havlick,	Mr. Smith Goes to Washington,	
-Lionel Banks,	Mr. Smith Goes to Washington,	
-Robert Kalloch,	Mr. Smith Goes to Washington,	
-Fred Jackman Jr.,	Mr. Smith Goes to Washington,	
-Slavko Vorkapich,	Mr. Smith Goes to Washington,	
-Stuart Cornfeld,	The Elephant Man,	
-Jonathan Sanger,	The Elephant Man,	
-Mel Brooks,	The Elephant Man,	
-John Morris,	The Elephant Man,	
-Freddie Francis,	The Elephant Man,	
-Anne V. Coates,	The Elephant Man,	
-Maggie Cartier,	The Elephant Man,	
-Stuart Craig,	The Elephant Man,	
-Robert Cartwright,	The Elephant Man,	
-Hugh Scaife,	The Elephant Man,	
-Patricia Norris,	The Elephant Man,	
-Graham Longhurst,	The Elephant Man,	
-Neil Corbould,	The Elephant Man,	
-Paul Corbould,	The Elephant Man,	
-Allan Ekelund,	Wild Strawberries,	
-Erik Nordgren,	Wild Strawberries,	
-Göte Lovén,	Wild Strawberries,	
-Gunnar Fischer,	Wild Strawberries,	
-Oscar Rosander,	Wild Strawberries,	
-Gittan Gustafsson,	Wild Strawberries,	
-Millie Ström,	Wild Strawberries,	
-Buster Keaton,	Sherlock Jr.,	
-Joseph M. Schenck,	Sherlock Jr.,	
-Byron Houck,	Sherlock Jr.,	
-Elgin Lessley,	Sherlock Jr.,	
-Buster Keaton,	Sherlock Jr.,	
-Fred Gabourie,	Sherlock Jr.,	
-Clare West,	Sherlock Jr.,	
-David Shepard,	The General,	
-Buster Keaton,	The General,	
-Joseph M. Schenck,	The General,	
-Carl Davis,	The General,	
-Robert Israel,	The General,	
-Bert Haines,	The General,	
-Devereaux Jennings,	The General,	
-Buster Keaton,	The General,	
-Sherman Kell,	The General,	
-Fred Gabourie,	The General,	
-Harry Roselotte,	The General,	
-Alfred Hitchcock,	Dial M for Murder,	
-Dimitri Tiomkin,	Dial M for Murder,	
-Robert Burks,	Dial M for Murder,	
-Rudi Fehr,	Dial M for Murder,	
-Edward Carrere,	Dial M for Murder,	
-George James Hopkins,	Dial M for Murder,	
-Andrew Macdonald,	Trainspotting,	
-Brian Tufano,	Trainspotting,	
-Masahiro Hirakubo,	Trainspotting,	
-Andy Pryor,	Trainspotting,	
-Gail Stevens,	Trainspotting,	
-Kave Quinn,	Trainspotting,	
-Tracey Gallacher,	Trainspotting,	
-Rachael Fleming,	Trainspotting,	
-Perry Costello,	Trainspotting,	
-Grant Mason,	Trainspotting,	
-David O. Selznick,	Gone with the Wind,	
-Max Steiner,	Gone with the Wind,	
-Ernest Haller,	Gone with the Wind,	
-Lee Garmes,	Gone with the Wind,	
-Charles Richards,	Gone with the Wind,	
-Fred Schuessler,	Gone with the Wind,	
-William Cameron Menzies,	Gone with the Wind,	
-Lyle R. Wheeler,	Gone with the Wind,	
-Howard Bristol,	Gone with the Wind,	
-Walter Plunkett,	Gone with the Wind,	
-Lee Zavitz,	Gone with the Wind,	
-Jack Cosgrove,	Gone with the Wind,	
-Harvey Clermont,	Gone with the Wind,	
-Charles Richards,	Gone with the Wind,	
-Fred Schuessler,	Gone with the Wind,	
-Bruce Berman,	Gran Torino,	
-Clint Eastwood,	Gran Torino,	
-Bill Gerber,	Gran Torino,	
-Kyle Eastwood,	Gran Torino,	
-Michael Stevens,	Gran Torino,	
-Tom Stern,	Gran Torino,	
-Joel Cox,	Gran Torino,	
-Gary D. Roach,	Gran Torino,	
-Ellen Chenoweth,	Gran Torino,	
-James J. Murakami,	Gran Torino,	
-Shelagh Conley,	Gran Torino,	
-John Warnke,	Gran Torino,	
-Gary Fettis,	Gran Torino,	
-Deborah Hopper,	Gran Torino,	
-David A. Poole,	Gran Torino,	
-Geoffrey Miclat,	Gran Torino,	
-Kathy Mooney,	Gran Torino,	
-Ethan Coen,	No Country for Old Men,	
-Joel Coen,	No Country for Old Men,	
-David Diliberto,	No Country for Old Men,	
-Carter Burwell,	No Country for Old Men,	
-Roger Deakins,	No Country for Old Men,	
-Ethan Coen,	No Country for Old Men,	
-Joel Coen,	No Country for Old Men,	
-Ellen Chenoweth,	No Country for Old Men,	
-Jess Gonchor,	No Country for Old Men,	
-John P. Goldsmith,	No Country for Old Men,	
-Nancy Haigh,	No Country for Old Men,	
-Mary Zophres,	No Country for Old Men,	
-Peter Chesney,	No Country for Old Men,	
-Tom Chesney,	No Country for Old Men,	
-Jo Edna Boldin,	No Country for Old Men,	
-Barbara Harris,	No Country for Old Men,	
-Tim Bevan,	Fargo,	
-John Cameron,	Fargo,	
-Ethan Coen,	Fargo,	
-Carter Burwell,	Fargo,	
-Roger Deakins,	Fargo,	
-Ethan Coen,	Fargo,	
-Joel Coen,	Fargo,	
-John S. Lyons,	Fargo,	
-Rick Heinrichs,	Fargo,	
-Thomas P. Wilkins,	Fargo,	
-Lauri Gaffin,	Fargo,	
-Mary Zophres,	Fargo,	
-Wilfred Caban,	Fargo,	
-John Alagna,	Fargo,	
-Kathleen Chopin,	Fargo,	
-Joann Carelli,	The Deer Hunter,	
-Michael Cimino,	The Deer Hunter,	
-Michael Deeley,	The Deer Hunter,	
-Stanley Myers,	The Deer Hunter,	
-Vilmos Zsigmond,	The Deer Hunter,	
-Peter Zinner,	The Deer Hunter,	
-Cis Corman,	The Deer Hunter,	
-Ron Hobbs,	The Deer Hunter,	
-Kim Swados,	The Deer Hunter,	
-Garry Elmendorf,	The Deer Hunter,	
-Jay King,	The Deer Hunter,	
-Paul Thomas Anderson,	There Will Be Blood,	
-Daniel Lupi,	There Will Be Blood,	
-Scott Rudin,	There Will Be Blood,	
-Jonny Greenwood,	There Will Be Blood,	
-Robert Elswit,	There Will Be Blood,	
-Dylan Tichenor,	There Will Be Blood,	
-Cassandra Kulukundis,	There Will Be Blood,	
-Jack Fisk,	There Will Be Blood,	
-David Crank,	There Will Be Blood,	
-Jim Erickson,	There Will Be Blood,	
-Mark Bridges,	There Will Be Blood,	
-David Blitstein,	There Will Be Blood,	
-Steve Cremin,	There Will Be Blood,	
-John G. Chalfant,	There Will Be Blood,	
-Toni Cobb Brock,	There Will Be Blood,	
-Stuart Cohen,	The Thing,	
-David Foster,	The Thing,	
-Larry J. Franco,	The Thing,	
-Ennio Morricone,	The Thing,	
-Dean Cundey,	The Thing,	
-Todd C. Ramsay,	The Thing,	
-Anita Dann,	The Thing,	
-John J. Lloyd,	The Thing,	
-Henry Larrecq,	The Thing,	
-John M. Dwyer,	The Thing,	
-Roy Arbogast,	The Thing,	
-Michael Clifford,	The Thing,	
-Randall William Cook,	The Thing,	
-Jinko Gotoh,	Finding Nemo,	
-John Lasseter,	Finding Nemo,	
-Graham Walters,	Finding Nemo,	
-Thomas Newman,	Finding Nemo,	
-Sharon Calahan,	Finding Nemo,	
-Jeremy Lasky,	Finding Nemo,	
-Jericca Cleland,	Finding Nemo,	
-David Ian Salter,	Finding Nemo,	
-Matthew Jon Beck,	Finding Nemo,	
-Mary Hidalgo,	Finding Nemo,	
-Kevin Reher,	Finding Nemo,	
-Ralph Eggleston,	Finding Nemo,	
-Mark Adams,	Finding Nemo,	
-Mickie McGowan,	Finding Nemo,	
-Tim Bevan,	The Big Lebowski,	
-John Cameron,	The Big Lebowski,	
-Ethan Coen,	The Big Lebowski,	
-Carter Burwell,	The Big Lebowski,	
-Roger Deakins,	The Big Lebowski,	
-Ethan Coen,	The Big Lebowski,	
-Joel Coen,	The Big Lebowski,	
-Tricia Cooke,	The Big Lebowski,	
-John S. Lyons,	The Big Lebowski,	
-Rick Heinrichs,	The Big Lebowski,	
-John Dexter,	The Big Lebowski,	
-Chris L. Spellman,	The Big Lebowski,	
-Mary Zophres,	The Big Lebowski,	
-Peter Chesney,	The Big Lebowski,	
-Tom Chesney,	The Big Lebowski,	
-John Alagna,	The Big Lebowski,	
-Travis Baumann,	The Big Lebowski,	
-Robert Chapin,	The Big Lebowski,	
-Oleg Yanchenko,	Come and See,	
-Alexey Rodionov,	Come and See,	
-Valeriya Belova,	Come and See,	
-Viktor Petrov,	Come and See,	
-Viktor Petrov,	Come and See,	
-Viktor Petrov,	Come and See,	
-Eleonora Semyonova,	Come and See,	
-William Fox,	Sunrise,	
-R.H. Bassett,	Sunrise,	
-Carli Elinor,	Sunrise,	
-Erno Rapee,	Sunrise,	
-Charles Rosher,	Sunrise,	
-Karl Struss,	Sunrise,	
-Harold D. Schuster,	Sunrise,	
-Rochus Gliese,	Sunrise,	
-Frank D. Williams,	Sunrise,	
-Gordon Carroll,	Cool Hand Luke,	
-Carter De Haven Jr.,	Cool Hand Luke,	
-Lalo Schifrin,	Cool Hand Luke,	
-Conrad L. Hall,	Cool Hand Luke,	
-Sam O'Steen,	Cool Hand Luke,	
-Cary Odell,	Cool Hand Luke,	
-Fred Price,	Cool Hand Luke,	
-Howard Shoup,	Cool Hand Luke,	
-David O. Selznick,	Rebecca,	
-Franz Waxman,	Rebecca,	
-George Barnes,	Rebecca,	
-W. Donn Hayes,	Rebecca,	
-Lyle R. Wheeler,	Rebecca,	
-William Cameron Menzies,	Rebecca,	
-Jack Cosgrove,	Rebecca,	
-Michael Bassick,	Hacksaw Ridge,	
-Lawrence Bender,	Hacksaw Ridge,	
-Terry Benedict,	Hacksaw Ridge,	
-Rupert Gregson-Williams,	Hacksaw Ridge,	
-Simon Duggan,	Hacksaw Ridge,	
-John Gilbert,	Hacksaw Ridge,	
-Nikki Barrett,	Hacksaw Ridge,	
-Barry Robison,	Hacksaw Ridge,	
-Jacinta Leong,	Hacksaw Ridge,	
-Mark Robins,	Hacksaw Ridge,	
-Rebecca Cohen,	Hacksaw Ridge,	
-Lizzy Gardiner,	Hacksaw Ridge,	
-Nathan Hill,	Hacksaw Ridge,	
-Bonnie Arnold,	How to Train Your Dragon,	
-Kristine Belson,	How to Train Your Dragon,	
-Suzanne Buirgy,	How to Train Your Dragon,	
-John Powell,	How to Train Your Dragon,	
-Maryann Brandon,	How to Train Your Dragon,	
-Darren T. Holmes,	How to Train Your Dragon,	
-Leslee Feldman,	How to Train Your Dragon,	
-Kathy Altieri,	How to Train Your Dragon,	
-Ania Kamieniecki-O'Hare,	How to Train Your Dragon,	
-Christi Soper,	How to Train Your Dragon,	
-Iain Canning,	Mary and Max,	
-Melanie Coombs,	Mary and Max,	
-Mark Gooder,	Mary and Max,	
-Dale Cornelius,	Mary and Max,	
-Gerald Thompson,	Mary and Max,	
-Bill Murphy,	Mary and Max,	
-Brooke Howden,	Mary and Max,	
-Adam Elliot,	Mary and Max,	
-Isabel Peppard,	Mary and Max,	
-Isabel Peppard,	Mary and Max,	
-Michael Allen,	Mary and Max,	
-Darren A. Bell,	Mary and Max,	
-Tamara Ogorodnikova,	Andrei Rublev,	
-Vyacheslav Ovchinnikov,	Andrei Rublev,	
-Vadim Yusov,	Andrei Rublev,	
-Tatyana Yegorychyova,	Andrei Rublev,	
-Lyudmila Feiginova,	Andrei Rublev,	
-Olga Shevkunenko,	Andrei Rublev,	
-Maya Abar-Baranovskaya,	Andrei Rublev,	
-Lidiya Novi,	Andrei Rublev,	
-David Blocker,	Into the Wild,	
-Frank Hildebrand,	Into the Wild,	
-John J. Kelly,	Into the Wild,	
-Michael Brook,	Into the Wild,	
-Kaki King,	Into the Wild,	
-Eddie Vedder,	Into the Wild,	
-Eric Gautier,	Into the Wild,	
-Jay Cassidy,	Into the Wild,	
-Francine Maisler,	Into the Wild,	
-Derek R. Hill,	Into the Wild,	
-John Richardson,	Into the Wild,	
-Domenic Silvestri,	Into the Wild,	
-Danielle Berman,	Into the Wild,	
-Christopher Neely,	Into the Wild,	
-Mary Claire Hannan,	Into the Wild,	
-Robert DeVine,	Into the Wild,	
-David Alexander,	Into the Wild,	
-Mat Beck,	Into the Wild,	
-Kathy Driscoll,	Into the Wild,	
-Lauren Grey,	Into the Wild,	
-Barbara Harris,	Into the Wild,	
-Tarak Ben Ammar,	Life of Brian,	
-John Goldstone,	Life of Brian,	
-Tim Hampton,	Life of Brian,	
-Geoffrey Burgon,	Life of Brian,	
-Peter Biziou,	Life of Brian,	
-Julian Doyle,	Life of Brian,	
-Terry Gilliam,	Life of Brian,	
-Roger Christian,	Life of Brian,	
-Charles Knode,	Life of Brian,	
-Hazel Pethig,	Life of Brian,	
-Adam Bohling,	Rang De Basanti,	
-Deven Khote,	Rang De Basanti,	
-A. R. Rahman,	Rang De Basanti,	
-Binod Pradhan,	Rang De Basanti,	
-Elaine Grainger,	Rang De Basanti,	
-Samir Chanda,	Rang De Basanti,	
-Samir Chanda,	Rang De Basanti,	
-Arjun Bhasin,	Rang De Basanti,	
-Mukesh Chhabra,	Rang De Basanti,	
-Frank Capra,	It Happened One Night,	
-Harry Cohn,	It Happened One Night,	
-Howard Jackson,	It Happened One Night,	
-Joseph Walker,	It Happened One Night,	
-Gene Havlick,	It Happened One Night,	
-Stephen Goosson,	It Happened One Night,	
-Robert Kalloch,	It Happened One Night,	
-Jesper Kyd,	The Passion of Joan of Arc,	
-Ole Schmidt,	The Passion of Joan of Arc,	
-Rudolph Maté,	The Passion of Joan of Arc,	
-Marguerite Beaugé,	The Passion of Joan of Arc,	
-Carl Theodor Dreyer,	The Passion of Joan of Arc,	
-Valentine Hugo,	The Passion of Joan of Arc,	
-John Daly,	Platoon,	
-Derek Gibson,	Platoon,	
-A. Kitman Ho,	Platoon,	
-Georges Delerue,	Platoon,	
-Robert Richardson,	Platoon,	
-Claire Simpson,	Platoon,	
-Pat Golden,	Platoon,	
-Warren MacLean,	Platoon,	
-Bob Morones,	Platoon,	
-Bruno Rubeo,	Platoon,	
-Rodell Cruz,	Platoon,	
-Sherman Williams,	Platoon,	
-Yves De Bono,	Platoon,	
-Barbara Harris,	Platoon,	
-Gabriel Byrne,	In the Name of the Father,	
-Terry George,	In the Name of the Father,	
-Nye Heron,	In the Name of the Father,	
-Trevor Jones,	In the Name of the Father,	
-Peter Biziou,	In the Name of the Father,	
-Gerry Hambling,	In the Name of the Father,	
-Nuala Moiselle,	In the Name of the Father,	
-Patsy Pollock,	In the Name of the Father,	
-Caroline Amies,	In the Name of the Father,	
-Rick Butler,	In the Name of the Father,	
-Joan Bergin,	In the Name of the Father,	
-Michael Dawson,	In the Name of the Father,	
-Kent Houston,	In the Name of the Father,	
-Martin Body,	In the Name of the Father,	
-Beverley Keogh,	In the Name of the Father,	
-Frank Moiselle,	In the Name of the Father,	
-Fred C. Caruso,	Network,	
-Howard Gottfried,	Network,	
-Elliot Lawrence,	Network,	
-Owen Roizman,	Network,	
-Alan Heim,	Network,	
-Juliet Taylor,	Network,	
-Philip Rosenberg,	Network,	
-Edward Stewart,	Network,	
-Theoni V. Aldredge,	Network,	
-Raynold Gideon,	Stand by Me,	
-Andrew Scheinman,	Stand by Me,	
-Jack Nitzsche,	Stand by Me,	
-Thomas Del Ruth,	Stand by Me,	
-Robert Leighton,	Stand by Me,	
-Janet Hirshenson,	Stand by Me,	
-Jane Jenkins,	Stand by Me,	
-J. Dennis Washington,	Stand by Me,	
-Richard D. Kent,	Stand by Me,	
-Henry Millar,	Stand by Me,	
-Rick Thompson,	Stand by Me,	
-Ken Marschall,	Stand by Me,	
-Tim Donahue,	Stand by Me,	
-Michael Hirshenson,	Stand by Me,	
-Roberto Cicutto,	Hotel Rwanda,	
-Izidore Codron,	Hotel Rwanda,	
-Rupert Gregson-Williams,	Hotel Rwanda,	
-Andrea Guerra,	Hotel Rwanda,	
-Robert Fraisse,	Hotel Rwanda,	
-Naomi Geraghty,	Hotel Rwanda,	
-Moonyeenn Lee,	Hotel Rwanda,	
-Richard Pagano,	Hotel Rwanda,	
-Sarah Trevis,	Hotel Rwanda,	
-Johnny Breedt,	Hotel Rwanda,	
-Tony Burrough,	Hotel Rwanda,	
-Emma MacDevitt,	Hotel Rwanda,	
-Ruy Filipe,	Hotel Rwanda,	
-Stephen Elson,	Hotel Rwanda,	
-Brendan Donnison,	Hotel Rwanda,	
-Wes Anderson,	The Grand Budapest Hotel,	
-Eli Bush,	The Grand Budapest Hotel,	
-Molly Cooper,	The Grand Budapest Hotel,	
-Alexandre Desplat,	The Grand Budapest Hotel,	
-Robert D. Yeoman,	The Grand Budapest Hotel,	
-Barney Pilling,	The Grand Budapest Hotel,	
-Douglas Aibel,	The Grand Budapest Hotel,	
-Antoinette Boulat,	The Grand Budapest Hotel,	
-Simone Bär,	The Grand Budapest Hotel,	
-Adam Stockhausen,	The Grand Budapest Hotel,	
-Stephan O. Gessler,	The Grand Budapest Hotel,	
-Gerald Sullivan,	The Grand Budapest Hotel,	
-Steve Summersgill,	The Grand Budapest Hotel,	
-Anna Pinnock,	The Grand Budapest Hotel,	
-Milena Canonero,	The Grand Budapest Hotel,	
-Holger Delfs,	The Grand Budapest Hotel,	
-Jan Burda,	The Grand Budapest Hotel,	
-Nicolas Cadorette Vigneau,	The Grand Budapest Hotel,	
-Henry Russell Bergstein,	The Grand Budapest Hotel,	
-Deborah Maxwell Dion,	The Grand Budapest Hotel,	
-Aleksandra Demidova,	Stalker,	
-Eduard Artemev,	Stalker,	
-Aleksandr Knyazhinsky,	Stalker,	
-Georgi Rerberg,	Stalker,	
-Leonid Kalashnikov,	Stalker,	
-Lyudmila Feiginova,	Stalker,	
-Aleksandr Boym,	Stalker,	
-Andrei Tarkovsky,	Stalker,	
-Nelli Fomina,	Stalker,	
-Raymond Borderie,	The Wages of Fear,	
-Henri-Georges Clouzot,	The Wages of Fear,	
-Georges Auric,	The Wages of Fear,	
-Armand Thirard,	The Wages of Fear,	
-Madeleine Gug,	The Wages of Fear,	
-Henri Rust,	The Wages of Fear,	
-René Renoux,	The Wages of Fear,	
-René Renoux,	The Wages of Fear,	
-Sam Zimbalist,	Ben-Hur,	
-Sol C. Siegel,	Ben-Hur,	
-Miklós Rózsa,	Ben-Hur,	
-Robert Surtees,	Ben-Hur,	
-John D. Dunning,	Ben-Hur,	
-Ralph E. Winters,	Ben-Hur,	
-Margaret Booth,	Ben-Hur,	
-Irene Howard,	Ben-Hur,	
-Vittorio Valentini,	Ben-Hur,	
-Edward C. Carfagno,	Ben-Hur,	
-William A. Horning,	Ben-Hur,	
-Hugh Hunt,	Ben-Hur,	
-Elizabeth Haffenden,	Ben-Hur,	
-Umberto Dessena,	Ben-Hur,	
-A. Arnold Gillespie,	Ben-Hur,	
-Robert R. Hoag,	Ben-Hur,	
-Lee LeBlanc,	Ben-Hur,	
-Ingmar Bergman,	Persona,	
-Lars Johan Werle,	Persona,	
-Sven Nykvist,	Persona,	
-Ulla Ryghe,	Persona,	
-Bibi Lindström,	Persona,	
-Mago,	Persona,	
-Edward S. Feldman,	The Truman Show,	
-Andrew Niccol,	The Truman Show,	
-Lynn Pleshette,	The Truman Show,	
-Burkhard von Dallwitz,	The Truman Show,	
-Peter Biziou,	The Truman Show,	
-William M. Anderson,	The Truman Show,	
-Lee Smith,	The Truman Show,	
-Howard Feuer,	The Truman Show,	
-Dennis Gassner,	The Truman Show,	
-Nancy Haigh,	The Truman Show,	
-Marilyn Matthews,	The Truman Show,	
-Larz Anderson,	The Truman Show,	
-Peter Chesney,	The Truman Show,	
-Craig Barron,	The Truman Show,	
-Travis Baumann,	The Truman Show,	
-Barbara Harris,	The Truman Show,	
-Ellen Jacoby,	The Truman Show,	
-Clint Eastwood,	Million Dollar Baby,	
-Paul Haggis,	Million Dollar Baby,	
-Robert Lorenz,	Million Dollar Baby,	
-Clint Eastwood,	Million Dollar Baby,	
-Tom Stern,	Million Dollar Baby,	
-Joel Cox,	Million Dollar Baby,	
-Phyllis Huffman,	Million Dollar Baby,	
-Henry Bumstead,	Million Dollar Baby,	
-Jack G. Taylor Jr.,	Million Dollar Baby,	
-Richard C. Goddard,	Million Dollar Baby,	
-Deborah Hopper,	Million Dollar Baby,	
-Steve Riley,	Million Dollar Baby,	
-Liz Radley,	Million Dollar Baby,	
-Darin McCormick-Millett,	Million Dollar Baby,	
-Geoffrey Miclat,	Million Dollar Baby,	
-François Truffaut,	The 400 Blows,	
-Jean Constantin,	The 400 Blows,	
-Henri Decaë,	The 400 Blows,	
-Marie-Josèphe Yoyotte,	The 400 Blows,	
-Bernard Evein,	The 400 Blows,	
-Michael Bederman,	Spotlight,	
-Kate Churchill,	Spotlight,	
-Bard Dorros,	Spotlight,	
-Howard Shore,	Spotlight,	
-Masanobu Takayanagi,	Spotlight,	
-Tom McArdle,	Spotlight,	
-Kerry Barden,	Spotlight,	
-John Buchan,	Spotlight,	
-Jason Knight,	Spotlight,	
-Stephen H. Carter,	Spotlight,	
-Michaela Cheyne,	Spotlight,	
-Vanessa Knoll,	Spotlight,	
-Shane Vieau,	Spotlight,	
-Wendy Chuck,	Spotlight,	
-Marcus Rait,	Spotlight,	
-Neishaw Ali,	Spotlight,	
-Guillermo Arriaga,	Amores Perros,	
-Raúl Olvera Ferrer,	Amores Perros,	
-Francisco González Compeán,	Amores Perros,	
-Gustavo Santaolalla,	Amores Perros,	
-Rodrigo Prieto,	Amores Perros,	
-Luis Carballar,	Amores Perros,	
-Alejandro González Iñárritu,	Amores Perros,	
-Fernando Pérez Unda,	Amores Perros,	
-Manuel Teil,	Amores Perros,	
-Brigitte Broch,	Amores Perros,	
-Melo Hinojosa,	Amores Perros,	
-Julieta Álvarez,	Amores Perros,	
-Gabriela Diaque,	Amores Perros,	
-Javier Martínez,	Amores Perros,	
-Alejandro Vázquez,	Amores Perros,	
-Jorge Guerrero,	Amores Perros,	
-Sonia Guerrero,	Amores Perros,	
-Gregory Jacobs,	Before Sunrise,	
-Wolfgang Ramml,	Before Sunrise,	
-Fred Frith,	Before Sunrise,	
-Lee Daniel,	Before Sunrise,	
-Sandra Adair,	Before Sunrise,	
-Alycia Aumuller,	Before Sunrise,	
-Judy Henderson,	Before Sunrise,	
-Florian Reichmann,	Before Sunrise,	
-Florentina Welley,	Before Sunrise,	
-Jeff Abberley,	Hachi: A Dog's Tale,	
-Julia Blackman,	Hachi: A Dog's Tale,	
-Jan A.P. Kaczmarek,	Hachi: A Dog's Tale,	
-Ron Fortunato,	Hachi: A Dog's Tale,	
-Kristina Boden,	Hachi: A Dog's Tale,	
-Rick Montgomery,	Hachi: A Dog's Tale,	
-Jordan Jacobs,	Hachi: A Dog's Tale,	
-Deborah Newhall,	Hachi: A Dog's Tale,	
-John Ruggieri,	Hachi: A Dog's Tale,	
-David Isyomin,	Hachi: A Dog's Tale,	
-Deb Green,	Hachi: A Dog's Tale,	
-Jason James,	Hachi: A Dog's Tale,	
-John Foreman,	Butch Cassidy and the Sundance Kid,	
-Paul Monash,	Butch Cassidy and the Sundance Kid,	
-Paul Newman,	Butch Cassidy and the Sundance Kid,	
-Burt Bacharach,	Butch Cassidy and the Sundance Kid,	
-Conrad L. Hall,	Butch Cassidy and the Sundance Kid,	
-John C. Howard,	Butch Cassidy and the Sundance Kid,	
-Richard C. Meyer,	Butch Cassidy and the Sundance Kid,	
-Philip M. Jefferies,	Butch Cassidy and the Sundance Kid,	
-Jack Martin Smith,	Butch Cassidy and the Sundance Kid,	
-Chester L. Bayhi,	Butch Cassidy and the Sundance Kid,	
-Walter M. Scott,	Butch Cassidy and the Sundance Kid,	
-Edith Head,	Butch Cassidy and the Sundance Kid,	
-L.B. Abbott,	Butch Cassidy and the Sundance Kid,	
-Art Cruickshank,	Butch Cassidy and the Sundance Kid,	
-Norman Lear,	The Princess Bride,	
-Steve Nicolaides,	The Princess Bride,	
-Rob Reiner,	The Princess Bride,	
-Mark Knopfler,	The Princess Bride,	
-Adrian Biddle,	The Princess Bride,	
-Robert Leighton,	The Princess Bride,	
-Janet Hirshenson,	The Princess Bride,	
-Jane Jenkins,	The Princess Bride,	
-Norman Garwood,	The Princess Bride,	
-Richard Holland,	The Princess Bride,	
-Keith Pain,	The Princess Bride,	
-Maggie Gray,	The Princess Bride,	
-Phyllis Dalton,	The Princess Bride,	
-Nick Allder,	The Princess Bride,	
-Kent Houston,	The Princess Bride,	
-Michael Hirshenson,	The Princess Bride,	
-Fred Berger,	La La Land,	
-Michael Beugg,	La La Land,	
-Gary Gilbert,	La La Land,	
-Justin Hurwitz,	La La Land,	
-Linus Sandgren,	La La Land,	
-Tom Cross,	La La Land,	
-Deborah Aquila,	La La Land,	
-Tricia Wood,	La La Land,	
-David Wasco,	La La Land,	
-Austin Gorg,	La La Land,	
-Sandy Reynolds-Wasco,	La La Land,	
-Mary Zophres,	La La Land,	
-Jeremy Hays,	La La Land,	
-Steve Shines,	La La Land,	
-Johnny Gidcomb,	La La Land,	
-Henry Blanke,	The Maltese Falcon,	
-Hal B. Wallis,	The Maltese Falcon,	
-Adolph Deutsch,	The Maltese Falcon,	
-Arthur Edeson,	The Maltese Falcon,	
-Thomas Richards,	The Maltese Falcon,	
-Robert M. Haas,	The Maltese Falcon,	
-Orry-Kelly,	The Maltese Falcon,	
-Shital Bhatia,	A Wednesday,	
-Rajesh Ganguly,	A Wednesday,	
-Sanjoy Chowdhury,	A Wednesday,	
-Fuwad Khan,	A Wednesday,	
-Shree Narayan Singh,	A Wednesday,	
-Nunnally Johnson,	The Grapes of Wrath,	
-Darryl F. Zanuck,	The Grapes of Wrath,	
-Alfred Newman,	The Grapes of Wrath,	
-Gregg Toland,	The Grapes of Wrath,	
-Robert L. Simpson,	The Grapes of Wrath,	
-Richard Day,	The Grapes of Wrath,	
-Mark-Lee Kirk,	The Grapes of Wrath,	
-Thomas Little,	The Grapes of Wrath,	
-Gwen Wakeling,	The Grapes of Wrath,	
-Dino De Laurentiis,	The Nights of Cabiria,	
-Nino Rota,	The Nights of Cabiria,	
-Aldo Tonti,	The Nights of Cabiria,	
-Leo Cattozzo,	The Nights of Cabiria,	
-Piero Gherardi,	The Nights of Cabiria,	
-Piero Gherardi,	The Nights of Cabiria,	
-Darla K. Anderson,	Monsters, Inc.,	
-Karen Dufilho-Rosen,	Monsters, Inc.,	
-John Lasseter,	Monsters, Inc.,	
-Randy Newman,	Monsters, Inc.,	
-Robert Grahamjones,	Monsters, Inc.,	
-Jim Stewart,	Monsters, Inc.,	
-Matthew Jon Beck,	Monsters, Inc.,	
-Mary Hidalgo,	Monsters, Inc.,	
-Ruth Lambert,	Monsters, Inc.,	
-Harley Jessup,	Monsters, Inc.,	
-Bob Pauley,	Monsters, Inc.,	
-Tia W. Kratter,	Monsters, Inc.,	
-Dominique Louis,	Monsters, Inc.,	
-Mark Adams,	Monsters, Inc.,	
-Paul Aichele,	Monsters, Inc.,	
-Mickie McGowan,	Monsters, Inc.,	
-Henri-Georges Clouzot,	Diabolique,	
-Georges Lourau,	Diabolique,	
-Georges Van Parys,	Diabolique,	
-Armand Thirard,	Diabolique,	
-Madeleine Gug,	Diabolique,	
-Léon Barsacq,	Diabolique,	
-Carven,	Diabolique,	
-Jan Harlan,	Barry Lyndon,	
-Stanley Kubrick,	Barry Lyndon,	
-Bernard Williams,	Barry Lyndon,	
-John Alcott,	Barry Lyndon,	
-Tony Lawson,	Barry Lyndon,	
-James Liggat,	Barry Lyndon,	
-Ken Adam,	Barry Lyndon,	
-Roy Walker,	Barry Lyndon,	
-Milena Canonero,	Barry Lyndon,	
-Ulla-Britt Söderlund,	Barry Lyndon,	
-Gerry Johnston,	Barry Lyndon,	
-Peter Bogdanovich,	Paper Moon,	
-Frank Marshall,	Paper Moon,	
-Francis Ford Coppola,	Paper Moon,	
-László Kovács,	Paper Moon,	
-Verna Fields,	Paper Moon,	
-Gary Chason,	Paper Moon,	
-Polly Platt,	Paper Moon,	
-John P. Austin,	Paper Moon,	
-Polly Platt,	Paper Moon,	
-Richard Attenborough,	Gandhi,	
-Suresh Jindal,	Gandhi,	
-Ravi Shankar,	Gandhi,	
-Ronnie Taylor,	Gandhi,	
-Billy Williams,	Gandhi,	
-John Bloom,	Gandhi,	
-Susie Figgis,	Gandhi,	
-Stuart Craig,	Gandhi,	
-Norman Dorme,	Gandhi,	
-Robert W. Laing,	Gandhi,	
-Ram Yedekar,	Gandhi,	
-Michael Seirton,	Gandhi,	
-Bhanu Athaiya,	Gandhi,	
-John Mollo,	Gandhi,	
-Gary Shaw,	Gandhi,	
-Shailendra Goel,	Gandhi,	
-Albert Zugsmith,	Touch of Evil,	
-Henry Mancini,	Touch of Evil,	
-Russell Metty,	Touch of Evil,	
-Walter Murch,	Touch of Evil,	
-Aaron Stell,	Touch of Evil,	
-Virgil W. Vogel,	Touch of Evil,	
-Robert Clatworthy,	Touch of Evil,	
-Alexander Golitzen,	Touch of Evil,	
-John P. Austin,	Touch of Evil,	
-Russell A. Gausman,	Touch of Evil,	
-Bill Thomas,	Touch of Evil,	
-John Daly,	The Terminator,	
-Derek Gibson,	The Terminator,	
-Gale Anne Hurd,	The Terminator,	
-Brad Fiedel,	The Terminator,	
-Adam Greenberg,	The Terminator,	
-Mark Goldblatt,	The Terminator,	
-Stanzi Stokes,	The Terminator,	
-Maria Caso,	The Terminator,	
-George Costello,	The Terminator,	
-Maria Caso,	The Terminator,	
-Hilary Wright,	The Terminator,	
-Ellis Burman Jr.,	The Terminator,	
-Doug Beswick,	The Terminator,	
-Greg Robbins,	The Terminator,	
-Michael Thomas Slifkin,	The Terminator,	
-Adeline Lecallier,	La Haine,	
-Alain Rocca,	La Haine,	
-Christophe Rossignon,	La Haine,	
-Assassin,	La Haine,	
-Pierre Aïm,	La Haine,	
-Mathieu Kassovitz,	La Haine,	
-Scott Stevenson,	La Haine,	
-Giuseppe Ponturo,	La Haine,	
-Rodolphe Chabrier,	La Haine,	
-Antoine Simkine,	La Haine,	
-Trevor Albert,	Groundhog Day,	
-C.O. Erickson,	Groundhog Day,	
-Harold Ramis,	Groundhog Day,	
-George Fenton,	Groundhog Day,	
-John Bailey,	Groundhog Day,	
-Pembroke J. Herring,	Groundhog Day,	
-Howard Feuer,	Groundhog Day,	
-David Nichols,	Groundhog Day,	
-Peter Landsdown Smith,	Groundhog Day,	
-Lisa Fischer,	Groundhog Day,	
-Jennifer Butler,	Groundhog Day,	
-Tom Ryba,	Groundhog Day,	
-Nicole Arbusto,	Groundhog Day,	
-Mervyn LeRoy,	The Wizard of Oz,	
-Arthur Freed,	The Wizard of Oz,	
-Harold Rosson,	The Wizard of Oz,	
-Blanche Sewell,	The Wizard of Oz,	
-Leonard Murphy,	The Wizard of Oz,	
-Malcolm Brown,	The Wizard of Oz,	
-William A. Horning,	The Wizard of Oz,	
-Jack Martin Smith,	The Wizard of Oz,	
-Cedric Gibbons,	The Wizard of Oz,	
-Edwin B. Willis,	The Wizard of Oz,	
-Adrian,	The Wizard of Oz,	
-A. Arnold Gillespie,	The Wizard of Oz,	
-Marcel Delgado,	The Wizard of Oz,	
-Chris Del Conte,	The Wizard of Oz,	
-Steven Haft,	Dead Poets Society,	
-Duncan Henderson,	Dead Poets Society,	
-Paul Junger Witt,	Dead Poets Society,	
-Maurice Jarre,	Dead Poets Society,	
-John Seale,	Dead Poets Society,	
-William M. Anderson,	Dead Poets Society,	
-Howard Feuer,	Dead Poets Society,	
-Wendy Stites,	Dead Poets Society,	
-Sandy Veneziano,	Dead Poets Society,	
-John H. Anderson,	Dead Poets Society,	
-Allen Hall,	Dead Poets Society,	
-John S. Baker,	Dead Poets Society,	
-Shirley Fulton Crumley,	Dead Poets Society,	
-Fred T. Gallo,	Annie Hall,	
-Robert Greenhut,	Annie Hall,	
-Charles H. Joffe,	Annie Hall,	
-Gordon Willis,	Annie Hall,	
-Wendy Greene Bricmont,	Annie Hall,	
-Ralph Rosenblum,	Annie Hall,	
-Juliet Taylor,	Annie Hall,	
-Mel Bourne,	Annie Hall,	
-Robert Drumheller,	Annie Hall,	
-Justin Scoppa Jr.,	Annie Hall,	
-Ruth Morley,	Annie Hall,	
-Aaron Beckwith,	Annie Hall,	
-Angelo Rizzoli,	8½,	
-Nino Rota,	8½,	
-Gianni Di Venanzo,	8½,	
-Leo Cattozzo,	8½,	
-Piero Gherardi,	8½,	
-Piero Gherardi,	8½,	
-Piero Gherardi,	8½,	
-Leonor Fini,	8½,	
-Ye-cheng Chan,	In the Mood for Love,	
-William Chang,	In the Mood for Love,	
-Michael Galasso,	In the Mood for Love,	
-Umebayashi Shigeru,	In the Mood for Love,	
-Christopher Doyle,	In the Mood for Love,	
-Kwan Pung-Leung,	In the Mood for Love,	
-Mark Lee Ping-Bing,	In the Mood for Love,	
-William Chang,	In the Mood for Love,	
-William Chang,	In the Mood for Love,	
-William Chang,	In the Mood for Love,	
-Samuel Goldwyn,	The Best Years of Our Lives,	
-Lester Koenig,	The Best Years of Our Lives,	
-Hugo Friedhofer,	The Best Years of Our Lives,	
-Gregg Toland,	The Best Years of Our Lives,	
-Daniel Mandell,	The Best Years of Our Lives,	
-Perry Ferguson,	The Best Years of Our Lives,	
-George Jenkins,	The Best Years of Our Lives,	
-Julia Heron,	The Best Years of Our Lives,	
-Irene Sharaff,	The Best Years of Our Lives,	
-John P. Fulton,	The Best Years of Our Lives,	
-Harry Redmond Sr.,	The Best Years of Our Lives,	
-Anatole Dauman,	Paris, Texas,	
-Pascale Dauman,	Paris, Texas,	
-Don Guest,	Paris, Texas,	
-Ry Cooder,	Paris, Texas,	
-Robby Müller,	Paris, Texas,	
-Peter Przygodda,	Paris, Texas,	
-Gary Chason,	Paris, Texas,	
-Kate Altman,	Paris, Texas,	
-Birgitta Bjerke,	Paris, Texas,	
-Sheila Possner Emery,	Paris, Texas,	
-Ellen Chang,	Infernal Affairs,	
-Lorraine Ho,	Infernal Affairs,	
-Kwong Wing Chan,	Infernal Affairs,	
-Ronald Ng,	Infernal Affairs,	
-Yiu-Fai Lai,	Infernal Affairs,	
-Andrew Lau,	Infernal Affairs,	
-Curran Pang,	Infernal Affairs,	
-Danny Pang,	Infernal Affairs,	
-Choo Sung Pong,	Infernal Affairs,	
-Pik Kwan Lee,	Infernal Affairs,	
-Robert Cavallo,	Twelve Monkeys,	
-Mark Egerton,	Twelve Monkeys,	
-Robert Kosberg,	Twelve Monkeys,	
-Paul Buckmaster,	Twelve Monkeys,	
-Roger Pratt,	Twelve Monkeys,	
-Mick Audsley,	Twelve Monkeys,	
-Margery Simkin,	Twelve Monkeys,	
-Jeffrey Beecroft,	Twelve Monkeys,	
-William Ladd Skinner,	Twelve Monkeys,	
-Crispian Sallis,	Twelve Monkeys,	
-Julie Weiss,	Twelve Monkeys,	
-David Acord,	Twelve Monkeys,	
-Richard Bain,	Twelve Monkeys,	
-Martin Body,	Twelve Monkeys,	
-Sneha Khanwalkar,	Gangs of Wasseypur,	
-Rajeev Ravi,	Gangs of Wasseypur,	
-Mukesh Chhabra,	Gangs of Wasseypur,	
-Wasiq Khan,	Gangs of Wasseypur,	
-Aakash Dahiya,	Gangs of Wasseypur,	
-John Sloss,	Before Sunset,	
-Anne Walker-McBay,	Before Sunset,	
-Lee Daniel,	Before Sunset,	
-Sandra Adair,	Before Sunset,	
-Baptiste Glaymann,	Before Sunset,	
-Thierry Delettre,	Before Sunset,	
-Annette Trumel,	Before Sunset,	
-Antonio Musu,	The Battle of Algiers,	
-Yacef Saadi,	The Battle of Algiers,	
-Fred Baker,	The Battle of Algiers,	
-Ennio Morricone,	The Battle of Algiers,	
-Gillo Pontecorvo,	The Battle of Algiers,	
-Marcello Gatti,	The Battle of Algiers,	
-Mario Morra,	The Battle of Algiers,	
-Mario Serandrei,	The Battle of Algiers,	
-Sergio Canevari,	The Battle of Algiers,	
-Sergio Canevari,	The Battle of Algiers,	
-Aldo Gasparri,	The Battle of Algiers,	
-Howard Ashman,	Beauty and the Beast,	
-Don Hahn,	Beauty and the Beast,	
-John Lasseter,	Beauty and the Beast,	
-Alan Menken,	Beauty and the Beast,	
-John Carnochan,	Beauty and the Beast,	
-Ellen Keneshea,	Beauty and the Beast,	
-Bill Wilner,	Beauty and the Beast,	
-Albert Tavares,	Beauty and the Beast,	
-Brian McEntee,	Beauty and the Beast,	
-Bob Bennett,	Beauty and the Beast,	
-Matthew Messinger,	Beauty and the Beast,	
-Mickie McGowan,	Beauty and the Beast,	
+Liz Glotzer%	The Shawshank Redemption%	
+David V. Lester%	The Shawshank Redemption%	
+Niki Marvin%	The Shawshank Redemption%	
+Thomas Newman%	The Shawshank Redemption%	
+Roger Deakins%	The Shawshank Redemption%	
+Richard Francis-Bruce%	The Shawshank Redemption%	
+Deborah Aquila%	The Shawshank Redemption%	
+Terence Marsh%	The Shawshank Redemption%	
+Peter Landsdown Smith%	The Shawshank Redemption%	
+Michael Seirton%	The Shawshank Redemption%	
+Elizabeth McBride%	The Shawshank Redemption%	
+Bob Williams%	The Shawshank Redemption%	
+Melissa Taylor%	The Shawshank Redemption%	
+Barbara Harris%	The Shawshank Redemption%	
+Gray Frederickson%	The Godfather%	
+Albert S. Ruddy%	The Godfather%	
+Robert Evans%	The Godfather%	
+Nino Rota%	The Godfather%	
+Gordon Willis%	The Godfather%	
+William Reynolds%	The Godfather%	
+Peter Zinner%	The Godfather%	
+Louis DiGiaimo%	The Godfather%	
+Andrea Eastman%	The Godfather%	
+Fred Roos%	The Godfather%	
+Dean Tavoularis%	The Godfather%	
+Warren Clymer%	The Godfather%	
+Philip Smith%	The Godfather%	
+Anna Hill Johnstone%	The Godfather%	
+Sass Bedig%	The Godfather%	
+Joe Lombardi%	The Godfather%	
+Francis Ford Coppola%	The Godfather: Part II%	
+Gray Frederickson%	The Godfather: Part II%	
+Fred Roos%	The Godfather: Part II%	
+Nino Rota%	The Godfather: Part II%	
+Gordon Willis%	The Godfather: Part II%	
+Barry Malkin%	The Godfather: Part II%	
+Richard Marks%	The Godfather: Part II%	
+Peter Zinner%	The Godfather: Part II%	
+Jane Feinberg%	The Godfather: Part II%	
+Mike Fenton%	The Godfather: Part II%	
+Vic Ramos%	The Godfather: Part II%	
+Dean Tavoularis%	The Godfather: Part II%	
+Angelo P. Graham%	The Godfather: Part II%	
+John Dapper%	The Godfather: Part II%	
+George R. Nelson%	The Godfather: Part II%	
+Theadora Van Runkle%	The Godfather: Part II%	
+Joe Lombardi%	The Godfather: Part II%	
+Maurizio Lucci%	The Godfather: Part II%	
+Maurice Schell%	The Godfather: Part II%	
+Kevin De La Noy%	The Dark Knight%	
+Jordan Goldberg%	The Dark Knight%	
+Philip Lee%	The Dark Knight%	
+James Newton Howard%	The Dark Knight%	
+Hans Zimmer%	The Dark Knight%	
+Wally Pfister%	The Dark Knight%	
+Lee Smith%	The Dark Knight%	
+John Papsidera%	The Dark Knight%	
+Lucinda Syson%	The Dark Knight%	
+Barbara Harris%	The Dark Knight%	
+Nathan Crowley%	The Dark Knight%	
+Mark Bartholomew%	The Dark Knight%	
+James Hambidge%	The Dark Knight%	
+Craig Jackson%	The Dark Knight%	
+Peter Lando%	The Dark Knight%	
+Lindy Hemming%	The Dark Knight%	
+Victor Abbene%	The Dark Knight%	
+Nicholas Gall%	The Dark Knight%	
+Elaine Grainger%	The Dark Knight%	
+Henry Fonda%	12 Angry Men%	
+George Justin%	12 Angry Men%	
+Reginald Rose%	12 Angry Men%	
+Kenyon Hopkins%	12 Angry Men%	
+Boris Kaufman%	12 Angry Men%	
+Carl Lerner%	12 Angry Men%	
+Robert Markel%	12 Angry Men%	
+Alberto Grimaldi%	The Good, the Bad and the Ugly%	
+Ennio Morricone%	The Good, the Bad and the Ugly%	
+Tonino Delli Colli%	The Good, the Bad and the Ugly%	
+Eugenio Alabiso%	The Good, the Bad and the Ugly%	
+Nino Baragli%	The Good, the Bad and the Ugly%	
+Carlo Simi%	The Good, the Bad and the Ugly%	
+Carlo Simi%	The Good, the Bad and the Ugly%	
+Eros Bacciucchi%	The Good, the Bad and the Ugly%	
+Giovanni Corridori%	The Good, the Bad and the Ugly%	
+Wendy Finerman%	Forrest Gump%	
+Charles Newirth%	Forrest Gump%	
+Steve Starkey%	Forrest Gump%	
+Alan Silvestri%	Forrest Gump%	
+Don Burgess%	Forrest Gump%	
+Arthur Schmidt%	Forrest Gump%	
+Ellen Lewis%	Forrest Gump%	
+Rick Carter%	Forrest Gump%	
+Leslie McDonald%	Forrest Gump%	
+William James Teegarden%	Forrest Gump%	
+Nancy Haigh%	Forrest Gump%	
+Joanna Johnston%	Forrest Gump%	
+Allen Hall%	Forrest Gump%	
+Leah Anton%	Forrest Gump%	
+Tona B. Dahlquist%	Forrest Gump%	
+Tracy Kilpatrick%	Forrest Gump%	
+Jim Bloom%	Star Wars: Episode V - The Empire Strikes Back%	
+Gary Kurtz%	Star Wars: Episode V - The Empire Strikes Back%	
+George Lucas%	Star Wars: Episode V - The Empire Strikes Back%	
+John Williams%	Star Wars: Episode V - The Empire Strikes Back%	
+Peter Suschitzky%	Star Wars: Episode V - The Empire Strikes Back%	
+Paul Hirsch%	Star Wars: Episode V - The Empire Strikes Back%	
+George Lucas%	Star Wars: Episode V - The Empire Strikes Back%	
+Irene Lamb%	Star Wars: Episode V - The Empire Strikes Back%	
+Terry Liebling%	Star Wars: Episode V - The Empire Strikes Back%	
+Norman Reynolds%	Star Wars: Episode V - The Empire Strikes Back%	
+Leslie Dilley%	Star Wars: Episode V - The Empire Strikes Back%	
+Harry Lange%	Star Wars: Episode V - The Empire Strikes Back%	
+Alan Tomkins%	Star Wars: Episode V - The Empire Strikes Back%	
+Michael Ford%	Star Wars: Episode V - The Empire Strikes Back%	
+John Mollo%	Star Wars: Episode V - The Empire Strikes Back%	
+Nick Allder%	Star Wars: Episode V - The Empire Strikes Back%	
+Alan Bryce%	Star Wars: Episode V - The Empire Strikes Back%	
+Peter Amundson%	Star Wars: Episode V - The Empire Strikes Back%	
+Zakaria Alaoui%	Inception%	
+John Bernard%	Inception%	
+Chris Brigham%	Inception%	
+Hans Zimmer%	Inception%	
+Wally Pfister%	Inception%	
+Lee Smith%	Inception%	
+John Papsidera%	Inception%	
+Guy Dyas%	Inception%	
+Luke Freeborn%	Inception%	
+Brad Ricker%	Inception%	
+Dean Wolcott%	Inception%	
+Larry Dias%	Inception%	
+Douglas A. Mowat%	Inception%	
+Jeffrey Kurland%	Inception%	
+Victor Abbene%	Inception%	
+Michael Douglas%	One Flew Over the Cuckoo's Nest%	
+Martin Fink%	One Flew Over the Cuckoo's Nest%	
+Saul Zaentz%	One Flew Over the Cuckoo's Nest%	
+Jack Nitzsche%	One Flew Over the Cuckoo's Nest%	
+Haskell Wexler%	One Flew Over the Cuckoo's Nest%	
+Sheldon Kahn%	One Flew Over the Cuckoo's Nest%	
+Lynzee Klingman%	One Flew Over the Cuckoo's Nest%	
+Jane Feinberg%	One Flew Over the Cuckoo's Nest%	
+Mike Fenton%	One Flew Over the Cuckoo's Nest%	
+Paul Sylbert%	One Flew Over the Cuckoo's Nest%	
+Edwin O'Donovan%	One Flew Over the Cuckoo's Nest%	
+Aggie Guerard Rodgers%	One Flew Over the Cuckoo's Nest%	
+Bruce Berman%	The Matrix%	
+Dan Cracchiolo%	The Matrix%	
+Carol Hughes%	The Matrix%	
+Don Davis%	The Matrix%	
+Bill Pope%	The Matrix%	
+Zach Staenberg%	The Matrix%	
+Mali Finn%	The Matrix%	
+Shauna Wolifson%	The Matrix%	
+Owen Paterson%	The Matrix%	
+Hugh Bateup%	The Matrix%	
+Michelle McGahey%	The Matrix%	
+Lisa Brennan%	The Matrix%	
+Kym Barrett%	The Matrix%	
+Brian Belcher%	The Matrix%	
+Maureen Whalen%	The Matrix%	
+Andrea Barata Ribeiro%	City of God%	
+Marc Beauchamps%	City of God%	
+Bel Berlinck%	City of God%	
+Ed Cortês%	City of God%	
+Antonio Pinto%	City of God%	
+César Charlone%	City of God%	
+Daniel Rezende%	City of God%	
+Tulé Peak%	City of God%	
+Bia Salgado%	City of God%	
+Inês Salgado%	City of God%	
+Renato Batata%	City of God%	
+Gary Kurtz%	Star Wars: Episode IV - A New Hope%	
+George Lucas%	Star Wars: Episode IV - A New Hope%	
+Rick McCallum%	Star Wars: Episode IV - A New Hope%	
+John Williams%	Star Wars: Episode IV - A New Hope%	
+Gilbert Taylor%	Star Wars: Episode IV - A New Hope%	
+Richard Chew%	Star Wars: Episode IV - A New Hope%	
+Paul Hirsch%	Star Wars: Episode IV - A New Hope%	
+Dianne Crittenden%	Star Wars: Episode IV - A New Hope%	
+Irene Lamb%	Star Wars: Episode IV - A New Hope%	
+Vic Ramos%	Star Wars: Episode IV - A New Hope%	
+John Barry%	Star Wars: Episode IV - A New Hope%	
+Leslie Dilley%	Star Wars: Episode IV - A New Hope%	
+Norman Reynolds%	Star Wars: Episode IV - A New Hope%	
+Roger Christian%	Star Wars: Episode IV - A New Hope%	
+John Mollo%	Star Wars: Episode IV - A New Hope%	
+John Stears%	Star Wars: Episode IV - A New Hope%	
+Karen Ansel%	Star Wars: Episode IV - A New Hope%	
+Frank Capra%	It's a Wonderful Life%	
+Dimitri Tiomkin%	It's a Wonderful Life%	
+Joseph F. Biroc%	It's a Wonderful Life%	
+Joseph Walker%	It's a Wonderful Life%	
+Victor Milner%	It's a Wonderful Life%	
+William Hornbeck%	It's a Wonderful Life%	
+Jack Okey%	It's a Wonderful Life%	
+William Cameron Menzies%	It's a Wonderful Life%	
+Emile Kuri%	It's a Wonderful Life%	
+Edward Stevenson%	It's a Wonderful Life%	
+Russell A. Cully%	It's a Wonderful Life%	
+Daniel Hays%	It's a Wonderful Life%	
+Gianluigi Braschi%	Life Is Beautiful%	
+Mario Cotone%	Life Is Beautiful%	
+John M. Davis%	Life Is Beautiful%	
+Nicola Piovani%	Life Is Beautiful%	
+Tonino Delli Colli%	Life Is Beautiful%	
+Simona Paggi%	Life Is Beautiful%	
+Danilo Donati%	Life Is Beautiful%	
+Danilo Donati%	Life Is Beautiful%	
+Danilo Donati%	Life Is Beautiful%	
+Giovanni Corridori%	Life Is Beautiful%	
+Mark Bennett%	Life Is Beautiful%	
+Savannah Haske%	Life Is Beautiful%	
+Jenny Basen%	Interstellar%	
+Hans Zimmer%	Interstellar%	
+Hoyte van Hoytema%	Interstellar%	
+Lee Smith%	Interstellar%	
+John Papsidera%	Interstellar%	
+Nathan Crowley%	Interstellar%	
+Kendelle Elliott%	Interstellar%	
+Eggert Ketilsson%	Interstellar%	
+David F. Klassen%	Interstellar%	
+Gary Fettis%	Interstellar%	
+Mary Zophres%	Interstellar%	
+Ryan Arndt%	Interstellar%	
+Deanna Brigidi%	Interstellar%	
+Barbara Harris%	Interstellar%	
+Frank Darabont%	The Green Mile%	
+David Valdes%	The Green Mile%	
+Thomas Newman%	The Green Mile%	
+David Tattersall%	The Green Mile%	
+Richard Francis-Bruce%	The Green Mile%	
+Mali Finn%	The Green Mile%	
+Terence Marsh%	The Green Mile%	
+William Cruse%	The Green Mile%	
+Michael Seirton%	The Green Mile%	
+Karyn Wagner%	The Green Mile%	
+Luke Khanlian%	The Green Mile%	
+Craig Barron%	The Green Mile%	
+Thomas Clary%	The Green Mile%	
+Barbara Harris%	The Green Mile%	
+Bill Carraro%	American History X%	
+Michael DeLuca%	American History X%	
+Anne Dudley%	American History X%	
+Tony Kaye%	American History X%	
+Gerald B. Greenberg%	American History X%	
+Alan Heim%	American History X%	
+Valerie McCaffrey%	American History X%	
+Jon Gary Steele%	American History X%	
+J. Kyler Black%	American History X%	
+Dan Olexiewicz%	American History X%	
+Tessa Posnansky%	American History X%	
+Doug Hall%	American History X%	
+Thomas L. Bellissimo%	American History X%	
+Joe Adams%	American History X%	
+Bill Dance%	American History X%	
+Alfred Hitchcock%	Psycho%	
+Bernard Herrmann%	Psycho%	
+John L. Russell%	Psycho%	
+George Tomasini%	Psycho%	
+Jere Henshaw%	Psycho%	
+Robert Clatworthy%	Psycho%	
+Joseph Hurley%	Psycho%	
+George Milo%	Psycho%	
+Rita Riggs%	Psycho%	
+Clarence Champagne%	Psycho%	
+Bino Cicogna%	Once Upon a Time in the West%	
+Fulvio Morsella%	Once Upon a Time in the West%	
+Ennio Morricone%	Once Upon a Time in the West%	
+Tonino Delli Colli%	Once Upon a Time in the West%	
+Nino Baragli%	Once Upon a Time in the West%	
+Carlo Simi%	Once Upon a Time in the West%	
+Carlo Simi%	Once Upon a Time in the West%	
+Rafael Ferri%	Once Upon a Time in the West%	
+Carlo Leva%	Once Upon a Time in the West%	
+Carlo Simi%	Once Upon a Time in the West%	
+Antonella Pompei%	Once Upon a Time in the West%	
+Eros Bacciucchi%	Once Upon a Time in the West%	
+Charlie Chaplin%	City Lights%	
+Charlie Chaplin%	City Lights%	
+Gordon Pollock%	City Lights%	
+Roland Totheroh%	City Lights%	
+Charlie Chaplin%	City Lights%	
+Willard Nico%	City Lights%	
+Al Ernest Garcia%	City Lights%	
+Henry Clive%	City Lights%	
+Hal B. Wallis%	Casablanca%	
+Jack Warner%	Casablanca%	
+Max Steiner%	Casablanca%	
+Arthur Edeson%	Casablanca%	
+Owen Marks%	Casablanca%	
+Carl Jules Weyl%	Casablanca%	
+George James Hopkins%	Casablanca%	
+Orry-Kelly%	Casablanca%	
+Lawrence W. Butler%	Casablanca%	
+Willard Van Enger%	Casablanca%	
+Chris Crowell%	Casablanca%	
+Arnaud Bertrand%	The Intouchables%	
+Dominique Boutonnat%	The Intouchables%	
+Ludovico Einaudi%	The Intouchables%	
+Mathieu Vadepied%	The Intouchables%	
+Dorian Rigal-Ansous%	The Intouchables%	
+Gigi Akoka%	The Intouchables%	
+Marie-France Michel%	The Intouchables%	
+François Emmanuelli%	The Intouchables%	
+Mathieu Vadepied%	The Intouchables%	
+Olivia Bloch-Lainé%	The Intouchables%	
+Isabelle Pannetier%	The Intouchables%	
+Laurent Brett%	The Intouchables%	
+Charlie Chaplin%	Modern Times%	
+Charlie Chaplin%	Modern Times%	
+Ira H. Morgan%	Modern Times%	
+Roland Totheroh%	Modern Times%	
+Charlie Chaplin%	Modern Times%	
+Willard Nico%	Modern Times%	
+Al Ernest Garcia%	Modern Times%	
+Charles D. Hall%	Modern Times%	
+J. Russell Spencer%	Modern Times%	
+J. Russell Spencer%	Modern Times%	
+Bud Thackery%	Modern Times%	
+Stephanie Austin%	Terminator 2%	
+James Cameron%	Terminator 2%	
+Gale Anne Hurd%	Terminator 2%	
+Brad Fiedel%	Terminator 2%	
+Adam Greenberg%	Terminator 2%	
+Conrad Buff IV%	Terminator 2%	
+Dody Dorn%	Terminator 2%	
+Mark Goldblatt%	Terminator 2%	
+Mali Finn%	Terminator 2%	
+Joseph C. Nemec III%	Terminator 2%	
+Joseph P. Lucky%	Terminator 2%	
+John M. Dwyer%	Terminator 2%	
+Marlene Stewart%	Terminator 2%	
+Abra Edelman%	Terminator 2%	
+Emily Schweber%	Terminator 2%	
+Paul Cruz%	Terminator 2%	
+Alfred Hitchcock%	Rear Window%	
+Franz Waxman%	Rear Window%	
+Robert Burks%	Rear Window%	
+George Tomasini%	Rear Window%	
+J. McMillan Johnson%	Rear Window%	
+Hal Pereira%	Rear Window%	
+Sam Comer%	Rear Window%	
+Ray Moyer%	Rear Window%	
+Edith Head%	Rear Window%	
+John P. Fulton%	Rear Window%	
+Neil Canton%	Back to the Future%	
+Bob Gale%	Back to the Future%	
+Kathleen Kennedy%	Back to the Future%	
+Alan Silvestri%	Back to the Future%	
+Dean Cundey%	Back to the Future%	
+Harry Keramidas%	Back to the Future%	
+Arthur Schmidt%	Back to the Future%	
+Jane Feinberg%	Back to the Future%	
+Mike Fenton%	Back to the Future%	
+Judy Taylor%	Back to the Future%	
+Lawrence G. Paull%	Back to the Future%	
+Todd Hallowell%	Back to the Future%	
+Hal Gausman%	Back to the Future%	
+Deborah Lynn Scott%	Back to the Future%	
+Ellen E. Lichtwardt%	Back to the Future%	
+Jason Blum%	Whiplash%	
+Nicholas Britell%	Whiplash%	
+Phillip Dawe%	Whiplash%	
+Justin Hurwitz%	Whiplash%	
+Sharone Meir%	Whiplash%	
+Tom Cross%	Whiplash%	
+Terri Taylor%	Whiplash%	
+Melanie Jones%	Whiplash%	
+Hunter Brown%	Whiplash%	
+Karuna Karmarkar%	Whiplash%	
+Lisa Norcia%	Whiplash%	
+Jamison Scott Goei%	Whiplash%	
+Sarah Domeier%	Whiplash%	
+Barbara Harris%	Whiplash%	
+Alice Dewey%	The Lion King%	
+Don Hahn%	The Lion King%	
+Sarah McArthur%	The Lion King%	
+Hans Zimmer%	The Lion King%	
+Ivan Bilancio%	The Lion King%	
+Brian Chavanne%	The Lion King%	
+Chris Sanders%	The Lion King%	
+Rob Bekuhrs%	The Lion King%	
+Barbara Harris%	The Lion King%	
+Ned Lott%	The Lion King%	
+Christopher Ball%	The Prestige%	
+Valerie Dean%	The Prestige%	
+Jordan Goldberg%	The Prestige%	
+David Julyan%	The Prestige%	
+Wally Pfister%	The Prestige%	
+Lee Smith%	The Prestige%	
+John Papsidera%	The Prestige%	
+Nathan Crowley%	The Prestige%	
+Kevin Kavanaugh%	The Prestige%	
+Julie Ochipinti%	The Prestige%	
+Joan Bergin%	The Prestige%	
+David Blitstein%	The Prestige%	
+Barbara Harris%	The Prestige%	
+Christopher Ball%	Memento%	
+Elaine Dysinger%	Memento%	
+Aaron Ryder%	Memento%	
+David Julyan%	Memento%	
+Wally Pfister%	Memento%	
+Dody Dorn%	Memento%	
+John Papsidera%	Memento%	
+Patti Podesta%	Memento%	
+Danielle Berman%	Memento%	
+Cindy Evans%	Memento%	
+Christopher Dusendschon%	Memento%	
+Barbara Harris%	Memento%	
+Wendy O'Brien%	Memento%	
+John Ashley%	Apocalypse Now%	
+Francis Ford Coppola%	Apocalypse Now%	
+Carmine Coppola%	Apocalypse Now%	
+Francis Ford Coppola%	Apocalypse Now%	
+Vittorio Storaro%	Apocalypse Now%	
+Lisa Fruchtman%	Apocalypse Now%	
+Gerald B. Greenberg%	Apocalypse Now%	
+Walter Murch%	Apocalypse Now%	
+Terry Liebling%	Apocalypse Now%	
+Vic Ramos%	Apocalypse Now%	
+Dean Tavoularis%	Apocalypse Now%	
+Angelo P. Graham%	Apocalypse Now%	
+George R. Nelson%	Apocalypse Now%	
+Lawrence J. Cavanaugh%	Apocalypse Now%	
+Charlie Chaplin%	The Great Dictator%	
+Carter DeHaven%	The Great Dictator%	
+Charlie Chaplin%	The Great Dictator%	
+Meredith Willson%	The Great Dictator%	
+Karl Struss%	The Great Dictator%	
+Roland Totheroh%	The Great Dictator%	
+Willard Nico%	The Great Dictator%	
+J. Russell Spencer%	The Great Dictator%	
+Edward G. Boyle%	The Great Dictator%	
+Ralph Hammeras%	The Great Dictator%	
+Jack Cosgrove%	The Great Dictator%	
+Franco Cristaldi%	Cinema Paradiso%	
+Giovanna Romagnoli%	Cinema Paradiso%	
+Ennio Morricone%	Cinema Paradiso%	
+Blasco Giurato%	Cinema Paradiso%	
+Mario Morra%	Cinema Paradiso%	
+Andrea Crisanti%	Cinema Paradiso%	
+Danilo Bollettini%	Cinema Paradiso%	
+Giovanni Corridori%	Cinema Paradiso%	
+Charles Brackett%	Sunset Blvd.%	
+Franz Waxman%	Sunset Blvd.%	
+John F. Seitz%	Sunset Blvd.%	
+Arthur P. Schmidt%	Sunset Blvd.%	
+Hans Dreier%	Sunset Blvd.%	
+John Meehan%	Sunset Blvd.%	
+Sam Comer%	Sunset Blvd.%	
+Ray Moyer%	Sunset Blvd.%	
+Edith Head%	Sunset Blvd.%	
+Farciot Edouart%	Sunset Blvd.%	
+Gordon Jennings%	Sunset Blvd.%	
+Stanley Kubrick%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Victor Lyndon%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Leon Minoff%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Laurie Johnson%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Gilbert Taylor%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Anthony Harvey%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Ken Adam%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Peter Murton%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Wally Veevers%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Alan Bryce%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Arthur 'Weegee' Fellig%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+David Del Rio%	Grave of the Fireflies%	
+Tooru Hara%	Grave of the Fireflies%	
+Michio Mamiya%	Grave of the Fireflies%	
+Nobuo Koyama%	Grave of the Fireflies%	
+Takeshi Seyama%	Grave of the Fireflies%	
+Nizou Yamamoto%	Grave of the Fireflies%	
+Kaoru Tanifuji%	Grave of the Fireflies%	
+Quirin Berg%	The Lives of Others%	
+Claudia Gladziejewski%	The Lives of Others%	
+Dirk Hamm%	The Lives of Others%	
+Stéphane Moucha%	The Lives of Others%	
+Gabriel Yared%	The Lives of Others%	
+Hagen Bogdanski%	The Lives of Others%	
+Patricia Rommel%	The Lives of Others%	
+Simone Bär%	The Lives of Others%	
+Silke Buhr%	The Lives of Others%	
+Christiane Rothe%	The Lives of Others%	
+Frank Noack%	The Lives of Others%	
+Gabriele Binder%	The Lives of Others%	
+Hans Seck%	The Lives of Others%	
+Iris Müller%	The Lives of Others%	
+James B. Harris%	Paths of Glory%	
+Kirk Douglas%	Paths of Glory%	
+Stanley Kubrick%	Paths of Glory%	
+Gerald Fried%	Paths of Glory%	
+Georg Krause%	Paths of Glory%	
+Eva Kroll%	Paths of Glory%	
+Ludwig Reiber%	Paths of Glory%	
+Ilse Dubois%	Paths of Glory%	
+Erwin Lange%	Paths of Glory%	
+Darla K. Anderson%	Coco%	
+Mary Alice Drumm%	Coco%	
+John Lasseter%	Coco%	
+Michael Giacchino%	Coco%	
+Steve Bloom%	Coco%	
+Lee Unkrich%	Coco%	
+Carla Hool%	Coco%	
+Natalie Lyon%	Coco%	
+Kevin Reher%	Coco%	
+Harley Jessup%	Coco%	
+Terri Douglas%	Coco%	
+Robert Fryer%	The Shining%	
+Jan Harlan%	The Shining%	
+Wendy Carlos%	The Shining%	
+Rachel Elkind%	The Shining%	
+John Alcott%	The Shining%	
+Ray Lovejoy%	The Shining%	
+James Liggat%	The Shining%	
+Roy Walker%	The Shining%	
+Leslie Tomkins%	The Shining%	
+Milena Canonero%	The Shining%	
+Lindsey Collins%	WALL·E%	
+John Lasseter%	WALL·E%	
+Gillian Libbert%	WALL·E%	
+Thomas Newman%	WALL·E%	
+Jeremy Lasky%	WALL·E%	
+Stephen Schaffer%	WALL·E%	
+Natalie Lyon%	WALL·E%	
+Kevin Reher%	WALL·E%	
+Ralph Eggleston%	WALL·E%	
+Bert Berry%	WALL·E%	
+Robert Kondo%	WALL·E%	
+Robert Anderson%	WALL·E%	
+Nancy Hayes%	WALL·E%	
+Mickie McGowan%	WALL·E%	
+Kevin De La Noy%	The Dark Knight Rises%	
+Jordan Goldberg%	The Dark Knight Rises%	
+Benjamin Melniker%	The Dark Knight Rises%	
+Hans Zimmer%	The Dark Knight Rises%	
+Wally Pfister%	The Dark Knight Rises%	
+Lee Smith%	The Dark Knight Rises%	
+John Papsidera%	The Dark Knight Rises%	
+Toby Whale%	The Dark Knight Rises%	
+Nathan Crowley%	The Dark Knight Rises%	
+Kevin Kavanaugh%	The Dark Knight Rises%	
+Toby Britton%	The Dark Knight Rises%	
+Kate Grimble%	The Dark Knight Rises%	
+Zack Grobler%	The Dark Knight Rises%	
+Paki Smith%	The Dark Knight Rises%	
+Lindy Hemming%	The Dark Knight Rises%	
+Ryan Arndt%	The Dark Knight Rises%	
+Shannon Cain%	The Dark Knight Rises%	
+Arthur Hornblow Jr.%	Witness for the Prosecution%	
+Edward Small%	Witness for the Prosecution%	
+Matty Malneck%	Witness for the Prosecution%	
+Russell Harlan%	Witness for the Prosecution%	
+Daniel Mandell%	Witness for the Prosecution%	
+Alexandre Trauner%	Witness for the Prosecution%	
+Howard Bristol%	Witness for the Prosecution%	
+Lee Zavitz%	Witness for the Prosecution%	
+Han Jd%	Oldeuboi%	
+Dong-ju Kim%	Oldeuboi%	
+Young-wuk Cho%	Oldeuboi%	
+Chung Chung-hoon%	Oldeuboi%	
+Kim Sang-beom%	Oldeuboi%	
+Cho Sang-kyung%	Oldeuboi%	
+C. Jin Im%	Oldeuboi%	
+Sung-jin Jung%	Oldeuboi%	
+Jeon-hyeong Lee%	Oldeuboi%	
+Gordon Carroll%	Aliens%	
+David Giler%	Aliens%	
+Walter Hill%	Aliens%	
+James Horner%	Aliens%	
+Adrian Biddle%	Aliens%	
+Ray Lovejoy%	Aliens%	
+Peter Lamont%	Aliens%	
+Terry Ackland-Snow%	Aliens%	
+Ken Court%	Aliens%	
+Bert Davey%	Aliens%	
+Crispian Sallis%	Aliens%	
+Emma Porteous%	Aliens%	
+Norman Baillie%	Aliens%	
+Doug Beswick%	Aliens%	
+Jane Feinberg%	Aliens%	
+Mike Fenton%	Aliens%	
+Mary Selway%	Aliens%	
+Mark Damon%	Once Upon a Time in America%	
+Claudio Mancini%	Once Upon a Time in America%	
+Arnon Milchan%	Once Upon a Time in America%	
+Ennio Morricone%	Once Upon a Time in America%	
+Tonino Delli Colli%	Once Upon a Time in America%	
+Nino Baragli%	Once Upon a Time in America%	
+Cis Corman%	Once Upon a Time in America%	
+Joy Todd%	Once Upon a Time in America%	
+Carlo Simi%	Once Upon a Time in America%	
+Gabriella Pescucci%	Once Upon a Time in America%	
+Louis Craig%	Once Upon a Time in America%	
+Sylvie Bourque%	Once Upon a Time in America%	
+Michael Bittins%	Das Boot%	
+Mark Damon%	Das Boot%	
+Ortwin Freyermuth%	Das Boot%	
+Klaus Doldinger%	Das Boot%	
+Jost Vacano%	Das Boot%	
+Hannes Nikel%	Das Boot%	
+Willy Schlenter%	Das Boot%	
+Rolf Zehetbauer%	Das Boot%	
+Götz Weidner%	Das Boot%	
+Monika Bauert%	Das Boot%	
+Karl Baumgartner%	Das Boot%	
+Karl-Heinz Bochnig%	Das Boot%	
+Max Gretmann%	Das Boot%	
+Orson Welles%	Citizen Kane%	
+George Schaefer%	Citizen Kane%	
+Bernard Herrmann%	Citizen Kane%	
+Gregg Toland%	Citizen Kane%	
+Robert Wise%	Citizen Kane%	
+Van Nest Polglase%	Citizen Kane%	
+Darrell Silvera%	Citizen Kane%	
+Edward Stevenson%	Citizen Kane%	
+Vernon L. Walker%	Citizen Kane%	
+Russell A. Cully%	Citizen Kane%	
+Linwood G. Dunn%	Citizen Kane%	
+Herbert Coleman%	Vertigo%	
+Alfred Hitchcock%	Vertigo%	
+Bernard Herrmann%	Vertigo%	
+Robert Burks%	Vertigo%	
+George Tomasini%	Vertigo%	
+Bert McKay%	Vertigo%	
+Henry Bumstead%	Vertigo%	
+Hal Pereira%	Vertigo%	
+Sam Comer%	Vertigo%	
+Frank R. McKelvy%	Vertigo%	
+Edith Head%	Vertigo%	
+Farciot Edouart%	Vertigo%	
+John P. Fulton%	Vertigo%	
+W. Wallace Kelley%	Vertigo%	
+Herbert Coleman%	North by Northwest%	
+Alfred Hitchcock%	North by Northwest%	
+Bernard Herrmann%	North by Northwest%	
+Robert Burks%	North by Northwest%	
+George Tomasini%	North by Northwest%	
+Leonard Murphy%	North by Northwest%	
+Robert F. Boyle%	North by Northwest%	
+William A. Horning%	North by Northwest%	
+Merrill Pye%	North by Northwest%	
+Henry Grace%	North by Northwest%	
+Frank R. McKelvy%	North by Northwest%	
+A. Arnold Gillespie%	North by Northwest%	
+Lee LeBlanc%	North by Northwest%	
+Cliff Shirpser%	North by Northwest%	
+Larry Leverett%	North by Northwest%	
+Bruce Davey%	Braveheart%	
+Mel Gibson%	Braveheart%	
+Alan Ladd, Jr.%	Braveheart%	
+James Horner%	Braveheart%	
+John Toll%	Braveheart%	
+Steven Rosenblum%	Braveheart%	
+Patsy Pollock%	Braveheart%	
+Thomas E. Sanders%	Braveheart%	
+Ken Court%	Braveheart%	
+Nathan Crowley%	Braveheart%	
+Daniel T. Dorrance%	Braveheart%	
+Peter Howitt%	Braveheart%	
+Charles Knode%	Braveheart%	
+Nick Allder%	Braveheart%	
+Tricia Henry Ashford%	Braveheart%	
+Leo Davis%	Braveheart%	
+Julia Duff%	Braveheart%	
+Jim Bloom%	Star Wars: Episode VI - Return of the Jedi%	
+Howard G. Kazanjian%	Star Wars: Episode VI - Return of the Jedi%	
+George Lucas%	Star Wars: Episode VI - Return of the Jedi%	
+John Williams%	Star Wars: Episode VI - Return of the Jedi%	
+Alan Hume%	Star Wars: Episode VI - Return of the Jedi%	
+Alec Mills%	Star Wars: Episode VI - Return of the Jedi%	
+Sean Barton%	Star Wars: Episode VI - Return of the Jedi%	
+Duwayne Dunham%	Star Wars: Episode VI - Return of the Jedi%	
+Mary Selway%	Star Wars: Episode VI - Return of the Jedi%	
+Norman Reynolds%	Star Wars: Episode VI - Return of the Jedi%	
+Fred Hole%	Star Wars: Episode VI - Return of the Jedi%	
+James L. Schoppe%	Star Wars: Episode VI - Return of the Jedi%	
+Michael Ford%	Star Wars: Episode VI - Return of the Jedi%	
+Harry Lange%	Star Wars: Episode VI - Return of the Jedi%	
+Aggie Guerard Rodgers%	Star Wars: Episode VI - Return of the Jedi%	
+Nilo Rodis-Jamero%	Star Wars: Episode VI - Return of the Jedi%	
+Roy Arbogast%	Star Wars: Episode VI - Return of the Jedi%	
+Kevin Pike%	Star Wars: Episode VI - Return of the Jedi%	
+Peter Amundson%	Star Wars: Episode VI - Return of the Jedi%	
+Seymour Nebenzal%	M%	
+Fritz Arno Wagner%	M%	
+Paul Falkenberg%	M%	
+Emil Hasler%	M%	
+Karl Vollbrecht%	M%	
+Nishith Dadhich%	Dangal%	
+Siddharth Roy Kapur%	Dangal%	
+Pritam Chakraborty%	Dangal%	
+Ballu Saluja%	Dangal%	
+Mukesh Chhabra%	Dangal%	
+Teddy Maurya%	Dangal%	
+Tatsuro Hatanaka%	Kimi no na wa.%	
+Minami Ichikawa%	Kimi no na wa.%	
+Makoto Shinkai%	Kimi no na wa.%	
+Makoto Shinkai%	Kimi no na wa.%	
+Takumi Tanji%	Kimi no na wa.%	
+Stephanie Sheh%	Kimi no na wa.%	
+Ben Barenholtz%	Requiem for a Dream%	
+Beau Flynn%	Requiem for a Dream%	
+Scott Franklin%	Requiem for a Dream%	
+Clint Mansell%	Requiem for a Dream%	
+Matthew Libatique%	Requiem for a Dream%	
+Jay Rabinowitz%	Requiem for a Dream%	
+Ann Goulder%	Requiem for a Dream%	
+Anne McCarthy%	Requiem for a Dream%	
+Mary Vernieu%	Requiem for a Dream%	
+James Chinlund%	Requiem for a Dream%	
+Judy Rhee%	Requiem for a Dream%	
+Ondine Karady%	Requiem for a Dream%	
+Laura Jean Shannon%	Requiem for a Dream%	
+Mark Bero%	Requiem for a Dream%	
+Drew Jiritano%	Requiem for a Dream%	
+Andrew Mortelliti%	Requiem for a Dream%	
+Jeremy Dawson%	Requiem for a Dream%	
+Ray Lewis%	Requiem for a Dream%	
+Lori Eastside%	Requiem for a Dream%	
+Aamir Khan%	Taare Zameen Par%	
+Shankar Mahadevan%	Taare Zameen Par%	
+Loy Mendonsa%	Taare Zameen Par%	
+Ehsaan Noorani%	Taare Zameen Par%	
+Deepa Bhatia%	Taare Zameen Par%	
+Shruti Gupte%	Taare Zameen Par%	
+Helmut Breuer%	Amélie%	
+Bastian Griese%	Amélie%	
+Arne Meerkamp van Embden%	Amélie%	
+Yann Tiersen%	Amélie%	
+Bruno Delbonnel%	Amélie%	
+Hervé Schneid%	Amélie%	
+Pierre-Jacques Bénichou%	Amélie%	
+Aline Bonetto%	Amélie%	
+Volker Schäfer%	Amélie%	
+Marie-Laure Valla%	Amélie%	
+Madeline Fontaine%	Amélie%	
+Valerie Espagne%	Amélie%	
+Stanley Kubrick%	A Clockwork Orange%	
+Si Litvinoff%	A Clockwork Orange%	
+Max L. Raab%	A Clockwork Orange%	
+John Alcott%	A Clockwork Orange%	
+Bill Butler%	A Clockwork Orange%	
+James Liggat%	A Clockwork Orange%	
+John Barry%	A Clockwork Orange%	
+Russell Hagg%	A Clockwork Orange%	
+Peter Sheilds%	A Clockwork Orange%	
+Milena Canonero%	A Clockwork Orange%	
+Mark Freund%	A Clockwork Orange%	
+Sam Spiegel%	Lawrence of Arabia%	
+David Lean%	Lawrence of Arabia%	
+Maurice Jarre%	Lawrence of Arabia%	
+Freddie Young%	Lawrence of Arabia%	
+Anne V. Coates%	Lawrence of Arabia%	
+Maude Spector%	Lawrence of Arabia%	
+John Box%	Lawrence of Arabia%	
+John Stoll%	Lawrence of Arabia%	
+Anthony Masters%	Lawrence of Arabia%	
+Dario Simoni%	Lawrence of Arabia%	
+Phyllis Dalton%	Lawrence of Arabia%	
+Cliff Richardson%	Lawrence of Arabia%	
+Wally Veevers%	Lawrence of Arabia%	
+Georges Bermann%	Eternal Sunshine of the Spotless Mind%	
+Anthony Bregman%	Eternal Sunshine of the Spotless Mind%	
+David L. Bushell%	Eternal Sunshine of the Spotless Mind%	
+Jon Brion%	Eternal Sunshine of the Spotless Mind%	
+Ellen Kuras%	Eternal Sunshine of the Spotless Mind%	
+Valdís Óskarsdóttir%	Eternal Sunshine of the Spotless Mind%	
+Jeanne McCarthy%	Eternal Sunshine of the Spotless Mind%	
+Dan Leigh%	Eternal Sunshine of the Spotless Mind%	
+David Stein%	Eternal Sunshine of the Spotless Mind%	
+Ron von Blomberg%	Eternal Sunshine of the Spotless Mind%	
+Melissa Toth%	Eternal Sunshine of the Spotless Mind%	
+Mark Bero%	Eternal Sunshine of the Spotless Mind%	
+Drew Jiritano%	Eternal Sunshine of the Spotless Mind%	
+Blythe Cappello%	Eternal Sunshine of the Spotless Mind%	
+Linda R. Chen%	Eternal Sunshine of the Spotless Mind%	
+Natasha Cuba%	Eternal Sunshine of the Spotless Mind%	
+Buddy G. DeSylva%	Double Indemnity%	
+Joseph Sistrom%	Double Indemnity%	
+Miklós Rózsa%	Double Indemnity%	
+John F. Seitz%	Double Indemnity%	
+Harvey Clermont%	Double Indemnity%	
+David Hall%	Double Indemnity%	
+Hans Dreier%	Double Indemnity%	
+Hal Pereira%	Double Indemnity%	
+David Hall%	Double Indemnity%	
+Bertram C. Granger%	Double Indemnity%	
+Edith Head%	Double Indemnity%	
+Farciot Edouart%	Double Indemnity%	
+Arthur Freed%	Singin' in the Rain%	
+Roger Edens%	Singin' in the Rain%	
+Lennie Hayton%	Singin' in the Rain%	
+Harold Rosson%	Singin' in the Rain%	
+Adrienne Fazan%	Singin' in the Rain%	
+Randall Duell%	Singin' in the Rain%	
+Cedric Gibbons%	Singin' in the Rain%	
+Jacques Mapes%	Singin' in the Rain%	
+Edwin B. Willis%	Singin' in the Rain%	
+Harry McAfee%	Singin' in the Rain%	
+Walter Plunkett%	Singin' in the Rain%	
+Warren Newcombe%	Singin' in the Rain%	
+Irving G. Ries%	Singin' in the Rain%	
+Stanley Kubrick%	2001: A Space Odyssey%	
+Victor Lyndon%	2001: A Space Odyssey%	
+Geoffrey Unsworth%	2001: A Space Odyssey%	
+Ray Lovejoy%	2001: A Space Odyssey%	
+James Liggat%	2001: A Space Odyssey%	
+Ernest Archer%	2001: A Space Odyssey%	
+Harry Lange%	2001: A Space Odyssey%	
+Anthony Masters%	2001: A Space Odyssey%	
+John Hoesli%	2001: A Space Odyssey%	
+Robert Cartwright%	2001: A Space Odyssey%	
+Les Bowie%	2001: A Space Odyssey%	
+Tom Howard%	2001: A Space Odyssey%	
+Stanley Kubrick%	2001: A Space Odyssey%	
+Bonnie Arnold%	Toy Story%	
+Ed Catmull%	Toy Story%	
+Ralph Guggenheim%	Toy Story%	
+Randy Newman%	Toy Story%	
+Robert Gordon%	Toy Story%	
+Lee Unkrich%	Toy Story%	
+Mike Fenton%	Toy Story%	
+Janet Hirshenson%	Toy Story%	
+Jane Jenkins%	Toy Story%	
+Ralph Eggleston%	Toy Story%	
+Mark Adams%	Toy Story%	
+Darla K. Anderson%	Toy Story%	
+Nancy Hayes%	Toy Story%	
+Ruth Lambert%	Toy Story%	
+Mickie McGowan%	Toy Story%	
+Alan J. Pakula%	To Kill a Mockingbird%	
+Harper Lee%	To Kill a Mockingbird%	
+Robert Mulligan%	To Kill a Mockingbird%	
+Elmer Bernstein%	To Kill a Mockingbird%	
+Russell Harlan%	To Kill a Mockingbird%	
+Aaron Stell%	To Kill a Mockingbird%	
+Boaty Boatwright%	To Kill a Mockingbird%	
+Henry Bumstead%	To Kill a Mockingbird%	
+Alexander Golitzen%	To Kill a Mockingbird%	
+Oliver Emert%	To Kill a Mockingbird%	
+Rosemary Odell%	To Kill a Mockingbird%	
+Carole Cowley%	To Kill a Mockingbird%	
+Jan Harlan%	Full Metal Jacket%	
+Michael Herr%	Full Metal Jacket%	
+Philip Hobbs%	Full Metal Jacket%	
+Vivian Kubrick%	Full Metal Jacket%	
+Douglas Milsome%	Full Metal Jacket%	
+Martin Hunter%	Full Metal Jacket%	
+Leon Vitali%	Full Metal Jacket%	
+Anton Furst%	Full Metal Jacket%	
+Keith Pain%	Full Metal Jacket%	
+Rod Stratfold%	Full Metal Jacket%	
+Leslie Tomkins%	Full Metal Jacket%	
+Barbara Drake%	Full Metal Jacket%	
+Keith Denny%	Full Metal Jacket%	
+Eddie Butler%	Full Metal Jacket%	
+Nguyen Thi My Chau%	Full Metal Jacket%	
+Marion Dougherty%	Full Metal Jacket%	
+Jane Feinberg%	Full Metal Jacket%	
+Lawrence Bender%	Inglourious Basterds%	
+William Paul Clark%	Inglourious Basterds%	
+Christoph Fisser%	Inglourious Basterds%	
+Robert Richardson%	Inglourious Basterds%	
+Sally Menke%	Inglourious Basterds%	
+David Wasco%	Inglourious Basterds%	
+Marco Bittner Rosser%	Inglourious Basterds%	
+Stephan O. Gessler%	Inglourious Basterds%	
+Sebastian T. Krawinkel%	Inglourious Basterds%	
+Sandy Reynolds-Wasco%	Inglourious Basterds%	
+Anna B. Sheppard%	Inglourious Basterds%	
+Gerd Nefzer%	Inglourious Basterds%	
+John Dykstra%	Inglourious Basterds%	
+Viktor Muller%	Inglourious Basterds%	
+Salvadore Brandt%	Inglourious Basterds%	
+Simone Bär%	Inglourious Basterds%	
+Olivier Carbone%	Inglourious Basterds%	
+Giuseppe Amato%	Bicycle Thieves%	
+Vittorio De Sica%	Bicycle Thieves%	
+Alessandro Cicognini%	Bicycle Thieves%	
+Carlo Montuori%	Bicycle Thieves%	
+Eraldo Da Roma%	Bicycle Thieves%	
+Antonio Traverso%	Bicycle Thieves%	
+Tony Bill%	The Sting%	
+Robert Crawford Jr.%	The Sting%	
+Julia Phillips%	The Sting%	
+Robert Surtees%	The Sting%	
+William Reynolds%	The Sting%	
+William Batliner%	The Sting%	
+Robert J. LaSanka%	The Sting%	
+Henry Bumstead%	The Sting%	
+James W. Payne%	The Sting%	
+Edith Head%	The Sting%	
+Bob Warner%	The Sting%	
+Albert Whitlock%	The Sting%	
+Charlie Chaplin%	The Kid%	
+Charlie Chaplin%	The Kid%	
+Roland Totheroh%	The Kid%	
+Charlie Chaplin%	The Kid%	
+Charles D. Hall%	The Kid%	
+Darla K. Anderson%	Toy Story 3%	
+Nicole Paradis Grindle%	Toy Story 3%	
+John Lasseter%	Toy Story 3%	
+Randy Newman%	Toy Story 3%	
+Jeremy Lasky%	Toy Story 3%	
+Ken Schretzmann%	Toy Story 3%	
+Natalie Lyon%	Toy Story 3%	
+Kevin Reher%	Toy Story 3%	
+Bob Pauley%	Toy Story 3%	
+Robert Kondo%	Toy Story 3%	
+Daisuke 'Dice' Tsutsumi%	Toy Story 3%	
+Laura Beth Albright%	Toy Story 3%	
+Holly Dorff%	Toy Story 3%	
+Mickie McGowan%	Toy Story 3%	
+Michael Dreyer%	Snatch%	
+Stephen Marks%	Snatch%	
+Peter Morton%	Snatch%	
+John Murphy%	Snatch%	
+Tim Maurice-Jones%	Snatch%	
+Jon Harris%	Snatch%	
+Lucinda Syson%	Snatch%	
+Hugo Luczyc-Wyhowski%	Snatch%	
+Julie Philpott%	Snatch%	
+Linda Wilson%	Snatch%	
+Verity Hawkes%	Snatch%	
+Casper Lailey%	Snatch%	
+Barrie Gower%	Snatch%	
+Su Armstrong%	Good Will Hunting%	
+Lawrence Bender%	Good Will Hunting%	
+Jonathan Gordon%	Good Will Hunting%	
+Danny Elfman%	Good Will Hunting%	
+Jean-Yves Escoffier%	Good Will Hunting%	
+Pietro Scalia%	Good Will Hunting%	
+Kerry Barden%	Good Will Hunting%	
+Billy Hopkins%	Good Will Hunting%	
+Suzanne Smith%	Good Will Hunting%	
+Missy Stewart%	Good Will Hunting%	
+James McAteer%	Good Will Hunting%	
+Jaro Dick%	Good Will Hunting%	
+Beatrix Aruna Pasztor%	Good Will Hunting%	
+William 'Billy Jack' Jakielaszek%	Good Will Hunting%	
+Mark Bennett%	Good Will Hunting%	
+Kevin Fennessy%	Good Will Hunting%	
+Mark Forstater%	Monty Python and the Holy Grail%	
+John Goldstone%	Monty Python and the Holy Grail%	
+Michael White%	Monty Python and the Holy Grail%	
+Terry Bedford%	Monty Python and the Holy Grail%	
+John Hackney%	Monty Python and the Holy Grail%	
+Roy Forge Smith%	Monty Python and the Holy Grail%	
+Hazel Pethig%	Monty Python and the Holy Grail%	
+John Horton%	Monty Python and the Holy Grail%	
+Julian Doyle%	Monty Python and the Holy Grail%	
+Arturo González%	For a Few Dollars More%	
+Alfredo Fraile%	For a Few Dollars More%	
+Alberto Grimaldi%	For a Few Dollars More%	
+Ennio Morricone%	For a Few Dollars More%	
+Massimo Dallamano%	For a Few Dollars More%	
+Eugenio Alabiso%	For a Few Dollars More%	
+Giorgio Serrallonga%	For a Few Dollars More%	
+Giovanni Corridori%	For a Few Dollars More%	
+Eros Bacciucchi%	For a Few Dollars More%	
+Manuel Baquero%	For a Few Dollars More%	
+Martin Bregman%	Scarface%	
+Louis A. Stroller%	Scarface%	
+Giorgio Moroder%	Scarface%	
+John A. Alonzo%	Scarface%	
+Gerald B. Greenberg%	Scarface%	
+David Ray%	Scarface%	
+Alixe Gordin%	Scarface%	
+Edward Richardson%	Scarface%	
+Bruce Weintraub%	Scarface%	
+Patricia Norris%	Scarface%	
+Stan Parks%	Scarface%	
+Ken Pepiot%	Scarface%	
+George Zamora%	Scarface%	
+Bill Hansard%	Scarface%	
+Bob Morones%	Scarface%	
+Curtis Hanson%	L.A. Confidential%	
+Brian Helgeland%	L.A. Confidential%	
+Dan Kolsrud%	L.A. Confidential%	
+Jerry Goldsmith%	L.A. Confidential%	
+Dante Spinotti%	L.A. Confidential%	
+Peter Honess%	L.A. Confidential%	
+Mali Finn%	L.A. Confidential%	
+Jeannine Oppewall%	L.A. Confidential%	
+William Arnold%	L.A. Confidential%	
+Jay Hart%	L.A. Confidential%	
+Ruth Myers%	L.A. Confidential%	
+William N. Greene III%	L.A. Confidential%	
+Peter Donen%	L.A. Confidential%	
+Travis Baumann%	L.A. Confidential%	
+Barbara Harris%	L.A. Confidential%	
+Emily Schweber%	L.A. Confidential%	
+I. A. L. Diamond%	The Apartment%	
+Doane Harrison%	The Apartment%	
+Billy Wilder%	The Apartment%	
+Adolph Deutsch%	The Apartment%	
+Joseph LaShelle%	The Apartment%	
+Daniel Mandell%	The Apartment%	
+Alexandre Trauner%	The Apartment%	
+Edward G. Boyle%	The Apartment%	
+Milt Rice%	The Apartment%	
+Erich Pommer%	Metropolis%	
+Gottfried Huppertz%	Metropolis%	
+Abel Korzeniowski%	Metropolis%	
+Giorgio Moroder%	Metropolis%	
+Karl Freund%	Metropolis%	
+Günther Rittau%	Metropolis%	
+Walter Ruttmann%	Metropolis%	
+Otto Hunte%	Metropolis%	
+Erich Kettelhut%	Metropolis%	
+Karl Vollbrecht%	Metropolis%	
+Aenne Willkomm%	Metropolis%	
+Konstantin Irmen-Tschet%	Metropolis%	
+Erich Kettelhut%	Metropolis%	
+Jeff Matakovich%	Metropolis%	
+Eugen Schüfftan%	Metropolis%	
+Erich Kettelhut%	Metropolis%	
+Negar Eskandarfar%	A Separation%	
+Asghar Farhadi%	A Separation%	
+Sattar Oraki%	A Separation%	
+Mahmoud Kalari%	A Separation%	
+Hayedeh Safiyari%	A Separation%	
+Keyvan Moghaddam%	A Separation%	
+John Lasseter%	Up%	
+Kori Rae%	Up%	
+Denise Ream%	Up%	
+Michael Giacchino%	Up%	
+Patrick Lin%	Up%	
+Kevin Nolting%	Up%	
+Natalie Lyon%	Up%	
+Kevin Reher%	Up%	
+Ricky Nierva%	Up%	
+Mark Adams%	Up%	
+Ned Lott%	Up%	
+Mickie McGowan%	Up%	
+Darryl F. Zanuck%	All About Eve%	
+Alfred Newman%	All About Eve%	
+Milton Krasner%	All About Eve%	
+Barbara McLean%	All About Eve%	
+George W. Davis%	All About Eve%	
+Lyle R. Wheeler%	All About Eve%	
+Thomas Little%	All About Eve%	
+Walter M. Scott%	All About Eve%	
+Fred Sersen%	All About Eve%	
+Larry J. Franco%	Batman Begins%	
+Benjamin Melniker%	Batman Begins%	
+Lorne Orleans%	Batman Begins%	
+James Newton Howard%	Batman Begins%	
+Hans Zimmer%	Batman Begins%	
+Wally Pfister%	Batman Begins%	
+Lee Smith%	Batman Begins%	
+John Papsidera%	Batman Begins%	
+Lucinda Syson%	Batman Begins%	
+Nathan Crowley%	Batman Begins%	
+Peter Francis%	Batman Begins%	
+Paul Kirby%	Batman Begins%	
+Simon Lamont%	Batman Begins%	
+Gene Foad%	Batman Begins%	
+Paki Smith%	Batman Begins%	
+Lindy Hemming%	Batman Begins%	
+Aurelia Abate%	Batman Begins%	
+I. A. L. Diamond%	Some Like It Hot%	
+Doane Harrison%	Some Like It Hot%	
+Billy Wilder%	Some Like It Hot%	
+Adolph Deutsch%	Some Like It Hot%	
+Charles Lang%	Some Like It Hot%	
+Arthur P. Schmidt%	Some Like It Hot%	
+Phil Benjamin%	Some Like It Hot%	
+Ted Haworth%	Some Like It Hot%	
+Edward G. Boyle%	Some Like It Hot%	
+Milt Rice%	Some Like It Hot%	
+Daniel Hays%	Some Like It Hot%	
+Clint Eastwood%	Unforgiven%	
+Julian Ludwig%	Unforgiven%	
+David Valdes%	Unforgiven%	
+Lennie Niehaus%	Unforgiven%	
+Jack Green%	Unforgiven%	
+Joel Cox%	Unforgiven%	
+Phyllis Huffman%	Unforgiven%	
+Henry Bumstead%	Unforgiven%	
+Adrian Gorton%	Unforgiven%	
+Rick Roberts%	Unforgiven%	
+Janice Blackie-Goodine%	Unforgiven%	
+John Frazier%	Unforgiven%	
+Stuart Aikins%	Unforgiven%	
+William Haines%	Unforgiven%	
+Henry Blanke%	The Treasure of the Sierra Madre%	
+Jack Warner%	The Treasure of the Sierra Madre%	
+Max Steiner%	The Treasure of the Sierra Madre%	
+Ted D. McCord%	The Treasure of the Sierra Madre%	
+Owen Marks%	The Treasure of the Sierra Madre%	
+John Hughes%	The Treasure of the Sierra Madre%	
+Fred M. MacLean%	The Treasure of the Sierra Madre%	
+Hans F. Koenekamp%	The Treasure of the Sierra Madre%	
+William C. McGann%	The Treasure of the Sierra Madre%	
+Eddie Craven%	The Treasure of the Sierra Madre%	
+Wolf-Dietrich Brücker%	Downfall%	
+Bernd Eichinger%	Downfall%	
+Doris J. Heinze%	Downfall%	
+Stephan Zacharias%	Downfall%	
+Rainer Klausmann%	Downfall%	
+Hans Funck%	Downfall%	
+An Dorthe Braker%	Downfall%	
+Bernd Lepel%	Downfall%	
+Claudia Bobsin%	Downfall%	
+Daniel Alexandru%	Downfall%	
+Karl-Heinz Bochnig%	Downfall%	
+Alessandro Cioffi%	Downfall%	
+Uwe Bünker%	Downfall%	
+Charles Gordon%	Die Hard%	
+Lawrence Gordon%	Die Hard%	
+Beau Marks%	Die Hard%	
+Michael Kamen%	Die Hard%	
+Jan de Bont%	Die Hard%	
+Frank J. Urioste%	Die Hard%	
+Jackie Burch%	Die Hard%	
+Jackson De Govia%	Die Hard%	
+John R. Jensen%	Die Hard%	
+Philip Leonard%	Die Hard%	
+Marilyn Vance%	Die Hard%	
+William Aldridge%	Die Hard%	
+Yarek Alfer%	Die Hard%	
+Brent Boates%	Die Hard%	
+Ferne Cassel%	Die Hard%	
+John Sturges%	The Great Escape%	
+James Clavell%	The Great Escape%	
+Walter Mirisch%	The Great Escape%	
+Elmer Bernstein%	The Great Escape%	
+Daniel L. Fapp%	The Great Escape%	
+Ferris Webster%	The Great Escape%	
+Fernando Carrere%	The Great Escape%	
+Kurt Ripberger%	The Great Escape%	
+A. Paul Pollard%	The Great Escape%	
+Hugh Perceval%	The Third Man%	
+Carol Reed%	The Third Man%	
+Alexander Korda%	The Third Man%	
+Anton Karas%	The Third Man%	
+Robert Krasker%	The Third Man%	
+Oswald Hafenrichter%	The Third Man%	
+Dario Simoni%	The Third Man%	
+W. Percy Day%	The Third Man%	
+Hassan Hassandoost%	Children of Heaven%	
+Graham Broadbent%	Three Billboards Outside Ebbing, Missouri%	
+Peter Czernin%	Three Billboards Outside Ebbing, Missouri%	
+Carter Burwell%	Three Billboards Outside Ebbing, Missouri%	
+Ben Davis%	Three Billboards Outside Ebbing, Missouri%	
+Jon Gregory%	Three Billboards Outside Ebbing, Missouri%	
+Sarah Finn%	Three Billboards Outside Ebbing, Missouri%	
+Inbal Weinberg%	Three Billboards Outside Ebbing, Missouri%	
+Jesse Rosenthal%	Three Billboards Outside Ebbing, Missouri%	
+Merissa Lombardo%	Three Billboards Outside Ebbing, Missouri%	
+Melissa Toth%	Three Billboards Outside Ebbing, Missouri%	
+Burt Dalton%	Three Billboards Outside Ebbing, Missouri%	
+William Dawson%	Three Billboards Outside Ebbing, Missouri%	
+Hannah Cooper%	Three Billboards Outside Ebbing, Missouri%	
+C.O. Erickson%	Chinatown%	
+Robert Evans%	Chinatown%	
+Jerry Goldsmith%	Chinatown%	
+John A. Alonzo%	Chinatown%	
+Stanley Cortez%	Chinatown%	
+Sam O'Steen%	Chinatown%	
+Jane Feinberg%	Chinatown%	
+Mike Fenton%	Chinatown%	
+Richard Sylbert%	Chinatown%	
+W. Stewart Campbell%	Chinatown%	
+Ruby R. Levitt%	Chinatown%	
+Anthea Sylbert%	Chinatown%	
+Logan Frazee%	Chinatown%	
+Katsumi Furukawa%	Ran%	
+Masato Hara%	Ran%	
+Hisao Kurosawa%	Ran%	
+Toru Takemitsu%	Ran%	
+Asakazu Nakai%	Ran%	
+Takao Saitô%	Ran%	
+Shôji Ueda%	Ran%	
+Akira Kurosawa%	Ran%	
+Shinobu Muraki%	Ran%	
+Yoshirô Muraki%	Ran%	
+Emi Wada%	Ran%	
+Stanley Kramer%	Judgment at Nuremberg%	
+Philip Langner%	Judgment at Nuremberg%	
+Ernest Gold%	Judgment at Nuremberg%	
+Ernest Laszlo%	Judgment at Nuremberg%	
+Frederic Knudtson%	Judgment at Nuremberg%	
+James Lister%	Judgment at Nuremberg%	
+Rudolph Sternad%	Judgment at Nuremberg%	
+George Milo%	Judgment at Nuremberg%	
+Joe King%	Judgment at Nuremberg%	
+Mariela Besuievski%	The Secret in Their Eyes%	
+Juan José Campanella%	The Secret in Their Eyes%	
+Federico Jusid%	The Secret in Their Eyes%	
+Félix Monti%	The Secret in Their Eyes%	
+Juan José Campanella%	The Secret in Their Eyes%	
+Walter Rippell%	The Secret in Their Eyes%	
+Marcelo Pont Vergés%	The Secret in Their Eyes%	
+Cecilia Monti%	The Secret in Their Eyes%	
+Sebastián Mogordoy%	The Secret in Their Eyes%	
+Charlie Chaplin%	The Gold Rush%	
+Charlie Chaplin%	The Gold Rush%	
+William P. Perry%	The Gold Rush%	
+Carli Elinor%	The Gold Rush%	
+Roland Totheroh%	The Gold Rush%	
+Charlie Chaplin%	The Gold Rush%	
+Charles D. Hall%	The Gold Rush%	
+Sam Spiegel%	The Bridge on the River Kwai%	
+Malcolm Arnold%	The Bridge on the River Kwai%	
+Jack Hildyard%	The Bridge on the River Kwai%	
+Peter Taylor%	The Bridge on the River Kwai%	
+Donald M. Ashton%	The Bridge on the River Kwai%	
+Sam Spiegel%	On the Waterfront%	
+Leonard Bernstein%	On the Waterfront%	
+Boris Kaufman%	On the Waterfront%	
+Gene Milford%	On the Waterfront%	
+Richard Day%	On the Waterfront%	
+John Lasseter%	Inside Out%	
+Mark Nielsen%	Inside Out%	
+Jonas Rivera%	Inside Out%	
+Michael Giacchino%	Inside Out%	
+Kevin Nolting%	Inside Out%	
+Natalie Lyon%	Inside Out%	
+Kevin Reher%	Inside Out%	
+Ralph Eggleston%	Inside Out%	
+Barbara Harris%	Inside Out%	
+Mickie McGowan%	Inside Out%	
+Allan Ekelund%	The Seventh Seal%	
+Erik Nordgren%	The Seventh Seal%	
+Gunnar Fischer%	The Seventh Seal%	
+Lennart Wallén%	The Seventh Seal%	
+P.A. Lundgren%	The Seventh Seal%	
+Manne Lindholm%	The Seventh Seal%	
+Stephen Marks%	Lock, Stock and Two Smoking Barrels%	
+Georgia Masters%	Lock, Stock and Two Smoking Barrels%	
+Peter Morton%	Lock, Stock and Two Smoking Barrels%	
+David A. Hughes%	Lock, Stock and Two Smoking Barrels%	
+John Murphy%	Lock, Stock and Two Smoking Barrels%	
+Tim Maurice-Jones%	Lock, Stock and Two Smoking Barrels%	
+Niven Howie%	Lock, Stock and Two Smoking Barrels%	
+Celestia Fox%	Lock, Stock and Two Smoking Barrels%	
+Guy Ritchie%	Lock, Stock and Two Smoking Barrels%	
+Iain Andrews%	Lock, Stock and Two Smoking Barrels%	
+Eve Mavrakis%	Lock, Stock and Two Smoking Barrels%	
+Stephanie Collie%	Lock, Stock and Two Smoking Barrels%	
+Casper Lailey%	Lock, Stock and Two Smoking Barrels%	
+Martin Body%	Lock, Stock and Two Smoking Barrels%	
+Emma Buckley%	Lock, Stock and Two Smoking Barrels%	
+Frank Capra%	Mr. Smith Goes to Washington%	
+Dimitri Tiomkin%	Mr. Smith Goes to Washington%	
+Joseph Walker%	Mr. Smith Goes to Washington%	
+Al Clark%	Mr. Smith Goes to Washington%	
+Gene Havlick%	Mr. Smith Goes to Washington%	
+Lionel Banks%	Mr. Smith Goes to Washington%	
+Robert Kalloch%	Mr. Smith Goes to Washington%	
+Fred Jackman Jr.%	Mr. Smith Goes to Washington%	
+Slavko Vorkapich%	Mr. Smith Goes to Washington%	
+Stuart Cornfeld%	The Elephant Man%	
+Jonathan Sanger%	The Elephant Man%	
+Mel Brooks%	The Elephant Man%	
+John Morris%	The Elephant Man%	
+Freddie Francis%	The Elephant Man%	
+Anne V. Coates%	The Elephant Man%	
+Maggie Cartier%	The Elephant Man%	
+Stuart Craig%	The Elephant Man%	
+Robert Cartwright%	The Elephant Man%	
+Hugh Scaife%	The Elephant Man%	
+Patricia Norris%	The Elephant Man%	
+Graham Longhurst%	The Elephant Man%	
+Neil Corbould%	The Elephant Man%	
+Paul Corbould%	The Elephant Man%	
+Allan Ekelund%	Wild Strawberries%	
+Erik Nordgren%	Wild Strawberries%	
+Göte Lovén%	Wild Strawberries%	
+Gunnar Fischer%	Wild Strawberries%	
+Oscar Rosander%	Wild Strawberries%	
+Gittan Gustafsson%	Wild Strawberries%	
+Millie Ström%	Wild Strawberries%	
+David Shepard%	The General%	
+Buster Keaton%	The General%	
+Joseph M. Schenck%	The General%	
+Carl Davis%	The General%	
+Robert Israel%	The General%	
+Bert Haines%	The General%	
+Devereaux Jennings%	The General%	
+Buster Keaton%	The General%	
+Sherman Kell%	The General%	
+Fred Gabourie%	The General%	
+Harry Roselotte%	The General%	
+Buster Keaton%	Sherlock Jr.%	
+Joseph M. Schenck%	Sherlock Jr.%	
+Byron Houck%	Sherlock Jr.%	
+Elgin Lessley%	Sherlock Jr.%	
+Buster Keaton%	Sherlock Jr.%	
+Fred Gabourie%	Sherlock Jr.%	
+Clare West%	Sherlock Jr.%	
+Alfred Hitchcock%	Dial M for Murder%	
+Dimitri Tiomkin%	Dial M for Murder%	
+Robert Burks%	Dial M for Murder%	
+Rudi Fehr%	Dial M for Murder%	
+Edward Carrere%	Dial M for Murder%	
+George James Hopkins%	Dial M for Murder%	
+Andrew Macdonald%	Trainspotting%	
+Brian Tufano%	Trainspotting%	
+Masahiro Hirakubo%	Trainspotting%	
+Andy Pryor%	Trainspotting%	
+Gail Stevens%	Trainspotting%	
+Kave Quinn%	Trainspotting%	
+Tracey Gallacher%	Trainspotting%	
+Rachael Fleming%	Trainspotting%	
+Perry Costello%	Trainspotting%	
+Grant Mason%	Trainspotting%	
+David O. Selznick%	Gone with the Wind%	
+Max Steiner%	Gone with the Wind%	
+Ernest Haller%	Gone with the Wind%	
+Lee Garmes%	Gone with the Wind%	
+Charles Richards%	Gone with the Wind%	
+Fred Schuessler%	Gone with the Wind%	
+William Cameron Menzies%	Gone with the Wind%	
+Lyle R. Wheeler%	Gone with the Wind%	
+Howard Bristol%	Gone with the Wind%	
+Walter Plunkett%	Gone with the Wind%	
+Lee Zavitz%	Gone with the Wind%	
+Jack Cosgrove%	Gone with the Wind%	
+Harvey Clermont%	Gone with the Wind%	
+Charles Richards%	Gone with the Wind%	
+Fred Schuessler%	Gone with the Wind%	
+Bruce Berman%	Gran Torino%	
+Clint Eastwood%	Gran Torino%	
+Bill Gerber%	Gran Torino%	
+Kyle Eastwood%	Gran Torino%	
+Michael Stevens%	Gran Torino%	
+Tom Stern%	Gran Torino%	
+Joel Cox%	Gran Torino%	
+Gary D. Roach%	Gran Torino%	
+Ellen Chenoweth%	Gran Torino%	
+James J. Murakami%	Gran Torino%	
+Shelagh Conley%	Gran Torino%	
+John Warnke%	Gran Torino%	
+Gary Fettis%	Gran Torino%	
+Deborah Hopper%	Gran Torino%	
+David A. Poole%	Gran Torino%	
+Geoffrey Miclat%	Gran Torino%	
+Kathy Mooney%	Gran Torino%	
+Ethan Coen%	No Country for Old Men%	
+Joel Coen%	No Country for Old Men%	
+David Diliberto%	No Country for Old Men%	
+Carter Burwell%	No Country for Old Men%	
+Roger Deakins%	No Country for Old Men%	
+Ethan Coen%	No Country for Old Men%	
+Joel Coen%	No Country for Old Men%	
+Ellen Chenoweth%	No Country for Old Men%	
+Jess Gonchor%	No Country for Old Men%	
+John P. Goldsmith%	No Country for Old Men%	
+Nancy Haigh%	No Country for Old Men%	
+Mary Zophres%	No Country for Old Men%	
+Peter Chesney%	No Country for Old Men%	
+Tom Chesney%	No Country for Old Men%	
+Jo Edna Boldin%	No Country for Old Men%	
+Barbara Harris%	No Country for Old Men%	
+Tim Bevan%	Fargo%	
+John Cameron%	Fargo%	
+Ethan Coen%	Fargo%	
+Carter Burwell%	Fargo%	
+Roger Deakins%	Fargo%	
+Ethan Coen%	Fargo%	
+Joel Coen%	Fargo%	
+John S. Lyons%	Fargo%	
+Rick Heinrichs%	Fargo%	
+Thomas P. Wilkins%	Fargo%	
+Lauri Gaffin%	Fargo%	
+Mary Zophres%	Fargo%	
+Wilfred Caban%	Fargo%	
+John Alagna%	Fargo%	
+Kathleen Chopin%	Fargo%	
+Joann Carelli%	The Deer Hunter%	
+Michael Cimino%	The Deer Hunter%	
+Michael Deeley%	The Deer Hunter%	
+Stanley Myers%	The Deer Hunter%	
+Vilmos Zsigmond%	The Deer Hunter%	
+Peter Zinner%	The Deer Hunter%	
+Cis Corman%	The Deer Hunter%	
+Ron Hobbs%	The Deer Hunter%	
+Kim Swados%	The Deer Hunter%	
+Garry Elmendorf%	The Deer Hunter%	
+Jay King%	The Deer Hunter%	
+Paul Thomas Anderson%	There Will Be Blood%	
+Daniel Lupi%	There Will Be Blood%	
+Scott Rudin%	There Will Be Blood%	
+Jonny Greenwood%	There Will Be Blood%	
+Robert Elswit%	There Will Be Blood%	
+Dylan Tichenor%	There Will Be Blood%	
+Cassandra Kulukundis%	There Will Be Blood%	
+Jack Fisk%	There Will Be Blood%	
+David Crank%	There Will Be Blood%	
+Jim Erickson%	There Will Be Blood%	
+Mark Bridges%	There Will Be Blood%	
+David Blitstein%	There Will Be Blood%	
+Steve Cremin%	There Will Be Blood%	
+John G. Chalfant%	There Will Be Blood%	
+Toni Cobb Brock%	There Will Be Blood%	
+Stuart Cohen%	The Thing%	
+David Foster%	The Thing%	
+Larry J. Franco%	The Thing%	
+Ennio Morricone%	The Thing%	
+Dean Cundey%	The Thing%	
+Todd C. Ramsay%	The Thing%	
+Anita Dann%	The Thing%	
+John J. Lloyd%	The Thing%	
+Henry Larrecq%	The Thing%	
+John M. Dwyer%	The Thing%	
+Roy Arbogast%	The Thing%	
+Michael Clifford%	The Thing%	
+Randall William Cook%	The Thing%	
+Jinko Gotoh%	Finding Nemo%	
+John Lasseter%	Finding Nemo%	
+Graham Walters%	Finding Nemo%	
+Thomas Newman%	Finding Nemo%	
+Sharon Calahan%	Finding Nemo%	
+Jeremy Lasky%	Finding Nemo%	
+Jericca Cleland%	Finding Nemo%	
+David Ian Salter%	Finding Nemo%	
+Matthew Jon Beck%	Finding Nemo%	
+Mary Hidalgo%	Finding Nemo%	
+Kevin Reher%	Finding Nemo%	
+Ralph Eggleston%	Finding Nemo%	
+Mark Adams%	Finding Nemo%	
+Mickie McGowan%	Finding Nemo%	
+Tim Bevan%	The Big Lebowski%	
+John Cameron%	The Big Lebowski%	
+Ethan Coen%	The Big Lebowski%	
+Carter Burwell%	The Big Lebowski%	
+Roger Deakins%	The Big Lebowski%	
+Ethan Coen%	The Big Lebowski%	
+Joel Coen%	The Big Lebowski%	
+Tricia Cooke%	The Big Lebowski%	
+John S. Lyons%	The Big Lebowski%	
+Rick Heinrichs%	The Big Lebowski%	
+John Dexter%	The Big Lebowski%	
+Chris L. Spellman%	The Big Lebowski%	
+Mary Zophres%	The Big Lebowski%	
+Peter Chesney%	The Big Lebowski%	
+Tom Chesney%	The Big Lebowski%	
+John Alagna%	The Big Lebowski%	
+Travis Baumann%	The Big Lebowski%	
+Robert Chapin%	The Big Lebowski%	
+Oleg Yanchenko%	Come and See%	
+Alexey Rodionov%	Come and See%	
+Valeriya Belova%	Come and See%	
+Viktor Petrov%	Come and See%	
+Viktor Petrov%	Come and See%	
+Viktor Petrov%	Come and See%	
+Eleonora Semyonova%	Come and See%	
+William Fox%	Sunrise%	
+R.H. Bassett%	Sunrise%	
+Carli Elinor%	Sunrise%	
+Erno Rapee%	Sunrise%	
+Charles Rosher%	Sunrise%	
+Karl Struss%	Sunrise%	
+Harold D. Schuster%	Sunrise%	
+Rochus Gliese%	Sunrise%	
+Frank D. Williams%	Sunrise%	
+Gordon Carroll%	Cool Hand Luke%	
+Carter De Haven Jr.%	Cool Hand Luke%	
+Lalo Schifrin%	Cool Hand Luke%	
+Conrad L. Hall%	Cool Hand Luke%	
+Sam O'Steen%	Cool Hand Luke%	
+Cary Odell%	Cool Hand Luke%	
+Fred Price%	Cool Hand Luke%	
+Howard Shoup%	Cool Hand Luke%	
+David O. Selznick%	Rebecca%	
+Franz Waxman%	Rebecca%	
+George Barnes%	Rebecca%	
+W. Donn Hayes%	Rebecca%	
+Lyle R. Wheeler%	Rebecca%	
+William Cameron Menzies%	Rebecca%	
+Jack Cosgrove%	Rebecca%	
+Michael Bassick%	Hacksaw Ridge%	
+Lawrence Bender%	Hacksaw Ridge%	
+Terry Benedict%	Hacksaw Ridge%	
+Rupert Gregson-Williams%	Hacksaw Ridge%	
+Simon Duggan%	Hacksaw Ridge%	
+John Gilbert%	Hacksaw Ridge%	
+Nikki Barrett%	Hacksaw Ridge%	
+Barry Robison%	Hacksaw Ridge%	
+Jacinta Leong%	Hacksaw Ridge%	
+Mark Robins%	Hacksaw Ridge%	
+Rebecca Cohen%	Hacksaw Ridge%	
+Lizzy Gardiner%	Hacksaw Ridge%	
+Nathan Hill%	Hacksaw Ridge%	
+Bonnie Arnold%	How to Train Your Dragon%	
+Kristine Belson%	How to Train Your Dragon%	
+Suzanne Buirgy%	How to Train Your Dragon%	
+John Powell%	How to Train Your Dragon%	
+Maryann Brandon%	How to Train Your Dragon%	
+Darren T. Holmes%	How to Train Your Dragon%	
+Leslee Feldman%	How to Train Your Dragon%	
+Kathy Altieri%	How to Train Your Dragon%	
+Ania Kamieniecki-O'Hare%	How to Train Your Dragon%	
+Christi Soper%	How to Train Your Dragon%	
+Iain Canning%	Mary and Max%	
+Melanie Coombs%	Mary and Max%	
+Mark Gooder%	Mary and Max%	
+Dale Cornelius%	Mary and Max%	
+Gerald Thompson%	Mary and Max%	
+Bill Murphy%	Mary and Max%	
+Brooke Howden%	Mary and Max%	
+Adam Elliot%	Mary and Max%	
+Isabel Peppard%	Mary and Max%	
+Isabel Peppard%	Mary and Max%	
+Michael Allen%	Mary and Max%	
+Darren A. Bell%	Mary and Max%	
+Tamara Ogorodnikova%	Andrei Rublev%	
+Vyacheslav Ovchinnikov%	Andrei Rublev%	
+Vadim Yusov%	Andrei Rublev%	
+Tatyana Yegorychyova%	Andrei Rublev%	
+Lyudmila Feiginova%	Andrei Rublev%	
+Olga Shevkunenko%	Andrei Rublev%	
+Maya Abar-Baranovskaya%	Andrei Rublev%	
+Lidiya Novi%	Andrei Rublev%	
+David Blocker%	Into the Wild%	
+Frank Hildebrand%	Into the Wild%	
+John J. Kelly%	Into the Wild%	
+Michael Brook%	Into the Wild%	
+Kaki King%	Into the Wild%	
+Eddie Vedder%	Into the Wild%	
+Eric Gautier%	Into the Wild%	
+Jay Cassidy%	Into the Wild%	
+Francine Maisler%	Into the Wild%	
+Derek R. Hill%	Into the Wild%	
+John Richardson%	Into the Wild%	
+Domenic Silvestri%	Into the Wild%	
+Danielle Berman%	Into the Wild%	
+Christopher Neely%	Into the Wild%	
+Mary Claire Hannan%	Into the Wild%	
+Robert DeVine%	Into the Wild%	
+David Alexander%	Into the Wild%	
+Mat Beck%	Into the Wild%	
+Kathy Driscoll%	Into the Wild%	
+Lauren Grey%	Into the Wild%	
+Barbara Harris%	Into the Wild%	
+Tarak Ben Ammar%	Life of Brian%	
+John Goldstone%	Life of Brian%	
+Tim Hampton%	Life of Brian%	
+Geoffrey Burgon%	Life of Brian%	
+Peter Biziou%	Life of Brian%	
+Julian Doyle%	Life of Brian%	
+Terry Gilliam%	Life of Brian%	
+Roger Christian%	Life of Brian%	
+Charles Knode%	Life of Brian%	
+Hazel Pethig%	Life of Brian%	
+Frank Capra%	It Happened One Night%	
+Harry Cohn%	It Happened One Night%	
+Howard Jackson%	It Happened One Night%	
+Joseph Walker%	It Happened One Night%	
+Gene Havlick%	It Happened One Night%	
+Stephen Goosson%	It Happened One Night%	
+Robert Kalloch%	It Happened One Night%	
+Adam Bohling%	Rang De Basanti%	
+Deven Khote%	Rang De Basanti%	
+A. R. Rahman%	Rang De Basanti%	
+Binod Pradhan%	Rang De Basanti%	
+Elaine Grainger%	Rang De Basanti%	
+Samir Chanda%	Rang De Basanti%	
+Samir Chanda%	Rang De Basanti%	
+Arjun Bhasin%	Rang De Basanti%	
+Mukesh Chhabra%	Rang De Basanti%	
+Jesper Kyd%	The Passion of Joan of Arc%	
+Ole Schmidt%	The Passion of Joan of Arc%	
+Rudolph Maté%	The Passion of Joan of Arc%	
+Marguerite Beaugé%	The Passion of Joan of Arc%	
+Carl Theodor Dreyer%	The Passion of Joan of Arc%	
+Valentine Hugo%	The Passion of Joan of Arc%	
+John Daly%	Platoon%	
+Derek Gibson%	Platoon%	
+A. Kitman Ho%	Platoon%	
+Georges Delerue%	Platoon%	
+Robert Richardson%	Platoon%	
+Claire Simpson%	Platoon%	
+Pat Golden%	Platoon%	
+Warren MacLean%	Platoon%	
+Bob Morones%	Platoon%	
+Bruno Rubeo%	Platoon%	
+Rodell Cruz%	Platoon%	
+Sherman Williams%	Platoon%	
+Yves De Bono%	Platoon%	
+Barbara Harris%	Platoon%	
+Gabriel Byrne%	In the Name of the Father%	
+Terry George%	In the Name of the Father%	
+Nye Heron%	In the Name of the Father%	
+Trevor Jones%	In the Name of the Father%	
+Peter Biziou%	In the Name of the Father%	
+Gerry Hambling%	In the Name of the Father%	
+Nuala Moiselle%	In the Name of the Father%	
+Patsy Pollock%	In the Name of the Father%	
+Caroline Amies%	In the Name of the Father%	
+Rick Butler%	In the Name of the Father%	
+Joan Bergin%	In the Name of the Father%	
+Michael Dawson%	In the Name of the Father%	
+Kent Houston%	In the Name of the Father%	
+Martin Body%	In the Name of the Father%	
+Beverley Keogh%	In the Name of the Father%	
+Frank Moiselle%	In the Name of the Father%	
+Fred C. Caruso%	Network%	
+Howard Gottfried%	Network%	
+Elliot Lawrence%	Network%	
+Owen Roizman%	Network%	
+Alan Heim%	Network%	
+Juliet Taylor%	Network%	
+Philip Rosenberg%	Network%	
+Edward Stewart%	Network%	
+Theoni V. Aldredge%	Network%	
+Raynold Gideon%	Stand by Me%	
+Andrew Scheinman%	Stand by Me%	
+Jack Nitzsche%	Stand by Me%	
+Thomas Del Ruth%	Stand by Me%	
+Robert Leighton%	Stand by Me%	
+Janet Hirshenson%	Stand by Me%	
+Jane Jenkins%	Stand by Me%	
+J. Dennis Washington%	Stand by Me%	
+Richard D. Kent%	Stand by Me%	
+Henry Millar%	Stand by Me%	
+Rick Thompson%	Stand by Me%	
+Ken Marschall%	Stand by Me%	
+Tim Donahue%	Stand by Me%	
+Michael Hirshenson%	Stand by Me%	
+Roberto Cicutto%	Hotel Rwanda%	
+Izidore Codron%	Hotel Rwanda%	
+Rupert Gregson-Williams%	Hotel Rwanda%	
+Andrea Guerra%	Hotel Rwanda%	
+Robert Fraisse%	Hotel Rwanda%	
+Naomi Geraghty%	Hotel Rwanda%	
+Moonyeenn Lee%	Hotel Rwanda%	
+Richard Pagano%	Hotel Rwanda%	
+Sarah Trevis%	Hotel Rwanda%	
+Johnny Breedt%	Hotel Rwanda%	
+Tony Burrough%	Hotel Rwanda%	
+Emma MacDevitt%	Hotel Rwanda%	
+Ruy Filipe%	Hotel Rwanda%	
+Stephen Elson%	Hotel Rwanda%	
+Brendan Donnison%	Hotel Rwanda%	
+Wes Anderson%	The Grand Budapest Hotel%	
+Eli Bush%	The Grand Budapest Hotel%	
+Molly Cooper%	The Grand Budapest Hotel%	
+Alexandre Desplat%	The Grand Budapest Hotel%	
+Robert D. Yeoman%	The Grand Budapest Hotel%	
+Barney Pilling%	The Grand Budapest Hotel%	
+Douglas Aibel%	The Grand Budapest Hotel%	
+Antoinette Boulat%	The Grand Budapest Hotel%	
+Simone Bär%	The Grand Budapest Hotel%	
+Adam Stockhausen%	The Grand Budapest Hotel%	
+Stephan O. Gessler%	The Grand Budapest Hotel%	
+Gerald Sullivan%	The Grand Budapest Hotel%	
+Steve Summersgill%	The Grand Budapest Hotel%	
+Anna Pinnock%	The Grand Budapest Hotel%	
+Milena Canonero%	The Grand Budapest Hotel%	
+Holger Delfs%	The Grand Budapest Hotel%	
+Jan Burda%	The Grand Budapest Hotel%	
+Nicolas Cadorette Vigneau%	The Grand Budapest Hotel%	
+Henry Russell Bergstein%	The Grand Budapest Hotel%	
+Deborah Maxwell Dion%	The Grand Budapest Hotel%	
+Aleksandra Demidova%	Stalker%	
+Eduard Artemev%	Stalker%	
+Aleksandr Knyazhinsky%	Stalker%	
+Georgi Rerberg%	Stalker%	
+Leonid Kalashnikov%	Stalker%	
+Lyudmila Feiginova%	Stalker%	
+Aleksandr Boym%	Stalker%	
+Andrei Tarkovsky%	Stalker%	
+Nelli Fomina%	Stalker%	
+Raymond Borderie%	The Wages of Fear%	
+Henri-Georges Clouzot%	The Wages of Fear%	
+Georges Auric%	The Wages of Fear%	
+Armand Thirard%	The Wages of Fear%	
+Madeleine Gug%	The Wages of Fear%	
+Henri Rust%	The Wages of Fear%	
+René Renoux%	The Wages of Fear%	
+René Renoux%	The Wages of Fear%	
+Sam Zimbalist%	Ben-Hur%	
+Sol C. Siegel%	Ben-Hur%	
+Miklós Rózsa%	Ben-Hur%	
+Robert Surtees%	Ben-Hur%	
+John D. Dunning%	Ben-Hur%	
+Ralph E. Winters%	Ben-Hur%	
+Margaret Booth%	Ben-Hur%	
+Irene Howard%	Ben-Hur%	
+Vittorio Valentini%	Ben-Hur%	
+Edward C. Carfagno%	Ben-Hur%	
+William A. Horning%	Ben-Hur%	
+Hugh Hunt%	Ben-Hur%	
+Elizabeth Haffenden%	Ben-Hur%	
+Umberto Dessena%	Ben-Hur%	
+A. Arnold Gillespie%	Ben-Hur%	
+Robert R. Hoag%	Ben-Hur%	
+Lee LeBlanc%	Ben-Hur%	
+Ingmar Bergman%	Persona%	
+Lars Johan Werle%	Persona%	
+Sven Nykvist%	Persona%	
+Ulla Ryghe%	Persona%	
+Bibi Lindström%	Persona%	
+Mago%	Persona%	
+Edward S. Feldman%	The Truman Show%	
+Andrew Niccol%	The Truman Show%	
+Lynn Pleshette%	The Truman Show%	
+Burkhard von Dallwitz%	The Truman Show%	
+Peter Biziou%	The Truman Show%	
+William M. Anderson%	The Truman Show%	
+Lee Smith%	The Truman Show%	
+Howard Feuer%	The Truman Show%	
+Dennis Gassner%	The Truman Show%	
+Nancy Haigh%	The Truman Show%	
+Marilyn Matthews%	The Truman Show%	
+Larz Anderson%	The Truman Show%	
+Peter Chesney%	The Truman Show%	
+Craig Barron%	The Truman Show%	
+Travis Baumann%	The Truman Show%	
+Barbara Harris%	The Truman Show%	
+Ellen Jacoby%	The Truman Show%	
+Clint Eastwood%	Million Dollar Baby%	
+Paul Haggis%	Million Dollar Baby%	
+Robert Lorenz%	Million Dollar Baby%	
+Clint Eastwood%	Million Dollar Baby%	
+Tom Stern%	Million Dollar Baby%	
+Joel Cox%	Million Dollar Baby%	
+Phyllis Huffman%	Million Dollar Baby%	
+Henry Bumstead%	Million Dollar Baby%	
+Jack G. Taylor Jr.%	Million Dollar Baby%	
+Richard C. Goddard%	Million Dollar Baby%	
+Deborah Hopper%	Million Dollar Baby%	
+Steve Riley%	Million Dollar Baby%	
+Liz Radley%	Million Dollar Baby%	
+Darin McCormick-Millett%	Million Dollar Baby%	
+Geoffrey Miclat%	Million Dollar Baby%	
+François Truffaut%	The 400 Blows%	
+Jean Constantin%	The 400 Blows%	
+Henri Decaë%	The 400 Blows%	
+Marie-Josèphe Yoyotte%	The 400 Blows%	
+Bernard Evein%	The 400 Blows%	
+Michael Bederman%	Spotlight%	
+Kate Churchill%	Spotlight%	
+Bard Dorros%	Spotlight%	
+Howard Shore%	Spotlight%	
+Masanobu Takayanagi%	Spotlight%	
+Tom McArdle%	Spotlight%	
+Kerry Barden%	Spotlight%	
+John Buchan%	Spotlight%	
+Jason Knight%	Spotlight%	
+Stephen H. Carter%	Spotlight%	
+Michaela Cheyne%	Spotlight%	
+Vanessa Knoll%	Spotlight%	
+Shane Vieau%	Spotlight%	
+Wendy Chuck%	Spotlight%	
+Marcus Rait%	Spotlight%	
+Neishaw Ali%	Spotlight%	
+Guillermo Arriaga%	Amores Perros%	
+Raúl Olvera Ferrer%	Amores Perros%	
+Francisco González Compeán%	Amores Perros%	
+Gustavo Santaolalla%	Amores Perros%	
+Rodrigo Prieto%	Amores Perros%	
+Luis Carballar%	Amores Perros%	
+Alejandro González Iñárritu%	Amores Perros%	
+Fernando Pérez Unda%	Amores Perros%	
+Manuel Teil%	Amores Perros%	
+Brigitte Broch%	Amores Perros%	
+Melo Hinojosa%	Amores Perros%	
+Julieta Álvarez%	Amores Perros%	
+Gabriela Diaque%	Amores Perros%	
+Javier Martínez%	Amores Perros%	
+Alejandro Vázquez%	Amores Perros%	
+Jorge Guerrero%	Amores Perros%	
+Sonia Guerrero%	Amores Perros%	
+Gregory Jacobs%	Before Sunrise%	
+Wolfgang Ramml%	Before Sunrise%	
+Fred Frith%	Before Sunrise%	
+Lee Daniel%	Before Sunrise%	
+Sandra Adair%	Before Sunrise%	
+Alycia Aumuller%	Before Sunrise%	
+Judy Henderson%	Before Sunrise%	
+Florian Reichmann%	Before Sunrise%	
+Florentina Welley%	Before Sunrise%	
+Jeff Abberley%	Hachi: A Dog's Tale%	
+Julia Blackman%	Hachi: A Dog's Tale%	
+Jan A.P. Kaczmarek%	Hachi: A Dog's Tale%	
+Ron Fortunato%	Hachi: A Dog's Tale%	
+Kristina Boden%	Hachi: A Dog's Tale%	
+Rick Montgomery%	Hachi: A Dog's Tale%	
+Jordan Jacobs%	Hachi: A Dog's Tale%	
+Deborah Newhall%	Hachi: A Dog's Tale%	
+John Ruggieri%	Hachi: A Dog's Tale%	
+David Isyomin%	Hachi: A Dog's Tale%	
+Deb Green%	Hachi: A Dog's Tale%	
+Jason James%	Hachi: A Dog's Tale%	
+John Foreman%	Butch Cassidy and the Sundance Kid%	
+Paul Monash%	Butch Cassidy and the Sundance Kid%	
+Paul Newman%	Butch Cassidy and the Sundance Kid%	
+Burt Bacharach%	Butch Cassidy and the Sundance Kid%	
+Conrad L. Hall%	Butch Cassidy and the Sundance Kid%	
+John C. Howard%	Butch Cassidy and the Sundance Kid%	
+Richard C. Meyer%	Butch Cassidy and the Sundance Kid%	
+Philip M. Jefferies%	Butch Cassidy and the Sundance Kid%	
+Jack Martin Smith%	Butch Cassidy and the Sundance Kid%	
+Chester L. Bayhi%	Butch Cassidy and the Sundance Kid%	
+Walter M. Scott%	Butch Cassidy and the Sundance Kid%	
+Edith Head%	Butch Cassidy and the Sundance Kid%	
+L.B. Abbott%	Butch Cassidy and the Sundance Kid%	
+Art Cruickshank%	Butch Cassidy and the Sundance Kid%	
+Norman Lear%	The Princess Bride%	
+Steve Nicolaides%	The Princess Bride%	
+Rob Reiner%	The Princess Bride%	
+Mark Knopfler%	The Princess Bride%	
+Adrian Biddle%	The Princess Bride%	
+Robert Leighton%	The Princess Bride%	
+Janet Hirshenson%	The Princess Bride%	
+Jane Jenkins%	The Princess Bride%	
+Norman Garwood%	The Princess Bride%	
+Richard Holland%	The Princess Bride%	
+Keith Pain%	The Princess Bride%	
+Maggie Gray%	The Princess Bride%	
+Phyllis Dalton%	The Princess Bride%	
+Nick Allder%	The Princess Bride%	
+Kent Houston%	The Princess Bride%	
+Michael Hirshenson%	The Princess Bride%	
+Fred Berger%	La La Land%	
+Michael Beugg%	La La Land%	
+Gary Gilbert%	La La Land%	
+Justin Hurwitz%	La La Land%	
+Linus Sandgren%	La La Land%	
+Tom Cross%	La La Land%	
+Deborah Aquila%	La La Land%	
+Tricia Wood%	La La Land%	
+David Wasco%	La La Land%	
+Austin Gorg%	La La Land%	
+Sandy Reynolds-Wasco%	La La Land%	
+Mary Zophres%	La La Land%	
+Jeremy Hays%	La La Land%	
+Steve Shines%	La La Land%	
+Johnny Gidcomb%	La La Land%	
+Henry Blanke%	The Maltese Falcon%	
+Hal B. Wallis%	The Maltese Falcon%	
+Adolph Deutsch%	The Maltese Falcon%	
+Arthur Edeson%	The Maltese Falcon%	
+Thomas Richards%	The Maltese Falcon%	
+Robert M. Haas%	The Maltese Falcon%	
+Orry-Kelly%	The Maltese Falcon%	
+Shital Bhatia%	A Wednesday%	
+Rajesh Ganguly%	A Wednesday%	
+Sanjoy Chowdhury%	A Wednesday%	
+Fuwad Khan%	A Wednesday%	
+Shree Narayan Singh%	A Wednesday%	
+Dino De Laurentiis%	The Nights of Cabiria%	
+Nino Rota%	The Nights of Cabiria%	
+Aldo Tonti%	The Nights of Cabiria%	
+Leo Cattozzo%	The Nights of Cabiria%	
+Piero Gherardi%	The Nights of Cabiria%	
+Piero Gherardi%	The Nights of Cabiria%	
+Nunnally Johnson%	The Grapes of Wrath%	
+Darryl F. Zanuck%	The Grapes of Wrath%	
+Alfred Newman%	The Grapes of Wrath%	
+Gregg Toland%	The Grapes of Wrath%	
+Robert L. Simpson%	The Grapes of Wrath%	
+Richard Day%	The Grapes of Wrath%	
+Mark-Lee Kirk%	The Grapes of Wrath%	
+Thomas Little%	The Grapes of Wrath%	
+Gwen Wakeling%	The Grapes of Wrath%	
+Darla K. Anderson%	Monsters, Inc.%	
+Karen Dufilho-Rosen%	Monsters, Inc.%	
+John Lasseter%	Monsters, Inc.%	
+Randy Newman%	Monsters, Inc.%	
+Robert Grahamjones%	Monsters, Inc.%	
+Jim Stewart%	Monsters, Inc.%	
+Matthew Jon Beck%	Monsters, Inc.%	
+Mary Hidalgo%	Monsters, Inc.%	
+Ruth Lambert%	Monsters, Inc.%	
+Harley Jessup%	Monsters, Inc.%	
+Bob Pauley%	Monsters, Inc.%	
+Tia W. Kratter%	Monsters, Inc.%	
+Dominique Louis%	Monsters, Inc.%	
+Mark Adams%	Monsters, Inc.%	
+Paul Aichele%	Monsters, Inc.%	
+Mickie McGowan%	Monsters, Inc.%	
+Henri-Georges Clouzot%	Diabolique%	
+Georges Lourau%	Diabolique%	
+Georges Van Parys%	Diabolique%	
+Armand Thirard%	Diabolique%	
+Madeleine Gug%	Diabolique%	
+Léon Barsacq%	Diabolique%	
+Carven%	Diabolique%	
+Jan Harlan%	Barry Lyndon%	
+Stanley Kubrick%	Barry Lyndon%	
+Bernard Williams%	Barry Lyndon%	
+John Alcott%	Barry Lyndon%	
+Tony Lawson%	Barry Lyndon%	
+James Liggat%	Barry Lyndon%	
+Ken Adam%	Barry Lyndon%	
+Roy Walker%	Barry Lyndon%	
+Milena Canonero%	Barry Lyndon%	
+Ulla-Britt Söderlund%	Barry Lyndon%	
+Gerry Johnston%	Barry Lyndon%	
+Peter Bogdanovich%	Paper Moon%	
+Frank Marshall%	Paper Moon%	
+Francis Ford Coppola%	Paper Moon%	
+László Kovács%	Paper Moon%	
+Verna Fields%	Paper Moon%	
+Gary Chason%	Paper Moon%	
+Polly Platt%	Paper Moon%	
+John P. Austin%	Paper Moon%	
+Polly Platt%	Paper Moon%	
+Richard Attenborough%	Gandhi%	
+Suresh Jindal%	Gandhi%	
+Ravi Shankar%	Gandhi%	
+Ronnie Taylor%	Gandhi%	
+Billy Williams%	Gandhi%	
+John Bloom%	Gandhi%	
+Susie Figgis%	Gandhi%	
+Stuart Craig%	Gandhi%	
+Norman Dorme%	Gandhi%	
+Robert W. Laing%	Gandhi%	
+Ram Yedekar%	Gandhi%	
+Michael Seirton%	Gandhi%	
+Bhanu Athaiya%	Gandhi%	
+John Mollo%	Gandhi%	
+Gary Shaw%	Gandhi%	
+Shailendra Goel%	Gandhi%	
+John Daly%	The Terminator%	
+Derek Gibson%	The Terminator%	
+Gale Anne Hurd%	The Terminator%	
+Brad Fiedel%	The Terminator%	
+Adam Greenberg%	The Terminator%	
+Mark Goldblatt%	The Terminator%	
+Stanzi Stokes%	The Terminator%	
+Maria Caso%	The Terminator%	
+George Costello%	The Terminator%	
+Maria Caso%	The Terminator%	
+Hilary Wright%	The Terminator%	
+Ellis Burman Jr.%	The Terminator%	
+Doug Beswick%	The Terminator%	
+Greg Robbins%	The Terminator%	
+Michael Thomas Slifkin%	The Terminator%	
+Albert Zugsmith%	Touch of Evil%	
+Henry Mancini%	Touch of Evil%	
+Russell Metty%	Touch of Evil%	
+Walter Murch%	Touch of Evil%	
+Aaron Stell%	Touch of Evil%	
+Virgil W. Vogel%	Touch of Evil%	
+Robert Clatworthy%	Touch of Evil%	
+Alexander Golitzen%	Touch of Evil%	
+John P. Austin%	Touch of Evil%	
+Russell A. Gausman%	Touch of Evil%	
+Bill Thomas%	Touch of Evil%	
+Adeline Lecallier%	La Haine%	
+Alain Rocca%	La Haine%	
+Christophe Rossignon%	La Haine%	
+Assassin%	La Haine%	
+Pierre Aïm%	La Haine%	
+Mathieu Kassovitz%	La Haine%	
+Scott Stevenson%	La Haine%	
+Giuseppe Ponturo%	La Haine%	
+Rodolphe Chabrier%	La Haine%	
+Antoine Simkine%	La Haine%	
+Trevor Albert%	Groundhog Day%	
+C.O. Erickson%	Groundhog Day%	
+Harold Ramis%	Groundhog Day%	
+George Fenton%	Groundhog Day%	
+John Bailey%	Groundhog Day%	
+Pembroke J. Herring%	Groundhog Day%	
+Howard Feuer%	Groundhog Day%	
+David Nichols%	Groundhog Day%	
+Peter Landsdown Smith%	Groundhog Day%	
+Lisa Fischer%	Groundhog Day%	
+Jennifer Butler%	Groundhog Day%	
+Tom Ryba%	Groundhog Day%	
+Nicole Arbusto%	Groundhog Day%	
+Mervyn LeRoy%	The Wizard of Oz%	
+Arthur Freed%	The Wizard of Oz%	
+Harold Rosson%	The Wizard of Oz%	
+Blanche Sewell%	The Wizard of Oz%	
+Leonard Murphy%	The Wizard of Oz%	
+Malcolm Brown%	The Wizard of Oz%	
+William A. Horning%	The Wizard of Oz%	
+Jack Martin Smith%	The Wizard of Oz%	
+Cedric Gibbons%	The Wizard of Oz%	
+Edwin B. Willis%	The Wizard of Oz%	
+Adrian%	The Wizard of Oz%	
+A. Arnold Gillespie%	The Wizard of Oz%	
+Marcel Delgado%	The Wizard of Oz%	
+Chris Del Conte%	The Wizard of Oz%	
+Steven Haft%	Dead Poets Society%	
+Duncan Henderson%	Dead Poets Society%	
+Paul Junger Witt%	Dead Poets Society%	
+Maurice Jarre%	Dead Poets Society%	
+John Seale%	Dead Poets Society%	
+William M. Anderson%	Dead Poets Society%	
+Howard Feuer%	Dead Poets Society%	
+Wendy Stites%	Dead Poets Society%	
+Sandy Veneziano%	Dead Poets Society%	
+John H. Anderson%	Dead Poets Society%	
+Allen Hall%	Dead Poets Society%	
+John S. Baker%	Dead Poets Society%	
+Shirley Fulton Crumley%	Dead Poets Society%	
+Fred T. Gallo%	Annie Hall%	
+Robert Greenhut%	Annie Hall%	
+Charles H. Joffe%	Annie Hall%	
+Gordon Willis%	Annie Hall%	
+Wendy Greene Bricmont%	Annie Hall%	
+Ralph Rosenblum%	Annie Hall%	
+Juliet Taylor%	Annie Hall%	
+Mel Bourne%	Annie Hall%	
+Robert Drumheller%	Annie Hall%	
+Justin Scoppa Jr.%	Annie Hall%	
+Ruth Morley%	Annie Hall%	
+Aaron Beckwith%	Annie Hall%	
+Angelo Rizzoli%	8½%	
+Nino Rota%	8½%	
+Gianni Di Venanzo%	8½%	
+Leo Cattozzo%	8½%	
+Piero Gherardi%	8½%	
+Piero Gherardi%	8½%	
+Piero Gherardi%	8½%	
+Leonor Fini%	8½%	
+Ye-cheng Chan%	In the Mood for Love%	
+William Chang%	In the Mood for Love%	
+Michael Galasso%	In the Mood for Love%	
+Umebayashi Shigeru%	In the Mood for Love%	
+Christopher Doyle%	In the Mood for Love%	
+Kwan Pung-Leung%	In the Mood for Love%	
+Mark Lee Ping-Bing%	In the Mood for Love%	
+William Chang%	In the Mood for Love%	
+William Chang%	In the Mood for Love%	
+William Chang%	In the Mood for Love%	
+Samuel Goldwyn%	The Best Years of Our Lives%	
+Lester Koenig%	The Best Years of Our Lives%	
+Hugo Friedhofer%	The Best Years of Our Lives%	
+Gregg Toland%	The Best Years of Our Lives%	
+Daniel Mandell%	The Best Years of Our Lives%	
+Perry Ferguson%	The Best Years of Our Lives%	
+George Jenkins%	The Best Years of Our Lives%	
+Julia Heron%	The Best Years of Our Lives%	
+Irene Sharaff%	The Best Years of Our Lives%	
+John P. Fulton%	The Best Years of Our Lives%	
+Harry Redmond Sr.%	The Best Years of Our Lives%	
+Anatole Dauman%	Paris, Texas%	
+Pascale Dauman%	Paris, Texas%	
+Don Guest%	Paris, Texas%	
+Ry Cooder%	Paris, Texas%	
+Robby Müller%	Paris, Texas%	
+Peter Przygodda%	Paris, Texas%	
+Gary Chason%	Paris, Texas%	
+Kate Altman%	Paris, Texas%	
+Birgitta Bjerke%	Paris, Texas%	
+Sheila Possner Emery%	Paris, Texas%	
+Ellen Chang%	Infernal Affairs%	
+Lorraine Ho%	Infernal Affairs%	
+Kwong Wing Chan%	Infernal Affairs%	
+Ronald Ng%	Infernal Affairs%	
+Yiu-Fai Lai%	Infernal Affairs%	
+Andrew Lau%	Infernal Affairs%	
+Curran Pang%	Infernal Affairs%	
+Danny Pang%	Infernal Affairs%	
+Choo Sung Pong%	Infernal Affairs%	
+Pik Kwan Lee%	Infernal Affairs%	
+Robert Cavallo%	Twelve Monkeys%	
+Mark Egerton%	Twelve Monkeys%	
+Robert Kosberg%	Twelve Monkeys%	
+Paul Buckmaster%	Twelve Monkeys%	
+Roger Pratt%	Twelve Monkeys%	
+Mick Audsley%	Twelve Monkeys%	
+Margery Simkin%	Twelve Monkeys%	
+Jeffrey Beecroft%	Twelve Monkeys%	
+William Ladd Skinner%	Twelve Monkeys%	
+Crispian Sallis%	Twelve Monkeys%	
+Julie Weiss%	Twelve Monkeys%	
+David Acord%	Twelve Monkeys%	
+Richard Bain%	Twelve Monkeys%	
+Martin Body%	Twelve Monkeys%	
+Sneha Khanwalkar%	Gangs of Wasseypur%	
+Rajeev Ravi%	Gangs of Wasseypur%	
+Mukesh Chhabra%	Gangs of Wasseypur%	
+Wasiq Khan%	Gangs of Wasseypur%	
+Aakash Dahiya%	Gangs of Wasseypur%	
+John Sloss%	Before Sunset%	
+Anne Walker-McBay%	Before Sunset%	
+Lee Daniel%	Before Sunset%	
+Sandra Adair%	Before Sunset%	
+Baptiste Glaymann%	Before Sunset%	
+Thierry Delettre%	Before Sunset%	
+Annette Trumel%	Before Sunset%	
+Howard Ashman%	Beauty and the Beast%	
+Don Hahn%	Beauty and the Beast%	
+John Lasseter%	Beauty and the Beast%	
+Alan Menken%	Beauty and the Beast%	
+John Carnochan%	Beauty and the Beast%	
+Ellen Keneshea%	Beauty and the Beast%	
+Bill Wilner%	Beauty and the Beast%	
+Albert Tavares%	Beauty and the Beast%	
+Brian McEntee%	Beauty and the Beast%	
+Bob Bennett%	Beauty and the Beast%	
+Matthew Messinger%	Beauty and the Beast%	
+Mickie McGowan%	Beauty and the Beast%	
+Antonio Musu%	The Battle of Algiers%	
+Yacef Saadi%	The Battle of Algiers%	
+Fred Baker%	The Battle of Algiers%	
+Ennio Morricone%	The Battle of Algiers%	
+Gillo Pontecorvo%	The Battle of Algiers%	
+Marcello Gatti%	The Battle of Algiers%	
+Mario Morra%	The Battle of Algiers%	
+Mario Serandrei%	The Battle of Algiers%	
+Sergio Canevari%	The Battle of Algiers%	
+Sergio Canevari%	The Battle of Algiers%	
+Aldo Gasparri%	The Battle of Algiers%	
+Martin Bregman%	Dog Day Afternoon%	
+Martin Elfand%	Dog Day Afternoon%	
+Robert Greenhut%	Dog Day Afternoon%	
+Victor J. Kemper%	Dog Day Afternoon%	
+Dede Allen%	Dog Day Afternoon%	
+Michael Chinich%	Dog Day Afternoon%	
+Don Phillips%	Dog Day Afternoon%	
+Charles Bailey%	Dog Day Afternoon%	
+Douglas Higgins%	Dog Day Afternoon%	
+Robert Drumheller%	Dog Day Afternoon%	
+Anna Hill Johnstone%	Dog Day Afternoon%	

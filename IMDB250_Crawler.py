@@ -79,7 +79,7 @@ def writeToFiles(movie_info, similar_info, genre_info, location_info,
             toWrite = ''
             for n in range(len(e)):
                 try:
-                    toWrite = toWrite+e[n]+',\t'
+                    toWrite = toWrite+e[n]+'%\t'
                 except:
                     toWrite = toWrite+''
             toWrite = toWrite+'\n'
@@ -88,7 +88,7 @@ def writeToFiles(movie_info, similar_info, genre_info, location_info,
             toWrite = ''
             for n in range(len(e)):
                 try:
-                    toWrite = toWrite+e[n]+',\t'
+                    toWrite = toWrite+e[n]+'%\t'
                 except:
                     toWrite = toWrite+''
             toWrite = toWrite+'\n'
@@ -98,7 +98,7 @@ def writeToFiles(movie_info, similar_info, genre_info, location_info,
             toWrite = ''
             for n in range(len(e)):
                 try:
-                    toWrite = toWrite+e[n]+',\t'
+                    toWrite = toWrite+e[n]+'%\t'
                 except:
                     toWrite = toWrite+''
             toWrite = toWrite+'\n'
@@ -108,7 +108,7 @@ def writeToFiles(movie_info, similar_info, genre_info, location_info,
             toWrite = ''
             for n in range(len(e)):
                 try:
-                    toWrite = toWrite+e[n]+',\t'
+                    toWrite = toWrite+e[n]+'%\t'
                 except:
                     toWrite = toWrite+''
             toWrite = toWrite+'\n'
@@ -118,7 +118,7 @@ def writeToFiles(movie_info, similar_info, genre_info, location_info,
             toWrite = ''
             for n in range(len(e)):
                 try:
-                    toWrite = toWrite+e[n]+',\t'
+                    toWrite = toWrite+e[n]+'%\t'
                 except:
                     toWrite = toWrite+''
             toWrite = toWrite+'\n'
@@ -128,7 +128,7 @@ def writeToFiles(movie_info, similar_info, genre_info, location_info,
             toWrite = ''
             for n in range(len(e)):
                 try:
-                    toWrite = toWrite+e[n]+',\t'
+                    toWrite = toWrite+e[n]+'%\t'
                 except:
                     toWrite = toWrite+''
             toWrite = toWrite+'\n'
@@ -138,7 +138,7 @@ def writeToFiles(movie_info, similar_info, genre_info, location_info,
             toWrite = ''
             for n in range(len(e)):
                 try:
-                    toWrite = toWrite+e[n]+',\t'
+                    toWrite = toWrite+e[n]+'%\t'
                 except:
                     toWrite = toWrite+''
             toWrite = toWrite+'\n'
@@ -148,7 +148,7 @@ def writeToFiles(movie_info, similar_info, genre_info, location_info,
             toWrite = ''
             for n in range(len(e)):
                 try:
-                    toWrite = toWrite+e[n]+',\t'
+                    toWrite = toWrite+e[n]+'%\t'
                 except:
                     toWrite = toWrite+''
             toWrite = toWrite+'\n'
@@ -158,7 +158,7 @@ def writeToFiles(movie_info, similar_info, genre_info, location_info,
             toWrite = ''
             for n in range(len(e)):
                 try:
-                    toWrite = toWrite+e[n]+',\t'
+                    toWrite = toWrite+e[n]+'%\t'
                 except:
                     toWrite = toWrite+''
             toWrite = toWrite+'\n'
@@ -168,7 +168,7 @@ def writeToFiles(movie_info, similar_info, genre_info, location_info,
             toWrite = ''
             for n in range(len(e)):
                 try:
-                    toWrite = toWrite+e[n]+',\t'
+                    toWrite = toWrite+e[n]+'%\t'
                 except:
                     toWrite = toWrite+''
             toWrite = toWrite+'\n'
@@ -178,41 +178,44 @@ def writeToFiles(movie_info, similar_info, genre_info, location_info,
             toWrite = ''
             for n in range(len(e)):
                 try:
-                    toWrite = toWrite+e[n]+',\t'
+                    toWrite = toWrite+e[n]+'%\t'
                 except:
                     toWrite = toWrite+''
             toWrite = toWrite+'\n'
             award_recordFile.write(toWrite)
 
-        for e in music_info:
-            toWrite = ''
-            for n in range(len(e)):
-                try:
-                    toWrite = toWrite+e[n]+',\t'
-                except:
-                    toWrite = toWrite+''
-            toWrite = toWrite+'\n'
-            musicFile.write(toWrite)
+        if len(music_info) > 0:
+            for e in music_info:
+                toWrite = ''
+                for n in range(len(e)):
+                    try:
+                        toWrite = toWrite+e[n]+'%\t'
+                    except:
+                        toWrite = toWrite+''
+                toWrite = toWrite+'\n'
+                musicFile.write(toWrite)
 
-        for e in artist_info:
-            toWrite = ''
-            for n in range(len(e)):
-                try:
-                    toWrite = toWrite+e[n]+',\t'
-                except:
-                    toWrite = toWrite+''
-            toWrite = toWrite+'\n'
-            artistFile.write(toWrite)
+        if len(artist_info) > 0:
+            for e in artist_info:
+                toWrite = ''
+                for n in range(len(e)):
+                    try:
+                        toWrite = toWrite+e[n]+'%\t'
+                    except:
+                        toWrite = toWrite+''
+                toWrite = toWrite+'\n'
+                artistFile.write(toWrite)
 
-        for e in heard_in_info:
-            toWrite = ''
-            for n in range(len(e)):
-                try:
-                    toWrite = toWrite+e[n]+',\t'
-                except:
-                    toWrite = toWrite+''
-            toWrite = toWrite+'\n'
-            heard_inFile.write(toWrite)
+        if len(heard_in_info) > 0:
+            for e in heard_in_info:
+                toWrite = ''
+                for n in range(len(e)):
+                    try:
+                        toWrite = toWrite+e[n]+'%\t'
+                    except:
+                        toWrite = toWrite+''
+                toWrite = toWrite+'\n'
+                heard_inFile.write(toWrite)
 
     except:
         print('Error writing to file')
@@ -268,6 +271,12 @@ def getInfo(dictionary, movies):
             cast = []
             writers = []
             crew = []
+
+            print('\n\n')
+            looking_at = 'Scanning through '+title
+            print(looking_at.center(50,'='))
+            print('\n\n')
+
             for p in range(len(persons)):
                 try:
                     if(persons[p].getDepartment() == 'Directed'):
@@ -280,7 +289,7 @@ def getInfo(dictionary, movies):
                     else:
                         crew.append(persons[p])
                 except:
-                    print('\n\n\nerr\n\n\n')
+                    pass
 
             movie_info.append([title,thisMovie.getRD_date(),thisMovie.getTime_len(),
                             thisMovie.getContentRating(),rating,thisMovie.getBO_GrossUSA(),
@@ -325,10 +334,11 @@ def getInfo(dictionary, movies):
             scannedMovies.append(movie)
 
             end_time = time.time()
-            print('\nEnded search in '+str(end_time-start_time)+' seconds on movie '+title +' , movie number '+str(num_in_line)+' out of '+str(movie_count))
+            print('\nEnded search in '+str(end_time-start_time)+' seconds on movie '+title +' , movie number '+str(num_in_line)+' out of '+str(movie_count)+'\n\n')
 
         except Exception as err:
-            toWrite = 'Failed to scan movie '+setTitle(movie)
+            print('\n\nFailed to scan movie '+setTitle(movie)+'\n\n')
+            toWrite = '\nFailed to scan movie '+setTitle(movie)
             toWrite = toWrite + '\n\tError due to '+str(err)
             ErrorFile.write(toWrite)
     ErrorFile.close()

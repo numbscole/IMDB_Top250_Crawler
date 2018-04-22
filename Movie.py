@@ -185,6 +185,8 @@ class Movie:
         # locations_E = locations_E.findAll('dt')
         locations_html = locations_O + locations_E
 
+        countrys = []
+        citys = []
         for local in locations_html:
             locations = []
             l = local.find('dt').a.text
@@ -196,12 +198,18 @@ class Movie:
                 country = locations[-1].rstrip('\n')
                 state = locations[-2]
                 city = locations[-3]
-                self.Locations.append(Location(tconst,country,city,state))
+                if country not in countrys and city not in citys:
+                    countrys.append(country)
+                    citys.append(city)
+                    self.Locations.append(Location(tconst,country,city,state))
             elif len(locations) == 2:
                 # May only have info on the country and either city or state (classified as city)
                 country = locations[1].rstrip('\n')
                 city = locations[0]
-                self.Locations.append(Location(tconst,country,city))
+                if country not in countrys and city not in citys:
+                    countrys.append(country)
+                    citys.append(city)
+                    self.Locations.append(Location(tconst,country,city, 'NULL'))
 
     def getLocations(self):
         return self.Locations
