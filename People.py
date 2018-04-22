@@ -41,7 +41,7 @@ def getCreditDictionary(tconst):
             dictionary[dep] = getIDsFromTable(tables[d])
         elif 'Cast' in dep:
             if dep == 'Cast':
-                dictionary[dep] = getIDsFromTable(tables[d],15)
+                dictionary[dep] = getIDsFromTable(tables[d],30)
             else:
                 dictionary[dep] = getIDsFromTable(tables[d])
             departments.append(dep)
