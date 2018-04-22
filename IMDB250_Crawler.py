@@ -243,105 +243,102 @@ def getInfo(dictionary, movies):
     movie_count = len(movies)
     for movie in movies:
         num_in_line = num_in_line + 1
-        try:
-            # Creating lists containing information to be written to a file
-            movie_info = []
-            similar_info = []
-            genre_info = []
-            location_info = []
-            plays_in_info = []
-            cast_info = []
-            crew_info = []
-            works_on_info = []
-            writers_info = []
-            creates_info = []
-            music_info = []
-            artist_info = []
-            heard_in_info = []
-            award_record_info = []
+    # try:
+        # Creating lists containing information to be written to a file
+        movie_info = []
+        similar_info = []
+        genre_info = []
+        location_info = []
+        plays_in_info = []
+        cast_info = []
+        crew_info = []
+        works_on_info = []
+        writers_info = []
+        creates_info = []
+        music_info = []
+        artist_info = []
+        heard_in_info = []
+        award_record_info = []
 
-            start_time = time.time()
-            title = setTitle(movie)
-            rating = setRating(movie)
-            tconst = setTconst(movie)
-            thisMovie = Movie(title,rating,tconst)
-            dictionary[tconst] = title
-            persons = People(tconst).getPeople()
-            director = None
-            cast = []
-            writers = []
-            crew = []
+        start_time = time.time()
+        title = setTitle(movie)
+        print('\n\n')
+        looking_at = 'Scanning through '+title
+        print(looking_at.center(100,'='))
+        print('\n\n')
+        rating = setRating(movie)
+        tconst = setTconst(movie)
+        thisMovie = Movie(title,rating,tconst)
+        dictionary[tconst] = title
+        persons = People(tconst).getPeople()
+        cast = []
+        writers = []
+        crew = []
 
-            print('\n\n')
-            looking_at = 'Scanning through '+title
-            print(looking_at.center(50,'='))
-            print('\n\n')
+        for p in range(len(persons)):
+            try:
+                if(persons[p].getDepartment() == 'Directed'):
+                    director = persons[p]
+                elif(persons[p].getDepartment() == 'Cast'):
+                    cast.append(persons[p])
+                elif(persons[p].getDepartment() == 'Writing Credits'):
+                    writers.append(persons[p])
+                else:
+                    crew.append(persons[p])
+            except:
+                pass
 
-            for p in range(len(persons)):
-                try:
-                    if(persons[p].getDepartment() == 'Directed'):
-                        director = persons[p]
-                        del persons[p]
-                    elif(persons[p].getDepartment() == 'Cast'):
-                        cast.append(persons[p])
-                    elif(persons[p].getDepartment() == 'Writing Credits'):
-                        writers.append(persons[p])
-                    else:
-                        crew.append(persons[p])
-                except:
-                    pass
+        movie_info.append([title,thisMovie.getRD_date(),thisMovie.getTime_len(),
+                        thisMovie.getContentRating(),rating,thisMovie.getBO_GrossUSA(),
+                        thisMovie.getBO_GrossWorld(), thisMovie.getBudget(),thisMovie.getON_Earnings(),
+                        thisMovie.getON_Date(), director.getName(), director.getFRY(), director.getBirthday()])
+        sims = thisMovie.getSimilarMovieTitles()
+        for s in sims:
+            similar_info.append([title, s])
+        genres = thisMovie.getGenres()
+        for g in genres:
+            genre_info.append([title, g])
+        locations = thisMovie.getLocations()
+        for local in locations:
+            location_info.append([title, local.getCountry(), local.getCity(), local.getState()])
+        for p in cast:
+            plays_in_info.append([p.getName(), title])
+            cast_info.append([p.getName(),p.getGender(), p.getBirthday()])
+        for c in crew:
+            crew_info.append([c.getName(),c.getDepartment(),c.getBirthday()])
+            works_on_info.append([c.getName(),title])
+        for w in writers:
+            writers_info.append([w.getName(), w.getBirthday()])
+            creates_info.append([w.getName(), title])
 
-            movie_info.append([title,thisMovie.getRD_date(),thisMovie.getTime_len(),
-                            thisMovie.getContentRating(),rating,thisMovie.getBO_GrossUSA(),
-                            thisMovie.getBO_GrossWorld(), thisMovie.getBudget(),thisMovie.getON_Earnings(),
-                            thisMovie.getON_Date(), director.getName(), director.getFRY(), director.getBirthday()])
-            sims = thisMovie.getSimilarMovieTitles()
-            for s in sims:
-                similar_info.append([title, s])
-            genres = thisMovie.getGenres()
-            for g in genres:
-                genre_info.append([title, g])
-            locations = thisMovie.getLocations()
-            for local in locations:
-                location_info.append([title, local.getCountry(), local.getCity(), local.getState()])
-            for p in cast:
-                plays_in_info.append([p.getName(), title])
-                cast_info.append([p.getName(),p.getGender(), p.getBirthday()])
-            for c in crew:
-                crew_info.append([c.getName(),c.getDepartment(),c.getBirthday()])
-                works_on_info.append([c.getName(),title])
-            for w in writers:
-                writers_info.append([w.getName(), w.getBirthday()])
-                creates_info.append([w.getName(), title])
+        awards = thisMovie.getAwards()
+        for a in awards:
+            award_record_info.append([title,a.getAward(),a.getYear(),a.getCategory()])
 
-            awards = thisMovie.getAwards()
-            for a in awards:
-                award_record_info.append([title,a.getAward(),a.getYear(),a.getCategory()])
+        music = thisMovie.getMusic()
+        if music != None:
+            song_list = music.songs()
+            for song in song_list:
+                music_info.append([song.getTitle(), song.getlength()])
+                artist_info.append([song.getTitle(), song.getAuthor()])
+                heard_in_info.append([title, song.getTitle()])
 
-            music = thisMovie.getMusic()
-            if music != None:
-                song_list = music.songs()
-                for song in song_list:
-                    music_info.append([song.getTitle(), song.getlength()])
-                    artist_info.append([song.getTitle(), song.getAuthor()])
-                    heard_in_info.append([title, song.getTitle()])
+        writeToFiles(movie_info, similar_info, genre_info, location_info,
+        plays_in_info, cast_info, crew_info, works_on_info, writers_info,
+        creates_info, music_info, artist_info, heard_in_info, award_record_info)
 
-            writeToFiles(movie_info, similar_info, genre_info, location_info,
-            plays_in_info, cast_info, crew_info, works_on_info, writers_info,
-            creates_info, music_info, artist_info, heard_in_info, award_record_info)
+        # Movie was successfuly scanned for information
+        scannedMovies.append(movie)
 
-            # Movie was successfuly scanned for information
-            scannedMovies.append(movie)
+        end_time = time.time()
+        print('\nEnded search in '+str(end_time-start_time)+' seconds on movie '+title +' , movie number '+str(num_in_line)+' out of '+str(movie_count)+'\n\n')
 
-            end_time = time.time()
-            print('\nEnded search in '+str(end_time-start_time)+' seconds on movie '+title +' , movie number '+str(num_in_line)+' out of '+str(movie_count)+'\n\n')
-
-        except Exception as err:
-            print('\n\nFailed to scan movie '+setTitle(movie)+'\n\n')
-            toWrite = '\nFailed to scan movie '+setTitle(movie)
-            toWrite = toWrite + '\n\tError due to '+str(err)
-            ErrorFile.write(toWrite)
-    ErrorFile.close()
+#     except Exception as err:
+#         print('\n\nFailed to scan movie '+setTitle(movie)+'\n\n')
+#         toWrite = '\nFailed to scan movie '+setTitle(movie)
+#         toWrite = toWrite + '\n\tError due to '+str(err)
+#         ErrorFile.write(toWrite)
+# ErrorFile.close()
     return scannedMovies
 
 if __name__ == '__main__':
