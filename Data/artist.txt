@@ -73,6 +73,45 @@ Poor Choice Of Words (Paul van Dyk Remix)%	Hans Zimmer & James Newton Howard%
 Blood On My Hands%	Hans Zimmer & James Newton Howard%	
 Why So Serious? (The Crystal Method Remix)%	Hans Zimmer & James Newton Howard%	
 Chance%	Hans Zimmer & James Newton Howard%	
+Shelob's Lair%	Howard Shore%	
+Anduril%	Lord Of The Rings 3 Soundtrack-The Return Of The King%	
+Minas Morgul%	Lord Of The Rings 3 Soundtrack-The Return Of The King%	
+The Return Of The King%	Lord Of The Rings 3 Soundtrack-The Return Of The King (Featuring Sir James Galway%	
+Cirith Ungol%	Lord Of The Rings 3 Soundtrack-The Return Of The King%	
+Ash And Smoke%	Lord Of The Rings 3 Soundtrack-The Return Of The King%	
+The Grey Havens%	Lord Of The Rings 3 Soundtrack-The Return Of The King (Featuring Sir James Galway)%	
+The Steward Of Gondor%	Lord Of The Rings 3 Soundtrack-The Return Of The King (Featuring Billy Boyd)%	
+A Storm Is Coming%	Lord Of The Rings 3 Soundtrack-The Return Of The King%	
+Hope Fails%	Lord Of The Rings 3 Soundtrack-The Return Of The King%	
+The Fields Of The Pelenor%	Lord Of The Rings 3 Soundtrack-The Return Of The King%	
+The White Tree%	Lord Of The Rings 3 Soundtrack-The Return Of The King%	
+The Ride Of The Rohirrim%	Lord Of The Rings 3 Soundtrack-The Return Of The King%	
+Into The West%	Annie Lennox%	
+Minas Tirith%	Lord Of The Rings 3 Soundtrack-The Return Of The King (Featuring Ben del Maestro)%	
+The End Of All Things%	Lord Of The Rings 3 Soundtrack-The Return Of The King (Featuring Renee Fleming)%	
+The Black Gate Opens%	Lord Of The Rings 3 Soundtrack-The Return Of The King (Featuring Sir James Galway)%	
+Twilight And Shadow%	Howard Shore%	
+Hope And Memory%	Lord Of The Rings 3 Soundtrack-The Return Of The King%	
+Surf Rider%	The Lively Ones%	
+If Love Is A Red Dress (Hang Me In Rags)%	Maria McKee%	
+Bustin' Surfboards (Single Version)%	The Tornados%	
+Personality Goes A Long Way (Dialogue Excerpt From \Pulp Fiction\) [Explicit]%	John Travolta and Samuel L. Jackson%	
+Misirlou (Single Version)%	Dick Dale And His Del-Tones%	
+Pumpkin And Honey Bunny (Dialogue Excerpt From \Pulp Fiction\) [Explicit]%	Tim Roth & Amanda Plummer%	
+Comanche (Single Version)%	The Revels%	
+Bullwinkle (Pt. II)%	The Centurians%	
+Zed's Dead Baby (Dialogue Excerpt From \Pulp Fiction\)%	Maria De Medeiros & Bruce Willis%	
+Jungle Boogie%	Kool and The Gang%	
+Girl%	Urge Overkill%	
+Jack Rabbit Slims Twist Contest (Dialogue Excerpt From \Pulp Fiction\)%	Jerome Patrick Hoban%	
+Royale With Cheese (Dialogue Excerpt From \Pulp Fiction\) [Explicit]%	John Travolta and Samuel L. Jackson%	
+Let's Stay Together%	Al Green%	
+Bring Out The Gimp (Dialogue Excerpt From \Pulp Fiction\)%	Peter Greene & Duane Whitaker%	
+You Never Can Tell (1964 Single Version / Mono)%	Chuck Berry%	
+Son Of A Preacher Man%	Dusty Springfield%	
+Lonesome Town%	Ricky Nelson%	
+Flowers On The Wall%	The Statler Brothers%	
+Ezekiel 25%	Samuel L. Jackson%	
 Il Treno Militare%	Ennio Morricone%	
 Padre Ramirez%	Ennio Morricone%	
 La Carrozzo Dei Fantasmi (The Carriage Of The Spirits) (Digitally Remastered 04)%	Ennio Morricone%	
@@ -94,6 +133,40 @@ Marcetta (Marcia) (2004 Digital Remaster)%	Ennio Morricone%
 Il Buono%	Ennio Morricone%	
 La Missione San Antonio%	Ennio Morricone%	
 Il Deserto (The Desert) (Digitally Remastered 04)%	Ennio Morricone%	
+Corporate World%	THE DUST BROTHERS%	
+Hessel%	THE DUST BROTHERS%	
+Space Monkeys%	THE DUST BROTHERS%	
+Stealing Fat%	THE DUST BROTHERS%	
+Jack's Smirking Revenge%	THE DUST BROTHERS%	
+Chemical Burn%	THE DUST BROTHERS%	
+Commissioner Castration%	THE DUST BROTHERS%	
+Medulla Oblongata%	THE DUST BROTHERS%	
+Marla%	THE DUST BROTHERS%	
+Finding The Bomb%	THE DUST BROTHERS%	
+Who Is Tyler Durden?%	THE DUST BROTHERS%	
+This Is Your Life (feat. Tyler Durden)%	THE DUST BROTHERS%	
+Single Serving Jack%	THE DUST BROTHERS%	
+Psycho Boy Jack%	THE DUST BROTHERS%	
+What Is Fight Club?%	THE DUST BROTHERS%	
+Homework%	THE DUST BROTHERS%	
+The Treason Of Isengard%	Howard Shore%	
+The Breaking Of The Fellowship (feat. \In Dreams\)%	Howard Shore%	
+The Council Of Elrond (feat. \Aniron (Theme For Aragorn And Arwen)\)%	Howard Shore%	
+The Ring Goes South%	Howard Shore%	
+Lothlorien (feat. \Lament For Gandalf\)%	Howard Shore%	
+The Bridge Of Khazad Dum%	Howard Shore%	
+The Black Rider%	Howard Shore%	
+Flight To The Ford%	Howard Shore%	
+The Great River%	Howard Shore%	
+Many Meetings%	Howard Shore%	
+Amon Hen%	Howard Shore%	
+At The Sign Of The Prancing Pony%	Howard Shore%	
+Concerning Hobbits%	Howard Shore%	
+The Prophecy%	Howard Shore%	
+A Journey In The Dark%	Howard Shore%	
+May It Be%	Enya%	
+A Knife In The Dark%	Howard Shore%	
+The Shadow Of The Past%	Howard Shore%	
 Washington Reunion (Album Version)%	Alan Silvestri%	
 Run Forrest Run (Album Version)%	Alan Silvestri%	
 Forrest Meets Forrest (Album Version)%	Alan Silvestri%	
@@ -108,13 +181,82 @@ Jesus On The Main Line (Album Version)%	Alan Silvestri%
 I'm Forrest... Forrest Gump%	Alan Silvestri%	
 Pray With Me (Album Version)%	Alan Silvestri%	
 You're No Different (Album Version)%	Alan Silvestri%	
-Suite From Forrest Gump (Album Version)%	Alan Silvestri%	
+Suite from Forrest Gump%	Alan Silvestri%	
 The Wedding Guest (Album Version)%	Alan Silvestri%	
 The Crusade (Album Version)%	Alan Silvestri%	
 You Can't Sit Here (Album Version)%	Alan Silvestri%	
 I Never Thanked You (Album Version)%	Alan Silvestri%	
 I'll Be Right Here (Album Version)%	Alan Silvestri%	
 They're Sending Me To Vietnam (Album Version)%	Alan Silvestri%	
+Samwise The Brave%	Howard Shore%	
+The Forbidden Pool%	Howard Shore%	
+Helm's Deep%	Howard Shore%	
+The Passage Of The Marshes%	Howard Shore%	
+Farewell To Lorien (Bonus Track)%	Howard Shore%	
+Foundations Of Stone%	Howard Shore%	
+The Leave Taking%	Howard Shore%	
+The Hornburg%	Howard Shore%	
+Forth Eorlingas%	Howard Shore%	
+The White Rider%	Howard Shore%	
+The Black Gate Is Closed%	Howard Shore%	
+The Taming Of Smeagol%	Howard Shore%	
+The Uruk-hai%	Howard Shore%	
+Isengard Unleashed%	Howard Shore%	
+The Riders Of Rohan%	Howard Shore%	
+Treebeard%	Howard Shore%	
+Breath Of Life%	Howard Shore%	
+The King Of The Golden Hall%	Howard Shore%	
+Evenstar%	Howard Shore%	
+Gollum's Song%	Emiliana Torrini%	
+SIncerely%	The Moonglows%	
+Look In My Eyes%	The Chantels%	
+Speedo%	The Cadillacs%	
+Stardust%	Billy Ward & His Dominoes%	
+Sunshine Of Your Love%	Cream%	
+Baby I Love You%	Aretha Franklin%	
+Remember [Walkin' In The Sand]%	The Shangrilas%	
+Layla (Piano Exit)%	Derek And The Dominoes%	
+Mannish Boy%	Muddy Waters%	
+Beyond The Sea%	Bobby Darin%	
+Rags To Riches%	Tony Bennett%	
+Life Is But A Dream%	The Harptones%	
+Lecter In Memphis [feat. Munich Symphony]%	Howard Shore%	
+The Moth [feat. Munich Symphony]%	Howard Shore%	
+The Abduction [feat. Munich Symphony]%	Howard Shore%	
+Belvedere%	Howard Shore%	
+The Asylum [feat. Munich Symphony]%	Howard Shore%	
+Lambs Screaming [feat. Munich Symphony]%	Howard Shore%	
+Main Title%	Munich Symphony%	
+Shore%	Howard Shore and Munich Symphony%	
+Quid Pro Quo [feat. Munich Symphony]%	Howard Shore%	
+Return To The Asylum [feat. Munich Symphony]%	Howard Shore%	
+Clarice [feat. Munich Symphony]%	Howard Shore%	
+The Cellar [feat. Munich Symphony]%	Howard Shore%	
+Lecter Escapes [feat. Munich Symphony]%	Howard Shore%	
+Farewell Fenster%	John Ottman%	
+The garage%	John Ottman%	
+Back to the pier%	John Ottman%	
+Main theme%	John Ottman%	
+The faces of his family%	John Ottman%	
+Redfoot%	John Ottman%	
+Casing the boat%	John Ottman%	
+A gift%	John Ottman%	
+\He's here\%	John Ottman%	
+New York's finest%	John Ottman%	
+The greatest trick%	John Ottman%	
+The water%	John Ottman%	
+Getting on board%	John Ottman%	
+Payback time%	John Ottman%	
+The plan begins%	John Ottman%	
+Kobayashi's domain%	John Ottman%	
+Keyser appears%	John Ottman%	
+The story begins%	John Ottman%	
+\I work for Keyser Söze\%	John Ottman%	
+Les sons et les parfums tournent dans l'air du soir%	John Ottman%	
+\It was beautiful\%	John Ottman%	
+Verbal Kint%	John Ottman%	
+The killing of a rat%	John Ottman%	
+The arrests%	John Ottman%	
 Where We're Going%	Hans Zimmer%	
 Mountains%	Hans Zimmer%	
 Message from Home%	Hans Zimmer%	
@@ -667,6 +809,31 @@ The Wrong Clue (From The \Chinatown\ Soundtrack)%	Jerry Goldsmith%
 Jake And Evelyn (From The \Chinatown\ Soundtrack)%	Jerry Goldsmith%	
 I Can't Get Started (From The \Chinatown\ Soundtrack)%	Bunny Berigan & His Orchestra%	
 Love Theme From Chinatown (Main Title) (From The \Chinatown\ Soundtrack)%	Jerry Goldsmith%	
+Not Human%	Javier Navarrete%	
+Three Trails%	Javier Navarrete%	
+Pan & The Full Moon%	Javier Navarrete%	
+The Moribund Tree & The Toad%	Javier Navarrete%	
+Just a short time after (reconstruction pt. 1)%	The Landau Orchestra%	
+The River%	Javier Navarrete%	
+Guerrilleros%	Javier Navarrete%	
+Pan's Labyrinth Lullaby%	Javier Navarrete%	
+Mercedes%	Javier Navarrete%	
+A Tale%	Javier Navarrete%	
+The Refuge%	Javier Navarrete%	
+Long%	Javier Navarrete%	
+Ofelia%	Javier Navarrete%	
+Deep Forest%	Javier Navarrete%	
+A Princess%	Javier Navarrete%	
+The Labyrinth%	Javier Navarrete%	
+The Funeral%	Javier Navarrete%	
+Rose%	Javier Navarrete%	
+Mercedes Lullaby%	Javier Navarrete%	
+Just a short time after (reconstruction pt. 2)%	The Landau Orchestra%	
+A Book Of Blood%	Javier Navarrete%	
+The Fairy & The Labyrinth%	Javier Navarrete%	
+Vals of the Maldrake%	Javier Navarrete%	
+Daresh%	Grégoire Hetzel%	
+Incendies%	Grégoire Hetzel%	
 Medley%	Mitch Miller & His Orchestra%	
 Camp Concert Dance (Album Version)%	Malcolm Arnold%	
 Sunset (Album Version)%	Malcolm Arnold%	
@@ -704,6 +871,43 @@ Escaping the Subconscious%	Michael Giacchino%
 Team Building%	Michael Giacchino%	
 Joy Turns to Sadness/A Growing Personality%	Michael Giacchino%	
 Bundle of Joy%	Michael Giacchino%	
+A Kaleidoscope Of Mathematics (A Beautiful Mind/Soundtrack Version)%	James Horner%	
+Looking For The Next Great Idea (A Beautiful Mind/Soundtrack Version)%	James Horner%	
+Playing A Game Of \Go!\ (A Beautiful Mind/Soundtrack Version)%	James Horner%	
+All Love Can Be (A Beautiful Mind/Soundtrack Version)%	Charlotte Church%	
+The Prize Of One's Life... The Prize Of One's Mind (A Beautiful Mind/Soundtrack Version)%	James Horner%	
+First Drop-Off%	James Horner%	
+Cracking The Russian Codes (A Beautiful Mind/Soundtrack Version)%	James Horner%	
+Real Or Imagined? (A Beautiful Mind/Soundtrack Version)%	James Horner%	
+Alicia Discovers Nash's Dark World (A Beautiful Mind/Soundtrack Version)%	James Horner%	
+Closing Credits (A Beautiful Mind/Soundtrack Version)%	James Horner%	
+Saying Goodbye To Those You So Love (A Beautiful Mind/Soundtrack Version)%	James Horner%	
+Creating \Governing Dynamics\ (A Beautiful Mind/Soundtrack Version)%	James Horner%	
+Teaching Mathematics Again (A Beautiful Mind/Soundtrack Version)%	James Horner%	
+Nash Descends Into Parcher's World (A Beautiful Mind/Soundtrack Version)%	James Horner%	
+Of One Heart%	James Horner%	
+The Car Chase (A Beautiful Mind/Soundtrack Version)%	James Horner%	
+Gone Day%	Stephen Rennicks%	
+After Mittal%	Stephen Rennicks%	
+After Suicide%	Stephen Rennicks%	
+I'm Scared%	Stephen Rennicks%	
+Wardrobe%	Stephen Rennicks%	
+Roll Up%	Stephen Rennicks%	
+The Mighty Rio Grande%	This Will Destroy You%	
+Nick Dumps Jack%	Stephen Rennicks%	
+Mouse%	Stephen Rennicks%	
+End%	Stephen Rennicks%	
+Opening%	Stephen Rennicks%	
+Out of Wardrobe%	Stephen Rennicks%	
+Try Everything%	Stephen Rennicks%	
+Stacey Benton%	Stephen Rennicks%	
+Big Rock Candy Mountain%	Brie Larson%	
+In the World%	Stephen Rennicks%	
+New End%	Stephen Rennicks%	
+Ma's Photos%	Stephen Rennicks%	
+Bricks in Wardrobe%	Stephen Rennicks%	
+Eggshells%	Stephen Rennicks%	
+Cops%	Stephen Rennicks%	
 The belgian circus episode%	John Morris%	
 Recapitulation%	John Morris%	
 Pantomime%	John Morris%	
@@ -715,6 +919,19 @@ The elephant man theme%	John Morris%
 John Merrick and psalm%	John Morris%	
 Train station%	John Morris%	
 Mrs Kendal's theater and poetry reading%	John Morris%	
+I Found A Reason%	Cat Power%	
+The Red Diary%	Dario Marianelli%	
+Cry Me A River (1991 - Remaster)%	Julie London%	
+Bird Gurhl%	Antony And The Johnsons%	
+Evey Reborn%	Dario Marianelli%	
+Knives And Bullets (And Cannons Too)%	Dario Marianelli%	
+The Dominoes Fall%	Dario Marianelli%	
+England Prevails%	Dario Marianelli%	
+Evey's Story%	Dario Marianelli%	
+\...Governments Should Be Afraid Of Their People...\%	Dario Marianelli%	
+Valerie%	Dario Marianelli%	
+Lust At The Abbey%	Dario Marianelli%	
+Remember Remember%	Dario Marianelli%	
 Sommarnattens leende (Smiles of a Summer Night)%	Slovak Radio Symphony Orchestra%	
 Sommarnattens leende (Smiles of a Summer Night)%	Slovak Radio Symphony Orchestra%	
 Ansiktet (The Face)%	Slovak Radio Symphony Orchestra%	
@@ -763,6 +980,95 @@ Prospector's Quartet%	There Will Be Blood%
 Henry Plainview%	There Will Be Blood%	
 HW/Hope of New Fields%	There Will Be Blood%	
 Prospector Arrives%	There Will Be Blood%	
+Axe Throws [Explicit]%	Kill Bill Soundtrack%	
+Banister Fight [Explicit]%	The RZA%	
+Super 16 (Excerpt) [Explicit]%	Neu!%	
+Ironside (Excerpt) [Explicit]%	Quincy Jones%	
+That Certain Female%	Charlie Feathers%	
+The Flower Of Carnage [Explicit]%	Meiko Kaji%	
+Crane/White Lightning [Explicit]%	The RZA/Charles Bernstein%	
+Green Hornet [Explicit]%	Al Hirt%	
+Flip Sting [Explicit]%	Kill Bill Soundtrack%	
+Yakuza Oren 1 [Explicit]%	The RZA%	
+The Lonely Shepherd%	Zamfir%	
+Twisted Nerve [Explicit]%	Bernard Herrmann%	
+Woo Hoo [Explicit]%	THE 5.6.7.8's%	
+Run Fay Run [Explicit]%	Isaac Hayes%	
+The Grand Duel (Parte Prima) [Explicit]%	Luis Bacalov%	
+Bang Bang (My Baby Shot Me Down)%	Nancy Sinatra%	
+Ode To Oren Ishii [Explicit]%	Vincent Tempera & Orchestra%	
+Sword Swings [Explicit]%	Kill Bill Soundtrack%	
+Queen Of The Crime Council [Explicit]%	Kill Bill Soundtrack%	
+Battle Without Honor Or Humanity [Explicit]%	Tomoyasu Hotei%	
+You're My Wicked Life [Explicit]%	Kill Bill Soundtrack%	
+Don't Let Me Be Misunderstood%	Santa Esmeralda%	
+Tomorrow Night%	Lonnie Johnson%	
+Prelude - The Bay%	Ingram Marshall%	
+Music For Marcel Duchamp%	Philipp Vandré%	
+Christian Zeal and Activity%	John Adams / Edo de Waart & San Francisco Symphony%	
+Symphony #3%	National Polish Radio Symphony%	
+Four Hymns%	Torleif Thedeen & Entcho Radoukanov%	
+Fog Tropes%	Orchestra of St. Lukes%	
+Quartet For Strings And Piano In A Minor%	Prazak Quartet%	
+On the Nature of Daylight%	Max Richter%	
+Uaxuctum%	Vienna Radio Symphony Orchestra; Peter Rundel%	
+Cry%	Johnnie Ray%	
+Wheel Of Fortune%	Kay Starr%	
+This Bitter Earth/On The Nature Of Daylight%	Dinah Washington / Max Richter%	
+Suite For Symphonic Strings%	The New Professionals Orchestra%	
+Root Of An Unfocus%	Boris Berman%	
+Lontano%	Wiener Philharmoniker%	
+Rothko Chapel 2%	UC Berkeley Chamber Chorus%	
+Lizard Point%	Brian Eno%	
+Hommage À John Cage%	Nam June Paik%	
+Clue Two%	Trent Reznor and Atticus Ross%	
+Empty Places%	Trent Reznor and Atticus Ross%	
+Like Home%	Trent Reznor and Atticus Ross%	
+Perpetual%	Trent Reznor and Atticus Ross%	
+Strange Activities%	Trent Reznor and Atticus Ross%	
+What Will We Do?%	Trent Reznor and Atticus Ross%	
+The Way He Looks at Me%	Trent Reznor and Atticus Ross%	
+At Risk%	Trent Reznor and Atticus Ross%	
+Sugar Storm (Reprise)%	Trent Reznor and Atticus Ross%	
+Appearances%	Trent Reznor and Atticus Ross%	
+Something Disposable%	Trent Reznor and Atticus Ross%	
+Clue One%	Trent Reznor and Atticus Ross%	
+A Reflection%	Trent Reznor and Atticus Ross%	
+Background Noise%	Trent Reznor and Atticus Ross%	
+With Suspicion%	Trent Reznor and Atticus Ross%	
+Secrets%	Trent Reznor and Atticus Ross%	
+Still Gone%	Trent Reznor and Atticus Ross%	
+Just Like You%	Trent Reznor and Atticus Ross%	
+Sugar Storm%	Trent Reznor and Atticus Ross%	
+Procedural%	Trent Reznor and Atticus Ross%	
+What Have We Done to Each Other?%	Trent Reznor and Atticus Ross%	
+Consummation%	Trent Reznor and Atticus Ross%	
+Technically%	Trent Reznor and Atticus Ross%	
+Empty Places (Reprise)%	Trent Reznor and Atticus Ross%	
+Almost Human (from the Original Motion Picture Soundtrack Blade Runner 2049)%	Lauren Daigle%	
+Summer Wind%	Frank Sinatra%	
+Flight To Lapd%	Hans Zimmer & Benjamin Wallfisch%	
+Orphanage%	Hans Zimmer & Benjamin Wallfisch%	
+Her Eyes Were Green%	Hans Zimmer & Benjamin Wallfisch%	
+Furnace%	Hans Zimmer & Benjamin Wallfisch%	
+Rain%	Hans Zimmer & Benjamin Wallfisch%	
+Sapper's Tree%	Hans Zimmer & Benjamin Wallfisch%	
+Blade Runner%	Hans Zimmer & Benjamin Wallfisch%	
+Pilot%	Hans Zimmer & Benjamin Wallfisch%	
+Someone Lived This%	Hans Zimmer & Benjamin Wallfisch%	
+Can't Help Falling in Love%	Elvis Presley & The Jordanaires%	
+Joi%	Hans Zimmer & Benjamin Wallfisch%	
+That's Why We Believe%	Hans Zimmer & Benjamin Wallfisch%	
+Mesa%	Hans Zimmer & Benjamin Wallfisch%	
+Sea Wall%	Hans Zimmer & Benjamin Wallfisch%	
+Memory%	Hans Zimmer & Benjamin Wallfisch%	
+2049%	Hans Zimmer & Benjamin Wallfisch%	
+All the Best Memories Are Hers%	Hans Zimmer & Benjamin Wallfisch%	
+Hijack%	Hans Zimmer & Benjamin Wallfisch%	
+Suspicious Minds%	Elvis Presley%	
+Tears in the Rain%	Hans Zimmer & Benjamin Wallfisch%	
+Wallace%	Hans Zimmer & Benjamin Wallfisch%	
+One For My Baby (And One More For The Road)%	Frank Sinatra%	
 Adagio For Strings \The Village\%	Platoon Soundtrack%	
 Groovin'%	The Young Rascals%	
 When A Man Loves A Woman%	Percy Sledge%	
@@ -816,6 +1122,26 @@ Concerto For Lute And Plucked Strings I. Moderato%	Siefried Behrend & DZO Chambe
 Third Class Carriage%	Alexandre Desplat%	
 The Cold-Blooded Murder Of Deputy Vilmos Kovacs%	Alexandre Desplat%	
 The Alpine Sudetenwaltz%	Alexandre Desplat%	
+The Raptor Attack (From \Jurassic Park\ Soundtrack)%	John Williams%	
+Dennis Steals The Embryo (From \Jurassic Park\ Soundtrack)%	John Williams%	
+Hatching Baby Raptor (From \Jurassic Park\ Soundtrack)%	John Williams%	
+The Coming Storm (Jurassic Park/Soundtrack Version)%	John Williams%	
+Eye To Eye (From \Jurassic Park\ Soundtrack)%	John Williams%	
+High-Wire Stunts (From \Jurassic Park\ Soundtrack)%	John Williams%	
+T-Rex Rescue & Finale (From \Jurassic Park\ Soundtrack)%	John Williams%	
+Welcome To Jurassic Park (From \Jurassic Park\ Soundtrack)%	John Williams%	
+End Credits (From \Jurassic Park\ Soundtrack)%	John Williams%	
+My Friend%	John Williams%	
+Stalling Around (From The \Jurassic Park\ Soundtrack)%	John Williams%	
+Jurassic Park Gate (From \Jurassic Park\ Soundtrack)%	John Williams%	
+Opening Titles (From \Jurassic Park\ Soundtrack)%	John Williams%	
+Theme From Jurassic Park (From \Jurassic Park\ Soundtrack)%	John Williams%	
+Incident At Isla Nublar (From \Jurassic Park\ Soundtrack)%	John Williams%	
+Hungry Raptor (From The \Jurassic Park\ Soundtrack)%	John Williams%	
+A Tree For My Bed (From \Jurassic Park\ Soundtrack)%	John Williams%	
+The History Lesson (Jurassic Park/Soundtrack Version)%	John Williams%	
+Journey To The Island (From \Jurassic Park\ Soundtrack)%	John Williams%	
+Remembering Petticoat Lane (From \Jurassic Park\ Soundtrack)%	John Williams%	
 The Mother's Love%	Rome Symphony Orchestra%	
 Prelude%	Rome Symphony Orchestra%	
 The Burning Desert%	Rome Symphony Orchestra%	
@@ -830,6 +1156,22 @@ The Miracle and Finale%	Rome Symphony Orchestra%
 Love Theme of Ben-Hur%	Rome Symphony Orchestra%	
 The Procession to Calvary%	Rome Symphony Orchestra%	
 Friendship%	Rome Symphony Orchestra%	
+(In the Evening) When the Sun Goes Down%	Gary Clark Jr.%	
+Devil's Dream%	Tim Fain%	
+Money Musk%	Tim Fain%	
+Driva Man%	Alabama Shakes%	
+My Lord Sunshine (Sunrise)%	David Hughey and Roosevelt Credit%	
+What Does Freedom Mean (To a Free Man)%	Cody Chesnutt%	
+Solomon%	Hans Zimmer%	
+Washington%	Hans Zimmer%	
+Yarney's Waltz%	Tim Fain and Caitlin Sullivan%	
+Queen of the Field (Patsey's Song)%	Alicia Keys%	
+Freight Train%	Gary Clark Jr.%	
+Move%	John Legend feat. Fink%	
+Roll Jordan Roll%	Topsy Chapman feat. Chiwetel Ejiofor and Cast%	
+Roll Jordan Roll%	John Legend%	
+Misery Chain%	Chris Cornell feat. Joy Williams%	
+Little Girl Blue%	Laura Mvula%	
 A New Life%	Burkhard Dallwitz%	
 Reunion%	Burkhard Dallwitz%	
 Drive%	Burkhard Dallwitz%	
@@ -869,6 +1211,31 @@ The Story Breaks%	Howard Shore%
 The Sealed Documents%	Howard Shore%	
 Keep Silent%	Howard Shore%	
 Deference and Complicity%	Howard Shore%	
+The Grim Reavers%	Marco Beltrami%	
+Eternum - Laura's Theme%	Marco Beltrami%	
+Feral Tween%	Marco Beltrami%	
+Forest Fight%	Marco Beltrami%	
+Up to Eden%	Marco Beltrami%	
+Into the Woods%	Marco Beltrami%	
+Don't Be What They Made You%	Marco Beltrami%	
+Driving to Mexico%	Marco Beltrami%	
+X-24%	Marco Beltrami%	
+Gabriella's Video%	Marco Beltrami%	
+Old Man Logan%	Marco Beltrami%	
+Logan vs. X-24%	Marco Beltrami%	
+That's Not a Choo-Choo%	Marco Beltrami%	
+Loco Logan%	Marco Beltrami%	
+Beyond the Hills%	Marco Beltrami%	
+Logan Drives%	Marco Beltrami%	
+Laura%	Marco Beltrami%	
+El Limo-Nator%	Marco Beltrami%	
+Main Titles%	Marco Beltrami%	
+Goodnight Moon%	Marco Beltrami%	
+Alternate Route to Mexico%	Marco Beltrami%	
+Logan's Limo%	Marco Beltrami%	
+Farm Aid%	Marco Beltrami%	
+You Can't Break the Mould%	Marco Beltrami%	
+To the Cemetery%	Marco Beltrami%	
 Una Vez Mas%	Zurdok%	
 Un Amor Encontrado%	Gustavo Santaolalla%	
 Quiebre%	Gustavo Santaolalla%	
@@ -987,6 +1354,31 @@ The Mask of Dimitrios (restored J. Morgan)%	Moscow Symphony Orchestra%
 High Sierra (restored J. Morgan)%	Moscow Symphony Orchestra%	
 The Maltese Falcon (restored J. Morgan)%	Moscow Symphony Orchestra%	
 Northern Pursuit (restored J. Morgan)%	Moscow Symphony Orchestra%	
+Procession%	Alexandre Desplat%	
+Statues%	Alexandre Desplat%	
+Neville%	Alexandre Desplat%	
+Harry Surrenders%	Alexandre Desplat%	
+In the Chamber of Secrets%	Alexandre Desplat%	
+The Diadem%	Alexandre Desplat%	
+Showdown%	Alexandre Desplat%	
+Snape's Demise%	Alexandre Desplat%	
+Neville the Hero%	Alexandre Desplat%	
+The Resurrection Stone%	Alexandre Desplat%	
+A New Headmaster%	Alexandre Desplat%	
+Battlefield%	Alexandre Desplat%	
+Panic Inside Hogwarts%	Alexandre Desplat%	
+Courtyard Apocalypse%	Alexandre Desplat%	
+Dragon Flight%	Alexandre Desplat%	
+Severus and Lily%	Alexandre Desplat%	
+The Grey Lady%	Alexandre Desplat%	
+LIly's Theme%	Alexandre Desplat%	
+Broomsticks and Fire%	Alexandre Desplat%	
+Gringotts%	Alexandre Desplat%	
+Voldemort's End%	Alexandre Desplat%	
+The Tunnel%	Alexandre Desplat%	
+Harry's Sacrifice%	Alexandre Desplat%	
+Underworld%	Alexandre Desplat%	
+A New Beginning%	Alexandre Desplat%	
 Take Me Round Again%	Suzie Stevens%	
 Weatherman%	Delbert McClinton%	
 Quartet No. 1 in D - The Ground Hog%	Bruce Duvok%	
@@ -1083,6 +1475,16 @@ Neal%	Maurice Jarre & Peter Weir%
 Carpe Diem%	Maurice Jarre & Peter Weir%	
 Football Training%	Maurice Jarre & Peter Weir%	
 Keating's Triumph%	Maurice Jarre & Peter Weir%	
+Coming Home%	John Powell%	
+Jason Is Reborn%	John Powell%	
+Waterloo%	John Powell%	
+Six Weeks Ago%	John Powell%	
+Thinking Of Marie%	John Powell%	
+Tangiers%	John Powell%	
+Man Versus Man%	John Powell%	
+Assets And Targets%	John Powell%	
+Extreme Ways (Bourne's Ultimatum)%	Moby%	
+Faces Without Names%	John Powell%	
 Trapeze%	Lou Christie%	
 ''Adante'' from Sonata for Viola da Gamba in G Major%	Laurence Dreyfus & Ketil Haugsand%	
 ''Varianto 25'' from The Goldberg Variations in G Major%	Igor Kipnis%	

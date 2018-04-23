@@ -73,6 +73,45 @@ The Dark Knight%	Poor Choice Of Words (Paul van Dyk Remix)%
 The Dark Knight%	Blood On My Hands%	
 The Dark Knight%	Why So Serious? (The Crystal Method Remix)%	
 The Dark Knight%	Chance%	
+The Lord of the Rings: The Return of the King%	Shelob's Lair%	
+The Lord of the Rings: The Return of the King%	Anduril%	
+The Lord of the Rings: The Return of the King%	Minas Morgul%	
+The Lord of the Rings: The Return of the King%	The Return Of The King%	
+The Lord of the Rings: The Return of the King%	Cirith Ungol%	
+The Lord of the Rings: The Return of the King%	Ash And Smoke%	
+The Lord of the Rings: The Return of the King%	The Grey Havens%	
+The Lord of the Rings: The Return of the King%	The Steward Of Gondor%	
+The Lord of the Rings: The Return of the King%	A Storm Is Coming%	
+The Lord of the Rings: The Return of the King%	Hope Fails%	
+The Lord of the Rings: The Return of the King%	The Fields Of The Pelenor%	
+The Lord of the Rings: The Return of the King%	The White Tree%	
+The Lord of the Rings: The Return of the King%	The Ride Of The Rohirrim%	
+The Lord of the Rings: The Return of the King%	Into The West%	
+The Lord of the Rings: The Return of the King%	Minas Tirith%	
+The Lord of the Rings: The Return of the King%	The End Of All Things%	
+The Lord of the Rings: The Return of the King%	The Black Gate Opens%	
+The Lord of the Rings: The Return of the King%	Twilight And Shadow%	
+The Lord of the Rings: The Return of the King%	Hope And Memory%	
+Pulp Fiction%	Surf Rider%	
+Pulp Fiction%	If Love Is A Red Dress (Hang Me In Rags)%	
+Pulp Fiction%	Bustin' Surfboards (Single Version)%	
+Pulp Fiction%	Personality Goes A Long Way (Dialogue Excerpt From \Pulp Fiction\) [Explicit]%	
+Pulp Fiction%	Misirlou (Single Version)%	
+Pulp Fiction%	Pumpkin And Honey Bunny (Dialogue Excerpt From \Pulp Fiction\) [Explicit]%	
+Pulp Fiction%	Comanche (Single Version)%	
+Pulp Fiction%	Bullwinkle (Pt. II)%	
+Pulp Fiction%	Zed's Dead Baby (Dialogue Excerpt From \Pulp Fiction\)%	
+Pulp Fiction%	Jungle Boogie%	
+Pulp Fiction%	Girl%	
+Pulp Fiction%	Jack Rabbit Slims Twist Contest (Dialogue Excerpt From \Pulp Fiction\)%	
+Pulp Fiction%	Royale With Cheese (Dialogue Excerpt From \Pulp Fiction\) [Explicit]%	
+Pulp Fiction%	Let's Stay Together%	
+Pulp Fiction%	Bring Out The Gimp (Dialogue Excerpt From \Pulp Fiction\)%	
+Pulp Fiction%	You Never Can Tell (1964 Single Version / Mono)%	
+Pulp Fiction%	Son Of A Preacher Man%	
+Pulp Fiction%	Lonesome Town%	
+Pulp Fiction%	Flowers On The Wall%	
+Pulp Fiction%	Ezekiel 25%	
 The Good, the Bad and the Ugly%	Il Treno Militare%	
 The Good, the Bad and the Ugly%	Padre Ramirez%	
 The Good, the Bad and the Ugly%	La Carrozzo Dei Fantasmi (The Carriage Of The Spirits) (Digitally Remastered 04)%	
@@ -94,6 +133,40 @@ The Good, the Bad and the Ugly%	Marcetta (Marcia) (2004 Digital Remaster)%
 The Good, the Bad and the Ugly%	Il Buono%	
 The Good, the Bad and the Ugly%	La Missione San Antonio%	
 The Good, the Bad and the Ugly%	Il Deserto (The Desert) (Digitally Remastered 04)%	
+Fight Club%	Corporate World%	
+Fight Club%	Hessel%	
+Fight Club%	Space Monkeys%	
+Fight Club%	Stealing Fat%	
+Fight Club%	Jack's Smirking Revenge%	
+Fight Club%	Chemical Burn%	
+Fight Club%	Commissioner Castration%	
+Fight Club%	Medulla Oblongata%	
+Fight Club%	Marla%	
+Fight Club%	Finding The Bomb%	
+Fight Club%	Who Is Tyler Durden?%	
+Fight Club%	This Is Your Life (feat. Tyler Durden)%	
+Fight Club%	Single Serving Jack%	
+Fight Club%	Psycho Boy Jack%	
+Fight Club%	What Is Fight Club?%	
+Fight Club%	Homework%	
+The Lord of the Rings: The Fellowship of the Ring%	The Treason Of Isengard%	
+The Lord of the Rings: The Fellowship of the Ring%	The Breaking Of The Fellowship (feat. \In Dreams\)%	
+The Lord of the Rings: The Fellowship of the Ring%	The Council Of Elrond (feat. \Aniron (Theme For Aragorn And Arwen)\)%	
+The Lord of the Rings: The Fellowship of the Ring%	The Ring Goes South%	
+The Lord of the Rings: The Fellowship of the Ring%	Lothlorien (feat. \Lament For Gandalf\)%	
+The Lord of the Rings: The Fellowship of the Ring%	The Bridge Of Khazad Dum%	
+The Lord of the Rings: The Fellowship of the Ring%	The Black Rider%	
+The Lord of the Rings: The Fellowship of the Ring%	Flight To The Ford%	
+The Lord of the Rings: The Fellowship of the Ring%	The Great River%	
+The Lord of the Rings: The Fellowship of the Ring%	Many Meetings%	
+The Lord of the Rings: The Fellowship of the Ring%	Amon Hen%	
+The Lord of the Rings: The Fellowship of the Ring%	At The Sign Of The Prancing Pony%	
+The Lord of the Rings: The Fellowship of the Ring%	Concerning Hobbits%	
+The Lord of the Rings: The Fellowship of the Ring%	The Prophecy%	
+The Lord of the Rings: The Fellowship of the Ring%	A Journey In The Dark%	
+The Lord of the Rings: The Fellowship of the Ring%	May It Be%	
+The Lord of the Rings: The Fellowship of the Ring%	A Knife In The Dark%	
+The Lord of the Rings: The Fellowship of the Ring%	The Shadow Of The Past%	
 Forrest Gump%	Washington Reunion (Album Version)%	
 Forrest Gump%	Run Forrest Run (Album Version)%	
 Forrest Gump%	Forrest Meets Forrest (Album Version)%	
@@ -108,13 +181,82 @@ Forrest Gump%	Jesus On The Main Line (Album Version)%
 Forrest Gump%	I'm Forrest... Forrest Gump%	
 Forrest Gump%	Pray With Me (Album Version)%	
 Forrest Gump%	You're No Different (Album Version)%	
-Forrest Gump%	Suite From Forrest Gump (Album Version)%	
+Forrest Gump%	Suite from Forrest Gump%	
 Forrest Gump%	The Wedding Guest (Album Version)%	
 Forrest Gump%	The Crusade (Album Version)%	
 Forrest Gump%	You Can't Sit Here (Album Version)%	
 Forrest Gump%	I Never Thanked You (Album Version)%	
 Forrest Gump%	I'll Be Right Here (Album Version)%	
 Forrest Gump%	They're Sending Me To Vietnam (Album Version)%	
+The Lord of the Rings: The Two Towers%	Samwise The Brave%	
+The Lord of the Rings: The Two Towers%	The Forbidden Pool%	
+The Lord of the Rings: The Two Towers%	Helm's Deep%	
+The Lord of the Rings: The Two Towers%	The Passage Of The Marshes%	
+The Lord of the Rings: The Two Towers%	Farewell To Lorien (Bonus Track)%	
+The Lord of the Rings: The Two Towers%	Foundations Of Stone%	
+The Lord of the Rings: The Two Towers%	The Leave Taking%	
+The Lord of the Rings: The Two Towers%	The Hornburg%	
+The Lord of the Rings: The Two Towers%	Forth Eorlingas%	
+The Lord of the Rings: The Two Towers%	The White Rider%	
+The Lord of the Rings: The Two Towers%	The Black Gate Is Closed%	
+The Lord of the Rings: The Two Towers%	The Taming Of Smeagol%	
+The Lord of the Rings: The Two Towers%	The Uruk-hai%	
+The Lord of the Rings: The Two Towers%	Isengard Unleashed%	
+The Lord of the Rings: The Two Towers%	The Riders Of Rohan%	
+The Lord of the Rings: The Two Towers%	Treebeard%	
+The Lord of the Rings: The Two Towers%	Breath Of Life%	
+The Lord of the Rings: The Two Towers%	The King Of The Golden Hall%	
+The Lord of the Rings: The Two Towers%	Evenstar%	
+The Lord of the Rings: The Two Towers%	Gollum's Song%	
+Goodfellas%	SIncerely%	
+Goodfellas%	Look In My Eyes%	
+Goodfellas%	Speedo%	
+Goodfellas%	Stardust%	
+Goodfellas%	Sunshine Of Your Love%	
+Goodfellas%	Baby I Love You%	
+Goodfellas%	Remember [Walkin' In The Sand]%	
+Goodfellas%	Layla (Piano Exit)%	
+Goodfellas%	Mannish Boy%	
+Goodfellas%	Beyond The Sea%	
+Goodfellas%	Rags To Riches%	
+Goodfellas%	Life Is But A Dream%	
+The Silence of the Lambs%	Lecter In Memphis [feat. Munich Symphony]%	
+The Silence of the Lambs%	The Moth [feat. Munich Symphony]%	
+The Silence of the Lambs%	The Abduction [feat. Munich Symphony]%	
+The Silence of the Lambs%	Belvedere%	
+The Silence of the Lambs%	The Asylum [feat. Munich Symphony]%	
+The Silence of the Lambs%	Lambs Screaming [feat. Munich Symphony]%	
+The Silence of the Lambs%	Main Title%	
+The Silence of the Lambs%	Shore%	
+The Silence of the Lambs%	Quid Pro Quo [feat. Munich Symphony]%	
+The Silence of the Lambs%	Return To The Asylum [feat. Munich Symphony]%	
+The Silence of the Lambs%	Clarice [feat. Munich Symphony]%	
+The Silence of the Lambs%	The Cellar [feat. Munich Symphony]%	
+The Silence of the Lambs%	Lecter Escapes [feat. Munich Symphony]%	
+The Usual Suspects%	Farewell Fenster%	
+The Usual Suspects%	The garage%	
+The Usual Suspects%	Back to the pier%	
+The Usual Suspects%	Main theme%	
+The Usual Suspects%	The faces of his family%	
+The Usual Suspects%	Redfoot%	
+The Usual Suspects%	Casing the boat%	
+The Usual Suspects%	A gift%	
+The Usual Suspects%	\He's here\%	
+The Usual Suspects%	New York's finest%	
+The Usual Suspects%	The greatest trick%	
+The Usual Suspects%	The water%	
+The Usual Suspects%	Getting on board%	
+The Usual Suspects%	Payback time%	
+The Usual Suspects%	The plan begins%	
+The Usual Suspects%	Kobayashi's domain%	
+The Usual Suspects%	Keyser appears%	
+The Usual Suspects%	The story begins%	
+The Usual Suspects%	\I work for Keyser Söze\%	
+The Usual Suspects%	Les sons et les parfums tournent dans l'air du soir%	
+The Usual Suspects%	\It was beautiful\%	
+The Usual Suspects%	Verbal Kint%	
+The Usual Suspects%	The killing of a rat%	
+The Usual Suspects%	The arrests%	
 Interstellar%	Where We're Going%	
 Interstellar%	Mountains%	
 Interstellar%	Message from Home%	
@@ -667,6 +809,31 @@ Chinatown%	The Wrong Clue (From The \Chinatown\ Soundtrack)%
 Chinatown%	Jake And Evelyn (From The \Chinatown\ Soundtrack)%	
 Chinatown%	I Can't Get Started (From The \Chinatown\ Soundtrack)%	
 Chinatown%	Love Theme From Chinatown (Main Title) (From The \Chinatown\ Soundtrack)%	
+Pan's Labyrinth%	Not Human%	
+Pan's Labyrinth%	Three Trails%	
+Pan's Labyrinth%	Pan & The Full Moon%	
+Pan's Labyrinth%	The Moribund Tree & The Toad%	
+Pan's Labyrinth%	Just a short time after (reconstruction pt. 1)%	
+Pan's Labyrinth%	The River%	
+Pan's Labyrinth%	Guerrilleros%	
+Pan's Labyrinth%	Pan's Labyrinth Lullaby%	
+Pan's Labyrinth%	Mercedes%	
+Pan's Labyrinth%	A Tale%	
+Pan's Labyrinth%	The Refuge%	
+Pan's Labyrinth%	Long%	
+Pan's Labyrinth%	Ofelia%	
+Pan's Labyrinth%	Deep Forest%	
+Pan's Labyrinth%	A Princess%	
+Pan's Labyrinth%	The Labyrinth%	
+Pan's Labyrinth%	The Funeral%	
+Pan's Labyrinth%	Rose%	
+Pan's Labyrinth%	Mercedes Lullaby%	
+Pan's Labyrinth%	Just a short time after (reconstruction pt. 2)%	
+Pan's Labyrinth%	A Book Of Blood%	
+Pan's Labyrinth%	The Fairy & The Labyrinth%	
+Pan's Labyrinth%	Vals of the Maldrake%	
+Incendies%	Daresh%	
+Incendies%	Incendies%	
 The Bridge on the River Kwai%	Medley%	
 The Bridge on the River Kwai%	Camp Concert Dance (Album Version)%	
 The Bridge on the River Kwai%	Sunset (Album Version)%	
@@ -704,6 +871,43 @@ Inside Out%	Escaping the Subconscious%
 Inside Out%	Team Building%	
 Inside Out%	Joy Turns to Sadness/A Growing Personality%	
 Inside Out%	Bundle of Joy%	
+A Beautiful Mind%	A Kaleidoscope Of Mathematics (A Beautiful Mind/Soundtrack Version)%	
+A Beautiful Mind%	Looking For The Next Great Idea (A Beautiful Mind/Soundtrack Version)%	
+A Beautiful Mind%	Playing A Game Of \Go!\ (A Beautiful Mind/Soundtrack Version)%	
+A Beautiful Mind%	All Love Can Be (A Beautiful Mind/Soundtrack Version)%	
+A Beautiful Mind%	The Prize Of One's Life... The Prize Of One's Mind (A Beautiful Mind/Soundtrack Version)%	
+A Beautiful Mind%	First Drop-Off%	
+A Beautiful Mind%	Cracking The Russian Codes (A Beautiful Mind/Soundtrack Version)%	
+A Beautiful Mind%	Real Or Imagined? (A Beautiful Mind/Soundtrack Version)%	
+A Beautiful Mind%	Alicia Discovers Nash's Dark World (A Beautiful Mind/Soundtrack Version)%	
+A Beautiful Mind%	Closing Credits (A Beautiful Mind/Soundtrack Version)%	
+A Beautiful Mind%	Saying Goodbye To Those You So Love (A Beautiful Mind/Soundtrack Version)%	
+A Beautiful Mind%	Creating \Governing Dynamics\ (A Beautiful Mind/Soundtrack Version)%	
+A Beautiful Mind%	Teaching Mathematics Again (A Beautiful Mind/Soundtrack Version)%	
+A Beautiful Mind%	Nash Descends Into Parcher's World (A Beautiful Mind/Soundtrack Version)%	
+A Beautiful Mind%	Of One Heart%	
+A Beautiful Mind%	The Car Chase (A Beautiful Mind/Soundtrack Version)%	
+Room%	Gone Day%	
+Room%	After Mittal%	
+Room%	After Suicide%	
+Room%	I'm Scared%	
+Room%	Wardrobe%	
+Room%	Roll Up%	
+Room%	The Mighty Rio Grande%	
+Room%	Nick Dumps Jack%	
+Room%	Mouse%	
+Room%	End%	
+Room%	Opening%	
+Room%	Out of Wardrobe%	
+Room%	Try Everything%	
+Room%	Stacey Benton%	
+Room%	Big Rock Candy Mountain%	
+Room%	In the World%	
+Room%	New End%	
+Room%	Ma's Photos%	
+Room%	Bricks in Wardrobe%	
+Room%	Eggshells%	
+Room%	Cops%	
 The Elephant Man%	The belgian circus episode%	
 The Elephant Man%	Recapitulation%	
 The Elephant Man%	Pantomime%	
@@ -715,6 +919,19 @@ The Elephant Man%	The elephant man theme%
 The Elephant Man%	John Merrick and psalm%	
 The Elephant Man%	Train station%	
 The Elephant Man%	Mrs Kendal's theater and poetry reading%	
+V for Vendetta%	I Found A Reason%	
+V for Vendetta%	The Red Diary%	
+V for Vendetta%	Cry Me A River (1991 - Remaster)%	
+V for Vendetta%	Bird Gurhl%	
+V for Vendetta%	Evey Reborn%	
+V for Vendetta%	Knives And Bullets (And Cannons Too)%	
+V for Vendetta%	The Dominoes Fall%	
+V for Vendetta%	England Prevails%	
+V for Vendetta%	Evey's Story%	
+V for Vendetta%	\...Governments Should Be Afraid Of Their People...\%	
+V for Vendetta%	Valerie%	
+V for Vendetta%	Lust At The Abbey%	
+V for Vendetta%	Remember Remember%	
 Wild Strawberries%	Sommarnattens leende (Smiles of a Summer Night)%	
 Wild Strawberries%	Sommarnattens leende (Smiles of a Summer Night)%	
 Wild Strawberries%	Ansiktet (The Face)%	
@@ -763,6 +980,95 @@ There Will Be Blood%	Prospector's Quartet%
 There Will Be Blood%	Henry Plainview%	
 There Will Be Blood%	HW/Hope of New Fields%	
 There Will Be Blood%	Prospector Arrives%	
+Kill Bill: Vol. 1%	Axe Throws [Explicit]%	
+Kill Bill: Vol. 1%	Banister Fight [Explicit]%	
+Kill Bill: Vol. 1%	Super 16 (Excerpt) [Explicit]%	
+Kill Bill: Vol. 1%	Ironside (Excerpt) [Explicit]%	
+Kill Bill: Vol. 1%	That Certain Female%	
+Kill Bill: Vol. 1%	The Flower Of Carnage [Explicit]%	
+Kill Bill: Vol. 1%	Crane/White Lightning [Explicit]%	
+Kill Bill: Vol. 1%	Green Hornet [Explicit]%	
+Kill Bill: Vol. 1%	Flip Sting [Explicit]%	
+Kill Bill: Vol. 1%	Yakuza Oren 1 [Explicit]%	
+Kill Bill: Vol. 1%	The Lonely Shepherd%	
+Kill Bill: Vol. 1%	Twisted Nerve [Explicit]%	
+Kill Bill: Vol. 1%	Woo Hoo [Explicit]%	
+Kill Bill: Vol. 1%	Run Fay Run [Explicit]%	
+Kill Bill: Vol. 1%	The Grand Duel (Parte Prima) [Explicit]%	
+Kill Bill: Vol. 1%	Bang Bang (My Baby Shot Me Down)%	
+Kill Bill: Vol. 1%	Ode To Oren Ishii [Explicit]%	
+Kill Bill: Vol. 1%	Sword Swings [Explicit]%	
+Kill Bill: Vol. 1%	Queen Of The Crime Council [Explicit]%	
+Kill Bill: Vol. 1%	Battle Without Honor Or Humanity [Explicit]%	
+Kill Bill: Vol. 1%	You're My Wicked Life [Explicit]%	
+Kill Bill: Vol. 1%	Don't Let Me Be Misunderstood%	
+Shutter Island%	Tomorrow Night%	
+Shutter Island%	Prelude - The Bay%	
+Shutter Island%	Music For Marcel Duchamp%	
+Shutter Island%	Christian Zeal and Activity%	
+Shutter Island%	Symphony #3%	
+Shutter Island%	Four Hymns%	
+Shutter Island%	Fog Tropes%	
+Shutter Island%	Quartet For Strings And Piano In A Minor%	
+Shutter Island%	On the Nature of Daylight%	
+Shutter Island%	Uaxuctum%	
+Shutter Island%	Cry%	
+Shutter Island%	Wheel Of Fortune%	
+Shutter Island%	This Bitter Earth/On The Nature Of Daylight%	
+Shutter Island%	Suite For Symphonic Strings%	
+Shutter Island%	Root Of An Unfocus%	
+Shutter Island%	Lontano%	
+Shutter Island%	Rothko Chapel 2%	
+Shutter Island%	Lizard Point%	
+Shutter Island%	Hommage À John Cage%	
+Gone Girl%	Clue Two%	
+Gone Girl%	Empty Places%	
+Gone Girl%	Like Home%	
+Gone Girl%	Perpetual%	
+Gone Girl%	Strange Activities%	
+Gone Girl%	What Will We Do?%	
+Gone Girl%	The Way He Looks at Me%	
+Gone Girl%	At Risk%	
+Gone Girl%	Sugar Storm (Reprise)%	
+Gone Girl%	Appearances%	
+Gone Girl%	Something Disposable%	
+Gone Girl%	Clue One%	
+Gone Girl%	A Reflection%	
+Gone Girl%	Background Noise%	
+Gone Girl%	With Suspicion%	
+Gone Girl%	Secrets%	
+Gone Girl%	Still Gone%	
+Gone Girl%	Just Like You%	
+Gone Girl%	Sugar Storm%	
+Gone Girl%	Procedural%	
+Gone Girl%	What Have We Done to Each Other?%	
+Gone Girl%	Consummation%	
+Gone Girl%	Technically%	
+Gone Girl%	Empty Places (Reprise)%	
+Blade Runner 2049%	Almost Human (from the Original Motion Picture Soundtrack Blade Runner 2049)%	
+Blade Runner 2049%	Summer Wind%	
+Blade Runner 2049%	Flight To Lapd%	
+Blade Runner 2049%	Orphanage%	
+Blade Runner 2049%	Her Eyes Were Green%	
+Blade Runner 2049%	Furnace%	
+Blade Runner 2049%	Rain%	
+Blade Runner 2049%	Sapper's Tree%	
+Blade Runner 2049%	Blade Runner%	
+Blade Runner 2049%	Pilot%	
+Blade Runner 2049%	Someone Lived This%	
+Blade Runner 2049%	Can't Help Falling in Love%	
+Blade Runner 2049%	Joi%	
+Blade Runner 2049%	That's Why We Believe%	
+Blade Runner 2049%	Mesa%	
+Blade Runner 2049%	Sea Wall%	
+Blade Runner 2049%	Memory%	
+Blade Runner 2049%	2049%	
+Blade Runner 2049%	All the Best Memories Are Hers%	
+Blade Runner 2049%	Hijack%	
+Blade Runner 2049%	Suspicious Minds%	
+Blade Runner 2049%	Tears in the Rain%	
+Blade Runner 2049%	Wallace%	
+Blade Runner 2049%	One For My Baby (And One More For The Road)%	
 Platoon%	Adagio For Strings \The Village\%	
 Platoon%	Groovin'%	
 Platoon%	When A Man Loves A Woman%	
@@ -816,6 +1122,26 @@ The Grand Budapest Hotel%	Concerto For Lute And Plucked Strings I. Moderato%
 The Grand Budapest Hotel%	Third Class Carriage%	
 The Grand Budapest Hotel%	The Cold-Blooded Murder Of Deputy Vilmos Kovacs%	
 The Grand Budapest Hotel%	The Alpine Sudetenwaltz%	
+Jurassic Park%	The Raptor Attack (From \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	Dennis Steals The Embryo (From \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	Hatching Baby Raptor (From \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	The Coming Storm (Jurassic Park/Soundtrack Version)%	
+Jurassic Park%	Eye To Eye (From \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	High-Wire Stunts (From \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	T-Rex Rescue & Finale (From \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	Welcome To Jurassic Park (From \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	End Credits (From \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	My Friend%	
+Jurassic Park%	Stalling Around (From The \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	Jurassic Park Gate (From \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	Opening Titles (From \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	Theme From Jurassic Park (From \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	Incident At Isla Nublar (From \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	Hungry Raptor (From The \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	A Tree For My Bed (From \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	The History Lesson (Jurassic Park/Soundtrack Version)%	
+Jurassic Park%	Journey To The Island (From \Jurassic Park\ Soundtrack)%	
+Jurassic Park%	Remembering Petticoat Lane (From \Jurassic Park\ Soundtrack)%	
 Ben-Hur%	The Mother's Love%	
 Ben-Hur%	Prelude%	
 Ben-Hur%	The Burning Desert%	
@@ -830,6 +1156,22 @@ Ben-Hur%	The Miracle and Finale%
 Ben-Hur%	Love Theme of Ben-Hur%	
 Ben-Hur%	The Procession to Calvary%	
 Ben-Hur%	Friendship%	
+12 Years a Slave%	(In the Evening) When the Sun Goes Down%	
+12 Years a Slave%	Devil's Dream%	
+12 Years a Slave%	Money Musk%	
+12 Years a Slave%	Driva Man%	
+12 Years a Slave%	My Lord Sunshine (Sunrise)%	
+12 Years a Slave%	What Does Freedom Mean (To a Free Man)%	
+12 Years a Slave%	Solomon%	
+12 Years a Slave%	Washington%	
+12 Years a Slave%	Yarney's Waltz%	
+12 Years a Slave%	Queen of the Field (Patsey's Song)%	
+12 Years a Slave%	Freight Train%	
+12 Years a Slave%	Move%	
+12 Years a Slave%	Roll Jordan Roll%	
+12 Years a Slave%	Roll Jordan Roll%	
+12 Years a Slave%	Misery Chain%	
+12 Years a Slave%	Little Girl Blue%	
 The Truman Show%	A New Life%	
 The Truman Show%	Reunion%	
 The Truman Show%	Drive%	
@@ -869,6 +1211,31 @@ Spotlight%	The Story Breaks%
 Spotlight%	The Sealed Documents%	
 Spotlight%	Keep Silent%	
 Spotlight%	Deference and Complicity%	
+Logan%	The Grim Reavers%	
+Logan%	Eternum - Laura's Theme%	
+Logan%	Feral Tween%	
+Logan%	Forest Fight%	
+Logan%	Up to Eden%	
+Logan%	Into the Woods%	
+Logan%	Don't Be What They Made You%	
+Logan%	Driving to Mexico%	
+Logan%	X-24%	
+Logan%	Gabriella's Video%	
+Logan%	Old Man Logan%	
+Logan%	Logan vs. X-24%	
+Logan%	That's Not a Choo-Choo%	
+Logan%	Loco Logan%	
+Logan%	Beyond the Hills%	
+Logan%	Logan Drives%	
+Logan%	Laura%	
+Logan%	El Limo-Nator%	
+Logan%	Main Titles%	
+Logan%	Goodnight Moon%	
+Logan%	Alternate Route to Mexico%	
+Logan%	Logan's Limo%	
+Logan%	Farm Aid%	
+Logan%	You Can't Break the Mould%	
+Logan%	To the Cemetery%	
 Amores Perros%	Una Vez Mas%	
 Amores Perros%	Un Amor Encontrado%	
 Amores Perros%	Quiebre%	
@@ -987,6 +1354,31 @@ The Maltese Falcon%	The Mask of Dimitrios (restored J. Morgan)%
 The Maltese Falcon%	High Sierra (restored J. Morgan)%	
 The Maltese Falcon%	The Maltese Falcon (restored J. Morgan)%	
 The Maltese Falcon%	Northern Pursuit (restored J. Morgan)%	
+Harry Potter and the Deathly Hallows: Part 2%	Procession%	
+Harry Potter and the Deathly Hallows: Part 2%	Statues%	
+Harry Potter and the Deathly Hallows: Part 2%	Neville%	
+Harry Potter and the Deathly Hallows: Part 2%	Harry Surrenders%	
+Harry Potter and the Deathly Hallows: Part 2%	In the Chamber of Secrets%	
+Harry Potter and the Deathly Hallows: Part 2%	The Diadem%	
+Harry Potter and the Deathly Hallows: Part 2%	Showdown%	
+Harry Potter and the Deathly Hallows: Part 2%	Snape's Demise%	
+Harry Potter and the Deathly Hallows: Part 2%	Neville the Hero%	
+Harry Potter and the Deathly Hallows: Part 2%	The Resurrection Stone%	
+Harry Potter and the Deathly Hallows: Part 2%	A New Headmaster%	
+Harry Potter and the Deathly Hallows: Part 2%	Battlefield%	
+Harry Potter and the Deathly Hallows: Part 2%	Panic Inside Hogwarts%	
+Harry Potter and the Deathly Hallows: Part 2%	Courtyard Apocalypse%	
+Harry Potter and the Deathly Hallows: Part 2%	Dragon Flight%	
+Harry Potter and the Deathly Hallows: Part 2%	Severus and Lily%	
+Harry Potter and the Deathly Hallows: Part 2%	The Grey Lady%	
+Harry Potter and the Deathly Hallows: Part 2%	LIly's Theme%	
+Harry Potter and the Deathly Hallows: Part 2%	Broomsticks and Fire%	
+Harry Potter and the Deathly Hallows: Part 2%	Gringotts%	
+Harry Potter and the Deathly Hallows: Part 2%	Voldemort's End%	
+Harry Potter and the Deathly Hallows: Part 2%	The Tunnel%	
+Harry Potter and the Deathly Hallows: Part 2%	Harry's Sacrifice%	
+Harry Potter and the Deathly Hallows: Part 2%	Underworld%	
+Harry Potter and the Deathly Hallows: Part 2%	A New Beginning%	
 Groundhog Day%	Take Me Round Again%	
 Groundhog Day%	Weatherman%	
 Groundhog Day%	Quartet No. 1 in D - The Ground Hog%	
@@ -1083,6 +1475,16 @@ Dead Poets Society%	Neal%
 Dead Poets Society%	Carpe Diem%	
 Dead Poets Society%	Football Training%	
 Dead Poets Society%	Keating's Triumph%	
+The Bourne Ultimatum%	Coming Home%	
+The Bourne Ultimatum%	Jason Is Reborn%	
+The Bourne Ultimatum%	Waterloo%	
+The Bourne Ultimatum%	Six Weeks Ago%	
+The Bourne Ultimatum%	Thinking Of Marie%	
+The Bourne Ultimatum%	Tangiers%	
+The Bourne Ultimatum%	Man Versus Man%	
+The Bourne Ultimatum%	Assets And Targets%	
+The Bourne Ultimatum%	Extreme Ways (Bourne's Ultimatum)%	
+The Bourne Ultimatum%	Faces Without Names%	
 Before Sunset%	Trapeze%	
 Before Sunset%	''Adante'' from Sonata for Viola da Gamba in G Major%	
 Before Sunset%	''Varianto 25'' from The Goldberg Variations in G Major%	

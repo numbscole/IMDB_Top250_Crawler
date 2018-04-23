@@ -13,8 +13,8 @@ The Shawshank Redemption%	The Lord of the Rings: The Fellowship of the Ring%
 The Godfather%	The Godfather: Part II%	
 The Godfather%	The Shawshank Redemption%	
 The Godfather%	The Dark Knight%	
-The Godfather%	The Godfather: Part III%	
 The Godfather%	Pulp Fiction%	
+The Godfather%	The Godfather: Part III%	
 The Godfather%	Goodfellas%	
 The Godfather%	Forrest Gump%	
 The Godfather%	Fight Club%	
@@ -58,6 +58,42 @@ The Dark Knight%	The Godfather%
 12 Angry Men%	The Lord of the Rings: The Return of the King%	
 12 Angry Men%	The Silence of the Lambs%	
 12 Angry Men%	Fight Club%	
+Schindler's List%	The Shawshank Redemption%	
+Schindler's List%	Saving Private Ryan%	
+Schindler's List%	Forrest Gump%	
+Schindler's List%	The Godfather%	
+Schindler's List%	The Lord of the Rings: The Return of the King%	
+Schindler's List%	The Godfather: Part II%	
+Schindler's List%	The Pianist%	
+Schindler's List%	Pulp Fiction%	
+Schindler's List%	The Silence of the Lambs%	
+Schindler's List%	The Green Mile%	
+Schindler's List%	The Dark Knight%	
+Schindler's List%	Se7en%	
+The Lord of the Rings: The Return of the King%	The Lord of the Rings: The Two Towers%	
+The Lord of the Rings: The Return of the King%	The Lord of the Rings: The Fellowship of the Ring%	
+The Lord of the Rings: The Return of the King%	The Dark Knight%	
+The Lord of the Rings: The Return of the King%	The Matrix%	
+The Lord of the Rings: The Return of the King%	Forrest Gump%	
+The Lord of the Rings: The Return of the King%	Inception%	
+The Lord of the Rings: The Return of the King%	Star Wars: Episode V - The Empire Strikes Back%	
+The Lord of the Rings: The Return of the King%	Gladiator%	
+The Lord of the Rings: The Return of the King%	Pulp Fiction%	
+The Lord of the Rings: The Return of the King%	Star Wars: Episode IV - A New Hope%	
+The Lord of the Rings: The Return of the King%	Fight Club%	
+The Lord of the Rings: The Return of the King%	The Dark Knight Rises%	
+Pulp Fiction%	Fight Club%	
+Pulp Fiction%	Forrest Gump%	
+Pulp Fiction%	The Matrix%	
+Pulp Fiction%	Django Unchained%	
+Pulp Fiction%	Inception%	
+Pulp Fiction%	The Dark Knight%	
+Pulp Fiction%	Reservoir Dogs%	
+Pulp Fiction%	Se7en%	
+Pulp Fiction%	The Silence of the Lambs%	
+Pulp Fiction%	Inglourious Basterds%	
+Pulp Fiction%	The Lord of the Rings: The Return of the King%	
+Pulp Fiction%	The Godfather%	
 The Good, the Bad and the Ugly%	For a Few Dollars More%	
 The Good, the Bad and the Ugly%	Fistful of Dollars%	
 The Good, the Bad and the Ugly%	Once Upon a Time in the West%	
@@ -70,6 +106,30 @@ The Good, the Bad and the Ugly%	The Godfather%
 The Good, the Bad and the Ugly%	The Lord of the Rings: The Return of the King%	
 The Good, the Bad and the Ugly%	The Silence of the Lambs%	
 The Good, the Bad and the Ugly%	Goodfellas%	
+Fight Club%	Pulp Fiction%	
+Fight Club%	Forrest Gump%	
+Fight Club%	Inception%	
+Fight Club%	The Matrix%	
+Fight Club%	The Dark Knight%	
+Fight Club%	Se7en%	
+Fight Club%	Django Unchained%	
+Fight Club%	The Lord of the Rings: The Return of the King%	
+Fight Club%	The Silence of the Lambs%	
+Fight Club%	The Wolf of Wall Street%	
+Fight Club%	The Shawshank Redemption%	
+Fight Club%	Inglourious Basterds%	
+The Lord of the Rings: The Fellowship of the Ring%	The Lord of the Rings: The Two Towers%	
+The Lord of the Rings: The Fellowship of the Ring%	The Lord of the Rings: The Return of the King%	
+The Lord of the Rings: The Fellowship of the Ring%	The Dark Knight%	
+The Lord of the Rings: The Fellowship of the Ring%	The Matrix%	
+The Lord of the Rings: The Fellowship of the Ring%	Star Wars: Episode V - The Empire Strikes Back%	
+The Lord of the Rings: The Fellowship of the Ring%	Star Wars: Episode IV - A New Hope%	
+The Lord of the Rings: The Fellowship of the Ring%	Forrest Gump%	
+The Lord of the Rings: The Fellowship of the Ring%	Inception%	
+The Lord of the Rings: The Fellowship of the Ring%	Gladiator%	
+The Lord of the Rings: The Fellowship of the Ring%	The Dark Knight Rises%	
+The Lord of the Rings: The Fellowship of the Ring%	The Hobbit: The Desolation of Smaug%	
+The Lord of the Rings: The Fellowship of the Ring%	Pulp Fiction%	
 Forrest Gump%	Fight Club%	
 Forrest Gump%	Pulp Fiction%	
 Forrest Gump%	Inception%	
@@ -106,6 +166,18 @@ Inception%	The Lord of the Rings: The Return of the King%
 Inception%	The Wolf of Wall Street%	
 Inception%	The Lord of the Rings: The Two Towers%	
 Inception%	The Lord of the Rings: The Fellowship of the Ring%	
+The Lord of the Rings: The Two Towers%	The Lord of the Rings: The Fellowship of the Ring%	
+The Lord of the Rings: The Two Towers%	The Lord of the Rings: The Return of the King%	
+The Lord of the Rings: The Two Towers%	The Matrix%	
+The Lord of the Rings: The Two Towers%	Star Wars: Episode V - The Empire Strikes Back%	
+The Lord of the Rings: The Two Towers%	The Dark Knight%	
+The Lord of the Rings: The Two Towers%	Star Wars: Episode IV - A New Hope%	
+The Lord of the Rings: The Two Towers%	Inception%	
+The Lord of the Rings: The Two Towers%	Forrest Gump%	
+The Lord of the Rings: The Two Towers%	Gladiator%	
+The Lord of the Rings: The Two Towers%	The Dark Knight Rises%	
+The Lord of the Rings: The Two Towers%	Star Wars: Episode VI - Return of the Jedi%	
+The Lord of the Rings: The Two Towers%	The Hobbit: The Desolation of Smaug%	
 One Flew Over the Cuckoo's Nest%	The Silence of the Lambs%	
 One Flew Over the Cuckoo's Nest%	Forrest Gump%	
 One Flew Over the Cuckoo's Nest%	Goodfellas%	
@@ -118,6 +190,18 @@ One Flew Over the Cuckoo's Nest%	The Good, the Bad and the Ugly%
 One Flew Over the Cuckoo's Nest%	Pulp Fiction%	
 One Flew Over the Cuckoo's Nest%	The Shining%	
 One Flew Over the Cuckoo's Nest%	American Beauty%	
+Goodfellas%	Pulp Fiction%	
+Goodfellas%	The Godfather: Part II%	
+Goodfellas%	The Usual Suspects%	
+Goodfellas%	The Godfather%	
+Goodfellas%	Se7en%	
+Goodfellas%	The Silence of the Lambs%	
+Goodfellas%	Fight Club%	
+Goodfellas%	Forrest Gump%	
+Goodfellas%	The Departed%	
+Goodfellas%	Taxi Driver%	
+Goodfellas%	American History X%	
+Goodfellas%	Reservoir Dogs%	
 The Matrix%	Inception%	
 The Matrix%	Fight Club%	
 The Matrix%	Forrest Gump%	
@@ -133,15 +217,15 @@ The Matrix%	Star Wars: Episode V - The Empire Strikes Back%
 Seven Samurai%	Yojimbo%	
 Seven Samurai%	Rashômon%	
 Seven Samurai%	Once Upon a Time in the West%	
-Seven Samurai%	Ran%	
 Seven Samurai%	The Good, the Bad and the Ugly%	
+Seven Samurai%	Ran%	
 Seven Samurai%	Casablanca%	
 Seven Samurai%	Ikiru%	
 Seven Samurai%	Psycho%	
 Seven Samurai%	One Flew Over the Cuckoo's Nest%	
 Seven Samurai%	12 Angry Men%	
+Seven Samurai%	Apocalypse Now%	
 Seven Samurai%	City of God%	
-Seven Samurai%	The Hidden Fortress%	
 City of God%	American History X%	
 City of God%	Se7en%	
 City of God%	Life Is Beautiful%	
@@ -150,8 +234,8 @@ City of God%	Goodfellas%
 City of God%	Pulp Fiction%	
 City of God%	The Intouchables%	
 City of God%	Schindler's List%	
-City of God%	The Pianist%	
 City of God%	The Matrix%	
+City of God%	The Pianist%	
 City of God%	Fight Club%	
 City of God%	One Flew Over the Cuckoo's Nest%	
 Star Wars: Episode IV - A New Hope%	Star Wars: Episode V - The Empire Strikes Back%	
@@ -166,13 +250,37 @@ Star Wars: Episode IV - A New Hope%	The Lord of the Rings: The Fellowship of the
 Star Wars: Episode IV - A New Hope%	The Lord of the Rings: The Return of the King%	
 Star Wars: Episode IV - A New Hope%	The Matrix%	
 Star Wars: Episode IV - A New Hope%	Raiders of the Lost Ark%	
+Se7en%	Fight Club%	
+Se7en%	The Silence of the Lambs%	
+Se7en%	Pulp Fiction%	
+Se7en%	Forrest Gump%	
+Se7en%	The Matrix%	
+Se7en%	The Usual Suspects%	
+Se7en%	The Green Mile%	
+Se7en%	Inception%	
+Se7en%	Gladiator%	
+Se7en%	The Departed%	
+Se7en%	American History X%	
+Se7en%	Django Unchained%	
+The Silence of the Lambs%	Se7en%	
+The Silence of the Lambs%	Forrest Gump%	
+The Silence of the Lambs%	Pulp Fiction%	
+The Silence of the Lambs%	The Matrix%	
+The Silence of the Lambs%	Fight Club%	
+The Silence of the Lambs%	The Lord of the Rings: The Return of the King%	
+The Silence of the Lambs%	The Green Mile%	
+The Silence of the Lambs%	Saving Private Ryan%	
+The Silence of the Lambs%	Gladiator%	
+The Silence of the Lambs%	Inception%	
+The Silence of the Lambs%	American History X%	
+The Silence of the Lambs%	The Usual Suspects%	
 It's a Wonderful Life%	The Wizard of Oz%	
 It's a Wonderful Life%	Modern Times%	
 It's a Wonderful Life%	The Lion King%	
 It's a Wonderful Life%	Spirited Away%	
 It's a Wonderful Life%	WALL·E%	
-It's a Wonderful Life%	The Kid%	
 It's a Wonderful Life%	Toy Story%	
+It's a Wonderful Life%	The Kid%	
 Life Is Beautiful%	The Intouchables%	
 Life Is Beautiful%	The Pianist%	
 Life Is Beautiful%	Forrest Gump%	
@@ -185,6 +293,18 @@ Life Is Beautiful%	Inception%
 Life Is Beautiful%	Saving Private Ryan%	
 Life Is Beautiful%	Léon: The Professional%	
 Life Is Beautiful%	City of God%	
+The Usual Suspects%	Se7en%	
+The Usual Suspects%	The Silence of the Lambs%	
+The Usual Suspects%	Goodfellas%	
+The Usual Suspects%	Pulp Fiction%	
+The Usual Suspects%	Memento%	
+The Usual Suspects%	The Departed%	
+The Usual Suspects%	American History X%	
+The Usual Suspects%	Saving Private Ryan%	
+The Usual Suspects%	Fight Club%	
+The Usual Suspects%	The Matrix%	
+The Usual Suspects%	Léon: The Professional%	
+The Usual Suspects%	The Green Mile%	
 Spirited Away%	Howl's Moving Castle%	
 Spirited Away%	My Neighbor Totoro%	
 Spirited Away%	The Lion King%	
@@ -194,9 +314,33 @@ Spirited Away%	Up%
 Spirited Away%	Castle in the Sky%	
 Spirited Away%	Ponyo%	
 Spirited Away%	Finding Nemo%	
-Spirited Away%	The Secret World of Arrietty%	
 Spirited Away%	Monsters, Inc.%	
 Spirited Away%	How to Train Your Dragon%	
+Spirited Away%	The Secret World of Arrietty%	
+Saving Private Ryan%	The Green Mile%	
+Saving Private Ryan%	Forrest Gump%	
+Saving Private Ryan%	Gladiator%	
+Saving Private Ryan%	The Silence of the Lambs%	
+Saving Private Ryan%	Schindler's List%	
+Saving Private Ryan%	Se7en%	
+Saving Private Ryan%	The Matrix%	
+Saving Private Ryan%	The Lord of the Rings: The Fellowship of the Ring%	
+Saving Private Ryan%	The Lord of the Rings: The Two Towers%	
+Saving Private Ryan%	Fight Club%	
+Saving Private Ryan%	Inception%	
+Saving Private Ryan%	Braveheart%	
+Léon: The Professional%	The Green Mile%	
+Léon: The Professional%	Se7en%	
+Léon: The Professional%	The Silence of the Lambs%	
+Léon: The Professional%	The Usual Suspects%	
+Léon: The Professional%	The Intouchables%	
+Léon: The Professional%	Forrest Gump%	
+Léon: The Professional%	Saving Private Ryan%	
+Léon: The Professional%	American History X%	
+Léon: The Professional%	The Shawshank Redemption%	
+Léon: The Professional%	Pulp Fiction%	
+Léon: The Professional%	The Pianist%	
+Léon: The Professional%	Gladiator%	
 Interstellar%	Inception%	
 Interstellar%	The Dark Knight%	
 Interstellar%	Fight Club%	
@@ -216,8 +360,8 @@ The Green Mile%	The Shawshank Redemption%
 The Green Mile%	American History X%	
 The Green Mile%	Se7en%	
 The Green Mile%	The Silence of the Lambs%	
-The Green Mile%	Braveheart%	
 The Green Mile%	Fight Club%	
+The Green Mile%	Braveheart%	
 The Green Mile%	The Lord of the Rings: The Fellowship of the Ring%	
 The Green Mile%	The Matrix%	
 The Green Mile%	The Lord of the Rings: The Return of the King%	
@@ -260,15 +404,15 @@ Once Upon a Time in the West%	Rear Window%
 City Lights%	The Great Dictator%	
 City Lights%	The Circus%	
 City Lights%	Casablanca%	
-City Lights%	Once Upon a Time in the West%	
 City Lights%	The General%	
-City Lights%	Seven Samurai%	
+City Lights%	Once Upon a Time in the West%	
 City Lights%	Psycho%	
+City Lights%	Seven Samurai%	
 City Lights%	Paths of Glory%	
 City Lights%	M%	
 City Lights%	Bicycle Thieves%	
-City Lights%	Rear Window%	
 City Lights%	The Good, the Bad and the Ugly%	
+City Lights%	Rear Window%	
 Casablanca%	Citizen Kane%	
 Casablanca%	Rear Window%	
 Casablanca%	Psycho%	
@@ -278,9 +422,9 @@ Casablanca%	Vertigo%
 Casablanca%	Meet the Blacks%	
 Casablanca%	Forrest Gump%	
 Casablanca%	The Good, the Bad and the Ugly%	
+Casablanca%	12 Angry Men%	
 Casablanca%	The Godfather: Part II%	
 Casablanca%	Pulp Fiction%	
-Casablanca%	12 Angry Men%	
 The Intouchables%	Life Is Beautiful%	
 The Intouchables%	The Green Mile%	
 The Intouchables%	Léon: The Professional%	
@@ -315,6 +459,18 @@ The Pianist%	The Silence of the Lambs%
 The Pianist%	Saving Private Ryan%	
 The Pianist%	Se7en%	
 The Pianist%	Gladiator%	
+The Departed%	Django Unchained%	
+The Departed%	The Wolf of Wall Street%	
+The Departed%	Shutter Island%	
+The Departed%	Gladiator%	
+The Departed%	Inception%	
+The Departed%	Se7en%	
+The Departed%	The Prestige%	
+The Departed%	Fight Club%	
+The Departed%	Pulp Fiction%	
+The Departed%	The Usual Suspects%	
+The Departed%	Memento%	
+The Departed%	The Silence of the Lambs%	
 Terminator 2%	The Terminator%	
 Terminator 2%	Back to the Future%	
 Terminator 2%	Alien%	
@@ -327,6 +483,18 @@ Terminator 2%	Gladiator%
 Terminator 2%	Star Wars: Episode IV - A New Hope%	
 Terminator 2%	Star Wars: Episode V - The Empire Strikes Back%	
 Terminator 2%	Jurassic Park%	
+Raiders of the Lost Ark%	Indiana Jones and the Last Crusade%	
+Raiders of the Lost Ark%	Indiana Jones and the Temple of Doom%	
+Raiders of the Lost Ark%	Back to the Future%	
+Raiders of the Lost Ark%	Indiana Jones and the Kingdom of the Crystal Skull%	
+Raiders of the Lost Ark%	Star Wars: Episode V - The Empire Strikes Back%	
+Raiders of the Lost Ark%	Star Wars: Episode IV - A New Hope%	
+Raiders of the Lost Ark%	Terminator 2%	
+Raiders of the Lost Ark%	Star Wars: Episode VI - Return of the Jedi%	
+Raiders of the Lost Ark%	Jurassic Park%	
+Raiders of the Lost Ark%	The Lord of the Rings: The Fellowship of the Ring%	
+Raiders of the Lost Ark%	Die Hard%	
+Raiders of the Lost Ark%	Gladiator%	
 Rear Window%	Vertigo%	
 Rear Window%	North by Northwest%	
 Rear Window%	Psycho%	
@@ -336,8 +504,8 @@ Rear Window%	Dial M for Murder%
 Rear Window%	Meet the Blacks%	
 Rear Window%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
 Rear Window%	Apocalypse Now%	
-Rear Window%	Rope%	
 Rear Window%	Fight Club%	
+Rear Window%	Rope%	
 Rear Window%	Singin' in the Rain%	
 Back to the Future%	Back to the Future Part II%	
 Back to the Future%	Back to the Future Part III%	
@@ -363,6 +531,18 @@ Whiplash%	The Prestige%
 Whiplash%	Gone Girl%	
 Whiplash%	The Wolf of Wall Street%	
 Whiplash%	Inglourious Basterds%	
+Gladiator%	Braveheart%	
+Gladiator%	Saving Private Ryan%	
+Gladiator%	The Lord of the Rings: The Return of the King%	
+Gladiator%	The Green Mile%	
+Gladiator%	Forrest Gump%	
+Gladiator%	The Matrix%	
+Gladiator%	The Lord of the Rings: The Two Towers%	
+Gladiator%	Django Unchained%	
+Gladiator%	The Lord of the Rings: The Fellowship of the Ring%	
+Gladiator%	The Silence of the Lambs%	
+Gladiator%	Se7en%	
+Gladiator%	The Departed%	
 The Lion King%	Toy Story%	
 The Lion King%	Finding Nemo%	
 The Lion King%	WALL·E%	
@@ -411,6 +591,18 @@ Apocalypse Now%	Platoon%
 Apocalypse Now%	Alien%	
 Apocalypse Now%	Pulp Fiction%	
 Apocalypse Now%	Goodfellas%	
+Alien%	Aliens%	
+Alien%	Alien³%	
+Alien%	Terminator 2%	
+Alien%	Alien: Resurrection%	
+Alien%	The Terminator%	
+Alien%	Star Wars: Episode IV - A New Hope%	
+Alien%	Back to the Future%	
+Alien%	Star Wars: Episode V - The Empire Strikes Back%	
+Alien%	Raiders of the Lost Ark%	
+Alien%	Prometheus%	
+Alien%	Star Wars: Episode VI - Return of the Jedi%	
+Alien%	The Matrix%	
 The Great Dictator%	City Lights%	
 The Great Dictator%	The Circus%	
 The Great Dictator%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
@@ -423,18 +615,18 @@ The Great Dictator%	Psycho%
 The Great Dictator%	M%	
 The Great Dictator%	Seven Samurai%	
 The Great Dictator%	Once Upon a Time in the West%	
-Cinema Paradiso%	The Lives of Others%	
 Cinema Paradiso%	Life Is Beautiful%	
-Cinema Paradiso%	Bicycle Thieves%	
+Cinema Paradiso%	The Lives of Others%	
 Cinema Paradiso%	Amélie%	
+Cinema Paradiso%	Bicycle Thieves%	
 Cinema Paradiso%	Once Upon a Time in America%	
 Cinema Paradiso%	Casablanca%	
 Cinema Paradiso%	Paths of Glory%	
-Cinema Paradiso%	The Great Dictator%	
 Cinema Paradiso%	The Pianist%	
+Cinema Paradiso%	The Great Dictator%	
 Cinema Paradiso%	City of God%	
-Cinema Paradiso%	Sunset Blvd.%	
 Cinema Paradiso%	Rear Window%	
+Cinema Paradiso%	Sunset Blvd.%	
 Sunset Blvd.%	Double Indemnity%	
 Sunset Blvd.%	The Apartment%	
 Sunset Blvd.%	Witness for the Prosecution%	
@@ -477,11 +669,11 @@ The Lives of Others%	The Intouchables%
 The Lives of Others%	Life Is Beautiful%	
 The Lives of Others%	Downfall%	
 The Lives of Others%	The Pianist%	
-The Lives of Others%	City of God%	
 The Lives of Others%	Oldeuboi%	
+The Lives of Others%	City of God%	
 The Lives of Others%	American Beauty%	
-The Lives of Others%	Amélie%	
 The Lives of Others%	The Secret in Their Eyes%	
+The Lives of Others%	Amélie%	
 The Lives of Others%	Das Boot%	
 Paths of Glory%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
 Paths of Glory%	The Killing%	
@@ -495,18 +687,6 @@ Paths of Glory%	A Clockwork Orange%
 Paths of Glory%	Sunset Blvd.%	
 Paths of Glory%	The Shining%	
 Paths of Glory%	Rear Window%	
-Coco%	Ferdinand%	
-Coco%	Inside Out%	
-Coco%	WALL·E%	
-Coco%	Zootopia%	
-Coco%	Moana%	
-Coco%	Up%	
-Coco%	Finding Nemo%	
-Coco%	Monsters, Inc.%	
-Coco%	Toy Story%	
-Coco%	Wonder%	
-Coco%	The Lion King%	
-Coco%	Spirited Away%	
 The Shining%	A Clockwork Orange%	
 The Shining%	The Silence of the Lambs%	
 The Shining%	2001: A Space Odyssey%	
@@ -519,6 +699,30 @@ The Shining%	Reservoir Dogs%
 The Shining%	Alien%	
 The Shining%	Taxi Driver%	
 The Shining%	Memento%	
+Django Unchained%	Inglourious Basterds%	
+Django Unchained%	Pulp Fiction%	
+Django Unchained%	The Wolf of Wall Street%	
+Django Unchained%	Fight Club%	
+Django Unchained%	Inception%	
+Django Unchained%	Shutter Island%	
+Django Unchained%	The Dark Knight%	
+Django Unchained%	The Dark Knight Rises%	
+Django Unchained%	Forrest Gump%	
+Django Unchained%	Reservoir Dogs%	
+Django Unchained%	Gladiator%	
+Django Unchained%	The Departed%	
+Coco%	Ferdinand%	
+Coco%	Inside Out%	
+Coco%	WALL·E%	
+Coco%	Zootopia%	
+Coco%	Moana%	
+Coco%	Up%	
+Coco%	Finding Nemo%	
+Coco%	Monsters, Inc.%	
+Coco%	Toy Story%	
+Coco%	Wonder%	
+Coco%	The Lion King%	
+Coco%	Spirited Away%	
 WALL·E%	Up%	
 WALL·E%	Finding Nemo%	
 WALL·E%	Toy Story%	
@@ -531,6 +735,30 @@ WALL·E%	Ratatouille%
 WALL·E%	Toy Story 2%	
 WALL·E%	The Incredibles%	
 WALL·E%	Beauty and the Beast%	
+Princess Mononoke%	Nausicaä of the Valley of the Wind%	
+Princess Mononoke%	Grave of the Fireflies%	
+Princess Mononoke%	Porco Rosso%	
+Princess Mononoke%	Kaze tachinu%	
+Princess Mononoke%	Kimi no na wa.%	
+Princess Mononoke%	Akira%	
+Princess Mononoke%	Gedo senki%	
+Princess Mononoke%	Toki o kakeru shôjo%	
+Princess Mononoke%	Ghost in the Shell%	
+Princess Mononoke%	Alien%	
+Princess Mononoke%	Perfect Blue%	
+Princess Mononoke%	The Lord of the Rings: The Two Towers%	
+American Beauty%	American History X%	
+American Beauty%	A Beautiful Mind%	
+American Beauty%	The Silence of the Lambs%	
+American Beauty%	Pulp Fiction%	
+American Beauty%	Forrest Gump%	
+American Beauty%	Fight Club%	
+American Beauty%	Braveheart%	
+American Beauty%	Gladiator%	
+American Beauty%	Django Unchained%	
+American Beauty%	Memento%	
+American Beauty%	The Departed%	
+American Beauty%	Inglourious Basterds%	
 The Dark Knight Rises%	Batman Begins%	
 The Dark Knight Rises%	The Dark Knight%	
 The Dark Knight Rises%	Inception%	
@@ -556,17 +784,17 @@ Witness for the Prosecution%	M%
 Witness for the Prosecution%	All About Eve%	
 Witness for the Prosecution%	Rear Window%	
 Oldeuboi%	Memento%	
-Oldeuboi%	Sympathy for Mr. Vengeance%	
 Oldeuboi%	American Beauty%	
 Oldeuboi%	American History X%	
 Oldeuboi%	City of God%	
+Oldeuboi%	Sympathy for Mr. Vengeance%	
 Oldeuboi%	Requiem for a Dream%	
-Oldeuboi%	Lady Vengeance%	
-Oldeuboi%	I Saw the Devil%	
 Oldeuboi%	Amélie%	
+Oldeuboi%	I Saw the Devil%	
+Oldeuboi%	Lady Vengeance%	
 Oldeuboi%	The Usual Suspects%	
-Oldeuboi%	The Prestige%	
 Oldeuboi%	Se7en%	
+Oldeuboi%	The Prestige%	
 Aliens%	Alien%	
 Aliens%	Alien³%	
 Aliens%	Alien: Resurrection%	
@@ -577,18 +805,18 @@ Aliens%	Die Hard%
 Aliens%	Star Wars: Episode V - The Empire Strikes Back%	
 Aliens%	Star Wars: Episode VI - Return of the Jedi%	
 Aliens%	Raiders of the Lost Ark%	
-Aliens%	Back to the Future%	
 Aliens%	Star Wars: Episode IV - A New Hope%	
+Aliens%	Back to the Future%	
 Once Upon a Time in America%	Once Upon a Time in the West%	
 Once Upon a Time in America%	The Good, the Bad and the Ugly%	
-Once Upon a Time in America%	For a Few Dollars More%	
 Once Upon a Time in America%	Taxi Driver%	
 Once Upon a Time in America%	Raging Bull%	
 Once Upon a Time in America%	The Deer Hunter%	
+Once Upon a Time in America%	For a Few Dollars More%	
 Once Upon a Time in America%	Apocalypse Now%	
 Once Upon a Time in America%	Scarface%	
-Once Upon a Time in America%	Goodfellas%	
 Once Upon a Time in America%	The Godfather: Part II%	
+Once Upon a Time in America%	Goodfellas%	
 Once Upon a Time in America%	Casino%	
 Once Upon a Time in America%	One Flew Over the Cuckoo's Nest%	
 Das Boot%	Downfall%	
@@ -597,19 +825,16 @@ Das Boot%	Once Upon a Time in America%
 Das Boot%	Apocalypse Now%	
 Das Boot%	The Lives of Others%	
 Das Boot%	Amadeus%	
-Das Boot%	Full Metal Jacket%	
-Das Boot%	The Deer Hunter%	
 Das Boot%	Lawrence of Arabia%	
 Das Boot%	Once Upon a Time in the West%	
-Das Boot%	The Bridge on the River Kwai%	
 Das Boot%	M%	
 Citizen Kane%	Casablanca%	
 Citizen Kane%	Rear Window%	
 Citizen Kane%	Vertigo%	
 Citizen Kane%	North by Northwest%	
 Citizen Kane%	Psycho%	
-Citizen Kane%	Meet the Blacks%	
 Citizen Kane%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Citizen Kane%	Meet the Blacks%	
 Citizen Kane%	Apocalypse Now%	
 Citizen Kane%	A Clockwork Orange%	
 Citizen Kane%	2001: A Space Odyssey%	
@@ -626,7 +851,7 @@ Vertigo%	A Clockwork Orange%
 Vertigo%	Reservoir Dogs%	
 Vertigo%	Rope%	
 Vertigo%	Taxi Driver%	
-Vertigo%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Vertigo%	Pulp Fiction%	
 North by Northwest%	Vertigo%	
 North by Northwest%	Rear Window%	
 North by Northwest%	Psycho%	
@@ -640,8 +865,8 @@ North by Northwest%	Rope%
 North by Northwest%	Strangers on a Train%	
 North by Northwest%	The Apartment%	
 Braveheart%	Gladiator%	
-Braveheart%	Saving Private Ryan%	
 Braveheart%	The Green Mile%	
+Braveheart%	Saving Private Ryan%	
 Braveheart%	Forrest Gump%	
 Braveheart%	The Lord of the Rings: The Return of the King%	
 Braveheart%	A Beautiful Mind%	
@@ -651,6 +876,18 @@ Braveheart%	American Beauty%
 Braveheart%	The Matrix%	
 Braveheart%	The Departed%	
 Braveheart%	American History X%	
+Reservoir Dogs%	Pulp Fiction%	
+Reservoir Dogs%	Inglourious Basterds%	
+Reservoir Dogs%	Django Unchained%	
+Reservoir Dogs%	Kill Bill: Vol. 1%	
+Reservoir Dogs%	Fight Club%	
+Reservoir Dogs%	The Silence of the Lambs%	
+Reservoir Dogs%	Goodfellas%	
+Reservoir Dogs%	The Usual Suspects%	
+Reservoir Dogs%	Forrest Gump%	
+Reservoir Dogs%	Taxi Driver%	
+Reservoir Dogs%	The Matrix%	
+Reservoir Dogs%	Se7en%	
 Star Wars: Episode VI - Return of the Jedi%	Star Wars: Episode V - The Empire Strikes Back%	
 Star Wars: Episode VI - Return of the Jedi%	Star Wars: Episode IV - A New Hope%	
 Star Wars: Episode VI - Return of the Jedi%	Star Wars: Episode III - Revenge of the Sith%	
@@ -661,20 +898,20 @@ Star Wars: Episode VI - Return of the Jedi%	Rogue One%
 Star Wars: Episode VI - Return of the Jedi%	The Lord of the Rings: The Two Towers%	
 Star Wars: Episode VI - Return of the Jedi%	The Dark Knight Rises%	
 Star Wars: Episode VI - Return of the Jedi%	Indiana Jones and the Last Crusade%	
-Star Wars: Episode VI - Return of the Jedi%	Batman Begins%	
 Star Wars: Episode VI - Return of the Jedi%	Raiders of the Lost Ark%	
+Star Wars: Episode VI - Return of the Jedi%	Batman Begins%	
 M%	Metropolis%	
 M%	Bicycle Thieves%	
 M%	Double Indemnity%	
 M%	Witness for the Prosecution%	
 M%	Paths of Glory%	
-M%	Sunset Blvd.%	
-M%	City Lights%	
 M%	Citizen Kane%	
+M%	City Lights%	
+M%	Sunset Blvd.%	
 M%	The Third Man%	
 M%	North by Northwest%	
-M%	Vertigo%	
 M%	Rashômon%	
+M%	Vertigo%	
 Dangal%	3 Idiots%	
 Dangal%	PK%	
 Dangal%	Rang De Basanti%	
@@ -693,12 +930,12 @@ Kimi no na wa.%	Princess Mononoke%
 Kimi no na wa.%	Toki o kakeru shôjo%	
 Kimi no na wa.%	Grave of the Fireflies%	
 Kimi no na wa.%	Hoshi o ou kodomo%	
-Kimi no na wa.%	Shigatsu wa kimi no uso%	
 Kimi no na wa.%	Hotarubi no mori e%	
+Kimi no na wa.%	Shigatsu wa kimi no uso%	
 Kimi no na wa.%	Nausicaä of the Valley of the Wind%	
 Kimi no na wa.%	Kaze tachinu%	
 Kimi no na wa.%	Kumo no mukô, yakusoku no basho%	
-Kimi no na wa.%	Death Note: Desu nôto%	
+Kimi no na wa.%	Dangal%	
 Requiem for a Dream%	Eternal Sunshine of the Spotless Mind%	
 Requiem for a Dream%	American History X%	
 Requiem for a Dream%	American Beauty%	
@@ -787,10 +1024,22 @@ Double Indemnity%	The Maltese Falcon%
 Double Indemnity%	North by Northwest%	
 Double Indemnity%	The Treasure of the Sierra Madre%	
 Double Indemnity%	Touch of Evil%	
-Double Indemnity%	Some Like It Hot%	
 Double Indemnity%	All About Eve%	
+Double Indemnity%	Some Like It Hot%	
 Double Indemnity%	Mr. Smith Goes to Washington%	
-Double Indemnity%	M%	
+Double Indemnity%	Citizen Kane%	
+Taxi Driver%	A Clockwork Orange%	
+Taxi Driver%	Goodfellas%	
+Taxi Driver%	Raging Bull%	
+Taxi Driver%	Reservoir Dogs%	
+Taxi Driver%	Full Metal Jacket%	
+Taxi Driver%	Pulp Fiction%	
+Taxi Driver%	Scarface%	
+Taxi Driver%	Apocalypse Now%	
+Taxi Driver%	Se7en%	
+Taxi Driver%	Fight Club%	
+Taxi Driver%	The Departed%	
+Taxi Driver%	The Shining%	
 Singin' in the Rain%	Some Like It Hot%	
 Singin' in the Rain%	Gone with the Wind%	
 Singin' in the Rain%	Casablanca%	
@@ -803,6 +1052,18 @@ Singin' in the Rain%	Vertigo%
 Singin' in the Rain%	Sunset Blvd.%	
 Singin' in the Rain%	Amadeus%	
 Singin' in the Rain%	Psycho%	
+3 Idiots%	PK%	
+3 Idiots%	Dangal%	
+3 Idiots%	Rang De Basanti%	
+3 Idiots%	A Wednesday%	
+3 Idiots%	Lagaan: Once Upon a Time in India%	
+3 Idiots%	Ghajini%	
+3 Idiots%	Munna Bhai M.B.B.S.%	
+3 Idiots%	Bhaag Milkha Bhaag%	
+3 Idiots%	Drishyam%	
+3 Idiots%	Dil Chahta Hai%	
+3 Idiots%	OMG: Oh My God!%	
+3 Idiots%	Gangs of Wasseypur%	
 2001: A Space Odyssey%	A Clockwork Orange%	
 2001: A Space Odyssey%	Full Metal Jacket%	
 2001: A Space Odyssey%	The Shining%	
@@ -814,7 +1075,7 @@ Singin' in the Rain%	Psycho%
 2001: A Space Odyssey%	Reservoir Dogs%	
 2001: A Space Odyssey%	2010%	
 2001: A Space Odyssey%	Citizen Kane%	
-2001: A Space Odyssey%	Barry Lyndon%	
+2001: A Space Odyssey%	Fight Club%	
 Toy Story%	Toy Story 3%	
 Toy Story%	Toy Story 2%	
 Toy Story%	Finding Nemo%	
@@ -870,22 +1131,22 @@ Bicycle Thieves%	Cinema Paradiso%
 Bicycle Thieves%	Citizen Kane%	
 Bicycle Thieves%	Sunset Blvd.%	
 Bicycle Thieves%	Metropolis%	
-Bicycle Thieves%	Double Indemnity%	
 Bicycle Thieves%	City Lights%	
+Bicycle Thieves%	Double Indemnity%	
 Bicycle Thieves%	Paths of Glory%	
 Bicycle Thieves%	8½%	
 Bicycle Thieves%	Yojimbo%	
 The Sting%	Butch Cassidy and the Sundance Kid%	
 The Sting%	The Bridge on the River Kwai%	
-The Sting%	The Great Escape%	
 The Sting%	Cool Hand Luke%	
+The Sting%	The Great Escape%	
 The Sting%	Lawrence of Arabia%	
 The Sting%	Ben-Hur%	
 The Sting%	Amadeus%	
 The Sting%	The Apartment%	
 The Sting%	On the Waterfront%	
 The Sting%	North by Northwest%	
-The Sting%	Meet the Blacks%	
+The Sting%	Witness for the Prosecution%	
 The Sting%	Unforgiven%	
 The Kid%	The Gold Rush%	
 The Kid%	Modern Times%	
@@ -924,10 +1185,22 @@ Good Will Hunting%	The Sixth Sense%
 Good Will Hunting%	Saving Private Ryan%	
 Good Will Hunting%	The Green Mile%	
 Good Will Hunting%	Inglourious Basterds%	
-Good Will Hunting%	Shutter Island%	
 Good Will Hunting%	Dead Poets Society%	
-Good Will Hunting%	Gladiator%	
+Good Will Hunting%	Shutter Island%	
 Good Will Hunting%	Django Unchained%	
+Good Will Hunting%	Gladiator%	
+Jagten%	The Lives of Others%	
+Jagten%	Oldeuboi%	
+Jagten%	Incendies%	
+Jagten%	A Separation%	
+Jagten%	The Intouchables%	
+Jagten%	Relatos salvajes%	
+Jagten%	Whiplash%	
+Jagten%	Requiem for a Dream%	
+Jagten%	Amélie%	
+Jagten%	The Secret in Their Eyes%	
+Jagten%	City of God%	
+Jagten%	The Pianist%	
 Monty Python and the Holy Grail%	Life of Brian%	
 Monty Python and the Holy Grail%	The Meaning of Life%	
 Monty Python and the Holy Grail%	Raiders of the Lost Ark%	
@@ -951,7 +1224,7 @@ For a Few Dollars More%	The Great Escape%
 For a Few Dollars More%	Butch Cassidy and the Sundance Kid%	
 For a Few Dollars More%	Apocalypse Now%	
 For a Few Dollars More%	Hang 'Em High%	
-For a Few Dollars More%	Gran Torino%	
+For a Few Dollars More%	Pale Rider%	
 Scarface%	Goodfellas%	
 Scarface%	The Godfather: Part II%	
 Scarface%	Taxi Driver%	
@@ -960,8 +1233,8 @@ Scarface%	Reservoir Dogs%
 Scarface%	Casino%	
 Scarface%	The Usual Suspects%	
 Scarface%	Snatch%	
-Scarface%	A Clockwork Orange%	
 Scarface%	Heat%	
+Scarface%	A Clockwork Orange%	
 Scarface%	Full Metal Jacket%	
 Scarface%	Pulp Fiction%	
 L.A. Confidential%	Heat%	
@@ -987,7 +1260,7 @@ The Apartment%	Rear Window%
 The Apartment%	Vertigo%	
 The Apartment%	The Third Man%	
 The Apartment%	It Happened One Night%	
-The Apartment%	The Sting%	
+The Apartment%	Meet the Blacks%	
 Metropolis%	M%	
 Metropolis%	The Cabinet of Dr. Caligari%	
 Metropolis%	The General%	
@@ -1003,15 +1276,14 @@ Metropolis%	The Third Man%
 A Separation%	Darbareye Elly%	
 A Separation%	Forushande%	
 A Separation%	Le passé%	
-A Separation%	The Lizard%	
 A Separation%	Chaharshanbe-soori%	
+A Separation%	The Lizard%	
 A Separation%	Jagten%	
 A Separation%	Abad va yek rooz%	
 A Separation%	Incendies%	
 A Separation%	Raghs dar ghobar%	
 A Separation%	Vorood-e-Aghayan Mamnoo%	
 A Separation%	The Lives of Others%	
-A Separation%	Mim mesle madar%	
 Rashômon%	Yojimbo%	
 Rashômon%	Seven Samurai%	
 Rashômon%	Ran%	
@@ -1022,8 +1294,20 @@ Rashômon%	Sanjuro%
 Rashômon%	Bicycle Thieves%	
 Rashômon%	Kagemusha%	
 Rashômon%	Red Beard%	
-Rashômon%	High and Low%	
 Rashômon%	The Seventh Seal%	
+Rashômon%	Tokyo Story%	
+Indiana Jones and the Last Crusade%	Raiders of the Lost Ark%	
+Indiana Jones and the Last Crusade%	Indiana Jones and the Temple of Doom%	
+Indiana Jones and the Last Crusade%	Indiana Jones and the Kingdom of the Crystal Skull%	
+Indiana Jones and the Last Crusade%	Jurassic Park%	
+Indiana Jones and the Last Crusade%	Back to the Future%	
+Indiana Jones and the Last Crusade%	Star Wars: Episode VI - Return of the Jedi%	
+Indiana Jones and the Last Crusade%	Star Wars: Episode V - The Empire Strikes Back%	
+Indiana Jones and the Last Crusade%	The Terminator%	
+Indiana Jones and the Last Crusade%	Terminator 2%	
+Indiana Jones and the Last Crusade%	Die Hard%	
+Indiana Jones and the Last Crusade%	Star Wars: Episode IV - A New Hope%	
+Indiana Jones and the Last Crusade%	Batman Begins%	
 Up%	Finding Nemo%	
 Up%	Toy Story%	
 Up%	WALL·E%	
@@ -1056,8 +1340,8 @@ All About Eve%	Double Indemnity%
 All About Eve%	It Happened One Night%	
 All About Eve%	On the Waterfront%	
 All About Eve%	The Treasure of the Sierra Madre%	
-All About Eve%	The Best Years of Our Lives%	
 All About Eve%	Mr. Smith Goes to Washington%	
+All About Eve%	The Best Years of Our Lives%	
 All About Eve%	The Third Man%	
 All About Eve%	Witness for the Prosecution%	
 Batman Begins%	The Dark Knight Rises%	
@@ -1103,10 +1387,10 @@ The Treasure of the Sierra Madre%	Double Indemnity%
 The Treasure of the Sierra Madre%	On the Waterfront%	
 The Treasure of the Sierra Madre%	The Grapes of Wrath%	
 The Treasure of the Sierra Madre%	It Happened One Night%	
-The Treasure of the Sierra Madre%	The African Queen%	
 The Treasure of the Sierra Madre%	The Bridge on the River Kwai%	
-The Treasure of the Sierra Madre%	All About Eve%	
+The Treasure of the Sierra Madre%	The African Queen%	
 The Treasure of the Sierra Madre%	Rebecca%	
+The Treasure of the Sierra Madre%	All About Eve%	
 The Treasure of the Sierra Madre%	Key Largo%	
 Downfall%	Das Boot%	
 Downfall%	The Pianist%	
@@ -1114,12 +1398,12 @@ Downfall%	The Lives of Others%
 Downfall%	Saving Private Ryan%	
 Downfall%	Schindler's List%	
 Downfall%	American History X%	
-Downfall%	Gran Torino%	
 Downfall%	Full Metal Jacket%	
+Downfall%	Gran Torino%	
 Downfall%	The Intouchables%	
 Downfall%	Inglourious Basterds%	
-Downfall%	Jagten%	
-Downfall%	Once Upon a Time in America%	
+Downfall%	Braveheart%	
+Downfall%	Terminator 2%	
 Die Hard%	Die Hard 2%	
 Die Hard%	Die Hard with a Vengeance%	
 Die Hard%	The Terminator%	
@@ -1132,6 +1416,30 @@ Die Hard%	Back to the Future%
 Die Hard%	Alien%	
 Die Hard%	Aliens%	
 Die Hard%	Star Wars: Episode IV - A New Hope%	
+Heat%	Casino%	
+Heat%	L.A. Confidential%	
+Heat%	Scarface%	
+Heat%	Goodfellas%	
+Heat%	Die Hard%	
+Heat%	Snatch%	
+Heat%	Reservoir Dogs%	
+Heat%	Taxi Driver%	
+Heat%	The Usual Suspects%	
+Heat%	Lock, Stock and Two Smoking Barrels%	
+Heat%	Se7en%	
+Heat%	The Godfather: Part II%	
+Raging Bull%	Taxi Driver%	
+Raging Bull%	Casino%	
+Raging Bull%	The Deer Hunter%	
+Raging Bull%	Apocalypse Now%	
+Raging Bull%	Goodfellas%	
+Raging Bull%	Scarface%	
+Raging Bull%	Heat%	
+Raging Bull%	Once Upon a Time in America%	
+Raging Bull%	Chinatown%	
+Raging Bull%	Unforgiven%	
+Raging Bull%	Full Metal Jacket%	
+Raging Bull%	A Clockwork Orange%	
 Ikiru%	Yojimbo%	
 Ikiru%	Rashômon%	
 Ikiru%	Ran%	
@@ -1160,8 +1468,8 @@ The Third Man%	Double Indemnity%
 The Third Man%	The Maltese Falcon%	
 The Third Man%	The Treasure of the Sierra Madre%	
 The Third Man%	Sunset Blvd.%	
-The Third Man%	Citizen Kane%	
 The Third Man%	Touch of Evil%	
+The Third Man%	Citizen Kane%	
 The Third Man%	On the Waterfront%	
 The Third Man%	North by Northwest%	
 The Third Man%	Mr. Smith Goes to Washington%	
@@ -1172,9 +1480,6 @@ Children of Heaven%	The Color of Paradise%
 Children of Heaven%	Avaze gonjeshk-ha%	
 Children of Heaven%	Taare Zameen Par%	
 Children of Heaven%	The White Balloon%	
-Children of Heaven%	Khane-ye doust kodjast?%	
-Children of Heaven%	The Kid%	
-Children of Heaven%	Modern Times%	
 Three Billboards Outside Ebbing, Missouri%	The Shape of Water%	
 Three Billboards Outside Ebbing, Missouri%	Lady Bird%	
 Three Billboards Outside Ebbing, Missouri%	I, Tonya%	
@@ -1189,28 +1494,47 @@ Three Billboards Outside Ebbing, Missouri%	Murder on the Orient Express%
 Three Billboards Outside Ebbing, Missouri%	Baby Driver%	
 Chinatown%	Raging Bull%	
 Chinatown%	Apocalypse Now%	
+Chinatown%	One Flew Over the Cuckoo's Nest%	
 Chinatown%	The Deer Hunter%	
 Chinatown%	Taxi Driver%	
-Chinatown%	One Flew Over the Cuckoo's Nest%	
 Chinatown%	L.A. Confidential%	
-Chinatown%	Vertigo%	
 Chinatown%	Rosemary's Baby%	
+Chinatown%	Vertigo%	
 Chinatown%	Citizen Kane%	
 Chinatown%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
 Chinatown%	Annie Hall%	
-Chinatown%	Rear Window%	
-Ran%	Yojimbo%	
-Ran%	Rashômon%	
-Ran%	Kagemusha%	
-Ran%	Ikiru%	
-Ran%	Throne of Blood%	
-Ran%	Seven Samurai%	
-Ran%	The Hidden Fortress%	
-Ran%	Sanjuro%	
-Ran%	High and Low%	
-Ran%	Red Beard%	
-Ran%	Tokyo Story%	
-Ran%	Dreams%	
+Chinatown%	The Third Man%	
+Pan's Labyrinth%	The Sixth Sense%	
+Pan's Labyrinth%	V for Vendetta%	
+Pan's Labyrinth%	Good Will Hunting%	
+Pan's Labyrinth%	The Truman Show%	
+Pan's Labyrinth%	Requiem for a Dream%	
+Pan's Labyrinth%	Kill Bill: Vol. 1%	
+Pan's Labyrinth%	Amélie%	
+Pan's Labyrinth%	American Beauty%	
+Pan's Labyrinth%	Trainspotting%	
+Pan's Labyrinth%	The Prestige%	
+Pan's Labyrinth%	Snatch%	
+Pan's Labyrinth%	Donnie Darko%	
+Incendies%	The Secret in Their Eyes%	
+Incendies%	Jagten%	
+Incendies%	Polytechnique%	
+Incendies%	A Separation%	
+Incendies%	Enemy%	
+Incendies%	Prisoners%	
+Incendies%	Relatos salvajes%	
+My Neighbor Totoro%	Howl's Moving Castle%	
+My Neighbor Totoro%	Spirited Away%	
+My Neighbor Totoro%	Castle in the Sky%	
+My Neighbor Totoro%	Kiki's Delivery Service%	
+My Neighbor Totoro%	Ponyo%	
+My Neighbor Totoro%	The Secret World of Arrietty%	
+My Neighbor Totoro%	Mimi wo sumaseba%	
+My Neighbor Totoro%	WALL·E%	
+My Neighbor Totoro%	Up%	
+My Neighbor Totoro%	Finding Nemo%	
+My Neighbor Totoro%	Monsters, Inc.%	
+My Neighbor Totoro%	From Up on Poppy Hill%	
 Judgment at Nuremberg%	The Bridge on the River Kwai%	
 Judgment at Nuremberg%	Witness for the Prosecution%	
 Judgment at Nuremberg%	The Treasure of the Sierra Madre%	
@@ -1223,6 +1547,18 @@ Judgment at Nuremberg%	The Wages of Fear%
 Judgment at Nuremberg%	On the Waterfront%	
 Judgment at Nuremberg%	All About Eve%	
 Judgment at Nuremberg%	Ran%	
+Ran%	Yojimbo%	
+Ran%	Rashômon%	
+Ran%	Kagemusha%	
+Ran%	Ikiru%	
+Ran%	Throne of Blood%	
+Ran%	Seven Samurai%	
+Ran%	The Hidden Fortress%	
+Ran%	Sanjuro%	
+Ran%	High and Low%	
+Ran%	Tokyo Story%	
+Ran%	Red Beard%	
+Ran%	Dreams%	
 The Secret in Their Eyes%	Relatos salvajes%	
 The Secret in Their Eyes%	Incendies%	
 The Secret in Their Eyes%	Nine Queens%	
@@ -1232,13 +1568,21 @@ The Secret in Their Eyes%	Secret in Their Eyes%
 The Secret in Their Eyes%	Jagten%	
 The Secret in Their Eyes%	A Separation%	
 The Secret in Their Eyes%	Son of the Bride%	
-The Secret in Their Eyes%	Memories of Murder%	
 The Secret in Their Eyes%	Chinese Take-Out%	
+The Secret in Their Eyes%	Memories of Murder%	
 The Secret in Their Eyes%	City of God%	
-The Gold Rush%	The Kid%	
-The Gold Rush%	Modern Times%	
-The Gold Rush%	The Wizard of Oz%	
-The Gold Rush%	The Cameraman%	
+Howl's Moving Castle%	My Neighbor Totoro%	
+Howl's Moving Castle%	Spirited Away%	
+Howl's Moving Castle%	Castle in the Sky%	
+Howl's Moving Castle%	Kiki's Delivery Service%	
+Howl's Moving Castle%	Ponyo%	
+Howl's Moving Castle%	The Secret World of Arrietty%	
+Howl's Moving Castle%	Mimi wo sumaseba%	
+Howl's Moving Castle%	Up%	
+Howl's Moving Castle%	WALL·E%	
+Howl's Moving Castle%	From Up on Poppy Hill%	
+Howl's Moving Castle%	Finding Nemo%	
+Howl's Moving Castle%	How to Train Your Dragon%	
 The Bridge on the River Kwai%	Lawrence of Arabia%	
 The Bridge on the River Kwai%	The Great Escape%	
 The Bridge on the River Kwai%	Ben-Hur%	
@@ -1247,8 +1591,8 @@ The Bridge on the River Kwai%	On the Waterfront%
 The Bridge on the River Kwai%	Butch Cassidy and the Sundance Kid%	
 The Bridge on the River Kwai%	Gone with the Wind%	
 The Bridge on the River Kwai%	Cool Hand Luke%	
-The Bridge on the River Kwai%	Meet the Blacks%	
 The Bridge on the River Kwai%	Platoon%	
+The Bridge on the River Kwai%	Meet the Blacks%	
 The Bridge on the River Kwai%	Mr. Smith Goes to Washington%	
 The Bridge on the River Kwai%	The Treasure of the Sierra Madre%	
 On the Waterfront%	The Bridge on the River Kwai%	
@@ -1262,7 +1606,7 @@ On the Waterfront%	All About Eve%
 On the Waterfront%	The Maltese Falcon%	
 On the Waterfront%	Lawrence of Arabia%	
 On the Waterfront%	Sunset Blvd.%	
-On the Waterfront%	The Sting%	
+On the Waterfront%	Casablanca%	
 Inside Out%	Up%	
 Inside Out%	Finding Nemo%	
 Inside Out%	Monsters, Inc.%	
@@ -1275,6 +1619,18 @@ Inside Out%	The Lion King%
 Inside Out%	Frozen%	
 Inside Out%	Ratatouille%	
 Inside Out%	Big Hero 6%	
+Lock, Stock and Two Smoking Barrels%	Snatch%	
+Lock, Stock and Two Smoking Barrels%	Trainspotting%	
+Lock, Stock and Two Smoking Barrels%	Reservoir Dogs%	
+Lock, Stock and Two Smoking Barrels%	The Big Lebowski%	
+Lock, Stock and Two Smoking Barrels%	American History X%	
+Lock, Stock and Two Smoking Barrels%	Scarface%	
+Lock, Stock and Two Smoking Barrels%	Kill Bill: Vol. 1%	
+Lock, Stock and Two Smoking Barrels%	The Usual Suspects%	
+Lock, Stock and Two Smoking Barrels%	Gran Torino%	
+Lock, Stock and Two Smoking Barrels%	Casino%	
+Lock, Stock and Two Smoking Barrels%	L.A. Confidential%	
+Lock, Stock and Two Smoking Barrels%	American Beauty%	
 The Seventh Seal%	Wild Strawberries%	
 The Seventh Seal%	Persona%	
 The Seventh Seal%	Stalker%	
@@ -1287,26 +1643,50 @@ The Seventh Seal%	Rashômon%
 The Seventh Seal%	The Virgin Spring%	
 The Seventh Seal%	Fanny and Alexander%	
 The Seventh Seal%	The Silence%	
-Lock, Stock and Two Smoking Barrels%	Snatch%	
-Lock, Stock and Two Smoking Barrels%	Trainspotting%	
-Lock, Stock and Two Smoking Barrels%	Reservoir Dogs%	
-Lock, Stock and Two Smoking Barrels%	The Big Lebowski%	
-Lock, Stock and Two Smoking Barrels%	American History X%	
-Lock, Stock and Two Smoking Barrels%	Kill Bill: Vol. 1%	
-Lock, Stock and Two Smoking Barrels%	Scarface%	
-Lock, Stock and Two Smoking Barrels%	The Usual Suspects%	
-Lock, Stock and Two Smoking Barrels%	Gran Torino%	
-Lock, Stock and Two Smoking Barrels%	Casino%	
-Lock, Stock and Two Smoking Barrels%	L.A. Confidential%	
-Lock, Stock and Two Smoking Barrels%	American Beauty%	
+A Beautiful Mind%	Gladiator%	
+A Beautiful Mind%	American Beauty%	
+A Beautiful Mind%	Braveheart%	
+A Beautiful Mind%	Million Dollar Baby%	
+A Beautiful Mind%	Forrest Gump%	
+A Beautiful Mind%	Catch Me If You Can%	
+A Beautiful Mind%	12 Years a Slave%	
+A Beautiful Mind%	Shutter Island%	
+A Beautiful Mind%	The Green Mile%	
+A Beautiful Mind%	The Wolf of Wall Street%	
+A Beautiful Mind%	The Departed%	
+A Beautiful Mind%	The Silence of the Lambs%	
+Casino%	Goodfellas%	
+Casino%	Scarface%	
+Casino%	Heat%	
+Casino%	Raging Bull%	
+Casino%	Taxi Driver%	
+Casino%	The Godfather: Part II%	
+Casino%	L.A. Confidential%	
+Casino%	The Wolf of Wall Street%	
+Casino%	Lock, Stock and Two Smoking Barrels%	
+Casino%	Snatch%	
+Casino%	Reservoir Dogs%	
+Casino%	The Departed%	
+Room%	Spotlight%	
+Room%	Whiplash%	
+Room%	La La Land%	
+Room%	Gone Girl%	
+Room%	Hacksaw Ridge%	
+Room%	The Intouchables%	
+Room%	12 Years a Slave%	
+Room%	Mad Max: Fury Road%	
+Room%	The Danish Girl%	
+Room%	A Beautiful Mind%	
+Room%	V for Vendetta%	
+Room%	The Help%	
 Mr. Smith Goes to Washington%	It Happened One Night%	
 Mr. Smith Goes to Washington%	The Grapes of Wrath%	
 Mr. Smith Goes to Washington%	The Treasure of the Sierra Madre%	
 Mr. Smith Goes to Washington%	The Maltese Falcon%	
 Mr. Smith Goes to Washington%	Mr. Deeds Goes to Town%	
 Mr. Smith Goes to Washington%	On the Waterfront%	
-Mr. Smith Goes to Washington%	The Bridge on the River Kwai%	
 Mr. Smith Goes to Washington%	The General%	
+Mr. Smith Goes to Washington%	The Bridge on the River Kwai%	
 Mr. Smith Goes to Washington%	The Third Man%	
 Mr. Smith Goes to Washington%	Double Indemnity%	
 Mr. Smith Goes to Washington%	Sunrise%	
@@ -1320,6 +1700,42 @@ The Elephant Man%	Inland Empire%
 The Elephant Man%	The Straight Story%	
 The Elephant Man%	Twin Peaks: Fire Walk with Me%	
 The Elephant Man%	Raging Bull%	
+The Wolf of Wall Street%	Django Unchained%	
+The Wolf of Wall Street%	Shutter Island%	
+The Wolf of Wall Street%	Inception%	
+The Wolf of Wall Street%	Fight Club%	
+The Wolf of Wall Street%	Inglourious Basterds%	
+The Wolf of Wall Street%	Catch Me If You Can%	
+The Wolf of Wall Street%	The Departed%	
+The Wolf of Wall Street%	Forrest Gump%	
+The Wolf of Wall Street%	Pulp Fiction%	
+The Wolf of Wall Street%	The Dark Knight%	
+The Wolf of Wall Street%	The Dark Knight Rises%	
+The Wolf of Wall Street%	Interstellar%	
+V for Vendetta%	The Sixth Sense%	
+V for Vendetta%	The Truman Show%	
+V for Vendetta%	Kill Bill: Vol. 1%	
+V for Vendetta%	Shutter Island%	
+V for Vendetta%	Batman Begins%	
+V for Vendetta%	Fight Club%	
+V for Vendetta%	Memento%	
+V for Vendetta%	The Prestige%	
+V for Vendetta%	A Beautiful Mind%	
+V for Vendetta%	Catch Me If You Can%	
+V for Vendetta%	The Matrix%	
+V for Vendetta%	The Wolf of Wall Street%	
+Blade Runner%	Blade Runner 2049%	
+Blade Runner%	Alien%	
+Blade Runner%	Star Wars: Episode VI - Return of the Jedi%	
+Blade Runner%	Aliens%	
+Blade Runner%	Star Wars: Episode IV - A New Hope%	
+Blade Runner%	Star Wars: Episode V - The Empire Strikes Back%	
+Blade Runner%	Mad Max: Fury Road%	
+Blade Runner%	The Terminator%	
+Blade Runner%	The Matrix%	
+Blade Runner%	Pulp Fiction%	
+Blade Runner%	Kill Bill: Vol. 1%	
+Blade Runner%	Reservoir Dogs%	
 Wild Strawberries%	The Seventh Seal%	
 Wild Strawberries%	Persona%	
 Wild Strawberries%	Nattvardsgästerna%	
@@ -1327,8 +1743,8 @@ Wild Strawberries%	Through a Glass Darkly%
 Wild Strawberries%	Cries & Whispers%	
 Wild Strawberries%	Autumn Sonata%	
 Wild Strawberries%	The Virgin Spring%	
-Wild Strawberries%	The Silence%	
 Wild Strawberries%	Fanny and Alexander%	
+Wild Strawberries%	The Silence%	
 Wild Strawberries%	The 400 Blows%	
 Wild Strawberries%	8½%	
 Wild Strawberries%	Shame%	
@@ -1343,19 +1759,31 @@ The General%	The Grapes of Wrath%
 The General%	The Third Man%	
 The General%	Double Indemnity%	
 The General%	Battleship Potemkin%	
-The General%	Diane of the Follies%	
+The General%	Bicycle Thieves%	
+Warrior%	Rush%	
+Warrior%	Lawless%	
+Warrior%	Mad Max: Fury Road%	
+Warrior%	Gran Torino%	
+Warrior%	The Wolf of Wall Street%	
+Warrior%	Legend%	
+Warrior%	Million Dollar Baby%	
+Warrior%	Shutter Island%	
+Warrior%	The Dark Knight Rises%	
+Warrior%	Django Unchained%	
+Warrior%	V for Vendetta%	
+Warrior%	Gone Girl%	
 Sherlock Jr.%	The General%	
 Sherlock Jr.%	Our Hospitality%	
 Sherlock Jr.%	Seven Chances%	
-Sherlock Jr.%	The Navigator%	
 Sherlock Jr.%	Sunrise%	
+Sherlock Jr.%	The Navigator%	
 Sherlock Jr.%	The Passion of Joan of Arc%	
-Sherlock Jr.%	Go West%	
-Sherlock Jr.%	Safety Last!%	
 Sherlock Jr.%	Greed%	
-Sherlock Jr.%	Three Ages%	
+Sherlock Jr.%	Safety Last!%	
+Sherlock Jr.%	Go West%	
 Sherlock Jr.%	The Cabinet of Dr. Caligari%	
-Sherlock Jr.%	Tangerines%	
+Sherlock Jr.%	Battleship Potemkin%	
+Sherlock Jr.%	Three Ages%	
 Dial M for Murder%	North by Northwest%	
 Dial M for Murder%	Rope%	
 Dial M for Murder%	Rear Window%	
@@ -1366,15 +1794,15 @@ Dial M for Murder%	Rebecca%
 Dial M for Murder%	Psycho%	
 Dial M for Murder%	The Birds%	
 Dial M for Murder%	Notorious%	
-Dial M for Murder%	The Man Who Knew Too Much%	
 Dial M for Murder%	Meet the Blacks%	
+Dial M for Murder%	The Man Who Knew Too Much%	
 Trainspotting%	T2 Trainspotting%	
 Trainspotting%	Lock, Stock and Two Smoking Barrels%	
 Trainspotting%	The Big Lebowski%	
 Trainspotting%	Snatch%	
-Trainspotting%	Reservoir Dogs%	
-Trainspotting%	American Beauty%	
 Trainspotting%	Kill Bill: Vol. 1%	
+Trainspotting%	American Beauty%	
+Trainspotting%	Reservoir Dogs%	
 Trainspotting%	The Truman Show%	
 Trainspotting%	Requiem for a Dream%	
 Trainspotting%	A Clockwork Orange%	
@@ -1398,36 +1826,48 @@ Gran Torino%	The Sixth Sense%
 Gran Torino%	The Wolf of Wall Street%	
 Gran Torino%	The Big Lebowski%	
 Gran Torino%	Unforgiven%	
-Gran Torino%	A Beautiful Mind%	
 Gran Torino%	Shutter Island%	
+Gran Torino%	A Beautiful Mind%	
+Gran Torino%	Gladiator%	
+Gran Torino%	Inglourious Basterds%	
 Gran Torino%	Scarface%	
-Gran Torino%	Reservoir Dogs%	
-Gran Torino%	American History X%	
-Gran Torino%	Fargo%	
+Gran Torino%	Kill Bill: Vol. 1%	
 No Country for Old Men%	The Big Lebowski%	
 No Country for Old Men%	Fargo%	
-No Country for Old Men%	Gran Torino%	
 No Country for Old Men%	The Departed%	
+No Country for Old Men%	Gran Torino%	
 No Country for Old Men%	12 Years a Slave%	
 No Country for Old Men%	Inglourious Basterds%	
+No Country for Old Men%	Million Dollar Baby%	
 No Country for Old Men%	There Will Be Blood%	
 No Country for Old Men%	Reservoir Dogs%	
-No Country for Old Men%	Million Dollar Baby%	
-No Country for Old Men%	American Beauty%	
-No Country for Old Men%	Django Unchained%	
 No Country for Old Men%	Kill Bill: Vol. 1%	
+No Country for Old Men%	American Beauty%	
+No Country for Old Men%	Pulp Fiction%	
+The Sixth Sense%	The Truman Show%	
+The Sixth Sense%	V for Vendetta%	
+The Sixth Sense%	Shutter Island%	
+The Sixth Sense%	Gran Torino%	
+The Sixth Sense%	Kill Bill: Vol. 1%	
+The Sixth Sense%	Jurassic Park%	
+The Sixth Sense%	A Beautiful Mind%	
+The Sixth Sense%	Die Hard%	
+The Sixth Sense%	Catch Me If You Can%	
+The Sixth Sense%	Good Will Hunting%	
+The Sixth Sense%	The Silence of the Lambs%	
+The Sixth Sense%	The Terminator%	
 Fargo%	The Big Lebowski%	
 Fargo%	No Country for Old Men%	
 Fargo%	Reservoir Dogs%	
 Fargo%	There Will Be Blood%	
-Fargo%	Gran Torino%	
 Fargo%	American Beauty%	
-Fargo%	Trainspotting%	
-Fargo%	Kill Bill: Vol. 1%	
-Fargo%	Inglourious Basterds%	
 Fargo%	The Sixth Sense%	
-Fargo%	Pulp Fiction%	
+Fargo%	Kill Bill: Vol. 1%	
+Fargo%	Trainspotting%	
+Fargo%	Gran Torino%	
+Fargo%	Inglourious Basterds%	
 Fargo%	A Clockwork Orange%	
+Fargo%	Pulp Fiction%	
 The Deer Hunter%	Platoon%	
 The Deer Hunter%	Apocalypse Now%	
 The Deer Hunter%	Raging Bull%	
@@ -1439,99 +1879,111 @@ The Deer Hunter%	Rocky%
 The Deer Hunter%	Casino%	
 The Deer Hunter%	One Flew Over the Cuckoo's Nest%	
 The Deer Hunter%	A Clockwork Orange%	
-The Deer Hunter%	The Great Escape%	
+The Deer Hunter%	Scarface%	
 There Will Be Blood%	No Country for Old Men%	
 There Will Be Blood%	Fargo%	
 There Will Be Blood%	The Big Lebowski%	
-There Will Be Blood%	Magnolia%	
-There Will Be Blood%	Gangs of New York%	
 There Will Be Blood%	Taxi Driver%	
+There Will Be Blood%	Gangs of New York%	
+There Will Be Blood%	Magnolia%	
+There Will Be Blood%	Reservoir Dogs%	
 There Will Be Blood%	Boogie Nights%	
 There Will Be Blood%	The Master%	
-There Will Be Blood%	Reservoir Dogs%	
-There Will Be Blood%	In the Name of the Father%	
 There Will Be Blood%	Kill Bill: Vol. 1%	
+There Will Be Blood%	Trainspotting%	
 There Will Be Blood%	The Departed%	
 The Thing%	The Thing%	
 The Thing%	Alien%	
 The Thing%	Halloween%	
 The Thing%	Escape from New York%	
 The Thing%	They Live%	
-The Thing%	Aliens%	
 The Thing%	The Terminator%	
+The Thing%	Aliens%	
 The Thing%	The Shining%	
 The Thing%	The Evil Dead%	
-The Thing%	Big Trouble in Little China%	
 The Thing%	The Exorcist%	
-The Thing%	The Sixth Sense%	
+The Thing%	Big Trouble in Little China%	
+The Thing%	Die Hard%	
 Finding Nemo%	Monsters, Inc.%	
 Finding Nemo%	Toy Story%	
 Finding Nemo%	Up%	
 Finding Nemo%	Toy Story 3%	
 Finding Nemo%	WALL·E%	
+Finding Nemo%	Inside Out%	
 Finding Nemo%	How to Train Your Dragon%	
 Finding Nemo%	The Lion King%	
-Finding Nemo%	Inside Out%	
 Finding Nemo%	Toy Story 2%	
 Finding Nemo%	Ratatouille%	
-Finding Nemo%	Finding Dory%	
 Finding Nemo%	The Incredibles%	
+Finding Nemo%	Shrek%	
 The Big Lebowski%	Fargo%	
 The Big Lebowski%	No Country for Old Men%	
-The Big Lebowski%	Reservoir Dogs%	
 The Big Lebowski%	Trainspotting%	
-The Big Lebowski%	Gran Torino%	
+The Big Lebowski%	Reservoir Dogs%	
 The Big Lebowski%	Kill Bill: Vol. 1%	
-The Big Lebowski%	There Will Be Blood%	
+The Big Lebowski%	Gran Torino%	
 The Big Lebowski%	Pulp Fiction%	
-The Big Lebowski%	Taxi Driver%	
-The Big Lebowski%	Full Metal Jacket%	
 The Big Lebowski%	Snatch%	
+The Big Lebowski%	Inglourious Basterds%	
+The Big Lebowski%	Taxi Driver%	
 The Big Lebowski%	Lock, Stock and Two Smoking Barrels%	
+The Big Lebowski%	There Will Be Blood%	
 Come and See%	Andrei Rublev%	
 Come and See%	Stalker%	
 Come and See%	The Nights of Cabiria%	
 Come and See%	Tokyo Story%	
 Come and See%	The Passion of Joan of Arc%	
-Come and See%	The Battle of Algiers%	
 Come and See%	Paper Moon%	
+Come and See%	The Battle of Algiers%	
 Come and See%	Sunrise%	
 Come and See%	The Wages of Fear%	
-Come and See%	Diabolique%	
 Come and See%	The 400 Blows%	
+Come and See%	Diabolique%	
 Come and See%	The Bandit%	
 Sunrise%	The Passion of Joan of Arc%	
 Sunrise%	The General%	
 Sunrise%	It Happened One Night%	
 Sunrise%	Sherlock Jr.%	
 Sunrise%	Mr. Smith Goes to Washington%	
-Sunrise%	The Nights of Cabiria%	
 Sunrise%	The Best Years of Our Lives%	
 Sunrise%	The Grapes of Wrath%	
-Sunrise%	M%	
 Sunrise%	Tokyo Story%	
+Sunrise%	The Nights of Cabiria%	
+Sunrise%	M%	
 Sunrise%	Metropolis%	
 Sunrise%	Man with a Movie Camera%	
 Cool Hand Luke%	Butch Cassidy and the Sundance Kid%	
 Cool Hand Luke%	The Sting%	
 Cool Hand Luke%	The Great Escape%	
-Cool Hand Luke%	The Hustler%	
 Cool Hand Luke%	The Bridge on the River Kwai%	
+Cool Hand Luke%	The Hustler%	
 Cool Hand Luke%	On the Waterfront%	
-Cool Hand Luke%	The Maltese Falcon%	
 Cool Hand Luke%	Mr. Smith Goes to Washington%	
-Cool Hand Luke%	The Treasure of the Sierra Madre%	
-Cool Hand Luke%	Dial M for Murder%	
+Cool Hand Luke%	The Maltese Falcon%	
 Cool Hand Luke%	Ben-Hur%	
+Cool Hand Luke%	Dial M for Murder%	
+Cool Hand Luke%	The Deer Hunter%	
 Cool Hand Luke%	The Third Man%	
+Kill Bill: Vol. 1%	Kill Bill: Vol. 2%	
+Kill Bill: Vol. 1%	Reservoir Dogs%	
+Kill Bill: Vol. 1%	Inglourious Basterds%	
+Kill Bill: Vol. 1%	Pulp Fiction%	
+Kill Bill: Vol. 1%	Django Unchained%	
+Kill Bill: Vol. 1%	Fight Club%	
+Kill Bill: Vol. 1%	Shutter Island%	
+Kill Bill: Vol. 1%	The Matrix%	
+Kill Bill: Vol. 1%	The Wolf of Wall Street%	
+Kill Bill: Vol. 1%	Gladiator%	
+Kill Bill: Vol. 1%	The Silence of the Lambs%	
+Kill Bill: Vol. 1%	V for Vendetta%	
 Rebecca%	Notorious%	
 Rebecca%	Dial M for Murder%	
 Rebecca%	Strangers on a Train%	
+Rebecca%	It Happened One Night%	
+Rebecca%	All About Eve%	
+Rebecca%	Rope%	
 Rebecca%	Suspicion%	
 Rebecca%	Spellbound%	
-Rebecca%	It Happened One Night%	
-Rebecca%	Rope%	
-Rebecca%	All About Eve%	
 Rebecca%	Shadow of a Doubt%	
 Rebecca%	North by Northwest%	
 Rebecca%	The Lady Vanishes%	
@@ -1547,19 +1999,31 @@ The Bandit%	Çiçek Abbas%
 The Bandit%	G.O.R.A.%	
 The Bandit%	Çöpçüler Krali%	
 The Bandit%	Muhsin Bey%	
-The Bandit%	Gönül Yarasi%	
+The Bandit%	Yahsi Bati%	
+Shutter Island%	The Wolf of Wall Street%	
+Shutter Island%	Django Unchained%	
+Shutter Island%	Inception%	
+Shutter Island%	The Departed%	
+Shutter Island%	Catch Me If You Can%	
+Shutter Island%	Inglourious Basterds%	
+Shutter Island%	The Prestige%	
+Shutter Island%	Fight Club%	
+Shutter Island%	Interstellar%	
+Shutter Island%	Se7en%	
+Shutter Island%	Pulp Fiction%	
+Shutter Island%	Batman Begins%	
 Hacksaw Ridge%	Gone Girl%	
-Hacksaw Ridge%	La La Land%	
 Hacksaw Ridge%	Mad Max: Fury Road%	
-Hacksaw Ridge%	The Wolf of Wall Street%	
 Hacksaw Ridge%	Logan%	
+Hacksaw Ridge%	La La Land%	
 Hacksaw Ridge%	Django Unchained%	
+Hacksaw Ridge%	The Wolf of Wall Street%	
 Hacksaw Ridge%	12 Years a Slave%	
-Hacksaw Ridge%	Saving Private Ryan%	
 Hacksaw Ridge%	Gladiator%	
-Hacksaw Ridge%	Whiplash%	
-Hacksaw Ridge%	A Beautiful Mind%	
+Hacksaw Ridge%	Saving Private Ryan%	
 Hacksaw Ridge%	Braveheart%	
+Hacksaw Ridge%	Whiplash%	
+Hacksaw Ridge%	Room%	
 How to Train Your Dragon%	How to Train Your Dragon 2%	
 How to Train Your Dragon%	Finding Nemo%	
 How to Train Your Dragon%	Monsters, Inc.%	
@@ -1571,67 +2035,91 @@ How to Train Your Dragon%	Toy Story 3%
 How to Train Your Dragon%	The Lion King%	
 How to Train Your Dragon%	Ratatouille%	
 How to Train Your Dragon%	Beauty and the Beast%	
-How to Train Your Dragon%	Kung Fu Panda%	
+How to Train Your Dragon%	The Incredibles%	
 Mary and Max%	Harvie Krumpet%	
 Mary and Max%	Into the Wild%	
-Mary and Max%	A Separation%	
-Mary and Max%	Before Sunrise%	
 Mary and Max%	Amélie%	
-Mary and Max%	The Bandit%	
-Mary and Max%	Hotel Rwanda%	
-Mary and Max%	Relatos salvajes%	
+Mary and Max%	Before Sunrise%	
+Mary and Max%	A Separation%	
 Mary and Max%	Eternal Sunshine of the Spotless Mind%	
+Mary and Max%	Hotel Rwanda%	
+Mary and Max%	The Bandit%	
 Mary and Max%	The Grand Budapest Hotel%	
 Mary and Max%	Jagten%	
+Mary and Max%	Relatos salvajes%	
 Mary and Max%	Princess Mononoke%	
+Gone Girl%	Shutter Island%	
+Gone Girl%	The Wolf of Wall Street%	
+Gone Girl%	Prisoners%	
+Gone Girl%	Mad Max: Fury Road%	
+Gone Girl%	Se7en%	
+Gone Girl%	Whiplash%	
+Gone Girl%	Catch Me If You Can%	
+Gone Girl%	Django Unchained%	
+Gone Girl%	Interstellar%	
+Gone Girl%	The Grand Budapest Hotel%	
+Gone Girl%	Fight Club%	
+Gone Girl%	The Prestige%	
 Andrei Rublev%	The Mirror%	
 Andrei Rublev%	Ivan's Childhood%	
-Andrei Rublev%	Solaris%	
 Andrei Rublev%	Stalker%	
+Andrei Rublev%	Solaris%	
 Andrei Rublev%	The Sacrifice%	
 Andrei Rublev%	Nostalgia%	
 Andrei Rublev%	Come and See%	
 Andrei Rublev%	The Passion of Joan of Arc%	
 Andrei Rublev%	Wild Strawberries%	
-Andrei Rublev%	Tempo di viaggio%	
 Andrei Rublev%	Persona%	
+Andrei Rublev%	Tempo di viaggio%	
 Andrei Rublev%	Paper Moon%	
 Into the Wild%	Dead Poets Society%	
-Into the Wild%	The Truman Show%	
 Into the Wild%	Catch Me If You Can%	
-Into the Wild%	Good Will Hunting%	
 Into the Wild%	Shutter Island%	
+Into the Wild%	The Truman Show%	
+Into the Wild%	Good Will Hunting%	
 Into the Wild%	A Beautiful Mind%	
-Into the Wild%	Amélie%	
-Into the Wild%	The Intouchables%	
-Into the Wild%	The Pianist%	
-Into the Wild%	Hotel Rwanda%	
 Into the Wild%	The Wolf of Wall Street%	
+Into the Wild%	Amélie%	
 Into the Wild%	Eternal Sunshine of the Spotless Mind%	
+Into the Wild%	The Pianist%	
+Into the Wild%	The Intouchables%	
+Into the Wild%	American Beauty%	
 Life of Brian%	Monty Python and the Holy Grail%	
 Life of Brian%	The Meaning of Life%	
 Life of Brian%	Monty Python's Flying Circus%	
 Life of Brian%	Die Hard%	
 Life of Brian%	Groundhog Day%	
-Life of Brian%	Raiders of the Lost Ark%	
 Life of Brian%	Trainspotting%	
+Life of Brian%	Raiders of the Lost Ark%	
 Life of Brian%	Jurassic Park%	
 Life of Brian%	Twelve Monkeys%	
 Life of Brian%	Indiana Jones and the Last Crusade%	
-Life of Brian%	The Sixth Sense%	
 Life of Brian%	Kill Bill: Vol. 1%	
-It Happened One Night%	Mr. Smith Goes to Washington%	
-It Happened One Night%	The Grapes of Wrath%	
-It Happened One Night%	Sunrise%	
-It Happened One Night%	The Best Years of Our Lives%	
-It Happened One Night%	Rebecca%	
-It Happened One Night%	The Maltese Falcon%	
-It Happened One Night%	Gone with the Wind%	
-It Happened One Night%	All About Eve%	
-It Happened One Night%	The Apartment%	
-It Happened One Night%	Double Indemnity%	
-It Happened One Night%	The Treasure of the Sierra Madre%	
-It Happened One Night%	The Third Man%	
+Life of Brian%	The Sixth Sense%	
+Relatos salvajes%	The Secret in Their Eyes%	
+Relatos salvajes%	Nine Queens%	
+Relatos salvajes%	Amores Perros%	
+Relatos salvajes%	Jagten%	
+Relatos salvajes%	Incendies%	
+Relatos salvajes%	Son of the Bride%	
+Relatos salvajes%	La Haine%	
+Relatos salvajes%	Into the Wild%	
+Relatos salvajes%	The Lives of Others%	
+Relatos salvajes%	A Separation%	
+Relatos salvajes%	Oldeuboi%	
+Relatos salvajes%	Perfetti sconosciuti%	
+Blade Runner 2049%	Blade Runner%	
+Blade Runner 2049%	Dunkirk%	
+Blade Runner 2049%	Three Billboards Outside Ebbing, Missouri%	
+Blade Runner 2049%	It%	
+Blade Runner 2049%	Logan%	
+Blade Runner 2049%	Get Out%	
+Blade Runner 2049%	Thor: Ragnarok%	
+Blade Runner 2049%	Baby Driver%	
+Blade Runner 2049%	Wonder Woman%	
+Blade Runner 2049%	Star Wars: Episode VIII - The Last Jedi%	
+Blade Runner 2049%	Mad Max: Fury Road%	
+Blade Runner 2049%	The Shape of Water%	
 Rang De Basanti%	A Wednesday%	
 Rang De Basanti%	Lagaan: Once Upon a Time in India%	
 Rang De Basanti%	Munna Bhai M.B.B.S.%	
@@ -1641,60 +2129,80 @@ Rang De Basanti%	PK%
 Rang De Basanti%	Bhaag Milkha Bhaag%	
 Rang De Basanti%	Drishyam%	
 Rang De Basanti%	Dangal%	
-Rang De Basanti%	Zindagi Na Milegi Dobara%	
 Rang De Basanti%	Swades%	
 Rang De Basanti%	Ghajini%	
+Rang De Basanti%	Hera Pheri%	
+It Happened One Night%	Mr. Smith Goes to Washington%	
+It Happened One Night%	The Grapes of Wrath%	
+It Happened One Night%	Sunrise%	
+It Happened One Night%	The Best Years of Our Lives%	
+It Happened One Night%	Rebecca%	
+It Happened One Night%	The Maltese Falcon%	
+It Happened One Night%	Gone with the Wind%	
+It Happened One Night%	All About Eve%	
+It Happened One Night%	Double Indemnity%	
+It Happened One Night%	The Treasure of the Sierra Madre%	
+It Happened One Night%	The Apartment%	
+It Happened One Night%	The Third Man%	
 The Passion of Joan of Arc%	Sunrise%	
 The Passion of Joan of Arc%	The General%	
 The Passion of Joan of Arc%	Tokyo Story%	
 The Passion of Joan of Arc%	The Nights of Cabiria%	
 The Passion of Joan of Arc%	Sherlock Jr.%	
-The Passion of Joan of Arc%	Ordet%	
 The Passion of Joan of Arc%	Andrei Rublev%	
+The Passion of Joan of Arc%	Ordet%	
 The Passion of Joan of Arc%	Battleship Potemkin%	
 The Passion of Joan of Arc%	Man with a Movie Camera%	
 The Passion of Joan of Arc%	Ikiru%	
 The Passion of Joan of Arc%	Metropolis%	
-The Passion of Joan of Arc%	It Happened One Night%	
+The Passion of Joan of Arc%	A Timely Interception%	
 Platoon%	The Deer Hunter%	
 Platoon%	Apocalypse Now%	
 Platoon%	Full Metal Jacket%	
 Platoon%	Unforgiven%	
 Platoon%	Rocky%	
 Platoon%	Dances with Wolves%	
-Platoon%	Rain Man%	
 Platoon%	The Bridge on the River Kwai%	
 Platoon%	Ben-Hur%	
 Platoon%	The Terminator%	
 Platoon%	Million Dollar Baby%	
-Platoon%	Braveheart%	
+Platoon%	Rain Man%	
+Platoon%	Kill Bill: Vol. 1%	
 In the Name of the Father%	My Left Foot%	
 In the Name of the Father%	The Boxer%	
 In the Name of the Father%	The Last of the Mohicans%	
 In the Name of the Father%	There Will Be Blood%	
 In the Name of the Father%	Hotel Rwanda%	
 In the Name of the Father%	Gangs of New York%	
-In the Name of the Father%	The Crucible%	
 In the Name of the Father%	Platoon%	
+In the Name of the Father%	The Crucible%	
 In the Name of the Father%	Dead Poets Society%	
-In the Name of the Father%	Gandhi%	
-In the Name of the Father%	Amores Perros%	
 In the Name of the Father%	Unforgiven%	
+In the Name of the Father%	Gandhi%	
+In the Name of the Father%	Stand by Me%	
 Network%	Dog Day Afternoon%	
 Network%	Annie Hall%	
 Network%	Chinatown%	
+Network%	On the Waterfront%	
 Network%	Butch Cassidy and the Sundance Kid%	
+Network%	The Conversation%	
+Network%	The Apartment%	
+Network%	Barry Lyndon%	
+Network%	The Grapes of Wrath%	
+Network%	Serpico%	
+Network%	Bonnie and Clyde%	
+Network%	The Maltese Falcon%	
 Stand by Me%	Groundhog Day%	
-Stand by Me%	Platoon%	
 Stand by Me%	Hotel Rwanda%	
 Stand by Me%	Jaws%	
+Stand by Me%	Platoon%	
 Stand by Me%	Jurassic Park%	
-Stand by Me%	Trainspotting%	
 Stand by Me%	Into the Wild%	
 Stand by Me%	The Sixth Sense%	
 Stand by Me%	The Truman Show%	
+Stand by Me%	Trainspotting%	
 Stand by Me%	The Big Lebowski%	
-Stand by Me%	Rocky%	
+Stand by Me%	Good Will Hunting%	
 Stand by Me%	Fargo%	
 Hotel Rwanda%	Gran Torino%	
 Hotel Rwanda%	Into the Wild%	
@@ -1702,11 +2210,11 @@ Hotel Rwanda%	Dead Poets Society%
 Hotel Rwanda%	Stand by Me%	
 Hotel Rwanda%	The Sixth Sense%	
 Hotel Rwanda%	Million Dollar Baby%	
-Hotel Rwanda%	In the Name of the Father%	
 Hotel Rwanda%	12 Years a Slave%	
-Hotel Rwanda%	The Help%	
 Hotel Rwanda%	Jurassic Park%	
+Hotel Rwanda%	In the Name of the Father%	
 Hotel Rwanda%	Platoon%	
+Hotel Rwanda%	The Help%	
 Hotel Rwanda%	Catch Me If You Can%	
 The Grand Budapest Hotel%	Moonrise Kingdom%	
 The Grand Budapest Hotel%	Birdman or (The Unexpected Virtue of Ignorance)%	
@@ -1714,11 +2222,11 @@ The Grand Budapest Hotel%	Whiplash%
 The Grand Budapest Hotel%	The Wolf of Wall Street%	
 The Grand Budapest Hotel%	The Royal Tenenbaums%	
 The Grand Budapest Hotel%	The Life Aquatic with Steve Zissou%	
-The Grand Budapest Hotel%	Gone Girl%	
 The Grand Budapest Hotel%	Mad Max: Fury Road%	
-The Grand Budapest Hotel%	Rushmore%	
+The Grand Budapest Hotel%	Gone Girl%	
 The Grand Budapest Hotel%	Inglourious Basterds%	
 The Grand Budapest Hotel%	Django Unchained%	
+The Grand Budapest Hotel%	Rushmore%	
 The Grand Budapest Hotel%	La La Land%	
 Stalker%	Solaris%	
 Stalker%	The Mirror%	
@@ -1729,29 +2237,41 @@ Stalker%	Ivan's Childhood%
 Stalker%	Persona%	
 Stalker%	The Seventh Seal%	
 Stalker%	Wild Strawberries%	
-Stalker%	8½%	
 Stalker%	Tempo di viaggio%	
+Stalker%	8½%	
 Stalker%	Barry Lyndon%	
 The Wages of Fear%	Diabolique%	
 The Wages of Fear%	The Nights of Cabiria%	
 The Wages of Fear%	Ikiru%	
-The Wages of Fear%	The Passion of Joan of Arc%	
 The Wages of Fear%	Tokyo Story%	
+The Wages of Fear%	The Passion of Joan of Arc%	
 The Wages of Fear%	The Battle of Algiers%	
-The Wages of Fear%	Sorcerer%	
 The Wages of Fear%	Touch of Evil%	
 The Wages of Fear%	The 400 Blows%	
 The Wages of Fear%	The Grapes of Wrath%	
+The Wages of Fear%	Sorcerer%	
 The Wages of Fear%	Sunrise%	
-The Wages of Fear%	A Man Escaped%	
+The Wages of Fear%	The Best Years of Our Lives%	
+Jurassic Park%	The Lost World: Jurassic Park%	
+Jurassic Park%	Jurassic Park III%	
+Jurassic Park%	Jurassic World%	
+Jurassic Park%	Indiana Jones and the Last Crusade%	
+Jurassic Park%	Raiders of the Lost Ark%	
+Jurassic Park%	The Terminator%	
+Jurassic Park%	Back to the Future%	
+Jurassic Park%	Terminator 2%	
+Jurassic Park%	Die Hard%	
+Jurassic Park%	Star Wars: Episode IV - A New Hope%	
+Jurassic Park%	Jaws%	
+Jurassic Park%	Star Wars: Episode VI - Return of the Jedi%	
 Ben-Hur%	The Bridge on the River Kwai%	
 Ben-Hur%	Lawrence of Arabia%	
 Ben-Hur%	Gone with the Wind%	
 Ben-Hur%	The Ten Commandments%	
 Ben-Hur%	The Great Escape%	
 Ben-Hur%	Platoon%	
-Ben-Hur%	The Sting%	
 Ben-Hur%	Butch Cassidy and the Sundance Kid%	
+Ben-Hur%	The Sting%	
 Ben-Hur%	Gandhi%	
 Ben-Hur%	The Deer Hunter%	
 Ben-Hur%	Casablanca%	
@@ -1762,32 +2282,68 @@ Persona%	Cries & Whispers%
 Persona%	Autumn Sonata%	
 Persona%	8½%	
 Persona%	Stalker%	
-Persona%	Through a Glass Darkly%	
 Persona%	The 400 Blows%	
+Persona%	Through a Glass Darkly%	
 Persona%	The Silence%	
 Persona%	Nattvardsgästerna%	
-Persona%	Fanny and Alexander%	
+Persona%	The Mirror%	
 Persona%	Andrei Rublev%	
-The Truman Show%	Catch Me If You Can%	
-The Truman Show%	V for Vendetta%	
+Rush%	Warrior%	
+Rush%	Gran Torino%	
+Rush%	The Wolf of Wall Street%	
+Rush%	12 Years a Slave%	
+Rush%	The Bourne Ultimatum%	
+Rush%	Catch Me If You Can%	
+Rush%	Gone Girl%	
+Rush%	Mad Max: Fury Road%	
+Rush%	The Sixth Sense%	
+Rush%	Million Dollar Baby%	
+Rush%	V for Vendetta%	
+Rush%	Inglourious Basterds%	
+Memories of Murder%	The Chaser%	
+Memories of Murder%	I Saw the Devil%	
+Memories of Murder%	Mother%	
+Memories of Murder%	Oldeuboi%	
+Memories of Murder%	The Man from Nowhere%	
+Memories of Murder%	Sympathy for Mr. Vengeance%	
+Memories of Murder%	A Bittersweet Life%	
+Memories of Murder%	Infernal Affairs%	
+Memories of Murder%	Lady Vengeance%	
+Memories of Murder%	The Wailing%	
+Memories of Murder%	The Host%	
+Memories of Murder%	Hwanghae%	
+12 Years a Slave%	Argo%	
+12 Years a Slave%	A Beautiful Mind%	
+12 Years a Slave%	Birdman or (The Unexpected Virtue of Ignorance)%	
+12 Years a Slave%	Spotlight%	
+12 Years a Slave%	Slumdog Millionaire%	
+12 Years a Slave%	The King's Speech%	
+12 Years a Slave%	No Country for Old Men%	
+12 Years a Slave%	Million Dollar Baby%	
+12 Years a Slave%	The Wolf of Wall Street%	
+12 Years a Slave%	Gladiator%	
+12 Years a Slave%	The Departed%	
+12 Years a Slave%	American Beauty%	
 The Truman Show%	The Sixth Sense%	
-The Truman Show%	Eternal Sunshine of the Spotless Mind%	
 The Truman Show%	Shutter Island%	
-The Truman Show%	Kill Bill: Vol. 1%	
-The Truman Show%	Jurassic Park%	
-The Truman Show%	Groundhog Day%	
-The Truman Show%	A Beautiful Mind%	
+The Truman Show%	Catch Me If You Can%	
+The Truman Show%	Eternal Sunshine of the Spotless Mind%	
+The Truman Show%	V for Vendetta%	
 The Truman Show%	Trainspotting%	
+The Truman Show%	Kill Bill: Vol. 1%	
+The Truman Show%	Groundhog Day%	
+The Truman Show%	Million Dollar Baby%	
 The Truman Show%	The Wolf of Wall Street%	
+The Truman Show%	Jurassic Park%	
 The Truman Show%	American Beauty%	
 Million Dollar Baby%	Gran Torino%	
 Million Dollar Baby%	A Beautiful Mind%	
 Million Dollar Baby%	Slumdog Millionaire%	
-Million Dollar Baby%	12 Years a Slave%	
-Million Dollar Baby%	No Country for Old Men%	
 Million Dollar Baby%	American Beauty%	
-Million Dollar Baby%	The King's Speech%	
+Million Dollar Baby%	No Country for Old Men%	
+Million Dollar Baby%	12 Years a Slave%	
 Million Dollar Baby%	Gladiator%	
+Million Dollar Baby%	The King's Speech%	
 Million Dollar Baby%	Braveheart%	
 Million Dollar Baby%	The Departed%	
 Million Dollar Baby%	Unforgiven%	
@@ -1797,25 +2353,49 @@ The 400 Blows%	Jules and Jim%
 The 400 Blows%	Bicycle Thieves%	
 The 400 Blows%	Wild Strawberries%	
 The 400 Blows%	8½%	
-The 400 Blows%	Tokyo Story%	
 The 400 Blows%	Persona%	
+The 400 Blows%	Tokyo Story%	
 The 400 Blows%	The Seventh Seal%	
-The 400 Blows%	Rashômon%	
-The 400 Blows%	The Nights of Cabiria%	
 The 400 Blows%	Stolen Kisses%	
-The 400 Blows%	Day for Night%	
+The 400 Blows%	The Nights of Cabiria%	
+The 400 Blows%	Rashômon%	
+The 400 Blows%	Pierrot le Fou%	
+Mad Max: Fury Road%	Logan%	
+Mad Max: Fury Road%	The Revenant%	
+Mad Max: Fury Road%	The Dark Knight Rises%	
+Mad Max: Fury Road%	The Wolf of Wall Street%	
+Mad Max: Fury Road%	Interstellar%	
+Mad Max: Fury Road%	The Martian%	
+Mad Max: Fury Road%	Batman Begins%	
+Mad Max: Fury Road%	Django Unchained%	
+Mad Max: Fury Road%	Avatar%	
+Mad Max: Fury Road%	The Dark Knight%	
+Mad Max: Fury Road%	Inglourious Basterds%	
+Mad Max: Fury Road%	Inception%	
 Spotlight%	12 Years a Slave%	
 Spotlight%	Birdman or (The Unexpected Virtue of Ignorance)%	
 Spotlight%	Argo%	
-Spotlight%	Moonlight%	
 Spotlight%	The King's Speech%	
+Spotlight%	Moonlight%	
 Spotlight%	Slumdog Millionaire%	
 Spotlight%	Whiplash%	
 Spotlight%	The Departed%	
 Spotlight%	La La Land%	
+Spotlight%	No Country for Old Men%	
 Spotlight%	The Hurt Locker%	
-Spotlight%	Gone Girl%	
 Spotlight%	Mad Max: Fury Road%	
+Logan%	Mad Max: Fury Road%	
+Logan%	Deadpool%	
+Logan%	Wonder Woman%	
+Logan%	X-Men: Apocalypse%	
+Logan%	X-Men: Days of Future Past%	
+Logan%	The Wolverine%	
+Logan%	Guardians of the Galaxy Vol. 2%	
+Logan%	Spider-Man: Homecoming%	
+Logan%	Captain America: Civil War%	
+Logan%	Doctor Strange%	
+Logan%	Guardians of the Galaxy%	
+Logan%	The Dark Knight Rises%	
 Amores Perros%	21 Grams%	
 Amores Perros%	Babel%	
 Amores Perros%	Biutiful%	
@@ -1831,23 +2411,26 @@ Amores Perros%	Before Sunrise%
 Before Sunrise%	Before Sunset%	
 Before Sunrise%	Before Midnight%	
 Before Sunrise%	Boyhood%	
-Before Sunrise%	Eternal Sunshine of the Spotless Mind%	
 Before Sunrise%	Midnight in Paris%	
+Before Sunrise%	Eternal Sunshine of the Spotless Mind%	
 Before Sunrise%	Amélie%	
 Before Sunrise%	Dead Poets Society%	
 Before Sunrise%	Into the Wild%	
+Before Sunrise%	(500) Days of Summer%	
 Before Sunrise%	Amores Perros%	
-Hachi: A Dog's Tale%	Finding Nemo%	
+Before Sunrise%	Her%	
+Before Sunrise%	In the Mood for Love%	
 Hachi: A Dog's Tale%	How to Train Your Dragon%	
-Hachi: A Dog's Tale%	Monsters, Inc.%	
+Hachi: A Dog's Tale%	Finding Nemo%	
 Hachi: A Dog's Tale%	Up%	
+Hachi: A Dog's Tale%	Monsters, Inc.%	
+Hachi: A Dog's Tale%	Happy Potter: A Fan Movie for UCLA%	
 Hachi: A Dog's Tale%	WALL·E%	
 Hachi: A Dog's Tale%	Hachi-ko%	
-Hachi: A Dog's Tale%	Happy Potter: A Fan Movie for UCLA%	
 Hachi: A Dog's Tale%	The Lion King%	
 Hachi: A Dog's Tale%	Beauty and the Beast%	
-Hachi: A Dog's Tale%	Marley & Me%	
 Hachi: A Dog's Tale%	Inside Out%	
+Hachi: A Dog's Tale%	Marley & Me%	
 Hachi: A Dog's Tale%	Toy Story%	
 Butch Cassidy and the Sundance Kid%	Cool Hand Luke%	
 Butch Cassidy and the Sundance Kid%	The Sting%	
@@ -1860,31 +2443,67 @@ Butch Cassidy and the Sundance Kid%	For a Few Dollars More%
 Butch Cassidy and the Sundance Kid%	North by Northwest%	
 Butch Cassidy and the Sundance Kid%	On the Waterfront%	
 Butch Cassidy and the Sundance Kid%	The Treasure of the Sierra Madre%	
-Butch Cassidy and the Sundance Kid%	The Hustler%	
+Butch Cassidy and the Sundance Kid%	Unforgiven%	
+Prisoners%	Nightcrawler%	
+Prisoners%	Gone Girl%	
+Prisoners%	Enemy%	
+Prisoners%	Shutter Island%	
+Prisoners%	Zodiac%	
+Prisoners%	The Prestige%	
+Prisoners%	Mad Max: Fury Road%	
+Prisoners%	Django Unchained%	
+Prisoners%	The Departed%	
+Prisoners%	Sicario%	
+Prisoners%	Arrival%	
+Prisoners%	The Wolf of Wall Street%	
 The Princess Bride%	The Wizard of Oz%	
 The Princess Bride%	Beauty and the Beast%	
 The Princess Bride%	The Lion King%	
 The Princess Bride%	Monsters, Inc.%	
 The Princess Bride%	Finding Nemo%	
+The Princess Bride%	The Sound of Music%	
 The Princess Bride%	Toy Story%	
 The Princess Bride%	Up%	
-The Princess Bride%	The Sound of Music%	
 The Princess Bride%	How to Train Your Dragon%	
 The Princess Bride%	It's a Wonderful Life%	
 The Princess Bride%	The Goonies%	
 The Princess Bride%	Toy Story 3%	
+Nausicaä of the Valley of the Wind%	Princess Mononoke%	
+Nausicaä of the Valley of the Wind%	Porco Rosso%	
+Nausicaä of the Valley of the Wind%	Kaze tachinu%	
+Nausicaä of the Valley of the Wind%	Grave of the Fireflies%	
+Nausicaä of the Valley of the Wind%	Gedo senki%	
+Nausicaä of the Valley of the Wind%	Akira%	
+Nausicaä of the Valley of the Wind%	Only Yesterday%	
+Nausicaä of the Valley of the Wind%	Toki o kakeru shôjo%	
+Nausicaä of the Valley of the Wind%	Ghost in the Shell%	
+Nausicaä of the Valley of the Wind%	Kimi no na wa.%	
+Nausicaä of the Valley of the Wind%	Paprika%	
+Nausicaä of the Valley of the Wind%	Perfect Blue%	
 La La Land%	Whiplash%	
 La La Land%	Moonlight%	
 La La Land%	The Grand Budapest Hotel%	
-La La Land%	The Wolf of Wall Street%	
 La La Land%	Mad Max: Fury Road%	
-La La Land%	Hacksaw Ridge%	
-La La Land%	Arrival%	
 La La Land%	Birdman or (The Unexpected Virtue of Ignorance)%	
-La La Land%	Manchester by the Sea%	
+La La Land%	The Wolf of Wall Street%	
 La La Land%	Interstellar%	
+La La Land%	Arrival%	
 La La Land%	Spotlight%	
-La La Land%	Logan%	
+La La Land%	Manchester by the Sea%	
+La La Land%	Hacksaw Ridge%	
+La La Land%	Gone Girl%	
+Catch Me If You Can%	The Wolf of Wall Street%	
+Catch Me If You Can%	Shutter Island%	
+Catch Me If You Can%	The Departed%	
+Catch Me If You Can%	Django Unchained%	
+Catch Me If You Can%	A Beautiful Mind%	
+Catch Me If You Can%	Saving Private Ryan%	
+Catch Me If You Can%	The Truman Show%	
+Catch Me If You Can%	Inglourious Basterds%	
+Catch Me If You Can%	Forrest Gump%	
+Catch Me If You Can%	Fight Club%	
+Catch Me If You Can%	Inception%	
+Catch Me If You Can%	Gladiator%	
 The Maltese Falcon%	The Treasure of the Sierra Madre%	
 The Maltese Falcon%	The Big Sleep%	
 The Maltese Falcon%	Double Indemnity%	
@@ -1892,11 +2511,23 @@ The Maltese Falcon%	The Third Man%
 The Maltese Falcon%	Mr. Smith Goes to Washington%	
 The Maltese Falcon%	Touch of Evil%	
 The Maltese Falcon%	The Grapes of Wrath%	
-The Maltese Falcon%	It Happened One Night%	
 The Maltese Falcon%	Casablanca%	
+The Maltese Falcon%	It Happened One Night%	
 The Maltese Falcon%	Butch Cassidy and the Sundance Kid%	
 The Maltese Falcon%	The African Queen%	
 The Maltese Falcon%	Sunset Blvd.%	
+Harry Potter and the Deathly Hallows: Part 2%	Pirates of the Caribbean: The Curse of the Black Pearl%	
+Harry Potter and the Deathly Hallows: Part 2%	Jurassic Park%	
+Harry Potter and the Deathly Hallows: Part 2%	The Lord of the Rings: The Two Towers%	
+Harry Potter and the Deathly Hallows: Part 2%	The Lord of the Rings: The Fellowship of the Ring%	
+Harry Potter and the Deathly Hallows: Part 2%	The Lord of the Rings: The Return of the King%	
+Harry Potter and the Deathly Hallows: Part 2%	Star Wars: Episode IV - A New Hope%	
+Harry Potter and the Deathly Hallows: Part 2%	The Hobbit: The Desolation of Smaug%	
+Harry Potter and the Deathly Hallows: Part 2%	Star Wars: Episode VI - Return of the Jedi%	
+Harry Potter and the Deathly Hallows: Part 2%	The Dark Knight Rises%	
+Harry Potter and the Deathly Hallows: Part 2%	Pirates of the Caribbean: Dead Man's Chest%	
+Harry Potter and the Deathly Hallows: Part 2%	Pirates of the Caribbean: At World's End%	
+Harry Potter and the Deathly Hallows: Part 2%	Star Wars: Episode V - The Empire Strikes Back%	
 A Wednesday%	Rang De Basanti%	
 A Wednesday%	Munna Bhai M.B.B.S.%	
 A Wednesday%	Drishyam%	
@@ -1908,7 +2539,31 @@ A Wednesday%	Gangs of Wasseypur%
 A Wednesday%	Kahaani%	
 A Wednesday%	Lage Raho Munna Bhai%	
 A Wednesday%	Special 26%	
-A Wednesday%	Zindagi Na Milegi Dobara%	
+A Wednesday%	OMG: Oh My God!%	
+Rocky%	Rocky II%	
+Rocky%	Rocky III%	
+Rocky%	Rocky IV%	
+Rocky%	Rocky Balboa%	
+Rocky%	Rocky V%	
+Rocky%	The Terminator%	
+Rocky%	First Blood%	
+Rocky%	Creed%	
+Rocky%	Die Hard%	
+Rocky%	Jurassic Park%	
+Rocky%	Braveheart%	
+Rocky%	Million Dollar Baby%	
+The Grapes of Wrath%	Mr. Smith Goes to Washington%	
+The Grapes of Wrath%	It Happened One Night%	
+The Grapes of Wrath%	The Maltese Falcon%	
+The Grapes of Wrath%	The Best Years of Our Lives%	
+The Grapes of Wrath%	Touch of Evil%	
+The Grapes of Wrath%	The Treasure of the Sierra Madre%	
+The Grapes of Wrath%	Double Indemnity%	
+The Grapes of Wrath%	Sunrise%	
+The Grapes of Wrath%	The General%	
+The Grapes of Wrath%	Rebecca%	
+The Grapes of Wrath%	Diabolique%	
+The Grapes of Wrath%	On the Waterfront%	
 The Nights of Cabiria%	La Strada%	
 The Nights of Cabiria%	La Dolce Vita%	
 The Nights of Cabiria%	8½%	
@@ -1921,18 +2576,6 @@ The Nights of Cabiria%	I Vitelloni%
 The Nights of Cabiria%	The 400 Blows%	
 The Nights of Cabiria%	Sunrise%	
 The Nights of Cabiria%	Paper Moon%	
-The Grapes of Wrath%	Mr. Smith Goes to Washington%	
-The Grapes of Wrath%	It Happened One Night%	
-The Grapes of Wrath%	The Maltese Falcon%	
-The Grapes of Wrath%	The Best Years of Our Lives%	
-The Grapes of Wrath%	The Treasure of the Sierra Madre%	
-The Grapes of Wrath%	Touch of Evil%	
-The Grapes of Wrath%	Double Indemnity%	
-The Grapes of Wrath%	Sunrise%	
-The Grapes of Wrath%	The General%	
-The Grapes of Wrath%	Diabolique%	
-The Grapes of Wrath%	Rebecca%	
-The Grapes of Wrath%	The Nights of Cabiria%	
 Monsters, Inc.%	Finding Nemo%	
 Monsters, Inc.%	Toy Story%	
 Monsters, Inc.%	Up%	
@@ -1952,16 +2595,28 @@ Diabolique%	The Best Years of Our Lives%
 Diabolique%	Paper Moon%	
 Diabolique%	The Grapes of Wrath%	
 Diabolique%	The Passion of Joan of Arc%	
+Diabolique%	The Maltese Falcon%	
 Diabolique%	The 400 Blows%	
 Diabolique%	Sunrise%	
-Diabolique%	The Maltese Falcon%	
 Diabolique%	Tokyo Story%	
 Diabolique%	Wild Strawberries%	
+Donnie Darko%	The Sixth Sense%	
+Donnie Darko%	The Truman Show%	
+Donnie Darko%	V for Vendetta%	
+Donnie Darko%	Trainspotting%	
+Donnie Darko%	Twelve Monkeys%	
+Donnie Darko%	Memento%	
+Donnie Darko%	Kill Bill: Vol. 1%	
+Donnie Darko%	Shutter Island%	
+Donnie Darko%	American Beauty%	
+Donnie Darko%	Catch Me If You Can%	
+Donnie Darko%	Groundhog Day%	
+Donnie Darko%	Eternal Sunshine of the Spotless Mind%	
 Barry Lyndon%	Lolita%	
 Barry Lyndon%	Paths of Glory%	
 Barry Lyndon%	Eyes Wide Shut%	
-Barry Lyndon%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
 Barry Lyndon%	The Killing%	
+Barry Lyndon%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
 Barry Lyndon%	Spartacus%	
 Barry Lyndon%	2001: A Space Odyssey%	
 Barry Lyndon%	A Clockwork Orange%	
@@ -1971,67 +2626,75 @@ Barry Lyndon%	Killer's Kiss%
 Barry Lyndon%	Stalker%	
 Paper Moon%	Andrei Rublev%	
 Paper Moon%	Diabolique%	
-Paper Moon%	The Nights of Cabiria%	
 Paper Moon%	Sherlock Jr.%	
+Paper Moon%	The Nights of Cabiria%	
 Paper Moon%	Touch of Evil%	
-Paper Moon%	Sunrise%	
 Paper Moon%	Paris, Texas%	
+Paper Moon%	Sunrise%	
 Paper Moon%	The Grapes of Wrath%	
-Paper Moon%	The Passion of Joan of Arc%	
 Paper Moon%	The Wages of Fear%	
+Paper Moon%	The Passion of Joan of Arc%	
 Paper Moon%	The Best Years of Our Lives%	
-Paper Moon%	The Last Picture Show%	
+Paper Moon%	Come and See%	
 Gandhi%	Amadeus%	
-Gandhi%	Platoon%	
 Gandhi%	Ben-Hur%	
+Gandhi%	Platoon%	
 Gandhi%	The Last Emperor%	
 Gandhi%	Lawrence of Arabia%	
 Gandhi%	The Bridge on the River Kwai%	
 Gandhi%	Rocky%	
-Gandhi%	The Deer Hunter%	
 Gandhi%	Chariots of Fire%	
-Gandhi%	Hotel Rwanda%	
+Gandhi%	The Deer Hunter%	
 Gandhi%	Dances with Wolves%	
 Gandhi%	Driving Miss Daisy%	
+Gandhi%	Hotel Rwanda%	
 The Terminator%	Terminator 2%	
 The Terminator%	Terminator 3: Rise of the Machines%	
 The Terminator%	Jurassic Park%	
 The Terminator%	Die Hard%	
-The Terminator%	Indiana Jones and the Last Crusade%	
 The Terminator%	Aliens%	
-The Terminator%	Back to the Future%	
-The Terminator%	Terminator Salvation%	
+The Terminator%	Indiana Jones and the Last Crusade%	
 The Terminator%	Alien%	
+The Terminator%	Back to the Future%	
 The Terminator%	Raiders of the Lost Ark%	
+The Terminator%	Terminator Salvation%	
+The Terminator%	The Matrix%	
 The Terminator%	Star Wars: Episode VI - Return of the Jedi%	
-The Terminator%	Star Wars: Episode IV - A New Hope%	
-Touch of Evil%	The Maltese Falcon%	
 Touch of Evil%	The Third Man%	
+Touch of Evil%	The Maltese Falcon%	
 Touch of Evil%	Double Indemnity%	
 Touch of Evil%	Diabolique%	
 Touch of Evil%	The Grapes of Wrath%	
 Touch of Evil%	The Best Years of Our Lives%	
 Touch of Evil%	The Treasure of the Sierra Madre%	
 Touch of Evil%	The Big Sleep%	
-Touch of Evil%	Rebecca%	
-Touch of Evil%	Sunset Blvd.%	
 Touch of Evil%	The Nights of Cabiria%	
-Touch of Evil%	It Happened One Night%	
+Touch of Evil%	The Lady from Shanghai%	
+Touch of Evil%	Rebecca%	
+Touch of Evil%	Citizen Kane%	
 La Haine%	Amores Perros%	
 La Haine%	In the Mood for Love%	
 La Haine%	The 400 Blows%	
 La Haine%	Infernal Affairs%	
+La Haine%	A Prophet%	
+La Haine%	Paris, Texas%	
+La Haine%	Three Colors: Red%	
+La Haine%	Trainspotting%	
+La Haine%	8½%	
+La Haine%	Persona%	
+La Haine%	Come and See%	
+La Haine%	Memories of Murder%	
 Groundhog Day%	The Truman Show%	
 Groundhog Day%	Dead Poets Society%	
-Groundhog Day%	Jaws%	
 Groundhog Day%	Jurassic Park%	
+Groundhog Day%	Jaws%	
+Groundhog Day%	Back to the Future%	
 Groundhog Day%	The Terminator%	
 Groundhog Day%	Stand by Me%	
-Groundhog Day%	Back to the Future%	
 Groundhog Day%	Twelve Monkeys%	
-Groundhog Day%	Die Hard%	
 Groundhog Day%	Catch Me If You Can%	
 Groundhog Day%	The Sixth Sense%	
+Groundhog Day%	Die Hard%	
 Groundhog Day%	Rocky%	
 The Wizard of Oz%	Beauty and the Beast%	
 The Wizard of Oz%	Willy Wonka & the Chocolate Factory%	
@@ -2042,21 +2705,33 @@ The Wizard of Oz%	The Princess Bride%
 The Wizard of Oz%	Toy Story%	
 The Wizard of Oz%	Finding Nemo%	
 The Wizard of Oz%	Toy Story 3%	
-The Wizard of Oz%	It's a Wonderful Life%	
 The Wizard of Oz%	The Lion King%	
+The Wizard of Oz%	It's a Wonderful Life%	
 The Wizard of Oz%	Up%	
 Dead Poets Society%	Good Will Hunting%	
 Dead Poets Society%	Groundhog Day%	
+Dead Poets Society%	The Truman Show%	
 Dead Poets Society%	Into the Wild%	
 Dead Poets Society%	The Help%	
 Dead Poets Society%	Catch Me If You Can%	
-Dead Poets Society%	The Truman Show%	
-Dead Poets Society%	Hotel Rwanda%	
-Dead Poets Society%	Rocky%	
 Dead Poets Society%	A Beautiful Mind%	
-Dead Poets Society%	Amélie%	
+Dead Poets Society%	Rocky%	
+Dead Poets Society%	Hotel Rwanda%	
 Dead Poets Society%	American Beauty%	
-Dead Poets Society%	Jaws%	
+Dead Poets Society%	Million Dollar Baby%	
+Dead Poets Society%	The Sixth Sense%	
+The Bourne Ultimatum%	The Bourne Supremacy%	
+The Bourne Ultimatum%	The Bourne Identity%	
+The Bourne Ultimatum%	The Bourne Legacy%	
+The Bourne Ultimatum%	Jason Bourne%	
+The Bourne Ultimatum%	The Terminator%	
+The Bourne Ultimatum%	Harry Potter and the Deathly Hallows: Part 2%	
+The Bourne Ultimatum%	Rocky%	
+The Bourne Ultimatum%	Die Hard%	
+The Bourne Ultimatum%	Mission: Impossible - Ghost Protocol%	
+The Bourne Ultimatum%	Jurassic Park%	
+The Bourne Ultimatum%	The Sixth Sense%	
+The Bourne Ultimatum%	Pirates of the Caribbean: The Curse of the Black Pearl%	
 Annie Hall%	Manhattan%	
 Annie Hall%	Hannah and Her Sisters%	
 Annie Hall%	Crimes and Misdemeanors%	
@@ -2066,9 +2741,9 @@ Annie Hall%	Zelig%
 Annie Hall%	Sleeper%	
 Annie Hall%	The Purple Rose of Cairo%	
 Annie Hall%	Broadway Danny Rose%	
+Annie Hall%	Match Point%	
 Annie Hall%	The Apartment%	
-Annie Hall%	Chinatown%	
-Annie Hall%	Casablanca%	
+Annie Hall%	Vicky Cristina Barcelona%	
 8½%	La Dolce Vita%	
 8½%	The Nights of Cabiria%	
 8½%	Amarcord%	
@@ -2078,41 +2753,69 @@ Annie Hall%	Casablanca%
 8½%	The Seventh Seal%	
 8½%	Wild Strawberries%	
 8½%	Stalker%	
-8½%	Bicycle Thieves%	
 8½%	Breathless%	
+8½%	Bicycle Thieves%	
 8½%	Andrei Rublev%	
+Jaws%	Jurassic Park%	
+Jaws%	Jaws 2%	
+Jaws%	Raiders of the Lost Ark%	
+Jaws%	The Terminator%	
+Jaws%	Indiana Jones and the Last Crusade%	
+Jaws%	Die Hard%	
+Jaws%	Groundhog Day%	
+Jaws%	Rocky%	
+Jaws%	Alien%	
+Jaws%	Close Encounters of the Third Kind%	
+Jaws%	Back to the Future%	
+Jaws%	Saving Private Ryan%	
 In the Mood for Love%	Chungking Express%	
 In the Mood for Love%	2046%	
 In the Mood for Love%	Happy Together%	
 In the Mood for Love%	Fallen Angels%	
-In the Mood for Love%	Infernal Affairs%	
 In the Mood for Love%	Days of Being Wild%	
-In the Mood for Love%	The Grandmaster%	
+In the Mood for Love%	Infernal Affairs%	
 In the Mood for Love%	Dung che sai duk%	
+In the Mood for Love%	The Grandmaster%	
 In the Mood for Love%	Amores Perros%	
 In the Mood for Love%	Three Colors: Red%	
 In the Mood for Love%	Memories of Murder%	
 In the Mood for Love%	Rashômon%	
+The Help%	Dead Poets Society%	
+The Help%	12 Years a Slave%	
+The Help%	Gone Girl%	
+The Help%	Hotel Rwanda%	
+The Help%	Hidden Figures%	
+The Help%	The Sixth Sense%	
+The Help%	Room%	
+The Help%	Catch Me If You Can%	
+The Help%	La La Land%	
+The Help%	Harry Potter and the Deathly Hallows: Part 2%	
+The Help%	Million Dollar Baby%	
+The Help%	Spotlight%	
+Paris, Texas%	Wings of Desire%	
+Paris, Texas%	8½%	
+Paris, Texas%	Paper Moon%	
+Paris, Texas%	In the Mood for Love%	
+Paris, Texas%	Three Colors: Red%	
+Paris, Texas%	Persona%	
+Paris, Texas%	The 400 Blows%	
+Paris, Texas%	Stalker%	
+Paris, Texas%	Alice in the Cities%	
+Paris, Texas%	Andrei Rublev%	
+Paris, Texas%	La Haine%	
+Paris, Texas%	The Passion of Joan of Arc%	
 The Best Years of Our Lives%	The Grapes of Wrath%	
 The Best Years of Our Lives%	It Happened One Night%	
 The Best Years of Our Lives%	Mrs. Miniver%	
 The Best Years of Our Lives%	Touch of Evil%	
 The Best Years of Our Lives%	Diabolique%	
-The Best Years of Our Lives%	All About Eve%	
 The Best Years of Our Lives%	Mr. Smith Goes to Washington%	
+The Best Years of Our Lives%	All About Eve%	
 The Best Years of Our Lives%	Sunrise%	
 The Best Years of Our Lives%	The Treasure of the Sierra Madre%	
 The Best Years of Our Lives%	The Nights of Cabiria%	
 The Best Years of Our Lives%	The Maltese Falcon%	
 The Best Years of Our Lives%	Rebecca%	
-Paris, Texas%	Wings of Desire%	
-Paris, Texas%	8½%	
-Paris, Texas%	In the Mood for Love%	
-Paris, Texas%	Paper Moon%	
-Paris, Texas%	Alice in the Cities%	
-Paris, Texas%	Persona%	
-Paris, Texas%	Three Colors: Red%	
-Paris, Texas%	Andrei Rublev%	
 Infernal Affairs%	Mou gaan dou II%	
 Infernal Affairs%	Mou gaan dou III: Jung gik mou gaan%	
 Infernal Affairs%	Memories of Murder%	
@@ -2121,9 +2824,9 @@ Infernal Affairs%	La Haine%
 Infernal Affairs%	Hotel Rwanda%	
 Infernal Affairs%	Oldeuboi%	
 Infernal Affairs%	Paper Moon%	
-Infernal Affairs%	Diabolique%	
 Infernal Affairs%	La leggenda del pianista sull'oceano%	
-Infernal Affairs%	Ah-ga-ssi%	
+Infernal Affairs%	Diabolique%	
+Infernal Affairs%	Tokyo Story%	
 Infernal Affairs%	Amores Perros%	
 Twelve Monkeys%	The Sixth Sense%	
 Twelve Monkeys%	Donnie Darko%	
@@ -2132,11 +2835,11 @@ Twelve Monkeys%	Groundhog Day%
 Twelve Monkeys%	The Terminator%	
 Twelve Monkeys%	Snatch%	
 Twelve Monkeys%	Catch Me If You Can%	
-Twelve Monkeys%	V for Vendetta%	
-Twelve Monkeys%	Jurassic Park%	
-Twelve Monkeys%	Kill Bill: Vol. 1%	
-Twelve Monkeys%	Jaws%	
+Twelve Monkeys%	The Big Lebowski%	
 Twelve Monkeys%	Lock, Stock and Two Smoking Barrels%	
+Twelve Monkeys%	Jurassic Park%	
+Twelve Monkeys%	V for Vendetta%	
+Twelve Monkeys%	Kill Bill: Vol. 1%	
 Gangs of Wasseypur%	A Wednesday%	
 Gangs of Wasseypur%	Rang De Basanti%	
 Gangs of Wasseypur%	Drishyam%	
@@ -2144,10 +2847,10 @@ Gangs of Wasseypur%	Bhaag Milkha Bhaag%
 Gangs of Wasseypur%	Hera Pheri%	
 Gangs of Wasseypur%	Swades%	
 Gangs of Wasseypur%	Paan Singh Tomar%	
-Gangs of Wasseypur%	Munna Bhai M.B.B.S.%	
 Gangs of Wasseypur%	Lagaan: Once Upon a Time in India%	
-Gangs of Wasseypur%	Udaan%	
+Gangs of Wasseypur%	Munna Bhai M.B.B.S.%	
 Gangs of Wasseypur%	OMG: Oh My God!%	
+Gangs of Wasseypur%	Udaan%	
 Gangs of Wasseypur%	Sholay%	
 Before Sunset%	Before Sunrise%	
 Before Sunset%	Before Midnight%	
@@ -2155,12 +2858,12 @@ Before Sunset%	Boyhood%
 Before Sunset%	Three Colors: Red%	
 Before Sunset%	Dead Poets Society%	
 Before Sunset%	Midnight in Paris%	
-Before Sunset%	Eternal Sunshine of the Spotless Mind%	
 Before Sunset%	(500) Days of Summer%	
-Before Sunset%	In the Mood for Love%	
+Before Sunset%	Eternal Sunshine of the Spotless Mind%	
 Before Sunset%	Amélie%	
-Before Sunset%	Annie Hall%	
+Before Sunset%	In the Mood for Love%	
 Before Sunset%	Infernal Affairs%	
+Before Sunset%	Annie Hall%	
 Beauty and the Beast%	Aladdin%	
 Beauty and the Beast%	The Little Mermaid%	
 Beauty and the Beast%	The Lion King%	
@@ -2171,15 +2874,27 @@ Beauty and the Beast%	Toy Story%
 Beauty and the Beast%	Tarzan%	
 Beauty and the Beast%	Cinderella%	
 Beauty and the Beast%	Pocahontas%	
-Beauty and the Beast%	Hercules%	
 Beauty and the Beast%	Snow White and the Seven Dwarfs%	
+Beauty and the Beast%	Hercules%	
 The Battle of Algiers%	The Wages of Fear%	
 The Battle of Algiers%	The Nights of Cabiria%	
-The Battle of Algiers%	Diabolique%	
 The Battle of Algiers%	The Best Years of Our Lives%	
+The Battle of Algiers%	Diabolique%	
 The Battle of Algiers%	Come and See%	
 The Battle of Algiers%	The 400 Blows%	
 The Battle of Algiers%	Tokyo Story%	
+Dog Day Afternoon%	Serpico%	
+Dog Day Afternoon%	Network%	
+Dog Day Afternoon%	Carlito's Way%	
+Dog Day Afternoon%	Scent of a Woman%	
+Dog Day Afternoon%	Heat%	
+Dog Day Afternoon%	Raging Bull%	
+Dog Day Afternoon%	Donnie Brasco%	
+Dog Day Afternoon%	Scarface%	
+Dog Day Afternoon%	Chinatown%	
+Dog Day Afternoon%	Taxi Driver%	
+Dog Day Afternoon%	The Devil's Advocate%	
+Dog Day Afternoon%	The Deer Hunter%	
 Akira%	Ghost in the Shell%	
 Akira%	Paprika%	
 Akira%	Perfect Blue%	
@@ -2187,19 +2902,8 @@ Akira%	Princess Mononoke%
 Akira%	Nausicaä of the Valley of the Wind%	
 Akira%	Cowboy Bebop: The Movie%	
 Akira%	Grave of the Fireflies%	
-Akira%	Toki o kakeru shôjo%	
 Akira%	Tokyo Godfathers%	
-Akira%	Porco Rosso%	
-Akira%	Millennium Actress%	
 Akira%	Ghost in the Shell 2: Innocence%	
-Dog Day Afternoon%	Serpico%	
-Dog Day Afternoon%	Network%	
-Dog Day Afternoon%	Carlito's Way%	
-Dog Day Afternoon%	Scent of a Woman%	
-Dog Day Afternoon%	Raging Bull%	
-Dog Day Afternoon%	Heat%	
-Dog Day Afternoon%	Donnie Brasco%	
-Dog Day Afternoon%	Scarface%	
-Dog Day Afternoon%	The Deer Hunter%	
-Dog Day Afternoon%	Taxi Driver%	
-Dog Day Afternoon%	Chinatown%	
+Akira%	Toki o kakeru shôjo%	
+Akira%	Millennium Actress%	
+Akira%	Porco Rosso%	

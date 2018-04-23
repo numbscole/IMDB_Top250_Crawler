@@ -12,6 +12,17 @@ Neil Giuntoli%	The Shawshank Redemption%
 Brian Libby%	The Shawshank Redemption%	
 David Proval%	The Shawshank Redemption%	
 Jude Ciccolella%	The Shawshank Redemption%	
+Paul McCrane%	The Shawshank Redemption%	
+Renee Blaine%	The Shawshank Redemption%	
+Scott Mann%	The Shawshank Redemption%	
+John Horton%	The Shawshank Redemption%	
+Gordon Greene%	The Shawshank Redemption%	
+Alfonso Freeman%	The Shawshank Redemption%	
+V.J. Foster%	The Shawshank Redemption%	
+Frank Medrano%	The Shawshank Redemption%	
+Mack Miles%	The Shawshank Redemption%	
+Gary Lee Davis%	The Shawshank Redemption%	
+Neil Summers%	The Shawshank Redemption%	
 Marlon Brando%	The Godfather%	
 Al Pacino%	The Godfather%	
 James Caan%	The Godfather%	
@@ -27,6 +38,20 @@ Talia Shire%	The Godfather%
 Gianni Russo%	The Godfather%	
 John Cazale%	The Godfather%	
 Rudy Bond%	The Godfather%	
+Al Martino%	The Godfather%	
+Morgana King%	The Godfather%	
+Lenny Montana%	The Godfather%	
+John Martino%	The Godfather%	
+Salvatore Corsitto%	The Godfather%	
+Richard Bright%	The Godfather%	
+Alex Rocco%	The Godfather%	
+Tony Giorgio%	The Godfather%	
+Vito Scotti%	The Godfather%	
+Tere Livrano%	The Godfather%	
+Victor Rendina%	The Godfather%	
+Jeannie Linero%	The Godfather%	
+Julie Gregg%	The Godfather%	
+Simonetta Stefanelli%	The Godfather%	
 Al Pacino%	The Godfather: Part II%	
 Robert Duvall%	The Godfather: Part II%	
 Diane Keaton%	The Godfather: Part II%	
@@ -42,6 +67,21 @@ Tom Rosqui%	The Godfather: Part II%
 Bruno Kirby%	The Godfather: Part II%	
 Frank Sivero%	The Godfather: Part II%	
 Francesca De Sapio%	The Godfather: Part II%	
+Morgana King%	The Godfather: Part II%	
+Marianna Hill%	The Godfather: Part II%	
+Leopoldo Trieste%	The Godfather: Part II%	
+Dominic Chianese%	The Godfather: Part II%	
+Amerigo Tot%	The Godfather: Part II%	
+Troy Donahue%	The Godfather: Part II%	
+John Aprea%	The Godfather: Part II%	
+Joe Spinell%	The Godfather: Part II%	
+James Caan%	The Godfather: Part II%	
+Abe Vigoda%	The Godfather: Part II%	
+Tere Livrano%	The Godfather: Part II%	
+Gianni Russo%	The Godfather: Part II%	
+Maria Carta%	The Godfather: Part II%	
+Oreste Baldini%	The Godfather: Part II%	
+Giuseppe Sillato%	The Godfather: Part II%	
 Christian Bale%	The Dark Knight%	
 Heath Ledger%	The Dark Knight%	
 Aaron Eckhart%	The Dark Knight%	
@@ -57,6 +97,18 @@ Nestor Carbonell%	The Dark Knight%
 Eric Roberts%	The Dark Knight%	
 Ritchie Coster%	The Dark Knight%	
 Anthony Michael Hall%	The Dark Knight%	
+Keith Szarabajka%	The Dark Knight%	
+Colin McFarlane%	The Dark Knight%	
+Joshua Harto%	The Dark Knight%	
+Melinda McGraw%	The Dark Knight%	
+Nathan Gamble%	The Dark Knight%	
+Michael Vieau%	The Dark Knight%	
+Michael Stoyanov%	The Dark Knight%	
+William Smillie%	The Dark Knight%	
+Danny Goldring%	The Dark Knight%	
+Matthew O'Neill%	The Dark Knight%	
+William Fichtner%	The Dark Knight%	
+Olumiji Olawumi%	The Dark Knight%	
 Martin Balsam%	12 Angry Men%	
 John Fiedler%	12 Angry Men%	
 Lee J. Cobb%	12 Angry Men%	
@@ -71,6 +123,90 @@ George Voskovec%	12 Angry Men%
 Robert Webber%	12 Angry Men%	
 Rudy Bond%	12 Angry Men%	
 James Kelly%	12 Angry Men%	
+Billy Nelson%	12 Angry Men%	
+John Savoca%	12 Angry Men%	
+Walter Stocker%	12 Angry Men%	
+Liam Neeson%	Schindler's List%	
+Ben Kingsley%	Schindler's List%	
+Ralph Fiennes%	Schindler's List%	
+Caroline Goodall%	Schindler's List%	
+Jonathan Sagall%	Schindler's List%	
+Embeth Davidtz%	Schindler's List%	
+Malgorzata Gebel%	Schindler's List%	
+Shmuel Levy%	Schindler's List%	
+Mark Ivanir%	Schindler's List%	
+Béatrice Macola%	Schindler's List%	
+Andrzej Seweryn%	Schindler's List%	
+Friedrich von Thun%	Schindler's List%	
+Krzysztof Luft%	Schindler's List%	
+Harry Nehring%	Schindler's List%	
+Norbert Weisser%	Schindler's List%	
+Adi Nitzan%	Schindler's List%	
+Michael Schneider%	Schindler's List%	
+Miri Fabian%	Schindler's List%	
+Anna Mucha%	Schindler's List%	
+Albert Misak%	Schindler's List%	
+Aldona Grochal%	Schindler's List%	
+Jacek Wójcicki%	Schindler's List%	
+Beata Paluch%	Schindler's List%	
+Piotr Polk%	Schindler's List%	
+Ezra Dagan%	Schindler's List%	
+Rami Heuberger%	Schindler's List%	
+Jerzy Nowak%	Schindler's List%	
+Noel Appleby%	The Lord of the Rings: The Return of the King%	
+Sean Astin%	The Lord of the Rings: The Return of the King%	
+David Aston%	The Lord of the Rings: The Return of the King%	
+John Bach%	The Lord of the Rings: The Return of the King%	
+Sean Bean%	The Lord of the Rings: The Return of the King%	
+Cate Blanchett%	The Lord of the Rings: The Return of the King%	
+Orlando Bloom%	The Lord of the Rings: The Return of the King%	
+Billy Boyd%	The Lord of the Rings: The Return of the King%	
+Marton Csokas%	The Lord of the Rings: The Return of the King%	
+Jason Fitch%	The Lord of the Rings: The Return of the King%	
+Bernard Hill%	The Lord of the Rings: The Return of the King%	
+Ian Holm%	The Lord of the Rings: The Return of the King%	
+Bruce Hopkins%	The Lord of the Rings: The Return of the King%	
+Ian Hughes%	The Lord of the Rings: The Return of the King%	
+Lawrence Makoare%	The Lord of the Rings: The Return of the King%	
+Ian McKellen%	The Lord of the Rings: The Return of the King%	
+Bret McKenzie%	The Lord of the Rings: The Return of the King%	
+Sarah McLeod%	The Lord of the Rings: The Return of the King%	
+Dominic Monaghan%	The Lord of the Rings: The Return of the King%	
+Viggo Mortensen%	The Lord of the Rings: The Return of the King%	
+John Noble%	The Lord of the Rings: The Return of the King%	
+Paul Norell%	The Lord of the Rings: The Return of the King%	
+Miranda Otto%	The Lord of the Rings: The Return of the King%	
+Shane Rangi%	The Lord of the Rings: The Return of the King%	
+Tim Roth%	Pulp Fiction%	
+Amanda Plummer%	Pulp Fiction%	
+Laura Lovelace%	Pulp Fiction%	
+John Travolta%	Pulp Fiction%	
+Samuel L. Jackson%	Pulp Fiction%	
+Phil LaMarr%	Pulp Fiction%	
+Frank Whaley%	Pulp Fiction%	
+Burr Steers%	Pulp Fiction%	
+Bruce Willis%	Pulp Fiction%	
+Ving Rhames%	Pulp Fiction%	
+Paul Calderon%	Pulp Fiction%	
+Bronagh Gallagher%	Pulp Fiction%	
+Rosanna Arquette%	Pulp Fiction%	
+Eric Stoltz%	Pulp Fiction%	
+Uma Thurman%	Pulp Fiction%	
+Jerome Patrick Hoban%	Pulp Fiction%	
+Michael Gilden%	Pulp Fiction%	
+Gary Shorelle%	Pulp Fiction%	
+Susan Griffiths%	Pulp Fiction%	
+Eric Clark%	Pulp Fiction%	
+Joseph Pilato%	Pulp Fiction%	
+Brad Blumenthal%	Pulp Fiction%	
+Steve Buscemi%	Pulp Fiction%	
+Lorelei Leslie%	Pulp Fiction%	
+Emil Sitka%	Pulp Fiction%	
+Brenda Hillhouse%	Pulp Fiction%	
+Christopher Walken%	Pulp Fiction%	
+Chandler Lindauer%	Pulp Fiction%	
+Sy Sher%	Pulp Fiction%	
+Robert Ruth%	Pulp Fiction%	
 Eli Wallach%	The Good, the Bad and the Ugly%	
 Clint Eastwood%	The Good, the Bad and the Ugly%	
 Lee Van Cleef%	The Good, the Bad and the Ugly%	
@@ -86,6 +222,75 @@ Sandro Scarchilli%	The Good, the Bad and the Ugly%
 Benito Stefanelli%	The Good, the Bad and the Ugly%	
 Angelo Novi%	The Good, the Bad and the Ugly%	
 Antonio Casas%	The Good, the Bad and the Ugly%	
+Aldo Sambrell%	The Good, the Bad and the Ugly%	
+Al Mulock%	The Good, the Bad and the Ugly%	
+Sergio Mendizábal%	The Good, the Bad and the Ugly%	
+Antonio Molino Rojo%	The Good, the Bad and the Ugly%	
+Lorenzo Robledo%	The Good, the Bad and the Ugly%	
+Mario Brega%	The Good, the Bad and the Ugly%	
+Chelo Alonso%	The Good, the Bad and the Ugly%	
+Fortunato Arena%	The Good, the Bad and the Ugly%	
+Román Ariznavarreta%	The Good, the Bad and the Ugly%	
+Silvana Bacci%	The Good, the Bad and the Ugly%	
+Frank Braña%	The Good, the Bad and the Ugly%	
+Amerigo Castrighella%	The Good, the Bad and the Ugly%	
+Saturno Cerra%	The Good, the Bad and the Ugly%	
+Edward Norton%	Fight Club%	
+Brad Pitt%	Fight Club%	
+Meat Loaf%	Fight Club%	
+Zach Grenier%	Fight Club%	
+Richmond Arquette%	Fight Club%	
+David Andrews%	Fight Club%	
+George Maguire%	Fight Club%	
+Eugenie Bondurant%	Fight Club%	
+Helena Bonham Carter%	Fight Club%	
+Christina Cabot%	Fight Club%	
+Sydney 'Big Dawg' Colston%	Fight Club%	
+Rachel Singer%	Fight Club%	
+Christie Cronenweth%	Fight Club%	
+Tim DeZarn%	Fight Club%	
+Ezra Buzzington%	Fight Club%	
+Bob Stephenson%	Fight Club%	
+Charlie Dell%	Fight Club%	
+Rob Lanza%	Fight Club%	
+David Lee Smith%	Fight Club%	
+Holt McCallany%	Fight Club%	
+Joel Bissonnette%	Fight Club%	
+Eion Bailey%	Fight Club%	
+Evan Mirand%	Fight Club%	
+Robby Robinson%	Fight Club%	
+Lou Beatty Jr.%	Fight Club%	
+Thom Gossom Jr.%	Fight Club%	
+Valerie Bickford%	Fight Club%	
+Jared Leto%	Fight Club%	
+Peter Iacangelo%	Fight Club%	
+Alan Howard%	The Lord of the Rings: The Fellowship of the Ring%	
+Noel Appleby%	The Lord of the Rings: The Fellowship of the Ring%	
+Sean Astin%	The Lord of the Rings: The Fellowship of the Ring%	
+Sala Baker%	The Lord of the Rings: The Fellowship of the Ring%	
+Sean Bean%	The Lord of the Rings: The Fellowship of the Ring%	
+Cate Blanchett%	The Lord of the Rings: The Fellowship of the Ring%	
+Orlando Bloom%	The Lord of the Rings: The Fellowship of the Ring%	
+Billy Boyd%	The Lord of the Rings: The Fellowship of the Ring%	
+Marton Csokas%	The Lord of the Rings: The Fellowship of the Ring%	
+Megan Edwards%	The Lord of the Rings: The Fellowship of the Ring%	
+Mark Ferguson%	The Lord of the Rings: The Fellowship of the Ring%	
+Ian Holm%	The Lord of the Rings: The Fellowship of the Ring%	
+Christopher Lee%	The Lord of the Rings: The Fellowship of the Ring%	
+Lawrence Makoare%	The Lord of the Rings: The Fellowship of the Ring%	
+Andy Serkis%	The Lord of the Rings: The Fellowship of the Ring%	
+Ian McKellen%	The Lord of the Rings: The Fellowship of the Ring%	
+Sarah McLeod%	The Lord of the Rings: The Fellowship of the Ring%	
+Dominic Monaghan%	The Lord of the Rings: The Fellowship of the Ring%	
+Viggo Mortensen%	The Lord of the Rings: The Fellowship of the Ring%	
+Ian Mune%	The Lord of the Rings: The Fellowship of the Ring%	
+Craig Parker%	The Lord of the Rings: The Fellowship of the Ring%	
+Cameron Rhodes%	The Lord of the Rings: The Fellowship of the Ring%	
+John Rhys-Davies%	The Lord of the Rings: The Fellowship of the Ring%	
+Martyn Sanderson%	The Lord of the Rings: The Fellowship of the Ring%	
+Harry Sinclair%	The Lord of the Rings: The Fellowship of the Ring%	
+Liv Tyler%	The Lord of the Rings: The Fellowship of the Ring%	
+David Weatherley%	The Lord of the Rings: The Fellowship of the Ring%	
 Tom Hanks%	Forrest Gump%	
 Rebecca Williams%	Forrest Gump%	
 Sally Field%	Forrest Gump%	
@@ -97,6 +302,10 @@ Margo Moorer%	Forrest Gump%
 John Worsham%	Forrest Gump%	
 Peter Dobson%	Forrest Gump%	
 Siobhan Fallon%	Forrest Gump%	
+Hanna Hall%	Forrest Gump%	
+Christopher Jones%	Forrest Gump%	
+Kevin Mangan%	Forrest Gump%	
+Robin Wright%	Forrest Gump%	
 Mark Hamill%	Star Wars: Episode V - The Empire Strikes Back%	
 Harrison Ford%	Star Wars: Episode V - The Empire Strikes Back%	
 Carrie Fisher%	Star Wars: Episode V - The Empire Strikes Back%	
@@ -112,6 +321,21 @@ John Hollis%	Star Wars: Episode V - The Empire Strikes Back%
 Jack Purvis%	Star Wars: Episode V - The Empire Strikes Back%	
 Des Webb%	Star Wars: Episode V - The Empire Strikes Back%	
 Clive Revill%	Star Wars: Episode V - The Empire Strikes Back%	
+Kenneth Colley%	Star Wars: Episode V - The Empire Strikes Back%	
+Julian Glover%	Star Wars: Episode V - The Empire Strikes Back%	
+Michael Sheard%	Star Wars: Episode V - The Empire Strikes Back%	
+Michael Culver%	Star Wars: Episode V - The Empire Strikes Back%	
+John Dicks%	Star Wars: Episode V - The Empire Strikes Back%	
+Milton Johns%	Star Wars: Episode V - The Empire Strikes Back%	
+Mark Jones%	Star Wars: Episode V - The Empire Strikes Back%	
+Oliver Maguire%	Star Wars: Episode V - The Empire Strikes Back%	
+Robin Scobey%	Star Wars: Episode V - The Empire Strikes Back%	
+Bruce Boa%	Star Wars: Episode V - The Empire Strikes Back%	
+Christopher Malcolm%	Star Wars: Episode V - The Empire Strikes Back%	
+Denis Lawson%	Star Wars: Episode V - The Empire Strikes Back%	
+Richard Oldfield%	Star Wars: Episode V - The Empire Strikes Back%	
+John Morton%	Star Wars: Episode V - The Empire Strikes Back%	
+Ian Liston%	Star Wars: Episode V - The Empire Strikes Back%	
 Leonardo DiCaprio%	Inception%	
 Joseph Gordon-Levitt%	Inception%	
 Ellen Page%	Inception%	
@@ -125,6 +349,43 @@ Pete Postlethwaite%	Inception%
 Michael Caine%	Inception%	
 Lukas Haas%	Inception%	
 Claire Geare%	Inception%	
+Taylor Geare%	Inception%	
+Tohoru Masamune%	Inception%	
+Yuji Okumoto%	Inception%	
+Earl Cameron%	Inception%	
+Miranda Nolan%	Inception%	
+Russ Fega%	Inception%	
+Tim Kelleher%	Inception%	
+Talulah Riley%	Inception%	
+Silvie Laguna%	Inception%	
+Virgile Bramly%	Inception%	
+Jean-Michel Dagory%	Inception%	
+Bruce Allpress%	The Lord of the Rings: The Two Towers%	
+Sean Astin%	The Lord of the Rings: The Two Towers%	
+John Bach%	The Lord of the Rings: The Two Towers%	
+Sala Baker%	The Lord of the Rings: The Two Towers%	
+Cate Blanchett%	The Lord of the Rings: The Two Towers%	
+Orlando Bloom%	The Lord of the Rings: The Two Towers%	
+Billy Boyd%	The Lord of the Rings: The Two Towers%	
+Jed Brophy%	The Lord of the Rings: The Two Towers%	
+Brad Dourif%	The Lord of the Rings: The Two Towers%	
+Calum Gittins%	The Lord of the Rings: The Two Towers%	
+Bernard Hill%	The Lord of the Rings: The Two Towers%	
+Bruce Hopkins%	The Lord of the Rings: The Two Towers%	
+Christopher Lee%	The Lord of the Rings: The Two Towers%	
+Nathaniel Lees%	The Lord of the Rings: The Two Towers%	
+John Leigh%	The Lord of the Rings: The Two Towers%	
+Robbie Magasiva%	The Lord of the Rings: The Two Towers%	
+Robyn Malcolm%	The Lord of the Rings: The Two Towers%	
+Ian McKellen%	The Lord of the Rings: The Two Towers%	
+Dominic Monaghan%	The Lord of the Rings: The Two Towers%	
+Viggo Mortensen%	The Lord of the Rings: The Two Towers%	
+Miranda Otto%	The Lord of the Rings: The Two Towers%	
+Craig Parker%	The Lord of the Rings: The Two Towers%	
+Robert Pollock%	The Lord of the Rings: The Two Towers%	
+John Rhys-Davies%	The Lord of the Rings: The Two Towers%	
+Andy Serkis%	The Lord of the Rings: The Two Towers%	
+Olivia Tennet%	The Lord of the Rings: The Two Towers%	
 Michael Berryman%	One Flew Over the Cuckoo's Nest%	
 Peter Brocco%	One Flew Over the Cuckoo's Nest%	
 Dean R. Brooks%	One Flew Over the Cuckoo's Nest%	
@@ -140,6 +401,46 @@ Nathan George%	One Flew Over the Cuckoo's Nest%
 Ken Kenny%	One Flew Over the Cuckoo's Nest%	
 Mel Lambert%	One Flew Over the Cuckoo's Nest%	
 Sydney Lassick%	One Flew Over the Cuckoo's Nest%	
+Kay Lee%	One Flew Over the Cuckoo's Nest%	
+Christopher Lloyd%	One Flew Over the Cuckoo's Nest%	
+Ted Markland%	One Flew Over the Cuckoo's Nest%	
+Louisa Moritz%	One Flew Over the Cuckoo's Nest%	
+Jack Nicholson%	One Flew Over the Cuckoo's Nest%	
+William Redfield%	One Flew Over the Cuckoo's Nest%	
+Will Sampson%	One Flew Over the Cuckoo's Nest%	
+Vincent Schiavelli%	One Flew Over the Cuckoo's Nest%	
+Mews Small%	One Flew Over the Cuckoo's Nest%	
+Delos V. Smith Jr.%	One Flew Over the Cuckoo's Nest%	
+Brad Dourif%	One Flew Over the Cuckoo's Nest%	
+Robert De Niro%	Goodfellas%	
+Ray Liotta%	Goodfellas%	
+Joe Pesci%	Goodfellas%	
+Lorraine Bracco%	Goodfellas%	
+Paul Sorvino%	Goodfellas%	
+Frank Sivero%	Goodfellas%	
+Tony Darrow%	Goodfellas%	
+Mike Starr%	Goodfellas%	
+Frank Vincent%	Goodfellas%	
+Chuck Low%	Goodfellas%	
+Frank DiLeo%	Goodfellas%	
+Henny Youngman%	Goodfellas%	
+Gina Mastrogiacomo%	Goodfellas%	
+Catherine Scorsese%	Goodfellas%	
+Charles Scorsese%	Goodfellas%	
+Suzanne Shepherd%	Goodfellas%	
+Debi Mazar%	Goodfellas%	
+Margo Winkler%	Goodfellas%	
+Welker White%	Goodfellas%	
+Jerry Vale%	Goodfellas%	
+Julie Garfield%	Goodfellas%	
+Christopher Serrone%	Goodfellas%	
+Elaine Kagan%	Goodfellas%	
+Beau Starr%	Goodfellas%	
+Kevin Corrigan%	Goodfellas%	
+Michael Imperioli%	Goodfellas%	
+Johnny Williams%	Goodfellas%	
+Daniel P. Conte%	Goodfellas%	
+Tony Conforti%	Goodfellas%	
 Keanu Reeves%	The Matrix%	
 Laurence Fishburne%	The Matrix%	
 Carrie-Anne Moss%	The Matrix%	
@@ -155,6 +456,20 @@ Paul Goddard%	The Matrix%
 Robert Taylor%	The Matrix%	
 David Aston%	The Matrix%	
 Marc Aden%	The Matrix%	
+Ada Nicodemou%	The Matrix%	
+Deni Gordon%	The Matrix%	
+Rowan Witt%	The Matrix%	
+Eleanor Witt%	The Matrix%	
+Janaya Pender%	The Matrix%	
+Adryn White%	The Matrix%	
+Natalie Tjen%	The Matrix%	
+Bill Young%	The Matrix%	
+David O'Connor%	The Matrix%	
+Jeremy Ball%	The Matrix%	
+Fiona Johnson%	The Matrix%	
+Harry Lawrence%	The Matrix%	
+Steve Dodd%	The Matrix%	
+Luke Quinton%	The Matrix%	
 Alexandre Rodrigues%	City of God%	
 Leandro Firmino%	City of God%	
 Phellipe Haagensen%	City of God%	
@@ -166,6 +481,13 @@ Jefechander Suplino%	City of God%
 Alice Braga%	City of God%	
 Roberta Rodrigues%	City of God%	
 Luis Otávio%	City of God%	
+Darlan Cunha%	City of God%	
+Thiago Martins%	City of God%	
+Graziella Moretto%	City of God%	
+Renato de Souza%	City of God%	
+Edson Montenegro%	City of God%	
+Gero Camilo%	City of God%	
+Daniel Zettel%	City of God%	
 Mark Hamill%	Star Wars: Episode IV - A New Hope%	
 Harrison Ford%	Star Wars: Episode IV - A New Hope%	
 Carrie Fisher%	Star Wars: Episode IV - A New Hope%	
@@ -181,6 +503,75 @@ Jack Purvis%	Star Wars: Episode IV - A New Hope%
 Alex McCrindle%	Star Wars: Episode IV - A New Hope%	
 Eddie Byrne%	Star Wars: Episode IV - A New Hope%	
 Drewe Henley%	Star Wars: Episode IV - A New Hope%	
+Denis Lawson%	Star Wars: Episode IV - A New Hope%	
+Garrick Hagon%	Star Wars: Episode IV - A New Hope%	
+Jack Klaff%	Star Wars: Episode IV - A New Hope%	
+William Hootkins%	Star Wars: Episode IV - A New Hope%	
+Angus MacInnes%	Star Wars: Episode IV - A New Hope%	
+Jeremy Sinden%	Star Wars: Episode IV - A New Hope%	
+Graham Ashley%	Star Wars: Episode IV - A New Hope%	
+Don Henderson%	Star Wars: Episode IV - A New Hope%	
+Richard LeParmentier%	Star Wars: Episode IV - A New Hope%	
+Leslie Schofield%	Star Wars: Episode IV - A New Hope%	
+David Ankrum%	Star Wars: Episode IV - A New Hope%	
+Mark Austin%	Star Wars: Episode IV - A New Hope%	
+Scott Beach%	Star Wars: Episode IV - A New Hope%	
+Lightning Bear%	Star Wars: Episode IV - A New Hope%	
+Jon Berg%	Star Wars: Episode IV - A New Hope%	
+Morgan Freeman%	Se7en%	
+Andrew Kevin Walker%	Se7en%	
+Kevin Spacey%	Se7en%	
+Daniel Zacapa%	Se7en%	
+Brad Pitt%	Se7en%	
+Gwyneth Paltrow%	Se7en%	
+John Cassini%	Se7en%	
+Peter Crombie%	Se7en%	
+Reg E. Cathey%	Se7en%	
+R. Lee Ermey%	Se7en%	
+Endre Hules%	Se7en%	
+Hawthorne James%	Se7en%	
+Bob Collins%	Se7en%	
+Richard Roundtree%	Se7en%	
+Dominique Jennings%	Se7en%	
+Allan Kolman%	Se7en%	
+Gene Borkan%	Se7en%	
+Julie Araskog%	Se7en%	
+Mario Di Donato%	Se7en%	
+Alfonso Freeman%	Se7en%	
+John C. McGinley%	Se7en%	
+Harrison White%	Se7en%	
+Bob Stephenson%	Se7en%	
+Michael Reid MacKay%	Se7en%	
+Jodie Foster%	The Silence of the Lambs%	
+Lawrence A. Bonney%	The Silence of the Lambs%	
+Kasi Lemmons%	The Silence of the Lambs%	
+Lawrence T. Wrentz%	The Silence of the Lambs%	
+Scott Glenn%	The Silence of the Lambs%	
+Anthony Heald%	The Silence of the Lambs%	
+Frankie Faison%	The Silence of the Lambs%	
+Don Brockett%	The Silence of the Lambs%	
+Frank Seals Jr.%	The Silence of the Lambs%	
+Stuart Rudin%	The Silence of the Lambs%	
+Anthony Hopkins%	The Silence of the Lambs%	
+Maria Skorobogatov%	The Silence of the Lambs%	
+Jeffrie Lane%	The Silence of the Lambs%	
+Leib Lensky%	The Silence of the Lambs%	
+George 'Red' Schwartz%	The Silence of the Lambs%	
+Jim Roche%	The Silence of the Lambs%	
+Brooke Smith%	The Silence of the Lambs%	
+Ted Levine%	The Silence of the Lambs%	
+James B. Howard%	The Silence of the Lambs%	
+Bill Miller%	The Silence of the Lambs%	
+Chuck Aber%	The Silence of the Lambs%	
+Gene Borkan%	The Silence of the Lambs%	
+Pat McNamara%	The Silence of the Lambs%	
+Tracey Walter%	The Silence of the Lambs%	
+Kenneth Utt%	The Silence of the Lambs%	
+Dan Butler%	The Silence of the Lambs%	
+Paul Lazar%	The Silence of the Lambs%	
+Darla%	The Silence of the Lambs%	
+Adelle Lutz%	The Silence of the Lambs%	
+Obba Babatundé%	The Silence of the Lambs%	
 James Stewart%	It's a Wonderful Life%	
 Donna Reed%	It's a Wonderful Life%	
 Lionel Barrymore%	It's a Wonderful Life%	
@@ -196,6 +587,20 @@ Todd Karns%	It's a Wonderful Life%
 Samuel S. Hinds%	It's a Wonderful Life%	
 Mary Treen%	It's a Wonderful Life%	
 Virginia Patton%	It's a Wonderful Life%	
+Charles Williams%	It's a Wonderful Life%	
+Sarah Edwards%	It's a Wonderful Life%	
+William Edmunds%	It's a Wonderful Life%	
+Lillian Randolph%	It's a Wonderful Life%	
+Argentina Brunetti%	It's a Wonderful Life%	
+Robert J. Anderson%	It's a Wonderful Life%	
+Ronnie Ralph%	It's a Wonderful Life%	
+Jean Gale%	It's a Wonderful Life%	
+Jeanine Ann Roose%	It's a Wonderful Life%	
+Georgie Nokes%	It's a Wonderful Life%	
+Sheldon Leonard%	It's a Wonderful Life%	
+Frank Hagney%	It's a Wonderful Life%	
+Ray Walker%	It's a Wonderful Life%	
+Charles Lane%	It's a Wonderful Life%	
 Roberto Benigni%	Life Is Beautiful%	
 Nicoletta Braschi%	Life Is Beautiful%	
 Giorgio Cantarini%	Life Is Beautiful%	
@@ -209,6 +614,35 @@ Amerigo Fontani%	Life Is Beautiful%
 Pietro De Silva%	Life Is Beautiful%	
 Francesco Guzzo%	Life Is Beautiful%	
 Raffaella Lebboroni%	Life Is Beautiful%	
+Verena Buratti%	Life Is Beautiful%	
+Hannes Hellmann%	Life Is Beautiful%	
+Wolfgang Hillinger%	Life Is Beautiful%	
+Stephen Baldwin%	The Usual Suspects%	
+Gabriel Byrne%	The Usual Suspects%	
+Benicio del Toro%	The Usual Suspects%	
+Kevin Pollak%	The Usual Suspects%	
+Kevin Spacey%	The Usual Suspects%	
+Chazz Palminteri%	The Usual Suspects%	
+Pete Postlethwaite%	The Usual Suspects%	
+Suzy Amis%	The Usual Suspects%	
+Giancarlo Esposito%	The Usual Suspects%	
+Dan Hedaya%	The Usual Suspects%	
+Paul Bartel%	The Usual Suspects%	
+Carl Bressler%	The Usual Suspects%	
+Phillipe Simon%	The Usual Suspects%	
+Jack Shearer%	The Usual Suspects%	
+Christine Estabrook%	The Usual Suspects%	
+Clark Gregg%	The Usual Suspects%	
+Morgan Hunter%	The Usual Suspects%	
+Ken Daly%	The Usual Suspects%	
+Michelle Clunie%	The Usual Suspects%	
+Louis Lombardi%	The Usual Suspects%	
+Frank Medrano%	The Usual Suspects%	
+Ron Gilbert%	The Usual Suspects%	
+Vito D'Ambrosio%	The Usual Suspects%	
+Gene Lythgow%	The Usual Suspects%	
+David Powledge%	The Usual Suspects%	
+Castulo Guerra%	The Usual Suspects%	
 Rumi Hiiragi%	Spirited Away%	
 Miyu Irino%	Spirited Away%	
 Mari Natsuki%	Spirited Away%	
@@ -222,6 +656,53 @@ Koba Hayashi%	Spirited Away%
 Tsunehiko Kamijô%	Spirited Away%	
 Takehiko Ono%	Spirited Away%	
 Bunta Sugawara%	Spirited Away%	
+Tom Hanks%	Saving Private Ryan%	
+Tom Sizemore%	Saving Private Ryan%	
+Edward Burns%	Saving Private Ryan%	
+Barry Pepper%	Saving Private Ryan%	
+Adam Goldberg%	Saving Private Ryan%	
+Vin Diesel%	Saving Private Ryan%	
+Giovanni Ribisi%	Saving Private Ryan%	
+Jeremy Davies%	Saving Private Ryan%	
+Matt Damon%	Saving Private Ryan%	
+Ted Danson%	Saving Private Ryan%	
+Paul Giamatti%	Saving Private Ryan%	
+Dennis Farina%	Saving Private Ryan%	
+Joerg Stadler%	Saving Private Ryan%	
+Max Martini%	Saving Private Ryan%	
+Dylan Bruno%	Saving Private Ryan%	
+Daniel Cerqueira%	Saving Private Ryan%	
+Demetri Goritsas%	Saving Private Ryan%	
+Ian Porter%	Saving Private Ryan%	
+Gary Sefton%	Saving Private Ryan%	
+Steve Griffin%	Saving Private Ryan%	
+Steve Griffin%	Saving Private Ryan%	
+William Marsh%	Saving Private Ryan%	
+Neil Finnighan%	Saving Private Ryan%	
+Adam Shaw%	Saving Private Ryan%	
+Jean Reno%	Léon: The Professional%	
+Gary Oldman%	Léon: The Professional%	
+Natalie Portman%	Léon: The Professional%	
+Danny Aiello%	Léon: The Professional%	
+Peter Appel%	Léon: The Professional%	
+Willi One Blood%	Léon: The Professional%	
+Don Creech%	Léon: The Professional%	
+Keith A. Glascoe%	Léon: The Professional%	
+Michael Badalucco%	Léon: The Professional%	
+Ellen Greene%	Léon: The Professional%	
+Elizabeth Regen%	Léon: The Professional%	
+Carl J. Matusovich%	Léon: The Professional%	
+Frank Senger%	Léon: The Professional%	
+Eric Challier%	Léon: The Professional%	
+Luc Bernard%	Léon: The Professional%	
+Maïwenn%	Léon: The Professional%	
+Jessie Keosian%	Léon: The Professional%	
+George Martin%	Léon: The Professional%	
+Stuart Rudin%	Léon: The Professional%	
+Kent Broadhurst%	Léon: The Professional%	
+Tommy Hollis%	Léon: The Professional%	
+Peter Linari%	Léon: The Professional%	
+Michael Mundra%	Léon: The Professional%	
 Ellen Burstyn%	Interstellar%	
 Matthew McConaughey%	Interstellar%	
 Mackenzie Foy%	Interstellar%	
@@ -237,6 +718,19 @@ Wes Bentley%	Interstellar%
 William Devane%	Interstellar%	
 Michael Caine%	Interstellar%	
 David Gyasi%	Interstellar%	
+Josh Stewart%	Interstellar%	
+Casey Affleck%	Interstellar%	
+Leah Cairns%	Interstellar%	
+Jessica Chastain%	Interstellar%	
+Liam Dickinson%	Interstellar%	
+Topher Grace%	Interstellar%	
+Matt Damon%	Interstellar%	
+Flora Nolan%	Interstellar%	
+Jeff Hephner%	Interstellar%	
+Lena Georgas%	Interstellar%	
+Elyes Gabel%	Interstellar%	
+Brooke Smith%	Interstellar%	
+Russ Fega%	Interstellar%	
 Tom Hanks%	The Green Mile%	
 David Morse%	The Green Mile%	
 Michael Clarke Duncan%	The Green Mile%	
@@ -252,6 +746,16 @@ Patricia Clarkson%	The Green Mile%
 Harry Dean Stanton%	The Green Mile%	
 Dabbs Greer%	The Green Mile%	
 Eve Brent%	The Green Mile%	
+William Sadler%	The Green Mile%	
+Mack Miles%	The Green Mile%	
+Rai Tasco%	The Green Mile%	
+Paula Malcomson%	The Green Mile%	
+Brian Libby%	The Green Mile%	
+Brent Briscoe%	The Green Mile%	
+Bill McKinney%	The Green Mile%	
+Gary Sinise%	The Green Mile%	
+Rachel Singer%	The Green Mile%	
+Scotty Leavenworth%	The Green Mile%	
 Edward Norton%	American History X%	
 Edward Furlong%	American History X%	
 Beverly D'Angelo%	American History X%	
@@ -267,6 +771,21 @@ Joe Cortese%	American History X%
 Jason Bose Smith%	American History X%	
 Antonio David Lyons%	American History X%	
 Alex Sol%	American History X%	
+Keram Malicki-Sánchez%	American History X%	
+Giuseppe Andrews%	American History X%	
+Michelle Christine White%	American History X%	
+Jonathan Fowler Jr.%	American History X%	
+Christopher Masterson%	American History X%	
+Nicholas R. Oleson%	American History X%	
+Jordan Marder%	American History X%	
+Paul Le Mat%	American History X%	
+Thomas L. Bellissimo%	American History X%	
+Cherish Lee%	American History X%	
+Sam Vlahos%	American History X%	
+Tara Blanchard%	American History X%	
+Anne Lambton%	American History X%	
+Steve Wolford%	American History X%	
+Richard Noyce%	American History X%	
 Anthony Perkins%	Psycho%	
 Vera Miles%	Psycho%	
 John Gavin%	Psycho%	
@@ -280,6 +799,18 @@ Vaughn Taylor%	Psycho%
 Lurene Tuttle%	Psycho%	
 John Anderson%	Psycho%	
 Mort Mills%	Psycho%	
+Francis De Sales%	Psycho%	
+George Dockstader%	Psycho%	
+George Eldredge%	Psycho%	
+Harper Flaherty%	Psycho%	
+Sam Flint%	Psycho%	
+Virginia Gregg%	Psycho%	
+Alfred Hitchcock%	Psycho%	
+Paul Jasmin%	Psycho%	
+Frank Killmond%	Psycho%	
+Ted Knight%	Psycho%	
+Pat McCaffrie%	Psycho%	
+Hans Moebus%	Psycho%	
 Claudia Cardinale%	Once Upon a Time in the West%	
 Henry Fonda%	Once Upon a Time in the West%	
 Jason Robards%	Once Upon a Time in the West%	
@@ -293,6 +824,18 @@ Frank Wolff%	Once Upon a Time in the West%
 Lionel Stander%	Once Upon a Time in the West%	
 Salvatore Basile%	Once Upon a Time in the West%	
 Aldo Berti%	Once Upon a Time in the West%	
+Frank Braña%	Once Upon a Time in the West%	
+Marilù Carteny%	Once Upon a Time in the West%	
+Saturno Cerra%	Once Upon a Time in the West%	
+Luigi Ciavarro%	Once Upon a Time in the West%	
+Spartaco Conversi%	Once Upon a Time in the West%	
+Bruno Corazzari%	Once Upon a Time in the West%	
+John Frederick%	Once Upon a Time in the West%	
+Don Galloway%	Once Upon a Time in the West%	
+Michael Harvey%	Once Upon a Time in the West%	
+Robert Hossein%	Once Upon a Time in the West%	
+Francesca Leone%	Once Upon a Time in the West%	
+Raffaella Leone%	Once Upon a Time in the West%	
 Virginia Cherrill%	City Lights%	
 Harry Myers%	City Lights%	
 Al Ernest Garcia%	City Lights%	
@@ -303,6 +846,16 @@ Eddie Baker%	City Lights%
 Henry Bergman%	City Lights%	
 Betty Blair%	City Lights%	
 Buster Brodie%	City Lights%	
+Jeanne Carpenter%	City Lights%	
+Tom Dempsey%	City Lights%	
+James Donnelly%	City Lights%	
+Ray Erlenborn%	City Lights%	
+Robert Graves%	City Lights%	
+Charles Hammond%	City Lights%	
+Jean Harlow%	City Lights%	
+Joseph Herrick%	City Lights%	
+Austen Jewell%	City Lights%	
+Willie Keeler%	City Lights%	
 Humphrey Bogart%	Casablanca%	
 Ingrid Bergman%	Casablanca%	
 Paul Henreid%	Casablanca%	
@@ -318,6 +871,20 @@ John Qualen%	Casablanca%
 Leonid Kinskey%	Casablanca%	
 Curt Bois%	Casablanca%	
 Enrique Acosta%	Casablanca%	
+Ed Agresti%	Casablanca%	
+Louis V. Arco%	Casablanca%	
+Frank Arnold%	Casablanca%	
+Brandon Beach%	Casablanca%	
+Leon Belasco%	Casablanca%	
+Nino Bellini%	Casablanca%	
+Trude Berliner%	Casablanca%	
+Oliver Blake%	Casablanca%	
+Monte Blue%	Casablanca%	
+Eugene Borden%	Casablanca%	
+Dick Botiller%	Casablanca%	
+Maurice Brierre%	Casablanca%	
+Anita Camargo%	Casablanca%	
+George M. Carleton%	Casablanca%	
 François Cluzet%	The Intouchables%	
 Omar Sy%	The Intouchables%	
 Anne Le Ny%	The Intouchables%	
@@ -333,6 +900,15 @@ Dominique Daguier%	The Intouchables%
 François Caron%	The Intouchables%	
 Christian Ameri%	The Intouchables%	
 Thomas Solivéres%	The Intouchables%	
+Marie-Laure Descoureaux%	The Intouchables%	
+Emilie Caen%	The Intouchables%	
+Jean-François Cayrey%	The Intouchables%	
+Renaud Barse%	The Intouchables%	
+François Bureloup%	The Intouchables%	
+Nicky Marbot%	The Intouchables%	
+Benjamin Baroche%	The Intouchables%	
+Antoine Laurent%	The Intouchables%	
+Caroline Bourg%	The Intouchables%	
 Charlie Chaplin%	Modern Times%	
 Paulette Goddard%	Modern Times%	
 Henry Bergman%	Modern Times%	
@@ -348,6 +924,18 @@ Murdock MacQuarrie%	Modern Times%
 Wilfred Lucas%	Modern Times%	
 Edward LeSaint%	Modern Times%	
 Fred Malatesta%	Modern Times%	
+Sammy Stein%	Modern Times%	
+Juana Sutton%	Modern Times%	
+Ted Oliver%	Modern Times%	
+Norman Ainsley%	Modern Times%	
+Bobby Barber%	Modern Times%	
+Heinie Conklin%	Modern Times%	
+Gloria DeHaven%	Modern Times%	
+Pat Flaherty%	Modern Times%	
+Frank Hagney%	Modern Times%	
+Pat Harmon%	Modern Times%	
+Lloyd Ingraham%	Modern Times%	
+Walter James%	Modern Times%	
 Adrien Brody%	The Pianist%	
 Emilia Fox%	The Pianist%	
 Michal Zebrowski%	The Pianist%	
@@ -363,6 +951,41 @@ Anthony Milner%	The Pianist%
 Lucy Skeaping%	The Pianist%	
 Roddy Skeaping%	The Pianist%	
 Ben Harlan%	The Pianist%	
+Thomas Lawinky%	The Pianist%	
+Joachim Paul Assböck%	The Pianist%	
+Roy Smiles%	The Pianist%	
+Paul Bradley%	The Pianist%	
+Daniel Caltagirone%	The Pianist%	
+Andrzej Blumenfeld%	The Pianist%	
+Zbigniew Zamachowski%	The Pianist%	
+Detlev von Wangenheim%	The Pianist%	
+Popeck%	The Pianist%	
+Leonardo DiCaprio%	The Departed%	
+Matt Damon%	The Departed%	
+Jack Nicholson%	The Departed%	
+Mark Wahlberg%	The Departed%	
+Martin Sheen%	The Departed%	
+Ray Winstone%	The Departed%	
+Vera Farmiga%	The Departed%	
+Anthony Anderson%	The Departed%	
+Alec Baldwin%	The Departed%	
+Kevin Corrigan%	The Departed%	
+James Badge Dale%	The Departed%	
+David O'Hara%	The Departed%	
+Mark Rolston%	The Departed%	
+Robert Wahlberg%	The Departed%	
+Kristen Dalton%	The Departed%	
+Thomas B. Duffy%	The Departed%	
+J.C. MacKenzie%	The Departed%	
+Mary Klug%	The Departed%	
+Robert 'Toshi' Kar Yuen Chan%	The Departed%	
+Gurdeep Singh%	The Departed%	
+Armen Garo%	The Departed%	
+John Cenatiempo%	The Departed%	
+Billy Smith%	The Departed%	
+Lyman Chen%	The Departed%	
+Brian Smyj%	The Departed%	
+William Severs%	The Departed%	
 Arnold Schwarzenegger%	Terminator 2%	
 Linda Hamilton%	Terminator 2%	
 Edward Furlong%	Terminator 2%	
@@ -377,6 +1000,44 @@ Xander Berkeley%	Terminator 2%
 Ken Gibbel%	Terminator 2%	
 Robert Winley%	Terminator 2%	
 Pete Schrum%	Terminator 2%	
+Michael Edwards%	Terminator 2%	
+Don Lake%	Terminator 2%	
+Richard Vidan%	Terminator 2%	
+Jim Palmer%	Terminator 2%	
+Gwenda Deacon%	Terminator 2%	
+Don Stanton%	Terminator 2%	
+Dan Stanton%	Terminator 2%	
+Colin Patrick Lynch%	Terminator 2%	
+Harrison Ford%	Raiders of the Lost Ark%	
+Karen Allen%	Raiders of the Lost Ark%	
+Paul Freeman%	Raiders of the Lost Ark%	
+Ronald Lacey%	Raiders of the Lost Ark%	
+John Rhys-Davies%	Raiders of the Lost Ark%	
+Denholm Elliott%	Raiders of the Lost Ark%	
+Alfred Molina%	Raiders of the Lost Ark%	
+Wolf Kahler%	Raiders of the Lost Ark%	
+Anthony Higgins%	Raiders of the Lost Ark%	
+Vic Tablian%	Raiders of the Lost Ark%	
+Don Fellows%	Raiders of the Lost Ark%	
+William Hootkins%	Raiders of the Lost Ark%	
+Bill Reimbold%	Raiders of the Lost Ark%	
+Fred Sorenson%	Raiders of the Lost Ark%	
+Patrick Durkin%	Raiders of the Lost Ark%	
+Matthew Scurfield%	Raiders of the Lost Ark%	
+Malcolm Weaver%	Raiders of the Lost Ark%	
+Sonny Caldinez%	Raiders of the Lost Ark%	
+Anthony Chinn%	Raiders of the Lost Ark%	
+Pat Roach%	Raiders of the Lost Ark%	
+Christopher Frederick%	Raiders of the Lost Ark%	
+Tutte Lemkow%	Raiders of the Lost Ark%	
+Ishaq Bux%	Raiders of the Lost Ark%	
+Kiran Shah%	Raiders of the Lost Ark%	
+Souad Messaoudi%	Raiders of the Lost Ark%	
+Terry Richards%	Raiders of the Lost Ark%	
+Steve Hanson%	Raiders of the Lost Ark%	
+Frank Marshall%	Raiders of the Lost Ark%	
+Martin Kreidt%	Raiders of the Lost Ark%	
+George Harris%	Raiders of the Lost Ark%	
 James Stewart%	Rear Window%	
 Grace Kelly%	Rear Window%	
 Wendell Corey%	Rear Window%	
@@ -391,6 +1052,17 @@ Jesslyn Fax%	Rear Window%
 Rand Harper%	Rear Window%	
 Irene Winston%	Rear Window%	
 Havis Davenport%	Rear Window%	
+Benny Bartlett%	Rear Window%	
+Sue Casey%	Rear Window%	
+Iphigenie Castiglioni%	Rear Window%	
+Don Dunning%	Rear Window%	
+Marla English%	Rear Window%	
+Bess Flowers%	Rear Window%	
+Art Gilmore%	Rear Window%	
+Fred Graham%	Rear Window%	
+Kathryn Grant%	Rear Window%	
+Charles Harvey%	Rear Window%	
+Alfred Hitchcock%	Rear Window%	
 Michael J. Fox%	Back to the Future%	
 Christopher Lloyd%	Back to the Future%	
 Lea Thompson%	Back to the Future%	
@@ -406,6 +1078,21 @@ J.J. Cohen%	Back to the Future%
 Casey Siemaszko%	Back to the Future%	
 Billy Zane%	Back to the Future%	
 Harry Waters, Jr.%	Back to the Future%	
+Donald Fullilove%	Back to the Future%	
+Lisa Freeman%	Back to the Future%	
+Cristen Kauffman%	Back to the Future%	
+Elsa Raven%	Back to the Future%	
+Will Hare%	Back to the Future%	
+Ivy Bethune%	Back to the Future%	
+Jason Marin%	Back to the Future%	
+Katherine Britton%	Back to the Future%	
+Jason Hervey%	Back to the Future%	
+Maia Brewton%	Back to the Future%	
+Courtney Gains%	Back to the Future%	
+Richard L. Duran%	Back to the Future%	
+Jeff O'Haco%	Back to the Future%	
+Johnny Green%	Back to the Future%	
+Jamie Abbott%	Back to the Future%	
 Miles Teller%	Whiplash%	
 J.K. Simmons%	Whiplash%	
 Paul Reiser%	Whiplash%	
@@ -421,6 +1108,45 @@ Jayson Blair%	Whiplash%
 Kofi Siriboe%	Whiplash%	
 Kavita Patil%	Whiplash%	
 C.J. Vana%	Whiplash%	
+Tarik Lowe%	Whiplash%	
+Tyler Kimball%	Whiplash%	
+Rogelio Douglas Jr.%	Whiplash%	
+Adrian Burks%	Whiplash%	
+Calvin C. Winbush%	Whiplash%	
+Joseph Bruno%	Whiplash%	
+Michael D. Cohen%	Whiplash%	
+Jocelyn Ayanna%	Whiplash%	
+Keenan Henson%	Whiplash%	
+Janet Hoskins%	Whiplash%	
+April Grace%	Whiplash%	
+Clifton 'Fou Fou' Eddie%	Whiplash%	
+Marcus Henderson%	Whiplash%	
+Tony Baker%	Whiplash%	
+Henry G. Sanders%	Whiplash%	
+Russell Crowe%	Gladiator%	
+Joaquin Phoenix%	Gladiator%	
+Connie Nielsen%	Gladiator%	
+Oliver Reed%	Gladiator%	
+Richard Harris%	Gladiator%	
+Derek Jacobi%	Gladiator%	
+Djimon Hounsou%	Gladiator%	
+David Schofield%	Gladiator%	
+John Shrapnel%	Gladiator%	
+Tomas Arana%	Gladiator%	
+Ralf Moeller%	Gladiator%	
+Spencer Treat Clark%	Gladiator%	
+David Hemmings%	Gladiator%	
+Tommy Flanagan%	Gladiator%	
+Sven-Ole Thorsen%	Gladiator%	
+Omid Djalili%	Gladiator%	
+Nicholas McGaughey%	Gladiator%	
+Tony Curran%	Gladiator%	
+John Quinn%	Gladiator%	
+Alun Raglan%	Gladiator%	
+David Bailie%	Gladiator%	
+Al Hunter Ashton%	Gladiator%	
+Giannina Facio%	Gladiator%	
+Giorgio Cantarini%	Gladiator%	
 Rowan Atkinson%	The Lion King%	
 Matthew Broderick%	The Lion King%	
 Niketa Calame%	The Lion King%	
@@ -436,6 +1162,21 @@ Cheech Marin%	The Lion King%
 Ernie Sabella%	The Lion King%	
 Madge Sinclair%	The Lion King%	
 Jonathan Taylor Thomas%	The Lion King%	
+Frank Welker%	The Lion King%	
+Cathy Cavadini%	The Lion King%	
+Judi M. Durand%	The Lion King%	
+Daamen J. Krall%	The Lion King%	
+David McCharen%	The Lion King%	
+Mary Linda Phillips%	The Lion King%	
+Phil Proctor%	The Lion King%	
+David J. Randolph%	The Lion King%	
+Jeff Bennett%	The Lion King%	
+Sally Dworsky%	The Lion King%	
+Evan Saucedo%	The Lion King%	
+Brian Tochi%	The Lion King%	
+Jason Weaver%	The Lion King%	
+Joseph Williams%	The Lion King%	
+Laura Williams%	The Lion King%	
 Hugh Jackman%	The Prestige%	
 Christian Bale%	The Prestige%	
 Michael Caine%	The Prestige%	
@@ -450,6 +1191,15 @@ Christopher Neame%	The Prestige%
 Mark Ryan%	The Prestige%	
 Roger Rees%	The Prestige%	
 Jamie Harris%	The Prestige%	
+Monty Stuart%	The Prestige%	
+Ron Perkins%	The Prestige%	
+Ricky Jay%	The Prestige%	
+Anthony De Marco%	The Prestige%	
+Chao Li Chi%	The Prestige%	
+John B. Crye%	The Prestige%	
+William Morgan Sheppard%	The Prestige%	
+Ezra Buzzington%	The Prestige%	
+James Lancaster%	The Prestige%	
 Guy Pearce%	Memento%	
 Carrie-Anne Moss%	Memento%	
 Joe Pantoliano%	Memento%	
@@ -478,6 +1228,26 @@ Jerry Ziesmer%	Apocalypse Now%
 Scott Glenn%	Apocalypse Now%	
 James Keane%	Apocalypse Now%	
 Kerry Rossall%	Apocalypse Now%	
+Tom Mason%	Apocalypse Now%	
+Cynthia Wood%	Apocalypse Now%	
+Colleen Camp%	Apocalypse Now%	
+Linda Carpenter%	Apocalypse Now%	
+Jack Thibeau%	Apocalypse Now%	
+Glenn Walken%	Apocalypse Now%	
+Damien Leake%	Apocalypse Now%	
+William Upton%	Apocalypse Now%	
+Larry Carney%	Apocalypse Now%	
+Marc Coppola%	Apocalypse Now%	
+Tom Skerritt%	Alien%	
+Sigourney Weaver%	Alien%	
+Veronica Cartwright%	Alien%	
+Harry Dean Stanton%	Alien%	
+John Hurt%	Alien%	
+Ian Holm%	Alien%	
+Yaphet Kotto%	Alien%	
+Bolaji Badejo%	Alien%	
+Helen Horton%	Alien%	
+Eddie Powell%	Alien%	
 Charlie Chaplin%	The Great Dictator%	
 Jack Oakie%	The Great Dictator%	
 Reginald Gardiner%	The Great Dictator%	
@@ -493,6 +1263,21 @@ Paul Weigel%	The Great Dictator%
 Chester Conklin%	The Great Dictator%	
 Esther Michelson%	The Great Dictator%	
 Hank Mann%	The Great Dictator%	
+Florence Wright%	The Great Dictator%	
+Eddie Gribbon%	The Great Dictator%	
+Rudolph Anders%	The Great Dictator%	
+Eddie Dunn%	The Great Dictator%	
+Nita Pike%	The Great Dictator%	
+George Lynn%	The Great Dictator%	
+Wheeler Dryden%	The Great Dictator%	
+Fred Aldrich%	The Great Dictator%	
+Richard Alexander%	The Great Dictator%	
+Sig Arno%	The Great Dictator%	
+William Arnold%	The Great Dictator%	
+Joe Bordeaux%	The Great Dictator%	
+Don Brodie%	The Great Dictator%	
+Hans Conried%	The Great Dictator%	
+Gino Corrado%	The Great Dictator%	
 Antonella Attili%	Cinema Paradiso%	
 Enzo Cannavale%	Cinema Paradiso%	
 Isa Danieli%	Cinema Paradiso%	
@@ -507,6 +1292,12 @@ Roberta Lena%	Cinema Paradiso%
 Nino Terzo%	Cinema Paradiso%	
 Jacques Perrin%	Cinema Paradiso%	
 Brigitte Fossey%	Cinema Paradiso%	
+Philippe Noiret%	Cinema Paradiso%	
+Mariella Lo Giudice%	Cinema Paradiso%	
+Beatrice Palme%	Cinema Paradiso%	
+Ignazio Pappalardo%	Cinema Paradiso%	
+Mimmo Mignemi%	Cinema Paradiso%	
+Franco Catalano%	Cinema Paradiso%	
 William Holden%	Sunset Blvd.%	
 Gloria Swanson%	Sunset Blvd.%	
 Erich von Stroheim%	Sunset Blvd.%	
@@ -522,6 +1313,19 @@ Hedda Hopper%	Sunset Blvd.%
 Buster Keaton%	Sunset Blvd.%	
 Anna Q. Nilsson%	Sunset Blvd.%	
 H.B. Warner%	Sunset Blvd.%	
+Ray Evans%	Sunset Blvd.%	
+Jay Livingston%	Sunset Blvd.%	
+Fred Aldrich%	Sunset Blvd.%	
+Joel Allen%	Sunset Blvd.%	
+Gertrude Astor%	Sunset Blvd.%	
+Anne Bauchens%	Sunset Blvd.%	
+Edward Biby%	Sunset Blvd.%	
+Danny Borzage%	Sunset Blvd.%	
+Ken Christy%	Sunset Blvd.%	
+Ruth Clifford%	Sunset Blvd.%	
+Archie R. Dalzell%	Sunset Blvd.%	
+Eddie Dew%	Sunset Blvd.%	
+Julia Faye%	Sunset Blvd.%	
 Peter Sellers%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
 George C. Scott%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
 Sterling Hayden%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
@@ -535,6 +1339,13 @@ Glenn Beck%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
 Roy Stephens%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
 Shane Rimmer%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
 Hal Galili%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Paul Tamarin%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Laurence Herder%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Gordon Tanner%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+John McCarthy%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Bill Hibbert%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Peter Roy%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
+Burnell Tucker%	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	
 Tsutomu Tatsumi%	Grave of the Fireflies%	
 Ayano Shiraishi%	Grave of the Fireflies%	
 Yoshiko Shinohara%	Grave of the Fireflies%	
@@ -547,6 +1358,15 @@ Justin Doran%	Grave of the Fireflies%
 Crispin Freeman%	Grave of the Fireflies%	
 Adam Gibbs%	Grave of the Fireflies%	
 Dan Green%	Grave of the Fireflies%	
+David Matranga%	Grave of the Fireflies%	
+Rob Mungle%	Grave of the Fireflies%	
+Emily Neves%	Grave of the Fireflies%	
+Corinne Orr%	Grave of the Fireflies%	
+J. Robert Spencer%	Grave of the Fireflies%	
+Nick Sullivan%	Grave of the Fireflies%	
+Veronica Taylor%	Grave of the Fireflies%	
+David Wald%	Grave of the Fireflies%	
+Andrew Love%	Grave of the Fireflies%	
 Martina Gedeck%	The Lives of Others%	
 Ulrich Mühe%	The Lives of Others%	
 Sebastian Koch%	The Lives of Others%	
@@ -562,6 +1382,19 @@ Marie Gruber%	The Lives of Others%
 Volker Michalowski%	The Lives of Others%	
 Werner Daehn%	The Lives of Others%	
 Martin Brambach%	The Lives of Others%	
+Hubertus Hartmann%	The Lives of Others%	
+Thomas Arnold%	The Lives of Others%	
+Hinnerk Schönemann%	The Lives of Others%	
+Paul Faßnacht%	The Lives of Others%	
+Ludwig Blochberger%	The Lives of Others%	
+Paul Maximilian Schüller%	The Lives of Others%	
+Susanna Kraus%	The Lives of Others%	
+Michael Gerber%	The Lives of Others%	
+Fabian von Klitzing%	The Lives of Others%	
+Harald Polzin%	The Lives of Others%	
+Sheri Hagen%	The Lives of Others%	
+Gitta Schweighöfer%	The Lives of Others%	
+Hildegard Schroedter%	The Lives of Others%	
 Kirk Douglas%	Paths of Glory%	
 Ralph Meeker%	Paths of Glory%	
 Adolphe Menjou%	Paths of Glory%	
@@ -577,6 +1410,61 @@ Bert Freed%	Paths of Glory%
 Kem Dibbs%	Paths of Glory%	
 Timothy Carey%	Paths of Glory%	
 Fred Bell%	Paths of Glory%	
+John Stein%	Paths of Glory%	
+Harold Benedict%	Paths of Glory%	
+Paul Bös%	Paths of Glory%	
+Herbert Ellis%	Paths of Glory%	
+James B. Harris%	Paths of Glory%	
+Rolf Kralovitz%	Paths of Glory%	
+Jack Nicholson%	The Shining%	
+Shelley Duvall%	The Shining%	
+Danny Lloyd%	The Shining%	
+Scatman Crothers%	The Shining%	
+Barry Nelson%	The Shining%	
+Philip Stone%	The Shining%	
+Joe Turkel%	The Shining%	
+Anne Jackson%	The Shining%	
+Tony Burton%	The Shining%	
+Lia Beldam%	The Shining%	
+Billie Gibson%	The Shining%	
+Barry Dennen%	The Shining%	
+David Baxt%	The Shining%	
+Manning Redwood%	The Shining%	
+Burnell Tucker%	The Shining%	
+Jana Shelden%	The Shining%	
+Vivian Kubrick%	The Shining%	
+Aileen Lewis%	The Shining%	
+Derek Lyons%	The Shining%	
+Jamie Foxx%	Django Unchained%	
+Christoph Waltz%	Django Unchained%	
+Leonardo DiCaprio%	Django Unchained%	
+Kerry Washington%	Django Unchained%	
+Samuel L. Jackson%	Django Unchained%	
+Walton Goggins%	Django Unchained%	
+Dennis Christopher%	Django Unchained%	
+James Remar%	Django Unchained%	
+David Steen%	Django Unchained%	
+Dana Gourrier%	Django Unchained%	
+Nichole Galicia%	Django Unchained%	
+Laura Cayouette%	Django Unchained%	
+Ato Essandoh%	Django Unchained%	
+Sammi Rotibi%	Django Unchained%	
+Clay Donahue Fontenot%	Django Unchained%	
+Escalante Lundy%	Django Unchained%	
+Miriam F. Glover%	Django Unchained%	
+Don Johnson%	Django Unchained%	
+Franco Nero%	Django Unchained%	
+James Russo%	Django Unchained%	
+Tom Wopat%	Django Unchained%	
+Don Stroud%	Django Unchained%	
+Russ Tamblyn%	Django Unchained%	
+Amber Tamblyn%	Django Unchained%	
+Bruce Dern%	Django Unchained%	
+M.C. Gainey%	Django Unchained%	
+Cooper Huckabee%	Django Unchained%	
+Doc Duhame%	Django Unchained%	
+Jonah Hill%	Django Unchained%	
+Lee Horsley%	Django Unchained%	
 Anthony Gonzalez%	Coco%	
 Gael García Bernal%	Coco%	
 Benjamin Bratt%	Coco%	
@@ -592,20 +1480,12 @@ Natalia Córdova-Buckley%	Coco%
 Selene Luna%	Coco%	
 Edward James Olmos%	Coco%	
 Sofía Espinosa%	Coco%	
-Jack Nicholson%	The Shining%	
-Shelley Duvall%	The Shining%	
-Danny Lloyd%	The Shining%	
-Scatman Crothers%	The Shining%	
-Barry Nelson%	The Shining%	
-Philip Stone%	The Shining%	
-Joe Turkel%	The Shining%	
-Anne Jackson%	The Shining%	
-Tony Burton%	The Shining%	
-Lia Beldam%	The Shining%	
-Billie Gibson%	The Shining%	
-Barry Dennen%	The Shining%	
-David Baxt%	The Shining%	
-Manning Redwood%	The Shining%	
+Carla Medina%	Coco%	
+Dyana Ortelli%	Coco%	
+Luis Valdez%	Coco%	
+Blanca Araceli%	Coco%	
+Cheech Marin%	Coco%	
+John Ratzenberger%	Coco%	
 Ben Burtt%	WALL·E%	
 Elissa Knight%	WALL·E%	
 Jeff Garlin%	WALL·E%	
@@ -621,6 +1501,78 @@ Pete Docter%	WALL·E%
 Paul Eiding%	WALL·E%	
 Donald Fullilove%	WALL·E%	
 Teresa Ganzel%	WALL·E%	
+Jess Harnell%	WALL·E%	
+Sherry Lynn%	WALL·E%	
+Mickie McGowan%	WALL·E%	
+Laraine Newman%	WALL·E%	
+Lori Alan%	WALL·E%	
+Jeff Pidgeon%	WALL·E%	
+Lori Richardson%	WALL·E%	
+Andrew Stanton%	WALL·E%	
+Jim Ward%	WALL·E%	
+Colette Whitaker%	WALL·E%	
+Kim Kopf%	WALL·E%	
+Angus MacLane%	WALL·E%	
+Garrett Palmer%	WALL·E%	
+Billy Crudup%	Princess Mononoke%	
+Billy Bob Thornton%	Princess Mononoke%	
+Minnie Driver%	Princess Mononoke%	
+John DiMaggio%	Princess Mononoke%	
+Claire Danes%	Princess Mononoke%	
+John DeMita%	Princess Mononoke%	
+Jada Pinkett Smith%	Princess Mononoke%	
+Gillian Anderson%	Princess Mononoke%	
+Keith David%	Princess Mononoke%	
+Corey Burton%	Princess Mononoke%	
+Tara Strong%	Princess Mononoke%	
+Julia Fletcher%	Princess Mononoke%	
+Debi Derryberry%	Princess Mononoke%	
+Alex Fernandez%	Princess Mononoke%	
+Jack Fletcher%	Princess Mononoke%	
+Pat Fraley%	Princess Mononoke%	
+John Hostetter%	Princess Mononoke%	
+John Rafter Lee%	Princess Mononoke%	
+Sherry Lynn%	Princess Mononoke%	
+Matt K. Miller%	Princess Mononoke%	
+Marnie Mosiman%	Princess Mononoke%	
+Tress MacNeille%	Princess Mononoke%	
+Matt McKenzie%	Princess Mononoke%	
+Michael McShane%	Princess Mononoke%	
+Adam Paul%	Princess Mononoke%	
+David Rasner%	Princess Mononoke%	
+Dwight Schultz%	Princess Mononoke%	
+Pamela Adlon%	Princess Mononoke%	
+K.T. Vogt%	Princess Mononoke%	
+Kevin Spacey%	American Beauty%	
+Annette Bening%	American Beauty%	
+Thora Birch%	American Beauty%	
+Wes Bentley%	American Beauty%	
+Mena Suvari%	American Beauty%	
+Peter Gallagher%	American Beauty%	
+Allison Janney%	American Beauty%	
+Chris Cooper%	American Beauty%	
+Scott Bakula%	American Beauty%	
+Sam Robards%	American Beauty%	
+Barry Del Sherman%	American Beauty%	
+Ara Celi%	American Beauty%	
+John Cho%	American Beauty%	
+Fort Atkinson%	American Beauty%	
+Sue Casey%	American Beauty%	
+Kent Faulcon%	American Beauty%	
+Brenda Wehle%	American Beauty%	
+Lisa Cloud%	American Beauty%	
+Alison Faulk%	American Beauty%	
+Krista Goodsitt%	American Beauty%	
+Lily Houtkin%	American Beauty%	
+Carolina Lancaster%	American Beauty%	
+Mona Leah%	American Beauty%	
+Chekesha Van Putten%	American Beauty%	
+Emily Zachary%	American Beauty%	
+Nancy Anderson%	American Beauty%	
+Reshma Gajjar%	American Beauty%	
+Stephanie Rizzo%	American Beauty%	
+Heather Joy Sher%	American Beauty%	
+Chelsea Hertford%	American Beauty%	
 Christian Bale%	The Dark Knight Rises%	
 Gary Oldman%	The Dark Knight Rises%	
 Tom Hardy%	The Dark Knight Rises%	
@@ -636,6 +1588,21 @@ Burn Gorman%	The Dark Knight Rises%
 Daniel Sunjata%	The Dark Knight Rises%	
 Aidan Gillen%	The Dark Knight Rises%	
 Sam Kennard%	The Dark Knight Rises%	
+Aliash Tepina%	The Dark Knight Rises%	
+Nestor Carbonell%	The Dark Knight Rises%	
+Brett Cullen%	The Dark Knight Rises%	
+Nick Julian%	The Dark Knight Rises%	
+Miranda Nolan%	The Dark Knight Rises%	
+Claire Julien%	The Dark Knight Rises%	
+Reggie Lee%	The Dark Knight Rises%	
+Joseph Lyle Taylor%	The Dark Knight Rises%	
+Chris Ellis%	The Dark Knight Rises%	
+Tyler Dean Flores%	The Dark Knight Rises%	
+Juno Temple%	The Dark Knight Rises%	
+Duane Henry%	The Dark Knight Rises%	
+James Harvey Ward%	The Dark Knight Rises%	
+Gonzalo Menendez%	The Dark Knight Rises%	
+Cameron Jack%	The Dark Knight Rises%	
 Tyrone Power%	Witness for the Prosecution%	
 Marlene Dietrich%	Witness for the Prosecution%	
 Charles Laughton%	Witness for the Prosecution%	
@@ -650,6 +1617,20 @@ Francis Compton%	Witness for the Prosecution%
 Philip Tonge%	Witness for the Prosecution%	
 Ruta Lee%	Witness for the Prosecution%	
 Patrick Aherne%	Witness for the Prosecution%	
+Eddie Baker%	Witness for the Prosecution%	
+Brandon Beach%	Witness for the Prosecution%	
+Danny Borzage%	Witness for the Prosecution%	
+George Bruggeman%	Witness for the Prosecution%	
+George Calliga%	Witness for the Prosecution%	
+Steve Carruthers%	Witness for the Prosecution%	
+Marjorie Eaton%	Witness for the Prosecution%	
+Bill Erwin%	Witness for the Prosecution%	
+Franklyn Farnum%	Witness for the Prosecution%	
+Bess Flowers%	Witness for the Prosecution%	
+Stuart Hall%	Witness for the Prosecution%	
+Art Howard%	Witness for the Prosecution%	
+Michael Jeffers%	Witness for the Prosecution%	
+Colin Kenny%	Witness for the Prosecution%	
 Choi Min-sik%	Oldeuboi%	
 Yoo Ji-tae%	Oldeuboi%	
 Kang Hye-jung%	Oldeuboi%	
@@ -664,6 +1645,17 @@ Ahn Yeon-suk%	Oldeuboi%
 Il-han Oo%	Oldeuboi%	
 Kim Su-hyeon%	Oldeuboi%	
 Seung-jin Lee%	Oldeuboi%	
+Park Myung-shin%	Oldeuboi%	
+Yong-ih%	Oldeuboi%	
+Joe Cappelletti%	Oldeuboi%	
+Mari Devon%	Oldeuboi%	
+Crispin Freeman%	Oldeuboi%	
+Steve Kramer%	Oldeuboi%	
+Sherry Lynn%	Oldeuboi%	
+Michael McConnohie%	Oldeuboi%	
+Stephanie Sheh%	Oldeuboi%	
+Kirk Thornton%	Oldeuboi%	
+Kari Wahlgren%	Oldeuboi%	
 Sigourney Weaver%	Aliens%	
 Carrie Henn%	Aliens%	
 Michael Biehn%	Aliens%	
@@ -679,6 +1671,17 @@ Colette Hiller%	Aliens%
 Daniel Kash%	Aliens%	
 Cynthia Dale Scott%	Aliens%	
 Tip Tipping%	Aliens%	
+Trevor Steedman%	Aliens%	
+Paul Maxwell%	Aliens%	
+Alan Polonsky%	Aliens%	
+Blain Fairman%	Aliens%	
+Barbara Coles%	Aliens%	
+John Lees%	Aliens%	
+William Armstrong%	Aliens%	
+Jay Benedict%	Aliens%	
+Holly De Jong%	Aliens%	
+Elizabeth Inglis%	Aliens%	
+Mac McDonald%	Aliens%	
 Robert De Niro%	Once Upon a Time in America%	
 James Woods%	Once Upon a Time in America%	
 Elizabeth McGovern%	Once Upon a Time in America%	
@@ -694,6 +1697,20 @@ Larry Rapp%	Once Upon a Time in America%
 Dutch Miller%	Once Upon a Time in America%	
 Robert Harper%	Once Upon a Time in America%	
 Richard Bright%	Once Upon a Time in America%	
+Gerard Murphy%	Once Upon a Time in America%	
+Amy Ryder%	Once Upon a Time in America%	
+Olga Karlatos%	Once Upon a Time in America%	
+Mario Brega%	Once Upon a Time in America%	
+Ray Dittrich%	Once Upon a Time in America%	
+Frank Gio%	Once Upon a Time in America%	
+Karen Shallo%	Once Upon a Time in America%	
+Scott Schutzman Tiler%	Once Upon a Time in America%	
+Rusty Jacobs%	Once Upon a Time in America%	
+Brian Bloom%	Once Upon a Time in America%	
+Adrian Curran%	Once Upon a Time in America%	
+Mike Monetti%	Once Upon a Time in America%	
+Noah Moazezi%	Once Upon a Time in America%	
+James Russo%	Once Upon a Time in America%	
 Jürgen Prochnow%	Das Boot%	
 Herbert Grönemeyer%	Das Boot%	
 Klaus Wennemann%	Das Boot%	
@@ -709,6 +1726,10 @@ Jan Fedder%	Das Boot%
 Ralf Richter%	Das Boot%	
 Joachim Bernhard%	Das Boot%	
 Oliver Stritzel%	Das Boot%	
+Konrad Becker%	Das Boot%	
+Otto Sander%	Das Boot%	
+Günter Lamprecht%	Das Boot%	
+Jean-Claude Hoffmann%	Das Boot%	
 Joseph Cotten%	Citizen Kane%	
 Dorothy Comingore%	Citizen Kane%	
 Agnes Moorehead%	Citizen Kane%	
@@ -724,6 +1745,14 @@ Gus Schilling%	Citizen Kane%
 Philip Van Zandt%	Citizen Kane%	
 Georgia Backus%	Citizen Kane%	
 Harry Shannon%	Citizen Kane%	
+Sonny Bupp%	Citizen Kane%	
+Buddy Swan%	Citizen Kane%	
+Orson Welles%	Citizen Kane%	
+Don Ackerman%	Citizen Kane%	
+Demetrius Alexis%	Citizen Kane%	
+William Alston%	Citizen Kane%	
+Sam Ash%	Citizen Kane%	
+Harry A. Bailey%	Citizen Kane%	
 James Stewart%	Vertigo%	
 Kim Novak%	Vertigo%	
 Barbara Bel Geddes%	Vertigo%	
@@ -735,6 +1764,14 @@ Konstantin Shayne%	Vertigo%
 Lee Patrick%	Vertigo%	
 John Benson%	Vertigo%	
 Danny Borzage%	Vertigo%	
+Margaret Brayton%	Vertigo%	
+Paul Bryar%	Vertigo%	
+Steve Conte%	Vertigo%	
+Bruno Della Santina%	Vertigo%	
+Molly Dodd%	Vertigo%	
+Bess Flowers%	Vertigo%	
+Joe Garcio%	Vertigo%	
+Fred Graham%	Vertigo%	
 Cary Grant%	North by Northwest%	
 Eva Marie Saint%	North by Northwest%	
 James Mason%	North by Northwest%	
@@ -750,6 +1787,17 @@ Les Tremayne%	North by Northwest%
 Philip Coolidge%	North by Northwest%	
 Patrick McVey%	North by Northwest%	
 Edward Binns%	North by Northwest%	
+Ken Lynch%	North by Northwest%	
+Stanley Adams%	North by Northwest%	
+Andy Albin%	North by Northwest%	
+Don Anderson%	North by Northwest%	
+Ernest Anderson%	North by Northwest%	
+Malcolm Atterbury%	North by Northwest%	
+Tol Avery%	North by Northwest%	
+Frank Baker%	North by Northwest%	
+Baynes Barron%	North by Northwest%	
+Brandon Beach%	North by Northwest%	
+John Beradino%	North by Northwest%	
 James Robinson%	Braveheart%	
 Sean Lawlor%	Braveheart%	
 Sandy Nelson%	Braveheart%	
@@ -765,6 +1813,42 @@ Patrick McGoohan%	Braveheart%
 Peter Hanly%	Braveheart%	
 Sophie Marceau%	Braveheart%	
 Stephen Billington%	Braveheart%	
+Barry McGovern%	Braveheart%	
+Angus Macfadyen%	Braveheart%	
+John Kavanagh%	Braveheart%	
+Alun Armstrong%	Braveheart%	
+Mel Gibson%	Braveheart%	
+Catherine McCormack%	Braveheart%	
+Brendan Gleeson%	Braveheart%	
+Tommy Flanagan%	Braveheart%	
+Julie Austin%	Braveheart%	
+Alex Norton%	Braveheart%	
+Rupert Vansittart%	Braveheart%	
+Michael Byrne%	Braveheart%	
+Robert Paterson%	Braveheart%	
+Malcolm Tierney%	Braveheart%	
+Harvey Keitel%	Reservoir Dogs%	
+Tim Roth%	Reservoir Dogs%	
+Michael Madsen%	Reservoir Dogs%	
+Chris Penn%	Reservoir Dogs%	
+Steve Buscemi%	Reservoir Dogs%	
+Lawrence Tierney%	Reservoir Dogs%	
+Randy Brooks%	Reservoir Dogs%	
+Kirk Baltz%	Reservoir Dogs%	
+Edward Bunker%	Reservoir Dogs%	
+Quentin Tarantino%	Reservoir Dogs%	
+Rich Turner%	Reservoir Dogs%	
+David Steen%	Reservoir Dogs%	
+Tony Cosmo%	Reservoir Dogs%	
+Stevo Polyi%	Reservoir Dogs%	
+Michael Sottile%	Reservoir Dogs%	
+Robert Ruth%	Reservoir Dogs%	
+Lawrence Bender%	Reservoir Dogs%	
+Linda Kaye%	Reservoir Dogs%	
+Steven Wright%	Reservoir Dogs%	
+Burr Steers%	Reservoir Dogs%	
+Craig Hamann%	Reservoir Dogs%	
+Rowland Wafford%	Reservoir Dogs%	
 Mark Hamill%	Star Wars: Episode VI - Return of the Jedi%	
 Harrison Ford%	Star Wars: Episode VI - Return of the Jedi%	
 Carrie Fisher%	Star Wars: Episode VI - Return of the Jedi%	
@@ -780,6 +1864,21 @@ Alec Guinness%	Star Wars: Episode VI - Return of the Jedi%
 Kenny Baker%	Star Wars: Episode VI - Return of the Jedi%	
 Michael Pennington%	Star Wars: Episode VI - Return of the Jedi%	
 Kenneth Colley%	Star Wars: Episode VI - Return of the Jedi%	
+Michael Carter%	Star Wars: Episode VI - Return of the Jedi%	
+Denis Lawson%	Star Wars: Episode VI - Return of the Jedi%	
+Tim Rose%	Star Wars: Episode VI - Return of the Jedi%	
+Dermot Crowley%	Star Wars: Episode VI - Return of the Jedi%	
+Caroline Blakiston%	Star Wars: Episode VI - Return of the Jedi%	
+Warwick Davis%	Star Wars: Episode VI - Return of the Jedi%	
+Jeremy Bulloch%	Star Wars: Episode VI - Return of the Jedi%	
+Femi Taylor%	Star Wars: Episode VI - Return of the Jedi%	
+Annie Arbogast%	Star Wars: Episode VI - Return of the Jedi%	
+Claire Davenport%	Star Wars: Episode VI - Return of the Jedi%	
+Jack Purvis%	Star Wars: Episode VI - Return of the Jedi%	
+Mike Edmonds%	Star Wars: Episode VI - Return of the Jedi%	
+Jane Busby%	Star Wars: Episode VI - Return of the Jedi%	
+Malcolm Dixon%	Star Wars: Episode VI - Return of the Jedi%	
+Mike Cottrell%	Star Wars: Episode VI - Return of the Jedi%	
 Peter Lorre%	M%	
 Ellen Widmann%	M%	
 Inge Landgut%	M%	
@@ -795,6 +1894,17 @@ Georg John%	M%
 Franz Stein%	M%	
 Ernst Stahl-Nachbaur%	M%	
 Gerhard Bienert%	M%	
+Karl Platen%	M%	
+Rosa Valetti%	M%	
+Hertha von Walther%	M%	
+Carl Ballhaus%	M%	
+Josef Dahmen%	M%	
+Else Ehser%	M%	
+Ilse Fürstenberg%	M%	
+Heinrich Gotho%	M%	
+Heinrich Gretler%	M%	
+Günther Hadank%	M%	
+Aamir Khan%	Dangal%	
 Sakshi Tanwar%	Dangal%	
 Fatima Sana Shaikh%	Dangal%	
 Ritwik Sahore%	Dangal%	
@@ -803,6 +1913,7 @@ Anurag Arora%	Dangal%
 Mahesh Balraj%	Dangal%	
 Vivan Bhatena%	Dangal%	
 Badrul Islam%	Dangal%	
+Shishir Sharma%	Dangal%	
 Ryunosuke Kamiki%	Kimi no na wa.%	
 Mone Kamishiraishi%	Kimi no na wa.%	
 Aoi Yuki%	Kimi no na wa.%	
@@ -814,6 +1925,8 @@ Kazuhiko Inoue%	Kimi no na wa.%
 Chafurin%	Kimi no na wa.%	
 Kana Hanazawa%	Kimi no na wa.%	
 Takashi Onozuka%	Kimi no na wa.%	
+Kanami Satou%	Kimi no na wa.%	
+Suguru Inoue%	Kimi no na wa.%	
 Ellen Burstyn%	Requiem for a Dream%	
 Jared Leto%	Requiem for a Dream%	
 Jennifer Connelly%	Requiem for a Dream%	
@@ -829,6 +1942,15 @@ Mark Margolis%	Requiem for a Dream%
 Michael Kaycheck%	Requiem for a Dream%	
 Jack O'Connell%	Requiem for a Dream%	
 Chas Mastin%	Requiem for a Dream%	
+Ajay Naidu%	Requiem for a Dream%	
+Sean Gullette%	Requiem for a Dream%	
+Samia Shoaib%	Requiem for a Dream%	
+Peter Maloney%	Requiem for a Dream%	
+Denise Dowse%	Requiem for a Dream%	
+Eddie De Harp%	Requiem for a Dream%	
+Scott Franklin%	Requiem for a Dream%	
+Abraham Aronofsky%	Requiem for a Dream%	
+James Chinlund%	Requiem for a Dream%	
 F. Murray Abraham%	Amadeus%	
 Tom Hulce%	Amadeus%	
 Elizabeth Berridge%	Amadeus%	
@@ -844,6 +1966,20 @@ Barbara Bryne%	Amadeus%
 Martin Cavina%	Amadeus%	
 Roderick Cook%	Amadeus%	
 Milan Demjanenko%	Amadeus%	
+Peter DiGesu%	Amadeus%	
+Richard Frank%	Amadeus%	
+Patrick Hines%	Amadeus%	
+Nicholas Kepros%	Amadeus%	
+Philip Lenkowsky%	Amadeus%	
+Herman Meckler%	Amadeus%	
+Jonathan Moore%	Amadeus%	
+Cynthia Nixon%	Amadeus%	
+Brian Pettifer%	Amadeus%	
+Vincent Schiavelli%	Amadeus%	
+Douglas Seale%	Amadeus%	
+Cassie Stuart%	Amadeus%	
+John Strauss%	Amadeus%	
+Karl-Heinz Teuber%	Amadeus%	
 Darsheel Safary%	Taare Zameen Par%	
 Aamir Khan%	Taare Zameen Par%	
 Tanay Chheda%	Taare Zameen Par%	
@@ -854,6 +1990,8 @@ Girija Oak%	Taare Zameen Par%
 Ravi Khanvilkar%	Taare Zameen Par%	
 Meghna Malik%	Taare Zameen Par%	
 Bugs Bhargava%	Taare Zameen Par%	
+M.K. Raina%	Taare Zameen Par%	
+Gurkirtan%	Taare Zameen Par%	
 Audrey Tautou%	Amélie%	
 Mathieu Kassovitz%	Amélie%	
 Rufus%	Amélie%	
@@ -869,6 +2007,17 @@ Yolande Moreau%	Amélie%
 Urbain Cancelier%	Amélie%	
 Maurice Bénichou%	Amélie%	
 Michel Robin%	Amélie%	
+Andrée Damant%	Amélie%	
+Claude Perron%	Amélie%	
+Armelle%	Amélie%	
+Ticky Holgado%	Amélie%	
+André Dussollier%	Amélie%	
+Eugène Berthier%	Amélie%	
+Charles-Roger Bour%	Amélie%	
+Luc Palun%	Amélie%	
+Fabienne Chaudat%	Amélie%	
+Dominique Bettenfeld%	Amélie%	
+Jacques Viala%	Amélie%	
 Malcolm McDowell%	A Clockwork Orange%	
 Patrick Magee%	A Clockwork Orange%	
 Michael Bates%	A Clockwork Orange%	
@@ -884,6 +2033,19 @@ James Marcus%	A Clockwork Orange%
 Aubrey Morris%	A Clockwork Orange%	
 Godfrey Quigley%	A Clockwork Orange%	
 Sheila Raynor%	A Clockwork Orange%	
+Madge Ryan%	A Clockwork Orange%	
+John Savident%	A Clockwork Orange%	
+Anthony Sharp%	A Clockwork Orange%	
+Philip Stone%	A Clockwork Orange%	
+Pauline Taylor%	A Clockwork Orange%	
+Margaret Tyzack%	A Clockwork Orange%	
+Steven Berkoff%	A Clockwork Orange%	
+Michael Tarn%	A Clockwork Orange%	
+David Prowse%	A Clockwork Orange%	
+Barrie Cookson%	A Clockwork Orange%	
+Gaye Brown%	A Clockwork Orange%	
+Peter Burton%	A Clockwork Orange%	
+John J. Carney%	A Clockwork Orange%	
 Peter O'Toole%	Lawrence of Arabia%	
 Alec Guinness%	Lawrence of Arabia%	
 Anthony Quinn%	Lawrence of Arabia%	
@@ -899,6 +2061,15 @@ Gamil Ratib%	Lawrence of Arabia%
 Michel Ray%	Lawrence of Arabia%	
 John Dimech%	Lawrence of Arabia%	
 Zia Mohyeddin%	Lawrence of Arabia%	
+Howard Marion-Crawford%	Lawrence of Arabia%	
+Jack Gwillim%	Lawrence of Arabia%	
+John Barry%	Lawrence of Arabia%	
+Bruce Beeby%	Lawrence of Arabia%	
+John Bennett%	Lawrence of Arabia%	
+Robert Bolt%	Lawrence of Arabia%	
+Peter Burton%	Lawrence of Arabia%	
+J.R.M. Chapman%	Lawrence of Arabia%	
+Basil Dignam%	Lawrence of Arabia%	
 Jim Carrey%	Eternal Sunshine of the Spotless Mind%	
 Kate Winslet%	Eternal Sunshine of the Spotless Mind%	
 Gerry Robert Byrne%	Eternal Sunshine of the Spotless Mind%	
@@ -914,6 +2085,10 @@ Debbon Ayer%	Eternal Sunshine of the Spotless Mind%
 Amir Ali Said%	Eternal Sunshine of the Spotless Mind%	
 Brian Price%	Eternal Sunshine of the Spotless Mind%	
 Paul Litowsky%	Eternal Sunshine of the Spotless Mind%	
+Josh Flitter%	Eternal Sunshine of the Spotless Mind%	
+Lola Daehler%	Eternal Sunshine of the Spotless Mind%	
+Deirdre O'Connell%	Eternal Sunshine of the Spotless Mind%	
+Lauren Adler%	Eternal Sunshine of the Spotless Mind%	
 Fred MacMurray%	Double Indemnity%	
 Barbara Stanwyck%	Double Indemnity%	
 Edward G. Robinson%	Double Indemnity%	
@@ -929,6 +2104,44 @@ John Berry%	Double Indemnity%
 Raymond Chandler%	Double Indemnity%	
 Edmund Cobb%	Double Indemnity%	
 Kernan Cripps%	Double Indemnity%	
+Betty Farrington%	Double Indemnity%	
+Bess Flowers%	Double Indemnity%	
+Harold Garrison%	Double Indemnity%	
+Eddie Hall%	Double Indemnity%	
+Teala Loring%	Double Indemnity%	
+George Magrill%	Double Indemnity%	
+Sam McDaniel%	Double Indemnity%	
+Billy Mitchell%	Double Indemnity%	
+Clarence Muse%	Double Indemnity%	
+Miriam Franklin%	Double Indemnity%	
+Constance Purdy%	Double Indemnity%	
+Dick Rush%	Double Indemnity%	
+Floyd Shackelford%	Double Indemnity%	
+Oscar Smith%	Double Indemnity%	
+Douglas Spencer%	Double Indemnity%	
+Diahnne Abbott%	Taxi Driver%	
+Frank Adu%	Taxi Driver%	
+Victor Argo%	Taxi Driver%	
+Gino Ardito%	Taxi Driver%	
+Peter Boyle%	Taxi Driver%	
+Albert Brooks%	Taxi Driver%	
+Robert De Niro%	Taxi Driver%	
+Brenda Dickson%	Taxi Driver%	
+Jodie Foster%	Taxi Driver%	
+Leonard Harris%	Taxi Driver%	
+Richard Higgs%	Taxi Driver%	
+Harvey Keitel%	Taxi Driver%	
+Victor Magnotta%	Taxi Driver%	
+Bob Maroff%	Taxi Driver%	
+Norman Matlock%	Taxi Driver%	
+Bill Minkin%	Taxi Driver%	
+Murray Moston%	Taxi Driver%	
+Harry Northup%	Taxi Driver%	
+Harlan Cary Poe%	Taxi Driver%	
+Steven Prince%	Taxi Driver%	
+Peter Savage%	Taxi Driver%	
+Martin Scorsese%	Taxi Driver%	
+Cybill Shepherd%	Taxi Driver%	
 Gene Kelly%	Singin' in the Rain%	
 Donald O'Connor%	Singin' in the Rain%	
 Debbie Reynolds%	Singin' in the Rain%	
@@ -942,6 +2155,30 @@ John Albright%	Singin' in the Rain%
 Sue Allen%	Singin' in the Rain%	
 Bette Arlen%	Singin' in the Rain%	
 David Bair%	Singin' in the Rain%	
+Jimmy Bates%	Singin' in the Rain%	
+Margaret Bert%	Singin' in the Rain%	
+Madge Blake%	Singin' in the Rain%	
+Gail Bonney%	Singin' in the Rain%	
+Chet Brandenburg%	Singin' in the Rain%	
+Mae Clarke%	Singin' in the Rain%	
+Dorinda Clifton%	Singin' in the Rain%	
+Harry Cody%	Singin' in the Rain%	
+Chick Collins%	Singin' in the Rain%	
+Pat Conway%	Singin' in the Rain%	
+Jeanne Coyne%	Singin' in the Rain%	
+Aamir Khan%	3 Idiots%	
+R. Madhavan%	3 Idiots%	
+Sharman Joshi%	3 Idiots%	
+Kareena Kapoor%	3 Idiots%	
+Boman Irani%	3 Idiots%	
+Omi Vaidya%	3 Idiots%	
+Mona Singh%	3 Idiots%	
+Javed Jaffrey%	3 Idiots%	
+Parikshat Sahni%	3 Idiots%	
+Amardeep Jha%	3 Idiots%	
+Jayant Kripalani%	3 Idiots%	
+Arun Bali%	3 Idiots%	
+Chandrashekhar%	3 Idiots%	
 Keir Dullea%	2001: A Space Odyssey%	
 Gary Lockwood%	2001: A Space Odyssey%	
 William Sylvester%	2001: A Space Odyssey%	
@@ -957,6 +2194,21 @@ Ed Bishop%	2001: A Space Odyssey%
 Glenn Beck%	2001: A Space Odyssey%	
 Alan Gifford%	2001: A Space Odyssey%	
 Ann Gillis%	2001: A Space Odyssey%	
+Edwina Carroll%	2001: A Space Odyssey%	
+Penny Brahms%	2001: A Space Odyssey%	
+Heather Downham%	2001: A Space Odyssey%	
+Mike Lovell%	2001: A Space Odyssey%	
+John Ashley%	2001: A Space Odyssey%	
+Jimmy Bell%	2001: A Space Odyssey%	
+David Charkham%	2001: A Space Odyssey%	
+Simon Davis%	2001: A Space Odyssey%	
+Jonathan Daw%	2001: A Space Odyssey%	
+Péter Delmár%	2001: A Space Odyssey%	
+Terry Duggan%	2001: A Space Odyssey%	
+David Fleetwood%	2001: A Space Odyssey%	
+Danny Grover%	2001: A Space Odyssey%	
+Brian Hawley%	2001: A Space Odyssey%	
+David Hines%	2001: A Space Odyssey%	
 Tom Hanks%	Toy Story%	
 Tim Allen%	Toy Story%	
 Don Rickles%	Toy Story%	
@@ -972,6 +2224,20 @@ Sarah Freeman%	Toy Story%
 Penn Jillette%	Toy Story%	
 Jack Angel%	Toy Story%	
 Spencer Aste%	Toy Story%	
+Greg Berg%	Toy Story%	
+Kendall Cunningham%	Toy Story%	
+Debi Derryberry%	Toy Story%	
+Cody Dorkin%	Toy Story%	
+Bill Farmer%	Toy Story%	
+Craig Good%	Toy Story%	
+Gregory Grudt%	Toy Story%	
+Danielle Judovits%	Toy Story%	
+Sam Lasseter%	Toy Story%	
+Brittany Levenbrown%	Toy Story%	
+Sherry Lynn%	Toy Story%	
+Scott McAfee%	Toy Story%	
+Mickie McGowan%	Toy Story%	
+Ryan O'Donohue%	Toy Story%	
 Gregory Peck%	To Kill a Mockingbird%	
 John Megna%	To Kill a Mockingbird%	
 Frank Overton%	To Kill a Mockingbird%	
@@ -987,6 +2253,17 @@ Robert Duvall%	To Kill a Mockingbird%
 William Windom%	To Kill a Mockingbird%	
 Crahan Denton%	To Kill a Mockingbird%	
 Richard Hale%	To Kill a Mockingbird%	
+Mary Badham%	To Kill a Mockingbird%	
+Phillip Alford%	To Kill a Mockingbird%	
+R.L. Armstrong%	To Kill a Mockingbird%	
+Eddie Baker%	To Kill a Mockingbird%	
+Bobby Barber%	To Kill a Mockingbird%	
+Audrey Betz%	To Kill a Mockingbird%	
+Danny Borzage%	To Kill a Mockingbird%	
+Jess Cavin%	To Kill a Mockingbird%	
+Noble Chissell%	To Kill a Mockingbird%	
+Steve Condit%	To Kill a Mockingbird%	
+David Crawford%	To Kill a Mockingbird%	
 Matthew Modine%	Full Metal Jacket%	
 Adam Baldwin%	Full Metal Jacket%	
 Vincent D'Onofrio%	Full Metal Jacket%	
@@ -1002,6 +2279,17 @@ Tim Colceri%	Full Metal Jacket%
 Jon Stafford%	Full Metal Jacket%	
 Bruce Boa%	Full Metal Jacket%	
 Ian Tyler%	Full Metal Jacket%	
+Sal Lopez%	Full Metal Jacket%	
+Gary Landon Mills%	Full Metal Jacket%	
+Papillon Soo%	Full Metal Jacket%	
+Peter Edmund%	Full Metal Jacket%	
+Ngoc Le%	Full Metal Jacket%	
+Tan Hung Francione%	Full Metal Jacket%	
+Marcus D'Amico%	Full Metal Jacket%	
+Costas Dino Chimona%	Full Metal Jacket%	
+Gil Kopel%	Full Metal Jacket%	
+Keith Hodiak%	Full Metal Jacket%	
+Peter Merrill%	Full Metal Jacket%	
 Brad Pitt%	Inglourious Basterds%	
 Mélanie Laurent%	Inglourious Basterds%	
 Christoph Waltz%	Inglourious Basterds%	
@@ -1017,6 +2305,21 @@ Omar Doom%	Inglourious Basterds%
 August Diehl%	Inglourious Basterds%	
 Denis Ménochet%	Inglourious Basterds%	
 Sylvester Groth%	Inglourious Basterds%	
+Martin Wuttke%	Inglourious Basterds%	
+Mike Myers%	Inglourious Basterds%	
+Julie Dreyfus%	Inglourious Basterds%	
+Richard Sammel%	Inglourious Basterds%	
+Alexander Fehling%	Inglourious Basterds%	
+Rod Taylor%	Inglourious Basterds%	
+Sönke Möhring%	Inglourious Basterds%	
+Samm Levine%	Inglourious Basterds%	
+Paul Rust%	Inglourious Basterds%	
+Michael Bacall%	Inglourious Basterds%	
+Arndt Schwering-Sohnrey%	Inglourious Basterds%	
+Petra Hartung%	Inglourious Basterds%	
+Volker Michalowski%	Inglourious Basterds%	
+Ken Duken%	Inglourious Basterds%	
+Christian Berkel%	Inglourious Basterds%	
 Lamberto Maggiorani%	Bicycle Thieves%	
 Enzo Staiola%	Bicycle Thieves%	
 Lianella Carell%	Bicycle Thieves%	
@@ -1031,6 +2334,14 @@ Carlo Jachino%	Bicycle Thieves%
 Giulio Battiferri%	Bicycle Thieves%	
 Nando Bruno%	Bicycle Thieves%	
 Eolo Capritti%	Bicycle Thieves%	
+Memmo Carotenuto%	Bicycle Thieves%	
+Aldo Fabrizi%	Bicycle Thieves%	
+Sergio Leone%	Bicycle Thieves%	
+Mario Meniconi%	Bicycle Thieves%	
+Checco Rissone%	Bicycle Thieves%	
+Alberto Sordi%	Bicycle Thieves%	
+Peppino Spadaro%	Bicycle Thieves%	
+Umberto Spadaro%	Bicycle Thieves%	
 Paul Newman%	The Sting%	
 Robert Redford%	The Sting%	
 Robert Shaw%	The Sting%	
@@ -1045,6 +2356,19 @@ Dimitra Arliss%	The Sting%
 Robert Earl Jones%	The Sting%	
 James Sloyan%	The Sting%	
 Lee Paul%	The Sting%	
+Sally Kirkland%	The Sting%	
+Avon Long%	The Sting%	
+Arch Johnson%	The Sting%	
+Ed Bakey%	The Sting%	
+Brad Sullivan%	The Sting%	
+John Quade%	The Sting%	
+Larry D. Mann%	The Sting%	
+Leonard Barr%	The Sting%	
+Paulene Myers%	The Sting%	
+Jack Collins%	The Sting%	
+Tom Spratley%	The Sting%	
+Ken Sansom%	The Sting%	
+Ta-Tanisha%	The Sting%	
 Carl Miller%	The Kid%	
 Edna Purviance%	The Kid%	
 Jackie Coogan%	The Kid%	
@@ -1059,6 +2383,15 @@ Frank Campeau%	The Kid%
 Bliss Chevalier%	The Kid%	
 Frances Cochran%	The Kid%	
 Elsie Codd%	The Kid%	
+Jack Coogan Sr.%	The Kid%	
+Estelle Cook%	The Kid%	
+Lillian Crane%	The Kid%	
+Philip D'Oench%	The Kid%	
+Dan Dillon%	The Kid%	
+Robert Dunbar%	The Kid%	
+Sadie Gordon%	The Kid%	
+Lita Grey%	The Kid%	
+Jules Hanft%	The Kid%	
 Tom Hanks%	Toy Story 3%	
 Tim Allen%	Toy Story 3%	
 Joan Cusack%	Toy Story 3%	
@@ -1074,6 +2407,19 @@ Emily Hahn%	Toy Story 3%
 Laurie Metcalf%	Toy Story 3%	
 Blake Clark%	Toy Story 3%	
 Teddy Newton%	Toy Story 3%	
+Bud Luckey%	Toy Story 3%	
+Javier Fernandez Pena%	Toy Story 3%	
+Timothy Dalton%	Toy Story 3%	
+Lori Alan%	Toy Story 3%	
+Charlie Bright%	Toy Story 3%	
+Kristen Schaal%	Toy Story 3%	
+Jeff Garlin%	Toy Story 3%	
+Bonnie Hunt%	Toy Story 3%	
+John Cygan%	Toy Story 3%	
+Jeff Pidgeon%	Toy Story 3%	
+Whoopi Goldberg%	Toy Story 3%	
+Jack Angel%	Toy Story 3%	
+R. Lee Ermey%	Toy Story 3%	
 Benicio del Toro%	Snatch%	
 Dennis Farina%	Snatch%	
 Vinnie Jones%	Snatch%	
@@ -1089,6 +2435,16 @@ Jason Flemyng%	Snatch%
 Ade%	Snatch%	
 William Beck%	Snatch%	
 Andy Beckwith%	Snatch%	
+Nicola Collins%	Snatch%	
+Charles Cork%	Snatch%	
+James Cunningham%	Snatch%	
+Sorcha Cusack%	Snatch%	
+Sam Douglas%	Snatch%	
+Adam Fogerty%	Snatch%	
+Goldie%	Snatch%	
+Stephen Graham%	Snatch%	
+Ronald Isaac%	Snatch%	
+Chuck Julian%	Snatch%	
 Matt Damon%	Good Will Hunting%	
 Ben Affleck%	Good Will Hunting%	
 Stellan Skarsgård%	Good Will Hunting%	
@@ -1104,6 +2460,50 @@ Dan Washington%	Good Will Hunting%
 Alison Folland%	Good Will Hunting%	
 Derrick Bridgeman%	Good Will Hunting%	
 Vik Sahay%	Good Will Hunting%	
+Shannon Egleson%	Good Will Hunting%	
+Rob Lyons%	Good Will Hunting%	
+Steven Kozlowski%	Good Will Hunting%	
+Minnie Driver%	Good Will Hunting%	
+Jennifer Deathe%	Good Will Hunting%	
+Scott William Winters%	Good Will Hunting%	
+Philip Williams%	Good Will Hunting%	
+Patrick O'Donnell%	Good Will Hunting%	
+Kevin Rushton%	Good Will Hunting%	
+Jimmy Flynn%	Good Will Hunting%	
+Joe Cannon%	Good Will Hunting%	
+Ann Matacunas%	Good Will Hunting%	
+George Plimpton%	Good Will Hunting%	
+Francesco Clemente%	Good Will Hunting%	
+Robin Williams%	Good Will Hunting%	
+Mads Mikkelsen%	Jagten%	
+Thomas Bo Larsen%	Jagten%	
+Annika Wedderkopp%	Jagten%	
+Lasse Fogelstrøm%	Jagten%	
+Susse Wold%	Jagten%	
+Anne Louise Hassing%	Jagten%	
+Lars Ranthe%	Jagten%	
+Alexandra Rapaport%	Jagten%	
+Sebastian Bull Sarning%	Jagten%	
+Steen Ordell Guldbrandsen%	Jagten%	
+Daniel Engstrup%	Jagten%	
+Troels Thorsen%	Jagten%	
+Søren Rønholt%	Jagten%	
+Jytte Kvinesdal%	Jagten%	
+Josefine Gråbøl%	Jagten%	
+Bjarne Henriksen%	Jagten%	
+Nicolai Dahl Hamilton%	Jagten%	
+Øyvind Hagen-Traberg%	Jagten%	
+Allan Wibor Christensen%	Jagten%	
+Rikke Bergmann%	Jagten%	
+Rasmus Lind Rubin%	Jagten%	
+Frank Rubæk%	Jagten%	
+Jacob Højlev Jørgensen%	Jagten%	
+Nina Christrup%	Jagten%	
+Birgit Petersen%	Jagten%	
+Karina Fogh Holmkjær%	Jagten%	
+Heidi Gross%	Jagten%	
+Marie Aktor%	Jagten%	
+Mona C. Soliman%	Jagten%	
 Graham Chapman%	Monty Python and the Holy Grail%	
 John Cleese%	Monty Python and the Holy Grail%	
 Eric Idle%	Monty Python and the Holy Grail%	
@@ -1119,6 +2519,8 @@ Rita Davies%	Monty Python and the Holy Grail%
 Avril Stewart%	Monty Python and the Holy Grail%	
 Sally Kinghorn%	Monty Python and the Holy Grail%	
 Mark Zycon%	Monty Python and the Holy Grail%	
+Sandy Johnson%	Monty Python and the Holy Grail%	
+Joni Flynn%	Monty Python and the Holy Grail%	
 Clint Eastwood%	For a Few Dollars More%	
 Lee Van Cleef%	For a Few Dollars More%	
 Gian Maria Volonté%	For a Few Dollars More%	
@@ -1133,6 +2535,16 @@ Roberto Camardiel%	For a Few Dollars More%
 Josef Egger%	For a Few Dollars More%	
 Tomás Blanco%	For a Few Dollars More%	
 Lorenzo Robledo%	For a Few Dollars More%	
+Sergio Mendizábal%	For a Few Dollars More%	
+Dante Maggio%	For a Few Dollars More%	
+Mario Meniconi%	For a Few Dollars More%	
+Werner Abrolat%	For a Few Dollars More%	
+Román Ariznavarreta%	For a Few Dollars More%	
+Frank Braña%	For a Few Dollars More%	
+José Canalejas%	For a Few Dollars More%	
+Rosemary Dexter%	For a Few Dollars More%	
+Fernando Di Leo%	For a Few Dollars More%	
+Robert Dryden%	For a Few Dollars More%	
 Al Pacino%	Scarface%	
 Steven Bauer%	Scarface%	
 Michelle Pfeiffer%	Scarface%	
@@ -1148,6 +2560,15 @@ Pepe Serna%	Scarface%
 Michael P. Moran%	Scarface%	
 Al Israel%	Scarface%	
 Dennis Holahan%	Scarface%	
+Mark Margolis%	Scarface%	
+Michael Alldredge%	Scarface%	
+Ted Beniades%	Scarface%	
+Richard Belzer%	Scarface%	
+John Brandon%	Scarface%	
+Tony Perez%	Scarface%	
+Garnett Smith%	Scarface%	
+Gil Barreto%	Scarface%	
+Victor Campos%	Scarface%	
 Kevin Spacey%	L.A. Confidential%	
 Russell Crowe%	L.A. Confidential%	
 Guy Pearce%	L.A. Confidential%	
@@ -1163,6 +2584,20 @@ Elisabeth Granli%	L.A. Confidential%
 Sandra Taylor%	L.A. Confidential%	
 Steve Rankin%	L.A. Confidential%	
 Graham Beckel%	L.A. Confidential%	
+Allan Graf%	L.A. Confidential%	
+Precious Chong%	L.A. Confidential%	
+Symba%	L.A. Confidential%	
+Bob Clendenin%	L.A. Confidential%	
+Lennie Loftin%	L.A. Confidential%	
+Will Zahrn%	L.A. Confidential%	
+Amber Smith%	L.A. Confidential%	
+Darrell Sandeen%	L.A. Confidential%	
+Michael Warwick%	L.A. Confidential%	
+Simon Baker%	L.A. Confidential%	
+Shawnee Free Jones%	L.A. Confidential%	
+Thomas Rosales, Jr.%	L.A. Confidential%	
+Shane Dixon%	L.A. Confidential%	
+Norman Howell%	L.A. Confidential%	
 Jack Lemmon%	The Apartment%	
 Shirley MacLaine%	The Apartment%	
 Fred MacMurray%	The Apartment%	
@@ -1178,6 +2613,16 @@ Willard Waterman%	The Apartment%
 David White%	The Apartment%	
 Edie Adams%	The Apartment%	
 Dorothy Abbott%	The Apartment%	
+Bill Baldwin%	The Apartment%	
+Paul Bradley%	The Apartment%	
+Benny Burt%	The Apartment%	
+Steve Carruthers%	The Apartment%	
+Lynn Cartwright%	The Apartment%	
+Franklyn Farnum%	The Apartment%	
+Lars Hensen%	The Apartment%	
+Eugene Jackson%	The Apartment%	
+David Macklin%	The Apartment%	
+William Meader%	The Apartment%	
 Alfred Abel%	Metropolis%	
 Gustav Fröhlich%	Metropolis%	
 Rudolf Klein-Rogge%	Metropolis%	
@@ -1189,6 +2634,15 @@ Brigitte Helm%	Metropolis%
 Fritz Alberti%	Metropolis%	
 Grete Berger%	Metropolis%	
 Heinrich Gotho%	Metropolis%	
+Gottfried Huppertz%	Metropolis%	
+Georg John%	Metropolis%	
+Margarete Lanner%	Metropolis%	
+Hanns Leo Reich%	Metropolis%	
+Arthur Reinhardt%	Metropolis%	
+Curt Siodmak%	Metropolis%	
+Olaf Storm%	Metropolis%	
+Rolf von Goth%	Metropolis%	
+Helen von Münchofen%	Metropolis%	
 Payman Maadi%	A Separation%	
 Leila Hatami%	A Separation%	
 Sareh Bayat%	A Separation%	
@@ -1198,6 +2652,36 @@ Ali-Asghar Shahbazi%	A Separation%
 Babak Karimi%	A Separation%	
 Kimia Hosseini%	A Separation%	
 Shirin Yazdanbakhsh%	A Separation%	
+Harrison Ford%	Indiana Jones and the Last Crusade%	
+Sean Connery%	Indiana Jones and the Last Crusade%	
+Denholm Elliott%	Indiana Jones and the Last Crusade%	
+Alison Doody%	Indiana Jones and the Last Crusade%	
+John Rhys-Davies%	Indiana Jones and the Last Crusade%	
+Julian Glover%	Indiana Jones and the Last Crusade%	
+River Phoenix%	Indiana Jones and the Last Crusade%	
+Michael Byrne%	Indiana Jones and the Last Crusade%	
+Kevork Malikyan%	Indiana Jones and the Last Crusade%	
+Robert Eddison%	Indiana Jones and the Last Crusade%	
+Richard Young%	Indiana Jones and the Last Crusade%	
+Alexei Sayle%	Indiana Jones and the Last Crusade%	
+Alex Hyde-White%	Indiana Jones and the Last Crusade%	
+Paul Maxwell%	Indiana Jones and the Last Crusade%	
+Isla Blair%	Indiana Jones and the Last Crusade%	
+Vernon Dobtcheff%	Indiana Jones and the Last Crusade%	
+J. J. Hardy%	Indiana Jones and the Last Crusade%	
+Bradley Gregg%	Indiana Jones and the Last Crusade%	
+Jeff O'Haco%	Indiana Jones and the Last Crusade%	
+Vince Deadrick Sr.%	Indiana Jones and the Last Crusade%	
+Marc Miles%	Indiana Jones and the Last Crusade%	
+Ted Grossman%	Indiana Jones and the Last Crusade%	
+Tim Hiser%	Indiana Jones and the Last Crusade%	
+Larry Sanders%	Indiana Jones and the Last Crusade%	
+Will Miles%	Indiana Jones and the Last Crusade%	
+David Murray%	Indiana Jones and the Last Crusade%	
+Frederick Jaeger%	Indiana Jones and the Last Crusade%	
+Jerry Harte%	Indiana Jones and the Last Crusade%	
+Billy J. Mitchell%	Indiana Jones and the Last Crusade%	
+Martin Gordon%	Indiana Jones and the Last Crusade%	
 Ed Asner%	Up%	
 Christopher Plummer%	Up%	
 Jordan Nagai%	Up%	
@@ -1213,6 +2697,20 @@ Danny Mann%	Up%
 Donald Fullilove%	Up%	
 Jess Harnell%	Up%	
 Josh Cooley%	Up%	
+Pete Docter%	Up%	
+Mark Andrews%	Up%	
+Bob Bergen%	Up%	
+Brenda Chapman%	Up%	
+Emma Coats%	Up%	
+John Cygan%	Up%	
+Paul Eiding%	Up%	
+Tony Fucile%	Up%	
+Teresa Ganzel%	Up%	
+Sherry Lynn%	Up%	
+Laraine Newman%	Up%	
+Teddy Newton%	Up%	
+Jeff Pidgeon%	Up%	
+Valerie LaPointe%	Up%	
 Bette Davis%	All About Eve%	
 Anne Baxter%	All About Eve%	
 George Sanders%	All About Eve%	
@@ -1228,6 +2726,20 @@ Randy Stuart%	All About Eve%
 Craig Hill%	All About Eve%	
 Leland Harris%	All About Eve%	
 Barbara White%	All About Eve%	
+William Pullen%	All About Eve%	
+Claude Stroud%	All About Eve%	
+Eugene Borden%	All About Eve%	
+Helen Mowery%	All About Eve%	
+Steven Geray%	All About Eve%	
+Gertrude Astor%	All About Eve%	
+Frank Baker%	All About Eve%	
+Ralph Brooks%	All About Eve%	
+Jack Chefe%	All About Eve%	
+Sayre Dearing%	All About Eve%	
+Jack Deery%	All About Eve%	
+Franklyn Farnum%	All About Eve%	
+Bess Flowers%	All About Eve%	
+Colin Kenny%	All About Eve%	
 Christian Bale%	Batman Begins%	
 Michael Caine%	Batman Begins%	
 Liam Neeson%	Batman Begins%	
@@ -1243,6 +2755,19 @@ Morgan Freeman%	Batman Begins%
 Larry Holden%	Batman Begins%	
 Gerard Murphy%	Batman Begins%	
 Colin McFarlane%	Batman Begins%	
+Sara Stewart%	Batman Begins%	
+Gus Lewis%	Batman Begins%	
+Richard Brake%	Batman Begins%	
+Rade Serbedzija%	Batman Begins%	
+Emma Lockhart%	Batman Begins%	
+Christine Adams%	Batman Begins%	
+Catherine Porter%	Batman Begins%	
+John Nolan%	Batman Begins%	
+Karen David%	Batman Begins%	
+Tamer Hassan%	Batman Begins%	
+Ronan Leahy%	Batman Begins%	
+Vincent Wong%	Batman Begins%	
+Tom Wu%	Batman Begins%	
 Marilyn Monroe%	Some Like It Hot%	
 Tony Curtis%	Some Like It Hot%	
 Jack Lemmon%	Some Like It Hot%	
@@ -1257,6 +2782,16 @@ Mike Mazurki%	Some Like It Hot%
 Harry Wilson%	Some Like It Hot%	
 Beverly Wills%	Some Like It Hot%	
 Barbara Drew%	Some Like It Hot%	
+Edward G. Robinson Jr.%	Some Like It Hot%	
+Brandon Beach%	Some Like It Hot%	
+Steve Carruthers%	Some Like It Hot%	
+James J. Casino%	Some Like It Hot%	
+Noble Chissell%	Some Like It Hot%	
+Marian Collier%	Some Like It Hot%	
+Pat Comiskey%	Some Like It Hot%	
+Paul Cristo%	Some Like It Hot%	
+James Dime%	Some Like It Hot%	
+Franklyn Farnum%	Some Like It Hot%	
 Clint Eastwood%	Unforgiven%	
 Gene Hackman%	Unforgiven%	
 Morgan Freeman%	Unforgiven%	
@@ -1271,6 +2806,17 @@ Anthony James%	Unforgiven%
 Tara Frederick%	Unforgiven%	
 Beverley Elliott%	Unforgiven%	
 Liisa Repo-Martell%	Unforgiven%	
+Shane Meier%	Unforgiven%	
+Robert Koons%	Unforgiven%	
+Ron White%	Unforgiven%	
+Mina E. Mina%	Unforgiven%	
+Jeremy Ratchford%	Unforgiven%	
+John Pyper-Ferguson%	Unforgiven%	
+Jefferson Mappin%	Unforgiven%	
+Walter Marsh%	Unforgiven%	
+Larry Reese%	Unforgiven%	
+Blair Haynes%	Unforgiven%	
+Frank C. Turner%	Unforgiven%	
 Humphrey Bogart%	The Treasure of the Sierra Madre%	
 Walter Huston%	The Treasure of the Sierra Madre%	
 Tim Holt%	The Treasure of the Sierra Madre%	
@@ -1286,6 +2832,15 @@ Guillermo Calles%	The Treasure of the Sierra Madre%
 Roberto Cañedo%	The Treasure of the Sierra Madre%	
 Spencer Chan%	The Treasure of the Sierra Madre%	
 Jacqueline Dalya%	The Treasure of the Sierra Madre%	
+Ralph Dunn%	The Treasure of the Sierra Madre%	
+Pat Flaherty%	The Treasure of the Sierra Madre%	
+Martin Garralaga%	The Treasure of the Sierra Madre%	
+Jack Holt%	The Treasure of the Sierra Madre%	
+John Huston%	The Treasure of the Sierra Madre%	
+Julian Rivero%	The Treasure of the Sierra Madre%	
+Jay Silverheels%	The Treasure of the Sierra Madre%	
+Harry J. Vejar%	The Treasure of the Sierra Madre%	
+Clifton Young%	The Treasure of the Sierra Madre%	
 Bruno Ganz%	Downfall%	
 Alexandra Maria Lara%	Downfall%	
 Corinna Harfouch%	Downfall%	
@@ -1301,6 +2856,21 @@ Ulrich Noethen%	Downfall%
 Birgit Minichmayr%	Downfall%	
 Rolf Kanies%	Downfall%	
 Justus von Dohnányi%	Downfall%	
+Dieter Mann%	Downfall%	
+Christian Redl%	Downfall%	
+Götz Otto%	Downfall%	
+Thomas Limpinsel%	Downfall%	
+Thomas Thieme%	Downfall%	
+Alexander Held%	Downfall%	
+Donevan Gunia%	Downfall%	
+Bettina Redlich%	Downfall%	
+Heinrich Schmieder%	Downfall%	
+Anna Thalbach%	Downfall%	
+Dietrich Hollinderbäumer%	Downfall%	
+Ulrike Krumbiegel%	Downfall%	
+Karl Kranzkowski%	Downfall%	
+Thorsten Krohn%	Downfall%	
+Jürgen Tonkel%	Downfall%	
 Bruce Willis%	Die Hard%	
 Bonnie Bedelia%	Die Hard%	
 Reginald VelJohnson%	Die Hard%	
@@ -1315,6 +2885,63 @@ Andreas Wisniewski%	Die Hard%
 Clarence Gilyard Jr.%	Die Hard%	
 Joe Plewa%	Die Hard%	
 Lorenzo Caccialanza%	Die Hard%	
+Dennis Hayden%	Die Hard%	
+Al Leong%	Die Hard%	
+Gary Roberts%	Die Hard%	
+Hans Buhringer%	Die Hard%	
+Wilhelm von Homburg%	Die Hard%	
+Robert Davi%	Die Hard%	
+Grand L. Bush%	Die Hard%	
+Bill Marcus%	Die Hard%	
+Rick Ducommun%	Die Hard%	
+Matt Landers%	Die Hard%	
+Carmine Zozzora%	Die Hard%	
+Anthony Peck%	Die Hard%	
+Al Pacino%	Heat%	
+Robert De Niro%	Heat%	
+Val Kilmer%	Heat%	
+Jon Voight%	Heat%	
+Tom Sizemore%	Heat%	
+Diane Venora%	Heat%	
+Amy Brenneman%	Heat%	
+Ashley Judd%	Heat%	
+Mykelti Williamson%	Heat%	
+Wes Studi%	Heat%	
+Ted Levine%	Heat%	
+Dennis Haysbert%	Heat%	
+William Fichtner%	Heat%	
+Natalie Portman%	Heat%	
+Tom Noonan%	Heat%	
+Kevin Gage%	Heat%	
+Hank Azaria%	Heat%	
+Susan Traylor%	Heat%	
+Kim Staunton%	Heat%	
+Danny Trejo%	Heat%	
+Henry Rollins%	Heat%	
+Jerry Trimble%	Heat%	
+Martin Ferrero%	Heat%	
+Ricky Harris%	Heat%	
+Tone Loc%	Heat%	
+Begonya Plaza%	Heat%	
+Hazelle Goodman%	Heat%	
+Ray Buktenica%	Heat%	
+Jeremy Piven%	Heat%	
+Xander Berkeley%	Heat%	
+Robert De Niro%	Raging Bull%	
+Cathy Moriarty%	Raging Bull%	
+Joe Pesci%	Raging Bull%	
+Frank Vincent%	Raging Bull%	
+Nicholas Colasanto%	Raging Bull%	
+Theresa Saldana%	Raging Bull%	
+Mario Gallo%	Raging Bull%	
+Frank Adonis%	Raging Bull%	
+Charles Scorsese%	Raging Bull%	
+Rita Bennett%	Raging Bull%	
+Bernie Allen%	Raging Bull%	
+Gene LeBell%	Raging Bull%	
+Victor Magnotta%	Raging Bull%	
+Marty Denkin%	Raging Bull%	
+Shay Duffin%	Raging Bull%	
 Takashi Shimura%	Ikiru%	
 Shin'ichi Himori%	Ikiru%	
 Haruo Tanaka%	Ikiru%	
@@ -1344,6 +2971,16 @@ Angus Lennie%	The Great Escape%
 Nigel Stock%	The Great Escape%	
 Robert Graf%	The Great Escape%	
 Jud Taylor%	The Great Escape%	
+Hans Reiser%	The Great Escape%	
+Harry Riebauer%	The Great Escape%	
+William Russell%	The Great Escape%	
+Robert Freitag%	The Great Escape%	
+Ulrich Beiger%	The Great Escape%	
+Lawrence Montaigne%	The Great Escape%	
+Robert Desmond%	The Great Escape%	
+Til Kiwe%	The Great Escape%	
+Heinz Weiss%	The Great Escape%	
+Karl-Otto Alberty%	The Great Escape%	
 Joseph Cotten%	The Third Man%	
 Alida Valli%	The Third Man%	
 Orson Welles%	The Third Man%	
@@ -1356,6 +2993,16 @@ Erich Ponto%	The Third Man%
 Wilfrid Hyde-White%	The Third Man%	
 Hedwig Bleibtreu%	The Third Man%	
 Harold Ayer%	The Third Man%	
+Paul Birch%	The Third Man%	
+Martin Boddey%	The Third Man%	
+Madge Brindley%	The Third Man%	
+Robert Brown%	The Third Man%	
+Paul Carpenter%	The Third Man%	
+Alexis Chesnakov%	The Third Man%	
+Reed De Rouen%	The Third Man%	
+Jack Faint%	The Third Man%	
+Thomas Gallagher%	The Third Man%	
+Michael Godfrey%	The Third Man%	
 Mohammad Amir Naji%	Children of Heaven%	
 Amir Farrokh Hashemian%	Children of Heaven%	
 Bahare Seddiqi%	Children of Heaven%	
@@ -1374,6 +3021,19 @@ Lucas Hedges%	Three Billboards Outside Ebbing, Missouri%
 Zeljko Ivanek%	Three Billboards Outside Ebbing, Missouri%	
 Amanda Warren%	Three Billboards Outside Ebbing, Missouri%	
 Malaya Rivera Drew%	Three Billboards Outside Ebbing, Missouri%	
+Sandy Martin%	Three Billboards Outside Ebbing, Missouri%	
+Peter Dinklage%	Three Billboards Outside Ebbing, Missouri%	
+Christopher Berry%	Three Billboards Outside Ebbing, Missouri%	
+Gregory Nassif St. John%	Three Billboards Outside Ebbing, Missouri%	
+Jerry Winsett%	Three Billboards Outside Ebbing, Missouri%	
+Kathryn Newton%	Three Billboards Outside Ebbing, Missouri%	
+John Hawkes%	Three Billboards Outside Ebbing, Missouri%	
+Samara Weaving%	Three Billboards Outside Ebbing, Missouri%	
+Clarke Peters%	Three Billboards Outside Ebbing, Missouri%	
+Allyssa Barley%	Three Billboards Outside Ebbing, Missouri%	
+William J. Harrison%	Three Billboards Outside Ebbing, Missouri%	
+Brendan Sexton III%	Three Billboards Outside Ebbing, Missouri%	
+Michael Aaron Milligan%	Three Billboards Outside Ebbing, Missouri%	
 Jack Nicholson%	Chinatown%	
 Faye Dunaway%	Chinatown%	
 John Huston%	Chinatown%	
@@ -1389,18 +3049,94 @@ Bruce Glover%	Chinatown%
 Nandu Hinds%	Chinatown%	
 James O'Rear%	Chinatown%	
 James Hong%	Chinatown%	
-Tatsuya Nakadai%	Ran%	
-Akira Terao%	Ran%	
-Jinpachi Nezu%	Ran%	
-Daisuke Ryû%	Ran%	
-Yoshiko Miyazaki%	Ran%	
-Hisashi Igawa%	Ran%	
-Pîtâ%	Ran%	
-Masayuki Yui%	Ran%	
-Kazuo Katô%	Ran%	
-Norio Matsui%	Ran%	
-Toshiya Ito%	Ran%	
-Mansai Nomura%	Ran%	
+Beulah Quo%	Chinatown%	
+Jerry Fujikawa%	Chinatown%	
+Belinda Palmer%	Chinatown%	
+Roy Roberts%	Chinatown%	
+Noble Willingham%	Chinatown%	
+Elliott Montgomery%	Chinatown%	
+Rance Howard%	Chinatown%	
+George Justin%	Chinatown%	
+C.O. Erickson%	Chinatown%	
+Fritzi Burr%	Chinatown%	
+Charles Knapp%	Chinatown%	
+Claudio Martinez%	Chinatown%	
+Federico Roberto%	Chinatown%	
+Allan Warnick%	Chinatown%	
+John Holland%	Chinatown%	
+Ivana Baquero%	Pan's Labyrinth%	
+Sergi López%	Pan's Labyrinth%	
+Maribel Verdú%	Pan's Labyrinth%	
+Doug Jones%	Pan's Labyrinth%	
+Ariadna Gil%	Pan's Labyrinth%	
+Alex Angulo%	Pan's Labyrinth%	
+Manolo Solo%	Pan's Labyrinth%	
+César Vea%	Pan's Labyrinth%	
+Roger Casamajor%	Pan's Labyrinth%	
+Ivan Massagué%	Pan's Labyrinth%	
+Gonzalo Uriarte%	Pan's Labyrinth%	
+Eusebio Lázaro%	Pan's Labyrinth%	
+Francisco Vidal%	Pan's Labyrinth%	
+Juanjo Cucalón%	Pan's Labyrinth%	
+Lina Mira%	Pan's Labyrinth%	
+Mario Zorrilla%	Pan's Labyrinth%	
+Sebastián Haro%	Pan's Labyrinth%	
+Mila Espiga%	Pan's Labyrinth%	
+Pepa Pedroche%	Pan's Labyrinth%	
+Lalá Gatóo%	Pan's Labyrinth%	
+Ana Sáez%	Pan's Labyrinth%	
+Chani Martín%	Pan's Labyrinth%	
+Milo Taboada%	Pan's Labyrinth%	
+Fernando Albizu%	Pan's Labyrinth%	
+Pedro G. Marzo%	Pan's Labyrinth%	
+José Luis Torrijo%	Pan's Labyrinth%	
+Íñigo Garcés%	Pan's Labyrinth%	
+Fernando Tielve%	Pan's Labyrinth%	
+Federico Luppi%	Pan's Labyrinth%	
+Chicho Campillo%	Pan's Labyrinth%	
+Mustafa Kamel%	Incendies%	
+Hussein Sami%	Incendies%	
+Rémy Girard%	Incendies%	
+Mélissa Désormeaux-Poulin%	Incendies%	
+Maxim Gaudette%	Incendies%	
+Dominique Briand%	Incendies%	
+Lubna Azabal%	Incendies%	
+Frédéric Paquet%	Incendies%	
+Hamed Najem%	Incendies%	
+Ahmad Massad%	Incendies%	
+Bader Alami%	Incendies%	
+Majida Hussein%	Incendies%	
+Asriah Nijres%	Incendies%	
+John Dunn-Hill%	Incendies%	
+Nabil Koni%	Incendies%	
+Noriko Hidaka%	My Neighbor Totoro%	
+Chika Sakamoto%	My Neighbor Totoro%	
+Shigesato Itoi%	My Neighbor Totoro%	
+Sumi Shimamoto%	My Neighbor Totoro%	
+Tanie Kitabayashi%	My Neighbor Totoro%	
+Hitoshi Takagi%	My Neighbor Totoro%	
+Yûko Maruyama%	My Neighbor Totoro%	
+Machiko Washio%	My Neighbor Totoro%	
+Reiko Suzuki%	My Neighbor Totoro%	
+Masashi Hirose%	My Neighbor Totoro%	
+Toshiyuki Amagasa%	My Neighbor Totoro%	
+Shigeru Chiba%	My Neighbor Totoro%	
+Naoki Tatsuta%	My Neighbor Totoro%	
+Tarako%	My Neighbor Totoro%	
+Tomohiro Nishimura%	My Neighbor Totoro%	
+Chie Koujiro%	My Neighbor Totoro%	
+Yuko Mizutani%	My Neighbor Totoro%	
+Akiko Hiramatsu%	My Neighbor Totoro%	
+Ikue Otani%	My Neighbor Totoro%	
+Dakota Fanning%	My Neighbor Totoro%	
+Elle Fanning%	My Neighbor Totoro%	
+Tim Daly%	My Neighbor Totoro%	
+Pat Carroll%	My Neighbor Totoro%	
+Lea Salonga%	My Neighbor Totoro%	
+Frank Welker%	My Neighbor Totoro%	
+Paul Butcher%	My Neighbor Totoro%	
+Matt Adler%	My Neighbor Totoro%	
+Newell Alexander%	My Neighbor Totoro%	
 Spencer Tracy%	Judgment at Nuremberg%	
 Burt Lancaster%	Judgment at Nuremberg%	
 Richard Widmark%	Judgment at Nuremberg%	
@@ -1416,6 +3152,43 @@ Joseph Bernard%	Judgment at Nuremberg%
 Alan Baxter%	Judgment at Nuremberg%	
 Edward Binns%	Judgment at Nuremberg%	
 Virginia Christine%	Judgment at Nuremberg%	
+Otto Waldis%	Judgment at Nuremberg%	
+Karl Swenson%	Judgment at Nuremberg%	
+Martin Brandt%	Judgment at Nuremberg%	
+Ray Teal%	Judgment at Nuremberg%	
+John Wengraf%	Judgment at Nuremberg%	
+Ben Wright%	Judgment at Nuremberg%	
+Howard Caine%	Judgment at Nuremberg%	
+Olga Fabian%	Judgment at Nuremberg%	
+Paul Busch%	Judgment at Nuremberg%	
+Bernard Kates%	Judgment at Nuremberg%	
+Frank Baker%	Judgment at Nuremberg%	
+Brandon Beach%	Judgment at Nuremberg%	
+Oscar Beregi Jr.%	Judgment at Nuremberg%	
+Tatsuya Nakadai%	Ran%	
+Akira Terao%	Ran%	
+Jinpachi Nezu%	Ran%	
+Daisuke Ryû%	Ran%	
+Yoshiko Miyazaki%	Ran%	
+Hisashi Igawa%	Ran%	
+Pîtâ%	Ran%	
+Masayuki Yui%	Ran%	
+Kazuo Katô%	Ran%	
+Norio Matsui%	Ran%	
+Toshiya Ito%	Ran%	
+Mansai Nomura%	Ran%	
+Takeshi Katô%	Ran%	
+Jun Matsui%	Ran%	
+Hitoshi Ueki%	Ran%	
+Takao Zushi%	Ran%	
+Yoshitaka Zushi%	Ran%	
+Tetsuo Yamashita%	Ran%	
+Akihiko Sugizaki%	Ran%	
+Yoshimitsu Yamaguchi%	Ran%	
+Masuo Amada%	Ran%	
+Sakae Kimura%	Ran%	
+Ryûjirô Oki%	Ran%	
+Hanbei Kawai%	Ran%	
 Soledad Villamil%	The Secret in Their Eyes%	
 Ricardo Darín%	The Secret in Their Eyes%	
 Carla Quevedo%	The Secret in Their Eyes%	
@@ -1430,14 +3203,51 @@ Sebastián Blanco%	The Secret in Their Eyes%
 Mariano Argento%	The Secret in Their Eyes%	
 Juan José Ortíz%	The Secret in Their Eyes%	
 Kiko Cerone%	The Secret in Their Eyes%	
-Charlie Chaplin%	The Gold Rush%	
-Mack Swain%	The Gold Rush%	
-Tom Murray%	The Gold Rush%	
-Henry Bergman%	The Gold Rush%	
-Malcolm Waite%	The Gold Rush%	
-Georgia Hale%	The Gold Rush%	
-Harry Arras%	The Gold Rush%	
-Albert Austin%	The Gold Rush%	
+Fernando Pardo%	The Secret in Their Eyes%	
+Maximiliano Trento%	The Secret in Their Eyes%	
+Sergio López Santana%	The Secret in Their Eyes%	
+Elvio Duvini%	The Secret in Their Eyes%	
+David Di Napoli%	The Secret in Their Eyes%	
+Pedro Kochdilian%	The Secret in Their Eyes%	
+Oscar Sánchez%	The Secret in Their Eyes%	
+Gabriela Daniell%	The Secret in Their Eyes%	
+Alicia Haydée Pennachi%	The Secret in Their Eyes%	
+Darío Valenzuela%	The Secret in Their Eyes%	
+Carlos Mele%	The Secret in Their Eyes%	
+Iván Sosa%	The Secret in Their Eyes%	
+Judith Buchalter%	The Secret in Their Eyes%	
+Héctor La Porta%	The Secret in Their Eyes%	
+Liliana Cuomo%	The Secret in Their Eyes%	
+Chieko Baishô%	Howl's Moving Castle%	
+Takuya Kimura%	Howl's Moving Castle%	
+Akihiro Miwa%	Howl's Moving Castle%	
+Tatsuya Gashûin%	Howl's Moving Castle%	
+Ryunosuke Kamiki%	Howl's Moving Castle%	
+Mitsunori Isaki%	Howl's Moving Castle%	
+Yo Oizumi%	Howl's Moving Castle%	
+Akio Ohtsuka%	Howl's Moving Castle%	
+Daijiro Harada%	Howl's Moving Castle%	
+Haruko Kato%	Howl's Moving Castle%	
+Jean Simmons%	Howl's Moving Castle%	
+Christian Bale%	Howl's Moving Castle%	
+Lauren Bacall%	Howl's Moving Castle%	
+Blythe Danner%	Howl's Moving Castle%	
+Emily Mortimer%	Howl's Moving Castle%	
+Josh Hutcherson%	Howl's Moving Castle%	
+Billy Crystal%	Howl's Moving Castle%	
+Jena Malone%	Howl's Moving Castle%	
+Crispin Freeman%	Howl's Moving Castle%	
+Mark Silverman%	Howl's Moving Castle%	
+Mari Devon%	Howl's Moving Castle%	
+Liliana Mumy%	Howl's Moving Castle%	
+Carlos Alazraqui%	Howl's Moving Castle%	
+Newell Alexander%	Howl's Moving Castle%	
+Rosemary Alexander%	Howl's Moving Castle%	
+Julia Barnett%	Howl's Moving Castle%	
+Susanne Blakeslee%	Howl's Moving Castle%	
+Leslie Carrara-Rudolph%	Howl's Moving Castle%	
+Mitch Carter%	Howl's Moving Castle%	
+David Cowgill%	Howl's Moving Castle%	
 William Holden%	The Bridge on the River Kwai%	
 Alec Guinness%	The Bridge on the River Kwai%	
 Jack Hawkins%	The Bridge on the River Kwai%	
@@ -1452,6 +3262,8 @@ Harold Goodwin%	The Bridge on the River Kwai%
 Ann Sears%	The Bridge on the River Kwai%	
 Heihachirô Ôkawa%	The Bridge on the River Kwai%	
 Keiichirô Katsumoto%	The Bridge on the River Kwai%	
+Tsai Chin%	The Bridge on the River Kwai%	
+Christopher Greet%	The Bridge on the River Kwai%	
 Marlon Brando%	On the Waterfront%	
 Karl Malden%	On the Waterfront%	
 Lee J. Cobb%	On the Waterfront%	
@@ -1467,6 +3279,16 @@ Rudy Bond%	On the Waterfront%
 Don Blackman%	On the Waterfront%	
 Arthur Keegan%	On the Waterfront%	
 Abe Simon%	On the Waterfront%	
+Eva Marie Saint%	On the Waterfront%	
+Martin Balsam%	On the Waterfront%	
+Zachary Charles%	On the Waterfront%	
+Michael V. Gazzo%	On the Waterfront%	
+Fred Gwynne%	On the Waterfront%	
+Anne Hegira%	On the Waterfront%	
+Pat Hingle%	On the Waterfront%	
+Scottie MacGregor%	On the Waterfront%	
+Barry Macollum%	On the Waterfront%	
+Edward McNally%	On the Waterfront%	
 Amy Poehler%	Inside Out%	
 Phyllis Smith%	Inside Out%	
 Richard Kind%	Inside Out%	
@@ -1482,20 +3304,17 @@ Paula Pell%	Inside Out%
 Dave Goelz%	Inside Out%	
 Frank Oz%	Inside Out%	
 Josh Cooley%	Inside Out%	
-Gunnar Björnstrand%	The Seventh Seal%	
-Bengt Ekerot%	The Seventh Seal%	
-Nils Poppe%	The Seventh Seal%	
-Max von Sydow%	The Seventh Seal%	
-Bibi Andersson%	The Seventh Seal%	
-Inga Gill%	The Seventh Seal%	
-Maud Hansson%	The Seventh Seal%	
-Inga Landgré%	The Seventh Seal%	
-Gunnel Lindblom%	The Seventh Seal%	
-Bertil Anderberg%	The Seventh Seal%	
-Anders Ek%	The Seventh Seal%	
-Åke Fridell%	The Seventh Seal%	
-Gunnar Olsson%	The Seventh Seal%	
-Erik Strandmark%	The Seventh Seal%	
+Flea%	Inside Out%	
+John Ratzenberger%	Inside Out%	
+Carlos Alazraqui%	Inside Out%	
+Peter Sagal%	Inside Out%	
+Rashida Jones%	Inside Out%	
+Lori Alan%	Inside Out%	
+Gregg Berger%	Inside Out%	
+Veronika Bonell%	Inside Out%	
+John Cygan%	Inside Out%	
+Ronnie del Carmen%	Inside Out%	
+Pete Docter%	Inside Out%	
 Jason Flemyng%	Lock, Stock and Two Smoking Barrels%	
 Dexter Fletcher%	Lock, Stock and Two Smoking Barrels%	
 Nick Moran%	Lock, Stock and Two Smoking Barrels%	
@@ -1511,6 +3330,122 @@ P.H. Moriarty%	Lock, Stock and Two Smoking Barrels%
 Frank Harper%	Lock, Stock and Two Smoking Barrels%	
 Steve Sweeney%	Lock, Stock and Two Smoking Barrels%	
 Huggy Leaver%	Lock, Stock and Two Smoking Barrels%	
+Ronnie Fox%	Lock, Stock and Two Smoking Barrels%	
+Tony McMahon%	Lock, Stock and Two Smoking Barrels%	
+Stephen Marcus%	Lock, Stock and Two Smoking Barrels%	
+Vas Blackwood%	Lock, Stock and Two Smoking Barrels%	
+Sting%	Lock, Stock and Two Smoking Barrels%	
+Jake Abraham%	Lock, Stock and Two Smoking Barrels%	
+Rob Brydon%	Lock, Stock and Two Smoking Barrels%	
+Vera Day%	Lock, Stock and Two Smoking Barrels%	
+Jimmy Flint%	Lock, Stock and Two Smoking Barrels%	
+Alan Ford%	Lock, Stock and Two Smoking Barrels%	
+Gunnar Björnstrand%	The Seventh Seal%	
+Bengt Ekerot%	The Seventh Seal%	
+Nils Poppe%	The Seventh Seal%	
+Max von Sydow%	The Seventh Seal%	
+Bibi Andersson%	The Seventh Seal%	
+Inga Gill%	The Seventh Seal%	
+Maud Hansson%	The Seventh Seal%	
+Inga Landgré%	The Seventh Seal%	
+Gunnel Lindblom%	The Seventh Seal%	
+Bertil Anderberg%	The Seventh Seal%	
+Anders Ek%	The Seventh Seal%	
+Åke Fridell%	The Seventh Seal%	
+Gunnar Olsson%	The Seventh Seal%	
+Erik Strandmark%	The Seventh Seal%	
+Sten Ardenstam%	The Seventh Seal%	
+Harry Asklund%	The Seventh Seal%	
+Benkt-Åke Benktsson%	The Seventh Seal%	
+Catherine Berg%	The Seventh Seal%	
+Lena Bergman%	The Seventh Seal%	
+Tor Borong%	The Seventh Seal%	
+Gudrun Brost%	The Seventh Seal%	
+Gunlög Hagberg%	The Seventh Seal%	
+Tor Isedal%	The Seventh Seal%	
+Tommy Karlsson%	The Seventh Seal%	
+Uno Larsson%	The Seventh Seal%	
+Russell Crowe%	A Beautiful Mind%	
+Ed Harris%	A Beautiful Mind%	
+Jennifer Connelly%	A Beautiful Mind%	
+Christopher Plummer%	A Beautiful Mind%	
+Paul Bettany%	A Beautiful Mind%	
+Adam Goldberg%	A Beautiful Mind%	
+Josh Lucas%	A Beautiful Mind%	
+Anthony Rapp%	A Beautiful Mind%	
+Jason Gray-Stanford%	A Beautiful Mind%	
+Judd Hirsch%	A Beautiful Mind%	
+Austin Pendleton%	A Beautiful Mind%	
+Vivien Cardone%	A Beautiful Mind%	
+Jillie Simon%	A Beautiful Mind%	
+Victor Steinbach%	A Beautiful Mind%	
+Tanya Clarke%	A Beautiful Mind%	
+Thomas F. Walsh%	A Beautiful Mind%	
+Jesse Doran%	A Beautiful Mind%	
+Kent Cassella%	A Beautiful Mind%	
+Patrick Blindauer%	A Beautiful Mind%	
+John Blaylock%	A Beautiful Mind%	
+Roy Thinnes%	A Beautiful Mind%	
+Anthony Easton%	A Beautiful Mind%	
+Cheryl Howard%	A Beautiful Mind%	
+Rance Howard%	A Beautiful Mind%	
+Jane Jenkins%	A Beautiful Mind%	
+Darius Stone%	A Beautiful Mind%	
+Josh Pais%	A Beautiful Mind%	
+Valentina Cardinalli%	A Beautiful Mind%	
+Teagle F. Bougere%	A Beautiful Mind%	
+Robert De Niro%	Casino%	
+Sharon Stone%	Casino%	
+Joe Pesci%	Casino%	
+James Woods%	Casino%	
+Don Rickles%	Casino%	
+Alan King%	Casino%	
+Kevin Pollak%	Casino%	
+L.Q. Jones%	Casino%	
+Dick Smothers%	Casino%	
+Frank Vincent%	Casino%	
+John Bloom%	Casino%	
+Pasquale Cajano%	Casino%	
+Melissa Prophet%	Casino%	
+Vinny Vella%	Casino%	
+Philip Suriano%	Casino%	
+Erika von Tagen%	Casino%	
+Frankie Avalon%	Casino%	
+Steve Allen%	Casino%	
+Jayne Meadows%	Casino%	
+Jerry Vale%	Casino%	
+Joseph Rigano%	Casino%	
+Catherine Scorsese%	Casino%	
+Oscar Goodman%	Casino%	
+Gene Ruffini%	Casino%	
+Dominick Grieco%	Casino%	
+Brie Larson%	Room%	
+Jacob Tremblay%	Room%	
+Sean Bridgers%	Room%	
+Wendy Crewson%	Room%	
+Sandy McMaster%	Room%	
+Matt Gordon%	Room%	
+Amanda Brugel%	Room%	
+Joe Pingue%	Room%	
+Joan Allen%	Room%	
+Zarrin Darnell-Martin%	Room%	
+Cas Anvar%	Room%	
+William H. Macy%	Room%	
+Jee-Yun Lee%	Room%	
+Randal Edwards%	Room%	
+Justin Mader%	Room%	
+Ola Sturik%	Room%	
+Rodrigo Fernandez- Stoll%	Room%	
+Rory O'Shea%	Room%	
+Tom McCamus%	Room%	
+Kate Drummond%	Room%	
+Jack Fulton%	Room%	
+Chantelle Chung%	Room%	
+Derek Herd%	Room%	
+Megan Park%	Room%	
+Graeme Potts%	Room%	
+Katelyn Wells%	Room%	
+Brad Wietersen%	Room%	
 Jean Arthur%	Mr. Smith Goes to Washington%	
 James Stewart%	Mr. Smith Goes to Washington%	
 Claude Rains%	Mr. Smith Goes to Washington%	
@@ -1526,6 +3461,21 @@ Ruth Donnelly%	Mr. Smith Goes to Washington%
 Grant Mitchell%	Mr. Smith Goes to Washington%	
 Porter Hall%	Mr. Smith Goes to Washington%	
 H.V. Kaltenborn%	Mr. Smith Goes to Washington%	
+Charles Lane%	Mr. Smith Goes to Washington%	
+Pierre Watkin%	Mr. Smith Goes to Washington%	
+Dick Elliott%	Mr. Smith Goes to Washington%	
+William Demarest%	Mr. Smith Goes to Washington%	
+Billy Watson%	Mr. Smith Goes to Washington%	
+Delmar Watson%	Mr. Smith Goes to Washington%	
+Harry Watson%	Mr. Smith Goes to Washington%	
+Larry Simms%	Mr. Smith Goes to Washington%	
+Garry Watson%	Mr. Smith Goes to Washington%	
+Erville Alderson%	Mr. Smith Goes to Washington%	
+Harry Anderson%	Mr. Smith Goes to Washington%	
+Stanley Andrews%	Mr. Smith Goes to Washington%	
+William Arnold%	Mr. Smith Goes to Washington%	
+Sam Ash%	Mr. Smith Goes to Washington%	
+Edwin August%	Mr. Smith Goes to Washington%	
 Anthony Hopkins%	The Elephant Man%	
 John Hurt%	The Elephant Man%	
 Anne Bancroft%	The Elephant Man%	
@@ -1541,6 +3491,84 @@ Lesley Dunlop%	The Elephant Man%
 Phoebe Nicholls%	The Elephant Man%	
 Pat Gorman%	The Elephant Man%	
 Claire Davenport%	The Elephant Man%	
+Orla Pederson%	The Elephant Man%	
+Patsy Smart%	The Elephant Man%	
+Frederick Treves%	The Elephant Man%	
+Richard Hunter%	The Elephant Man%	
+Robert Lewis Bush%	The Elephant Man%	
+Roy Evans%	The Elephant Man%	
+Joan Rhodes%	The Elephant Man%	
+Nula Conwell%	The Elephant Man%	
+Tony London%	The Elephant Man%	
+Alfie Curtis%	The Elephant Man%	
+Bernadette Milnes%	The Elephant Man%	
+Carol Harrison%	The Elephant Man%	
+Leonardo DiCaprio%	The Wolf of Wall Street%	
+Jonah Hill%	The Wolf of Wall Street%	
+Margot Robbie%	The Wolf of Wall Street%	
+Matthew McConaughey%	The Wolf of Wall Street%	
+Kyle Chandler%	The Wolf of Wall Street%	
+Rob Reiner%	The Wolf of Wall Street%	
+Jon Bernthal%	The Wolf of Wall Street%	
+Jon Favreau%	The Wolf of Wall Street%	
+Jean Dujardin%	The Wolf of Wall Street%	
+Joanna Lumley%	The Wolf of Wall Street%	
+Cristin Milioti%	The Wolf of Wall Street%	
+Christine Ebersole%	The Wolf of Wall Street%	
+Shea Whigham%	The Wolf of Wall Street%	
+Natalie Portman%	V for Vendetta%	
+Hugo Weaving%	V for Vendetta%	
+Stephen Rea%	V for Vendetta%	
+Stephen Fry%	V for Vendetta%	
+John Hurt%	V for Vendetta%	
+Tim Pigott-Smith%	V for Vendetta%	
+Rupert Graves%	V for Vendetta%	
+Roger Allam%	V for Vendetta%	
+Ben Miles%	V for Vendetta%	
+Sinéad Cusack%	V for Vendetta%	
+Natasha Wightman%	V for Vendetta%	
+John Standing%	V for Vendetta%	
+Eddie Marsan%	V for Vendetta%	
+Clive Ashborn%	V for Vendetta%	
+Emma Field-Rayner%	V for Vendetta%	
+Ian Burfield%	V for Vendetta%	
+Mark Phoenix%	V for Vendetta%	
+Alister Mazzotti%	V for Vendetta%	
+Billie Cook%	V for Vendetta%	
+Guy Henry%	V for Vendetta%	
+Cosima Shaw%	V for Vendetta%	
+Megan Gay%	V for Vendetta%	
+Roderic Culver%	V for Vendetta%	
+Tara Hacking%	V for Vendetta%	
+Andy Rashleigh%	V for Vendetta%	
+Chad Stahelski%	V for Vendetta%	
+Antje Rau%	V for Vendetta%	
+Amelda Brown%	V for Vendetta%	
+Halitha Shameem%	V for Vendetta%	
+Patricia Gannon%	V for Vendetta%	
+Harrison Ford%	Blade Runner%	
+Rutger Hauer%	Blade Runner%	
+Sean Young%	Blade Runner%	
+Edward James Olmos%	Blade Runner%	
+M. Emmet Walsh%	Blade Runner%	
+Daryl Hannah%	Blade Runner%	
+William Sanderson%	Blade Runner%	
+Brion James%	Blade Runner%	
+Joe Turkel%	Blade Runner%	
+Joanna Cassidy%	Blade Runner%	
+James Hong%	Blade Runner%	
+Morgan Paull%	Blade Runner%	
+Kevin Thompson%	Blade Runner%	
+John Edward Allen%	Blade Runner%	
+Hy Pyke%	Blade Runner%	
+Kimiko Hiroshige%	Blade Runner%	
+Bob Okazaki%	Blade Runner%	
+Carolyn DeMirjian%	Blade Runner%	
+Ben Astar%	Blade Runner%	
+Judith Burnett%	Blade Runner%	
+Dawna Lee Heising%	Blade Runner%	
+Charles Knapp%	Blade Runner%	
+Jirô Okazaki%	Blade Runner%	
 Victor Sjöström%	Wild Strawberries%	
 Bibi Andersson%	Wild Strawberries%	
 Ingrid Thulin%	Wild Strawberries%	
@@ -1556,6 +3584,19 @@ Gunnar Sjöberg%	Wild Strawberries%
 Max von Sydow%	Wild Strawberries%	
 Åke Fridell%	Wild Strawberries%	
 Yngve Nordwall%	Wild Strawberries%	
+Per Sjöstrand%	Wild Strawberries%	
+Gio Petré%	Wild Strawberries%	
+Gunnel Lindblom%	Wild Strawberries%	
+Maud Hansson%	Wild Strawberries%	
+Ann-Marie Wiman%	Wild Strawberries%	
+Eva Norée%	Wild Strawberries%	
+Lena Bergman%	Wild Strawberries%	
+Göran Lundquist%	Wild Strawberries%	
+Josef Norman%	Wild Strawberries%	
+Gunnar Olsson%	Wild Strawberries%	
+Vendela Rudbäck%	Wild Strawberries%	
+Per Skogsberg%	Wild Strawberries%	
+Peder Hellman%	Wild Strawberries%	
 Buster Keaton%	The General%	
 Marion Mack%	The General%	
 Glen Cavender%	The General%	
@@ -1566,6 +3607,38 @@ Joe Keaton%	The General%
 Mike Donlin%	The General%	
 Tom Nawn%	The General%	
 Jimmy Bryant%	The General%	
+Budd Fine%	The General%	
+Eddie Foster%	The General%	
+Frank Hagney%	The General%	
+Ray Hanford%	The General%	
+Jack Hanlon%	The General%	
+Edward Hearn%	The General%	
+Boris Karloff%	The General%	
+Hilliard Karr%	The General%	
+Elgin Lessley%	The General%	
+Louis Lewyn%	The General%	
+Joel Edgerton%	Warrior%	
+Tom Hardy%	Warrior%	
+Nick Nolte%	Warrior%	
+Jennifer Morrison%	Warrior%	
+Frank Grillo%	Warrior%	
+Kevin Dunn%	Warrior%	
+Maximiliano Hernández%	Warrior%	
+Bryan Callen%	Warrior%	
+Sam Sheridan%	Warrior%	
+Fernando Chien%	Warrior%	
+Jake McLaughlin%	Warrior%	
+Vanessa Martinez%	Warrior%	
+Denzel Whitaker%	Warrior%	
+Carlos Miranda%	Warrior%	
+Nick Lehane%	Warrior%	
+Laura Chinn%	Warrior%	
+Noah Emmerich%	Warrior%	
+Kurt Angle%	Warrior%	
+Erik Apple%	Warrior%	
+Anthony Johnson%	Warrior%	
+Nate Marquardt%	Warrior%	
+Daniel Stevens%	Warrior%	
 Buster Keaton%	Sherlock Jr.%	
 Kathryn McGuire%	Sherlock Jr.%	
 Joe Keaton%	Sherlock Jr.%	
@@ -1589,6 +3662,16 @@ George Leigh%	Dial M for Murder%
 Robin Hughes%	Dial M for Murder%	
 Jack Cunningham%	Dial M for Murder%	
 Robert Dobson%	Dial M for Murder%	
+Guy Doleman%	Dial M for Murder%	
+Bess Flowers%	Dial M for Murder%	
+Sam Harris%	Dial M for Murder%	
+Harold Miller%	Dial M for Murder%	
+Martin Milner%	Dial M for Murder%	
+Forbes Murray%	Dial M for Murder%	
+Monty O'Grady%	Dial M for Murder%	
+Thayer Roberts%	Dial M for Murder%	
+Ray Spiker%	Dial M for Murder%	
+Norman Stevans%	Dial M for Murder%	
 Ewan McGregor%	Trainspotting%	
 Ewen Bremner%	Trainspotting%	
 Jonny Lee Miller%	Trainspotting%	
@@ -1604,6 +3687,21 @@ Shirley Henderson%	Trainspotting%
 Stuart McQuarrie%	Trainspotting%	
 Irvine Welsh%	Trainspotting%	
 Dale Winton%	Trainspotting%	
+Keith Allen%	Trainspotting%	
+Kevin Allen%	Trainspotting%	
+Annie Louise Ross%	Trainspotting%	
+Billy Riddoch%	Trainspotting%	
+Fiona Bell%	Trainspotting%	
+Vincent Friell%	Trainspotting%	
+Hugh Ross%	Trainspotting%	
+Victor Eadie%	Trainspotting%	
+Kate Donnelly%	Trainspotting%	
+Finlay Welsh%	Trainspotting%	
+Eddie Nestor%	Trainspotting%	
+Tom Delmar%	Trainspotting%	
+Rachael Fleming%	Trainspotting%	
+John Hodge%	Trainspotting%	
+Andrew Macdonald%	Trainspotting%	
 Thomas Mitchell%	Gone with the Wind%	
 Barbara O'Neil%	Gone with the Wind%	
 Vivien Leigh%	Gone with the Wind%	
@@ -1619,6 +3717,21 @@ Everett Brown%	Gone with the Wind%
 Howard C. Hickman%	Gone with the Wind%	
 Alicia Rhett%	Gone with the Wind%	
 Leslie Howard%	Gone with the Wind%	
+Olivia de Havilland%	Gone with the Wind%	
+Rand Brooks%	Gone with the Wind%	
+Carroll Nye%	Gone with the Wind%	
+Clark Gable%	Gone with the Wind%	
+Laura Hope Crews%	Gone with the Wind%	
+Eddie 'Rochester' Anderson%	Gone with the Wind%	
+Harry Davenport%	Gone with the Wind%	
+Leona Roberts%	Gone with the Wind%	
+Jane Darwell%	Gone with the Wind%	
+Ona Munson%	Gone with the Wind%	
+Paul Hurst%	Gone with the Wind%	
+Isabel Jewell%	Gone with the Wind%	
+Cammie King%	Gone with the Wind%	
+Eric Linden%	Gone with the Wind%	
+J. M. Kerrigan%	Gone with the Wind%	
 Clint Eastwood%	Gran Torino%	
 Christopher Carley%	Gran Torino%	
 Bee Vang%	Gran Torino%	
@@ -1634,6 +3747,12 @@ Chee Thao%	Gran Torino%
 Choua Kue%	Gran Torino%	
 Scott Eastwood%	Gran Torino%	
 Xia Soua Chang%	Gran Torino%	
+Doua Moua%	Gran Torino%	
+Thomas D. Mahard%	Gran Torino%	
+Cory Hardrict%	Gran Torino%	
+Nana Gbewonyo%	Gran Torino%	
+Austin Douglas Smith%	Gran Torino%	
+Julia Ho%	Gran Torino%	
 Tommy Lee Jones%	No Country for Old Men%	
 Javier Bardem%	No Country for Old Men%	
 Josh Brolin%	No Country for Old Men%	
@@ -1648,6 +3767,44 @@ Beth Grant%	No Country for Old Men%
 Ana Reeder%	No Country for Old Men%	
 Kit Gwin%	No Country for Old Men%	
 Zach Hopkins%	No Country for Old Men%	
+Eduardo Antonio Garcia%	No Country for Old Men%	
+Gene Jones%	No Country for Old Men%	
+Myk Watford%	No Country for Old Men%	
+Boots Southerland%	No Country for Old Men%	
+Kathy Lamkin%	No Country for Old Men%	
+Margaret Bowman%	No Country for Old Men%	
+Thomas Kopache%	No Country for Old Men%	
+Jason Douglas%	No Country for Old Men%	
+Doris Hargrave%	No Country for Old Men%	
+Rutherford Cravens%	No Country for Old Men%	
+Matthew Posey%	No Country for Old Men%	
+Mathew Greer%	No Country for Old Men%	
+Bruce Willis%	The Sixth Sense%	
+Haley Joel Osment%	The Sixth Sense%	
+Toni Collette%	The Sixth Sense%	
+Olivia Williams%	The Sixth Sense%	
+Trevor Morgan%	The Sixth Sense%	
+Donnie Wahlberg%	The Sixth Sense%	
+Peter Anthony Tambakis%	The Sixth Sense%	
+Jeffrey Zubernis%	The Sixth Sense%	
+Bruce Norris%	The Sixth Sense%	
+Glenn Fitzgerald%	The Sixth Sense%	
+Greg Wood%	The Sixth Sense%	
+Mischa Barton%	The Sixth Sense%	
+Angelica Page%	The Sixth Sense%	
+Lisa Summerour%	The Sixth Sense%	
+Samia Shoaib%	The Sixth Sense%	
+Hayden Saunier%	The Sixth Sense%	
+Janis Dardaris%	The Sixth Sense%	
+Sarah Ripard%	The Sixth Sense%	
+Heidi Fischer%	The Sixth Sense%	
+KaDee Strickland%	The Sixth Sense%	
+Samantha Fitzpatrick%	The Sixth Sense%	
+Holly Cross Vagley%	The Sixth Sense%	
+Kate Kearney-Patch%	The Sixth Sense%	
+Marilyn Shanok%	The Sixth Sense%	
+M. Night Shyamalan%	The Sixth Sense%	
+Nico Woulard%	The Sixth Sense%	
 William H. Macy%	Fargo%	
 Steve Buscemi%	Fargo%	
 Peter Stormare%	Fargo%	
@@ -1662,6 +3819,15 @@ Melissa Peterman%	Fargo%
 Steve Reevis%	Fargo%	
 Steve Edelman%	Fargo%	
 Sharon Anderson%	Fargo%	
+Larry Brandenburg%	Fargo%	
+James Gaulke%	Fargo%	
+J. Todd Anderson%	Fargo%	
+Frances McDormand%	Fargo%	
+John Carroll Lynch%	Fargo%	
+Bruce Bohne%	Fargo%	
+Steve Park%	Fargo%	
+Peter Schmitz%	Fargo%	
+Michelle Hutchison%	Fargo%	
 Robert De Niro%	The Deer Hunter%	
 John Cazale%	The Deer Hunter%	
 John Savage%	The Deer Hunter%	
@@ -1677,6 +3843,21 @@ Amy Wright%	The Deer Hunter%
 Mary Ann Haenel%	The Deer Hunter%	
 Richard Kuss%	The Deer Hunter%	
 Joe Grifasi%	The Deer Hunter%	
+Christopher Colombi Jr.%	The Deer Hunter%	
+Victoria Karnafel%	The Deer Hunter%	
+Jack Scardino%	The Deer Hunter%	
+Joe Strnad%	The Deer Hunter%	
+Helen Tomko%	The Deer Hunter%	
+Paul D'Amato%	The Deer Hunter%	
+Dennis Watlington%	The Deer Hunter%	
+Charlene Darrow%	The Deer Hunter%	
+Jane-Colette Disko%	The Deer Hunter%	
+Michael Wollet%	The Deer Hunter%	
+Robert Beard%	The Deer Hunter%	
+Joe Dzizmba%	The Deer Hunter%	
+Stephen Kopestonsky%	The Deer Hunter%	
+John F. Buchmelter III%	The Deer Hunter%	
+Frank Devore%	The Deer Hunter%	
 Daniel Day-Lewis%	There Will Be Blood%	
 Barry Del Sherman%	There Will Be Blood%	
 Paul F. Tompkins%	There Will Be Blood%	
@@ -1685,6 +3866,11 @@ Kevin Breznahan%	There Will Be Blood%
 Jim Meskimen%	There Will Be Blood%	
 Erica Sullivan%	There Will Be Blood%	
 Randall Carver%	There Will Be Blood%	
+Paul Dano%	There Will Be Blood%	
+Ciarán Hinds%	There Will Be Blood%	
+Sydney McCallister%	There Will Be Blood%	
+David Willis%	There Will Be Blood%	
+Jim Downey%	There Will Be Blood%	
 Kurt Russell%	The Thing%	
 Wilford Brimley%	The Thing%	
 T. K. Carter%	The Thing%	
@@ -1699,6 +3885,8 @@ Joel Polis%	The Thing%
 Thomas G. Waites%	The Thing%	
 Norbert Weisser%	The Thing%	
 Larry J. Franco%	The Thing%	
+Adrienne Barbeau%	The Thing%	
+John Carpenter%	The Thing%	
 Albert Brooks%	Finding Nemo%	
 Ellen DeGeneres%	Finding Nemo%	
 Alexander Gould%	Finding Nemo%	
@@ -1714,6 +3902,15 @@ Andrew Stanton%	Finding Nemo%
 Elizabeth Perkins%	Finding Nemo%	
 Nicholas Bird%	Finding Nemo%	
 Bob Peterson%	Finding Nemo%	
+Barry Humphries%	Finding Nemo%	
+Eric Bana%	Finding Nemo%	
+Bruce Spence%	Finding Nemo%	
+Bill Hunter%	Finding Nemo%	
+LuLu Ebeling%	Finding Nemo%	
+Jordan Ranft%	Finding Nemo%	
+Erica Beck%	Finding Nemo%	
+Erik Per Sullivan%	Finding Nemo%	
+John Ratzenberger%	Finding Nemo%	
 Jeff Bridges%	The Big Lebowski%	
 John Goodman%	The Big Lebowski%	
 Julianne Moore%	The Big Lebowski%	
@@ -1729,6 +3926,18 @@ Torsten Voges%	The Big Lebowski%
 Jimmie Dale Gilmore%	The Big Lebowski%	
 Jack Kehler%	The Big Lebowski%	
 John Turturro%	The Big Lebowski%	
+James G. Hoosier%	The Big Lebowski%	
+Carlos Leon%	The Big Lebowski%	
+Richard Gant%	The Big Lebowski%	
+Christian Clemenson%	The Big Lebowski%	
+Dom Irrera%	The Big Lebowski%	
+David Thewlis%	The Big Lebowski%	
+Lu Elrod%	The Big Lebowski%	
+Mike Gomez%	The Big Lebowski%	
+Peter Siragusa%	The Big Lebowski%	
+Sam Elliott%	The Big Lebowski%	
+Marshall Manesh%	The Big Lebowski%	
+Harry Bugin%	The Big Lebowski%	
 Aleksei Kravchenko%	Come and See%	
 Olga Mironova%	Come and See%	
 Liubomiras Laucevicius%	Come and See%	
@@ -1743,6 +3952,11 @@ V. Vasilyev%	Come and See%
 Igor Gnevashev%	Come and See%	
 Vasiliy Domrachyov%	Come and See%	
 Evgeniy Kryzhanovskiy%	Come and See%	
+Viktor Manaev%	Come and See%	
+Pyotr Merkuryev%	Come and See%	
+Anatoly Slivnikov%	Come and See%	
+Georgi Strokov%	Come and See%	
+Adolf Hitler%	Come and See%	
 George O'Brien%	Sunrise%	
 Janet Gaynor%	Sunrise%	
 Margaret Livingston%	Sunrise%	
@@ -1758,6 +3972,16 @@ Sidney Bracey%	Sunrise%
 Gino Corrado%	Sunrise%	
 Sally Eilers%	Sunrise%	
 Gibson Gowland%	Sunrise%	
+Thomas Jefferson%	Sunrise%	
+Bob Kortman%	Sunrise%	
+F.W. Murnau%	Sunrise%	
+Barry Norton%	Sunrise%	
+Robert Parrish%	Sunrise%	
+Sally Phipps%	Sunrise%	
+Harry Semels%	Sunrise%	
+Phillips Smalley%	Sunrise%	
+Leo White%	Sunrise%	
+Clarence Wilson%	Sunrise%	
 Paul Newman%	Cool Hand Luke%	
 George Kennedy%	Cool Hand Luke%	
 J. D. Cannon%	Cool Hand Luke%	
@@ -1773,6 +3997,46 @@ Richard Davalos%	Cool Hand Luke%
 Robert Donner%	Cool Hand Luke%	
 Warren Finnerty%	Cool Hand Luke%	
 Dennis Hopper%	Cool Hand Luke%	
+John McLiam%	Cool Hand Luke%	
+Wayne Rogers%	Cool Hand Luke%	
+Harry Dean Stanton%	Cool Hand Luke%	
+Charles Tyner%	Cool Hand Luke%	
+Ralph Waite%	Cool Hand Luke%	
+Anthony Zerbe%	Cool Hand Luke%	
+Buck Kartalian%	Cool Hand Luke%	
+Joy Harmon%	Cool Hand Luke%	
+Joe Don Baker%	Cool Hand Luke%	
+James Gammon%	Cool Hand Luke%	
+Chuck Hicks%	Cool Hand Luke%	
+Rance Howard%	Cool Hand Luke%	
+James Jeter%	Cool Hand Luke%	
+Uma Thurman%	Kill Bill: Vol. 1%	
+Lucy Liu%	Kill Bill: Vol. 1%	
+Vivica A. Fox%	Kill Bill: Vol. 1%	
+Daryl Hannah%	Kill Bill: Vol. 1%	
+David Carradine%	Kill Bill: Vol. 1%	
+Michael Madsen%	Kill Bill: Vol. 1%	
+Julie Dreyfus%	Kill Bill: Vol. 1%	
+Chiaki Kuriyama%	Kill Bill: Vol. 1%	
+Sonny Chiba%	Kill Bill: Vol. 1%	
+Gordon Liu Chia-Hui%	Kill Bill: Vol. 1%	
+Michael Parks%	Kill Bill: Vol. 1%	
+Michael Bowen%	Kill Bill: Vol. 1%	
+Jun Kunimura%	Kill Bill: Vol. 1%	
+Kenji Ohba%	Kill Bill: Vol. 1%	
+Yuki Kazamatsuri%	Kill Bill: Vol. 1%	
+James Parks%	Kill Bill: Vol. 1%	
+Sakichi Satô%	Kill Bill: Vol. 1%	
+Jonathan Loughran%	Kill Bill: Vol. 1%	
+Yoshiyuki Morishita%	Kill Bill: Vol. 1%	
+Kazuki Kitamura%	Kill Bill: Vol. 1%	
+Yoji Tanaka%	Kill Bill: Vol. 1%	
+Sô Yamanaka%	Kill Bill: Vol. 1%	
+Juri Manase%	Kill Bill: Vol. 1%	
+Akaji Maro%	Kill Bill: Vol. 1%	
+Goro Daimon%	Kill Bill: Vol. 1%	
+Shun Sugata%	Kill Bill: Vol. 1%	
+Zhang Jin Zhan%	Kill Bill: Vol. 1%	
 Laurence Olivier%	Rebecca%	
 Joan Fontaine%	Rebecca%	
 George Sanders%	Rebecca%	
@@ -1788,6 +4052,39 @@ Leonard Carey%	Rebecca%
 Lumsden Hare%	Rebecca%	
 Edward Fielding%	Rebecca%	
 Philip Winter%	Rebecca%	
+Forrester Harvey%	Rebecca%	
+Billy Bevan%	Rebecca%	
+Egon Brecher%	Rebecca%	
+Gino Corrado%	Rebecca%	
+Alfred Hitchcock%	Rebecca%	
+Leyland Hodgson%	Rebecca%	
+Alphonse Martell%	Rebecca%	
+William H. O'Brien%	Rebecca%	
+Ronald R. Rondell%	Rebecca%	
+Leonardo DiCaprio%	Shutter Island%	
+Mark Ruffalo%	Shutter Island%	
+Ben Kingsley%	Shutter Island%	
+Max von Sydow%	Shutter Island%	
+Michelle Williams%	Shutter Island%	
+Emily Mortimer%	Shutter Island%	
+Patricia Clarkson%	Shutter Island%	
+Jackie Earle Haley%	Shutter Island%	
+Ted Levine%	Shutter Island%	
+John Carroll Lynch%	Shutter Island%	
+Elias Koteas%	Shutter Island%	
+Robin Bartlett%	Shutter Island%	
+Christopher Denham%	Shutter Island%	
+Nellie Sciutto%	Shutter Island%	
+Joseph Sikora%	Shutter Island%	
+Curtiss Cook%	Shutter Island%	
+Raymond Anthony Thomas%	Shutter Island%	
+Joseph McKenna%	Shutter Island%	
+Ruby Jerins%	Shutter Island%	
+Tom Kemp%	Shutter Island%	
+Lars Gerhard%	Shutter Island%	
+Matthew Cowles%	Shutter Island%	
+Jill Larson%	Shutter Island%	
+Joseph P. Reidy%	Shutter Island%	
 Andrew Garfield%	Hacksaw Ridge%	
 Richard Pyros%	Hacksaw Ridge%	
 Jacob Warner%	Hacksaw Ridge%	
@@ -1797,6 +4094,12 @@ Hugo Weaving%	Hacksaw Ridge%
 Rachel Griffiths%	Hacksaw Ridge%	
 Tyler Coppin%	Hacksaw Ridge%	
 Teresa Palmer%	Hacksaw Ridge%	
+Nathaniel Buzolic%	Hacksaw Ridge%	
+Firass Dirani%	Hacksaw Ridge%	
+Luke Pegler%	Hacksaw Ridge%	
+Luke Bracey%	Hacksaw Ridge%	
+Goran D. Kleut%	Hacksaw Ridge%	
+Harry Greenwood%	Hacksaw Ridge%	
 Jay Baruchel%	How to Train Your Dragon%	
 Gerard Butler%	How to Train Your Dragon%	
 Craig Ferguson%	How to Train Your Dragon%	
@@ -1822,6 +4125,36 @@ John Flaus%	Mary and Max%
 Christopher Massey%	Mary and Max%	
 Carolyn Shakespeare-Allen%	Mary and Max%	
 Michael Ienna%	Mary and Max%	
+Ben Affleck%	Gone Girl%	
+Rosamund Pike%	Gone Girl%	
+Neil Patrick Harris%	Gone Girl%	
+Tyler Perry%	Gone Girl%	
+Carrie Coon%	Gone Girl%	
+Kim Dickens%	Gone Girl%	
+Patrick Fugit%	Gone Girl%	
+David Clennon%	Gone Girl%	
+Lisa Banes%	Gone Girl%	
+Missi Pyle%	Gone Girl%	
+Emily Ratajkowski%	Gone Girl%	
+Casey Wilson%	Gone Girl%	
+Lola Kirke%	Gone Girl%	
+Boyd Holbrook%	Gone Girl%	
+Sela Ward%	Gone Girl%	
+Lee Norris%	Gone Girl%	
+Jamie McShane%	Gone Girl%	
+Leonard Kelly-Young%	Gone Girl%	
+Kathleen Rose Perkins%	Gone Girl%	
+Pete Housman%	Gone Girl%	
+Lynn Adrianna%	Gone Girl%	
+Mark Atteberry%	Gone Girl%	
+Darin Cooper%	Gone Girl%	
+Kate Campbell%	Gone Girl%	
+Brett Leigh%	Gone Girl%	
+Antonio St. James%	Gone Girl%	
+Lauren Glazier%	Gone Girl%	
+Julia Prud'homme%	Gone Girl%	
+Cooper Thornton%	Gone Girl%	
+Casey Ruggieri%	Gone Girl%	
 Anatoliy Solonitsyn%	Andrei Rublev%	
 Ivan Lapikov%	Andrei Rublev%	
 Nikolay Grinko%	Andrei Rublev%	
@@ -1834,6 +4167,12 @@ Rolan Bykov%	Andrei Rublev%
 Nikolay Grabbe%	Andrei Rublev%	
 Mikhail Kononov%	Andrei Rublev%	
 Stepan Krylov%	Andrei Rublev%	
+Nikolay Glazkov%	Andrei Rublev%	
+Vasili Vasilyev%	Andrei Rublev%	
+Zinaida Vorkul%	Andrei Rublev%	
+Irina Miroshnichenko%	Andrei Rublev%	
+Tamara Ogorodnikova%	Andrei Rublev%	
+Dmitriy Orlovskiy%	Andrei Rublev%	
 Emile Hirsch%	Into the Wild%	
 Marcia Gay Harden%	Into the Wild%	
 William Hurt%	Into the Wild%	
@@ -1844,6 +4183,13 @@ Vince Vaughn%	Into the Wild%
 Kristen Stewart%	Into the Wild%	
 Hal Holbrook%	Into the Wild%	
 Zach Galifianakis%	Into the Wild%	
+Robin Mathews%	Into the Wild%	
+Steven Wiig%	Into the Wild%	
+Thure Lindhardt%	Into the Wild%	
+Signe Egholm Olsen%	Into the Wild%	
+Bryce Walters%	Into the Wild%	
+Cheryl Francis Harrington%	Into the Wild%	
+R. D. Call%	Into the Wild%	
 Graham Chapman%	Life of Brian%	
 John Cleese%	Life of Brian%	
 Terry Gilliam%	Life of Brian%	
@@ -1859,21 +4205,53 @@ John Young%	Life of Brian%
 Gwen Taylor%	Life of Brian%	
 Sue Jones-Davies%	Life of Brian%	
 Peter Brett%	Life of Brian%	
-Clark Gable%	It Happened One Night%	
-Claudette Colbert%	It Happened One Night%	
-Walter Connolly%	It Happened One Night%	
-Roscoe Karns%	It Happened One Night%	
-Jameson Thomas%	It Happened One Night%	
-Alan Hale%	It Happened One Night%	
-Arthur Hoyt%	It Happened One Night%	
-Blanche Friderici%	It Happened One Night%	
-Charles C. Wilson%	It Happened One Night%	
-Ernie Adams%	It Happened One Night%	
-Jessie Arnold%	It Happened One Night%	
-Irving Bacon%	It Happened One Night%	
-William Bailey%	It Happened One Night%	
-Ward Bond%	It Happened One Night%	
-Harry C. Bradley%	It Happened One Night%	
+John Case%	Life of Brian%	
+Chris Langham%	Life of Brian%	
+Andrew MacLachlan%	Life of Brian%	
+Bernard McKenna%	Life of Brian%	
+Spike Milligan%	Life of Brian%	
+George Harrison%	Life of Brian%	
+Charles Knode%	Life of Brian%	
+Darío Grandinetti%	Relatos salvajes%	
+Maria Marull%	Relatos salvajes%	
+Mónica Villa%	Relatos salvajes%	
+Rita Cortese%	Relatos salvajes%	
+Julieta Zylberberg%	Relatos salvajes%	
+César Bordón%	Relatos salvajes%	
+Leonardo Sbaraglia%	Relatos salvajes%	
+Walter Donado%	Relatos salvajes%	
+Ricardo Darín%	Relatos salvajes%	
+Nancy Dupláa%	Relatos salvajes%	
+Oscar Martinez%	Relatos salvajes%	
+Maria Onetto%	Relatos salvajes%	
+Omar Núñez%	Relatos salvajes%	
+Germán de Silva%	Relatos salvajes%	
+Érica Rivas%	Relatos salvajes%	
+Diego Gentile%	Relatos salvajes%	
+Alan Daicz%	Relatos salvajes%	
+Miguel Di Lemme%	Relatos salvajes%	
+Andrea Garrote%	Relatos salvajes%	
+Ryan Gosling%	Blade Runner 2049%	
+Dave Bautista%	Blade Runner 2049%	
+Robin Wright%	Blade Runner 2049%	
+Mark Arnold%	Blade Runner 2049%	
+Ana de Armas%	Blade Runner 2049%	
+Wood Harris%	Blade Runner 2049%	
+David Dastmalchian%	Blade Runner 2049%	
+Tómas Lemarquis%	Blade Runner 2049%	
+Sylvia Hoeks%	Blade Runner 2049%	
+Edward James Olmos%	Blade Runner 2049%	
+Jared Leto%	Blade Runner 2049%	
+Sallie Harmsen%	Blade Runner 2049%	
+Hiam Abbass%	Blade Runner 2049%	
+Mackenzie Davis%	Blade Runner 2049%	
+Krista Kosonen%	Blade Runner 2049%	
+Elarica Gallacher%	Blade Runner 2049%	
+István Göz%	Blade Runner 2049%	
+Lennie James%	Blade Runner 2049%	
+Carla Juri%	Blade Runner 2049%	
+Barkhad Abdi%	Blade Runner 2049%	
+Harrison Ford%	Blade Runner 2049%	
 Aamir Khan%	Rang De Basanti%	
 Siddharth%	Rang De Basanti%	
 Sharman Joshi%	Rang De Basanti%	
@@ -1889,6 +4267,38 @@ Kirron Kher%	Rang De Basanti%
 Om Puri%	Rang De Basanti%	
 Lekh Tandon%	Rang De Basanti%	
 Cyrus Sahukar%	Rang De Basanti%	
+Mohan Agashe%	Rang De Basanti%	
+Mukesh Chhabra%	Rang De Basanti%	
+Chandan Roy Sanyal%	Rang De Basanti%	
+Manmeet Singh%	Rang De Basanti%	
+Clark Gable%	It Happened One Night%	
+Claudette Colbert%	It Happened One Night%	
+Walter Connolly%	It Happened One Night%	
+Roscoe Karns%	It Happened One Night%	
+Jameson Thomas%	It Happened One Night%	
+Alan Hale%	It Happened One Night%	
+Arthur Hoyt%	It Happened One Night%	
+Blanche Friderici%	It Happened One Night%	
+Charles C. Wilson%	It Happened One Night%	
+Ernie Adams%	It Happened One Night%	
+Jessie Arnold%	It Happened One Night%	
+Irving Bacon%	It Happened One Night%	
+William Bailey%	It Happened One Night%	
+Ward Bond%	It Happened One Night%	
+Harry C. Bradley%	It Happened One Night%	
+George P. Breakston%	It Happened One Night%	
+Charles A. Browne%	It Happened One Night%	
+James Burke%	It Happened One Night%	
+Edmund Burns%	It Happened One Night%	
+Eddy Chandler%	It Happened One Night%	
+Wallis Clark%	It Happened One Night%	
+Ray Cooke%	It Happened One Night%	
+Joseph Crehan%	It Happened One Night%	
+Jack Curtis%	It Happened One Night%	
+Mickey Daniels%	It Happened One Night%	
+Eva Dennison%	It Happened One Night%	
+Neal Dodd%	It Happened One Night%	
+Oliver Eckhardt%	It Happened One Night%	
 Maria Falconetti%	The Passion of Joan of Arc%	
 Eugene Silvain%	The Passion of Joan of Arc%	
 André Berley%	The Passion of Joan of Arc%	
@@ -1903,6 +4313,9 @@ Alexandre Mihalesco%	The Passion of Joan of Arc%
 Léon Larive%	The Passion of Joan of Arc%	
 Jean Aymé%	The Passion of Joan of Arc%	
 Gilbert Dalleu%	The Passion of Joan of Arc%	
+Fournez-Goffard%	The Passion of Joan of Arc%	
+Paul Jorge%	The Passion of Joan of Arc%	
+Marie Lacroix%	The Passion of Joan of Arc%	
 Tom Berenger%	Platoon%	
 Keith David%	Platoon%	
 Willem Dafoe%	Platoon%	
@@ -1918,6 +4331,15 @@ Chris Pedersen%	Platoon%
 Bob Orwig%	Platoon%	
 Corkey Ford%	Platoon%	
 David Neidorf%	Platoon%	
+Charlie Sheen%	Platoon%	
+Richard Edson%	Platoon%	
+Tony Todd%	Platoon%	
+Kevin Eshelman%	Platoon%	
+James Terry McIlvain%	Platoon%	
+J. Adam Glover%	Platoon%	
+Ivan Kane%	Platoon%	
+Paul Sanchez%	Platoon%	
+Dale Dye%	Platoon%	
 Alison Crosbie%	In the Name of the Father%	
 Daniel Day-Lewis%	In the Name of the Father%	
 Philip King%	In the Name of the Father%	
@@ -1930,6 +4352,13 @@ Julian Walsh%	In the Name of the Father%
 Stuart Wolfenden%	In the Name of the Father%	
 Jo Connor%	In the Name of the Father%	
 Karen Carlisle%	In the Name of the Father%	
+Fiona Daly%	In the Name of the Father%	
+Pete Postlethwaite%	In the Name of the Father%	
+Marie Jones%	In the Name of the Father%	
+John Lynch%	In the Name of the Father%	
+Beatie Edney%	In the Name of the Father%	
+Saffron Burrows%	In the Name of the Father%	
+Mark Sheppard%	In the Name of the Father%	
 Faye Dunaway%	Network%	
 William Holden%	Network%	
 Peter Finch%	Network%	
@@ -1942,6 +4371,17 @@ Kathy Cronkite%	Network%
 Ed Crowley%	Network%	
 Jerome Dempsey%	Network%	
 Conchata Ferrell%	Network%	
+Stanley Grover%	Network%	
+Cindy Grover%	Network%	
+Darryl Hickman%	Network%	
+Mitchell Jason%	Network%	
+Paul Jenkins%	Network%	
+Ken Kercheval%	Network%	
+Kenneth Kimmins%	Network%	
+Michael Lipton%	Network%	
+Michael Lombard%	Network%	
+Pirie MacDonald%	Network%	
+Russ Petranto%	Network%	
 Wil Wheaton%	Stand by Me%	
 River Phoenix%	Stand by Me%	
 Corey Feldman%	Stand by Me%	
@@ -1957,6 +4397,10 @@ Bruce Kirby%	Stand by Me%
 William Bronder%	Stand by Me%	
 Scott Beach%	Stand by Me%	
 Richard Dreyfuss%	Stand by Me%	
+John Cusack%	Stand by Me%	
+Art Burke%	Stand by Me%	
+Dick Durock%	Stand by Me%	
+O.B. Babbs%	Stand by Me%	
 Don Cheadle%	Hotel Rwanda%	
 Desmond Dube%	Hotel Rwanda%	
 Hakeem Kae-Kazim%	Hotel Rwanda%	
@@ -1970,6 +4414,21 @@ Sophie Okonedo%	Hotel Rwanda%
 Lebo Mashile%	Hotel Rwanda%	
 Antonio David Lyons%	Hotel Rwanda%	
 Leleti Khumalo%	Hotel Rwanda%	
+Kgomotso Seitshohlo%	Hotel Rwanda%	
+Lerato Mokgotho%	Hotel Rwanda%	
+Mosa Kaiser%	Hotel Rwanda%	
+Mathabo Pieterson%	Hotel Rwanda%	
+Ofentse Modiselle%	Hotel Rwanda%	
+David O'Hara%	Hotel Rwanda%	
+Joaquin Phoenix%	Hotel Rwanda%	
+Lennox Mathabathe%	Hotel Rwanda%	
+Mothusi Magano%	Hotel Rwanda%	
+Noxolo Maqashalala%	Hotel Rwanda%	
+Thulani Nyembe%	Hotel Rwanda%	
+Simo Mogwaza%	Hotel Rwanda%	
+Mirriam Ngomani%	Hotel Rwanda%	
+Cara Seymour%	Hotel Rwanda%	
+Harriet Lenabe%	Hotel Rwanda%	
 Ralph Fiennes%	The Grand Budapest Hotel%	
 F. Murray Abraham%	The Grand Budapest Hotel%	
 Mathieu Amalric%	The Grand Budapest Hotel%	
@@ -1985,6 +4444,21 @@ Jason Schwartzman%	The Grand Budapest Hotel%
 Léa Seydoux%	The Grand Budapest Hotel%	
 Tilda Swinton%	The Grand Budapest Hotel%	
 Tom Wilkinson%	The Grand Budapest Hotel%	
+Owen Wilson%	The Grand Budapest Hotel%	
+Tony Revolori%	The Grand Budapest Hotel%	
+Larry Pine%	The Grand Budapest Hotel%	
+Giselda Volodi%	The Grand Budapest Hotel%	
+Florian Lukas%	The Grand Budapest Hotel%	
+Karl Markovics%	The Grand Budapest Hotel%	
+Volker Michalowski%	The Grand Budapest Hotel%	
+Neal Huff%	The Grand Budapest Hotel%	
+Bob Balaban%	The Grand Budapest Hotel%	
+Fisher Stevens%	The Grand Budapest Hotel%	
+Wallace Wolodarsky%	The Grand Budapest Hotel%	
+Waris Ahluwalia%	The Grand Budapest Hotel%	
+Jella Niemann%	The Grand Budapest Hotel%	
+Marcel Mazur%	The Grand Budapest Hotel%	
+Robert Bienas%	The Grand Budapest Hotel%	
 Alisa Freyndlikh%	Stalker%	
 Aleksandr Kaydanovskiy%	Stalker%	
 Anatoliy Solonitsyn%	Stalker%	
@@ -2006,6 +4480,36 @@ Luis De Lima%	The Wages of Fear%
 Grégoire Gromoff%	The Wages of Fear%	
 Joseph Palau-Fabre%	The Wages of Fear%	
 Darling Légitimus%	The Wages of Fear%	
+François Valorbe%	The Wages of Fear%	
+Sam Neill%	Jurassic Park%	
+Laura Dern%	Jurassic Park%	
+Jeff Goldblum%	Jurassic Park%	
+Richard Attenborough%	Jurassic Park%	
+Bob Peck%	Jurassic Park%	
+Martin Ferrero%	Jurassic Park%	
+BD Wong%	Jurassic Park%	
+Joseph Mazzello%	Jurassic Park%	
+Ariana Richards%	Jurassic Park%	
+Samuel L. Jackson%	Jurassic Park%	
+Wayne Knight%	Jurassic Park%	
+Gerald R. Molen%	Jurassic Park%	
+Miguel Sandoval%	Jurassic Park%	
+Cameron Thor%	Jurassic Park%	
+Christopher John Fields%	Jurassic Park%	
+Whitby Hertford%	Jurassic Park%	
+Dean Cundey%	Jurassic Park%	
+Jophery C. Brown%	Jurassic Park%	
+Tom Mishler%	Jurassic Park%	
+Greg Burson%	Jurassic Park%	
+Adrian Escober%	Jurassic Park%	
+Richard Kiley%	Jurassic Park%	
+Brad M. Bucklin%	Jurassic Park%	
+Laura Burnett%	Jurassic Park%	
+Michael Lantieri%	Jurassic Park%	
+Gary Rodriguez%	Jurassic Park%	
+Lata Ryan%	Jurassic Park%	
+Brian Smrz%	Jurassic Park%	
+Robert 'Bobby Z' Zajonc%	Jurassic Park%	
 Charlton Heston%	Ben-Hur%	
 Jack Hawkins%	Ben-Hur%	
 Haya Harareet%	Ben-Hur%	
@@ -2021,11 +4525,94 @@ George Relph%	Ben-Hur%
 André Morell%	Ben-Hur%	
 Fortunato Arena%	Ben-Hur%	
 Bruno Ariè%	Ben-Hur%	
+Emma Baron%	Ben-Hur%	
+Ady Berber%	Ben-Hur%	
+Marina Berti%	Ben-Hur%	
+Robert Brown%	Ben-Hur%	
+Lando Buzzanca%	Ben-Hur%	
+Joe Canutt%	Ben-Hur%	
+Richard Coleman%	Ben-Hur%	
+Antonio Corevi%	Ben-Hur%	
 Bibi Andersson%	Persona%	
 Liv Ullmann%	Persona%	
 Margaretha Krook%	Persona%	
 Gunnar Björnstrand%	Persona%	
 Jörgen Lindström%	Persona%	
+Chris Hemsworth%	Rush%	
+Daniel Brühl%	Rush%	
+Olivia Wilde%	Rush%	
+Alexandra Maria Lara%	Rush%	
+Pierfrancesco Favino%	Rush%	
+David Calder%	Rush%	
+Natalie Dormer%	Rush%	
+Stephen Mangan%	Rush%	
+Christian McKay%	Rush%	
+Alistair Petrie%	Rush%	
+Julian Rhind-Tutt%	Rush%	
+Colin Stinton%	Rush%	
+Jamie de Courcey%	Rush%	
+Augusto Dallara%	Rush%	
+Ilario Calvo%	Rush%	
+Patrick Baladi%	Rush%	
+Martin Savage%	Rush%	
+Jamie Sives%	Rush%	
+Simon Taylor%	Rush%	
+Tom Wlaschiha%	Rush%	
+Cristian Solimeno%	Rush%	
+James Norton%	Rush%	
+Joséphine de la Baume%	Rush%	
+Geoffrey Streatfeild%	Rush%	
+Julien Vialon%	Rush%	
+Douglas Reith%	Rush%	
+Brooke Johnston%	Rush%	
+Song Kang-ho%	Memories of Murder%	
+Kim Sang-kyung%	Memories of Murder%	
+Kim Roe-ha%	Memories of Murder%	
+Byun Hee-bong%	Memories of Murder%	
+Go Seo-hee%	Memories of Murder%	
+Park No-shik%	Memories of Murder%	
+Park Hae-il%	Memories of Murder%	
+Choi Hyeon-gi%	Memories of Murder%	
+Choi Jong-ryul%	Memories of Murder%	
+Jo Deok-jae%	Memories of Murder%	
+Kim Joo-ryoung%	Memories of Murder%	
+Kwon Byung-gil%	Memories of Murder%	
+Lee Jae-eung%	Memories of Murder%	
+Oh Young%	Memories of Murder%	
+Park Jin-woo%	Memories of Murder%	
+Sung Bo Shim%	Memories of Murder%	
+Son Kang-gook%	Memories of Murder%	
+Yoo Seung-mok%	Memories of Murder%	
+Chiwetel Ejiofor%	12 Years a Slave%	
+Dwight Henry%	12 Years a Slave%	
+Dickie Gravois%	12 Years a Slave%	
+Bryan Batt%	12 Years a Slave%	
+Ashley Dyke%	12 Years a Slave%	
+Kelsey Scott%	12 Years a Slave%	
+Quvenzhané Wallis%	12 Years a Slave%	
+Cameron Zeigler%	12 Years a Slave%	
+Tony Bentley%	12 Years a Slave%	
+Scoot McNairy%	12 Years a Slave%	
+Taran Killam%	12 Years a Slave%	
+Christopher Berry%	12 Years a Slave%	
+Bill Camp%	12 Years a Slave%	
+Mister Mackey Jr.%	12 Years a Slave%	
+Chris Chalk%	12 Years a Slave%	
+Craig Tate%	12 Years a Slave%	
+Adepero Oduye%	12 Years a Slave%	
+Storm Reid%	12 Years a Slave%	
+Tom Proctor%	12 Years a Slave%	
+Marc Macaulay%	12 Years a Slave%	
+Vivian Fleming-Alvarez%	12 Years a Slave%	
+Michael Kenneth Williams%	12 Years a Slave%	
+Douglas M. Griffin%	12 Years a Slave%	
+John McConnell%	12 Years a Slave%	
+Marcus Lyle Brown%	12 Years a Slave%	
+Richard Holden%	12 Years a Slave%	
+Rob Steinberg%	12 Years a Slave%	
+Paul Giamatti%	12 Years a Slave%	
+Anwan Glover%	12 Years a Slave%	
+Benedict Cumberbatch%	12 Years a Slave%	
 Jim Carrey%	The Truman Show%	
 Laura Linney%	The Truman Show%	
 Noah Emmerich%	The Truman Show%	
@@ -2039,6 +4626,13 @@ Ron Taylor%	The Truman Show%
 Don Taylor%	The Truman Show%	
 Ted Raymond%	The Truman Show%	
 Judy Clayton%	The Truman Show%	
+Muriel Moore%	The Truman Show%	
+Mal Jones%	The Truman Show%	
+Judson Vaughn%	The Truman Show%	
+Antoni Corone%	The Truman Show%	
+Mario Ernesto Sánchez%	The Truman Show%	
+John Roselius%	The Truman Show%	
+Marcia DeBonis%	The Truman Show%	
 Clint Eastwood%	Million Dollar Baby%	
 Hilary Swank%	Million Dollar Baby%	
 Morgan Freeman%	Million Dollar Baby%	
@@ -2054,6 +4648,16 @@ Benito Martinez%	Million Dollar Baby%
 Bruce MacVittie%	Million Dollar Baby%	
 David Powledge%	Million Dollar Baby%	
 Joe D'Angerio%	Million Dollar Baby%	
+Marcus Chait%	Million Dollar Baby%	
+Tom McCleister%	Million Dollar Baby%	
+Erica Grant%	Million Dollar Baby%	
+Naveen%	Million Dollar Baby%	
+Morgan Eastwood%	Million Dollar Baby%	
+Jamison Yang%	Million Dollar Baby%	
+V.J. Foster%	Million Dollar Baby%	
+Steven M. Porter%	Million Dollar Baby%	
+Ming Lo%	Million Dollar Baby%	
+Miguel Pérez%	Million Dollar Baby%	
 Jean-Pierre Léaud%	The 400 Blows%	
 Claire Maurier%	The 400 Blows%	
 Albert Rémy%	The 400 Blows%	
@@ -2069,6 +4673,38 @@ Serge Moati%	The 400 Blows%
 Bernard Abbou%	The 400 Blows%	
 Jean-François Bergouignan%	The 400 Blows%	
 Michel Lesignor%	The 400 Blows%	
+Luc Andrieux%	The 400 Blows%	
+Robert Beauvais%	The 400 Blows%	
+Christian Brocard%	The 400 Blows%	
+Yvonne Claudie%	The 400 Blows%	
+Marius Laurey%	The 400 Blows%	
+Claude Mansard%	The 400 Blows%	
+Jacques Monod%	The 400 Blows%	
+Pierre Repp%	The 400 Blows%	
+Henri Virlojeux%	The 400 Blows%	
+Jean-Claude Brialy%	The 400 Blows%	
+Jeanne Moreau%	The 400 Blows%	
+Philippe de Broca%	The 400 Blows%	
+Jacques Demy%	The 400 Blows%	
+Jean Douchet%	The 400 Blows%	
+Tom Hardy%	Mad Max: Fury Road%	
+Charlize Theron%	Mad Max: Fury Road%	
+Nicholas Hoult%	Mad Max: Fury Road%	
+Hugh Keays-Byrne%	Mad Max: Fury Road%	
+Josh Helman%	Mad Max: Fury Road%	
+Nathan Jones%	Mad Max: Fury Road%	
+Zoë Kravitz%	Mad Max: Fury Road%	
+Rosie Huntington-Whiteley%	Mad Max: Fury Road%	
+Riley Keough%	Mad Max: Fury Road%	
+Abbey Lee%	Mad Max: Fury Road%	
+Courtney Eaton%	Mad Max: Fury Road%	
+John Howard%	Mad Max: Fury Road%	
+Richard Carter%	Mad Max: Fury Road%	
+Iota%	Mad Max: Fury Road%	
+Angus Sampson%	Mad Max: Fury Road%	
+Jennifer Hagan%	Mad Max: Fury Road%	
+Megan Gale%	Mad Max: Fury Road%	
+Melissa Jaffer%	Mad Max: Fury Road%	
 Mark Ruffalo%	Spotlight%	
 Michael Keaton%	Spotlight%	
 Rachel McAdams%	Spotlight%	
@@ -2082,6 +4718,41 @@ Jamey Sheridan%	Spotlight%
 Neal Huff%	Spotlight%	
 Billy Crudup%	Spotlight%	
 Robert B. Kennedy%	Spotlight%	
+Duane Murray%	Spotlight%	
+Michael Cyril Creighton%	Spotlight%	
+Paul Guilfoyle%	Spotlight%	
+Michael Countryman%	Spotlight%	
+Martin Roach%	Spotlight%	
+Brad Borbridge%	Spotlight%	
+Don Allison%	Spotlight%	
+Patty Ross%	Spotlight%	
+Robert Clarke%	Spotlight%	
+Gary Galone%	Spotlight%	
+David Fraser%	Spotlight%	
+Hugh Jackman%	Logan%	
+Patrick Stewart%	Logan%	
+Dafne Keen%	Logan%	
+Boyd Holbrook%	Logan%	
+Stephen Merchant%	Logan%	
+Elizabeth Rodriguez%	Logan%	
+Richard E. Grant%	Logan%	
+Eriq La Salle%	Logan%	
+Elise Neal%	Logan%	
+Al Coronel%	Logan%	
+Frank Gallegos%	Logan%	
+Reynaldo Gallegos%	Logan%	
+Krzysztof Soszynski%	Logan%	
+Stephen Dunlevy%	Logan%	
+Daniel Bernhardt%	Logan%	
+Jeremy Fitzgerald%	Logan%	
+Oren Hawxhurst%	Logan%	
+Chris Palermo%	Logan%	
+Paul Andrew O'Connor%	Logan%	
+Keith Jardine%	Logan%	
+Jean Claude Leuyer%	Logan%	
+Andrew Arrabito%	Logan%	
+Jef Groff%	Logan%	
+James Rawlings%	Logan%	
 Emilio Echevarría%	Amores Perros%	
 Gael García Bernal%	Amores Perros%	
 Goya Toledo%	Amores Perros%	
@@ -2097,6 +4768,14 @@ Dunia Saldívar%	Amores Perros%
 Adriana Barraza%	Amores Perros%	
 José Sefami%	Amores Perros%	
 Lourdes Echevarría%	Amores Perros%	
+Laura Almela%	Amores Perros%	
+Ricardo Dalmacci%	Amores Perros%	
+Gustavo Sánchez Parra%	Amores Perros%	
+Dagoberto Gama%	Amores Perros%	
+Rodrigo Ostap%	Amores Perros%	
+Patricio Castillo%	Amores Perros%	
+Roberto Medina%	Amores Perros%	
+Carlos Samperio%	Amores Perros%	
 Ethan Hawke%	Before Sunrise%	
 Julie Delpy%	Before Sunrise%	
 Andrea Eckert%	Before Sunrise%	
@@ -2112,6 +4791,20 @@ Kurti%	Before Sunrise%
 Hans Weingartner%	Before Sunrise%	
 Liese Lyon%	Before Sunrise%	
 Peter Ily Huemer%	Before Sunrise%	
+Otto Reiter%	Before Sunrise%	
+Hubert Fabian Kulterer%	Before Sunrise%	
+Branko Andric%	Before Sunrise%	
+Constanze Schweiger%	Before Sunrise%	
+John Sloss%	Before Sunrise%	
+Alexandra Seibel%	Before Sunrise%	
+Georg Schöllhammer%	Before Sunrise%	
+Christian Ankowitsch%	Before Sunrise%	
+Wilbirg Reiter%	Before Sunrise%	
+Barbara Klebel%	Before Sunrise%	
+Wolfgang Staribacher%	Before Sunrise%	
+Wolfgang Glüxam%	Before Sunrise%	
+Adam Goldberg%	Before Sunrise%	
+Paul Poet%	Before Sunrise%	
 Richard Gere%	Hachi: A Dog's Tale%	
 Joan Allen%	Hachi: A Dog's Tale%	
 Cary-Hiroyuki Tagawa%	Hachi: A Dog's Tale%	
@@ -2122,6 +4815,12 @@ Davenia McFadden%	Hachi: A Dog's Tale%
 Robbie Sublett%	Hachi: A Dog's Tale%	
 Tora Hallström%	Hachi: A Dog's Tale%	
 Frank S. Aronson%	Hachi: A Dog's Tale%	
+Timothy Crowe%	Hachi: A Dog's Tale%	
+Rich Tretheway%	Hachi: A Dog's Tale%	
+Ellen Becker Gray%	Hachi: A Dog's Tale%	
+David Boston%	Hachi: A Dog's Tale%	
+Gail Bruno%	Hachi: A Dog's Tale%	
+Robert Capron%	Hachi: A Dog's Tale%	
 Paul Newman%	Butch Cassidy and the Sundance Kid%	
 Robert Redford%	Butch Cassidy and the Sundance Kid%	
 Katharine Ross%	Butch Cassidy and the Sundance Kid%	
@@ -2136,6 +4835,46 @@ Donnelly Rhodes%	Butch Cassidy and the Sundance Kid%
 Jody Gilbert%	Butch Cassidy and the Sundance Kid%	
 Timothy Scott%	Butch Cassidy and the Sundance Kid%	
 Don Keefer%	Butch Cassidy and the Sundance Kid%	
+Pancho Córdova%	Butch Cassidy and the Sundance Kid%	
+Nelson Olmsted%	Butch Cassidy and the Sundance Kid%	
+Paul Bryar%	Butch Cassidy and the Sundance Kid%	
+Sam Elliott%	Butch Cassidy and the Sundance Kid%	
+Charles Akins%	Butch Cassidy and the Sundance Kid%	
+Eric Sinclair%	Butch Cassidy and the Sundance Kid%	
+Rico Cattani%	Butch Cassidy and the Sundance Kid%	
+José Chávez%	Butch Cassidy and the Sundance Kid%	
+Percy Helton%	Butch Cassidy and the Sundance Kid%	
+Buck Holland%	Butch Cassidy and the Sundance Kid%	
+Hugh Jackman%	Prisoners%	
+Jake Gyllenhaal%	Prisoners%	
+Viola Davis%	Prisoners%	
+Maria Bello%	Prisoners%	
+Terrence Howard%	Prisoners%	
+Melissa Leo%	Prisoners%	
+Paul Dano%	Prisoners%	
+Dylan Minnette%	Prisoners%	
+Zoë Borde%	Prisoners%	
+Erin Gerasimovich%	Prisoners%	
+Kyla Drew Simmons%	Prisoners%	
+Wayne Duvall%	Prisoners%	
+Len Cariou%	Prisoners%	
+David Dastmalchian%	Prisoners%	
+Brad James%	Prisoners%	
+Anthony Reynolds%	Prisoners%	
+Robert C. Treveiler%	Prisoners%	
+Sandra Ellis Lafferty%	Prisoners%	
+Victoria Staley%	Prisoners%	
+Todd Truley%	Prisoners%	
+Brian Daye%	Prisoners%	
+Alisa Harris%	Prisoners%	
+Robert Mello%	Prisoners%	
+Jeff Pope%	Prisoners%	
+Rodrick Goins%	Prisoners%	
+Mark Drum%	Prisoners%	
+Lana Yoo%	Prisoners%	
+Pam Smith%	Prisoners%	
+Gloria Webber%	Prisoners%	
+Michelle Keller%	Prisoners%	
 Cary Elwes%	The Princess Bride%	
 Mandy Patinkin%	The Princess Bride%	
 Chris Sarandon%	The Princess Bride%	
@@ -2151,6 +4890,22 @@ Carol Kane%	The Princess Bride%
 Billy Crystal%	The Princess Bride%	
 Anne Dyson%	The Princess Bride%	
 Margery Mason%	The Princess Bride%	
+Malcolm Storry%	The Princess Bride%	
+Willoughby Gray%	The Princess Bride%	
+Betsy Brantley%	The Princess Bride%	
+Paul Badger%	The Princess Bride%	
+Errol Bennett%	The Princess Bride%	
+Danny Blackner%	The Princess Bride%	
+Willy DeVille%	The Princess Bride%	
+Mickey Feat%	The Princess Bride%	
+Guy Fletcher%	The Princess Bride%	
+Mark Knopfler%	The Princess Bride%	
+Jamie Lane%	The Princess Bride%	
+Sallie McLaughlin%	The Princess Bride%	
+Derek Pykett%	The Princess Bride%	
+Sumi Shimamoto%	Nausicaä of the Valley of the Wind%	
+Mahito Tsujimura%	Nausicaä of the Valley of the Wind%	
+Hisako Kyouda%	Nausicaä of the Valley of the Wind%	
 Ryan Gosling%	La La Land%	
 Emma Stone%	La La Land%	
 Amiée Conn%	La La Land%	
@@ -2165,6 +4920,42 @@ Claudine Claudio%	La La Land%
 Jason Fuchs%	La La Land%	
 D.A. Wallach%	La La Land%	
 Trevor Lissauer%	La La Land%	
+Olivia Hamilton%	La La Land%	
+Anna Chazelle%	La La Land%	
+Marius De Vries%	La La Land%	
+Finn Wittrock%	La La Land%	
+Josh Pence%	La La Land%	
+Nicole Coulon%	La La Land%	
+Damon Gupton%	La La Land%	
+John Legend%	La La Land%	
+David Douglas%	La La Land%	
+Leonardo DiCaprio%	Catch Me If You Can%	
+Tom Hanks%	Catch Me If You Can%	
+Christopher Walken%	Catch Me If You Can%	
+Martin Sheen%	Catch Me If You Can%	
+Nathalie Baye%	Catch Me If You Can%	
+Amy Adams%	Catch Me If You Can%	
+James Brolin%	Catch Me If You Can%	
+Brian Howe%	Catch Me If You Can%	
+Frank John Hughes%	Catch Me If You Can%	
+Steve Eastin%	Catch Me If You Can%	
+Chris Ellis%	Catch Me If You Can%	
+John Finn%	Catch Me If You Can%	
+Jennifer Garner%	Catch Me If You Can%	
+Nancy Lenehan%	Catch Me If You Can%	
+Ellen Pompeo%	Catch Me If You Can%	
+Elizabeth Banks%	Catch Me If You Can%	
+Guy Thauvette%	Catch Me If You Can%	
+Candice Azzara%	Catch Me If You Can%	
+Matthew Kimbrough%	Catch Me If You Can%	
+Joshua Boyd%	Catch Me If You Can%	
+Kaitlin Doubleday%	Catch Me If You Can%	
+Kelly McNair%	Catch Me If You Can%	
+Thomas Kopache%	Catch Me If You Can%	
+Margaret Travolta%	Catch Me If You Can%	
+Jimmie F. Skaggs%	Catch Me If You Can%	
+Alex Hyde-White%	Catch Me If You Can%	
+Lilyan Chauvin%	Catch Me If You Can%	
 Humphrey Bogart%	The Maltese Falcon%	
 Mary Astor%	The Maltese Falcon%	
 Gladys George%	The Maltese Falcon%	
@@ -2180,6 +4971,43 @@ Murray Alper%	The Maltese Falcon%
 John Hamilton%	The Maltese Falcon%	
 Charles Drake%	The Maltese Falcon%	
 Chester Gan%	The Maltese Falcon%	
+Creighton Hale%	The Maltese Falcon%	
+Robert Homans%	The Maltese Falcon%	
+William Hopper%	The Maltese Falcon%	
+Walter Huston%	The Maltese Falcon%	
+Hank Mann%	The Maltese Falcon%	
+Jack Mower%	The Maltese Falcon%	
+Emory Parnell%	The Maltese Falcon%	
+Ralph Fiennes%	Harry Potter and the Deathly Hallows: Part 2%	
+Michael Gambon%	Harry Potter and the Deathly Hallows: Part 2%	
+Alan Rickman%	Harry Potter and the Deathly Hallows: Part 2%	
+Daniel Radcliffe%	Harry Potter and the Deathly Hallows: Part 2%	
+Rupert Grint%	Harry Potter and the Deathly Hallows: Part 2%	
+Emma Watson%	Harry Potter and the Deathly Hallows: Part 2%	
+Evanna Lynch%	Harry Potter and the Deathly Hallows: Part 2%	
+Domhnall Gleeson%	Harry Potter and the Deathly Hallows: Part 2%	
+Clémence Poésy%	Harry Potter and the Deathly Hallows: Part 2%	
+Warwick Davis%	Harry Potter and the Deathly Hallows: Part 2%	
+John Hurt%	Harry Potter and the Deathly Hallows: Part 2%	
+Helena Bonham Carter%	Harry Potter and the Deathly Hallows: Part 2%	
+Graham Duff%	Harry Potter and the Deathly Hallows: Part 2%	
+Anthony Allgood%	Harry Potter and the Deathly Hallows: Part 2%	
+Rusty Goffe%	Harry Potter and the Deathly Hallows: Part 2%	
+Jon Key%	Harry Potter and the Deathly Hallows: Part 2%	
+Kelly Macdonald%	Harry Potter and the Deathly Hallows: Part 2%	
+Jason Isaacs%	Harry Potter and the Deathly Hallows: Part 2%	
+Helen McCrory%	Harry Potter and the Deathly Hallows: Part 2%	
+Tom Felton%	Harry Potter and the Deathly Hallows: Part 2%	
+Ian Peck%	Harry Potter and the Deathly Hallows: Part 2%	
+Benn Northover%	Harry Potter and the Deathly Hallows: Part 2%	
+Ciarán Hinds%	Harry Potter and the Deathly Hallows: Part 2%	
+Hebe Beardsall%	Harry Potter and the Deathly Hallows: Part 2%	
+Matthew Lewis%	Harry Potter and the Deathly Hallows: Part 2%	
+Devon Murray%	Harry Potter and the Deathly Hallows: Part 2%	
+Jessie Cave%	Harry Potter and the Deathly Hallows: Part 2%	
+Afshan Azad%	Harry Potter and the Deathly Hallows: Part 2%	
+Isabella Laughland%	Harry Potter and the Deathly Hallows: Part 2%	
+Anna Shaffer%	Harry Potter and the Deathly Hallows: Part 2%	
 Anupam Kher%	A Wednesday%	
 Naseeruddin Shah%	A Wednesday%	
 Jimmy Shergill%	A Wednesday%	
@@ -2195,18 +5023,38 @@ Rohitash Gaud%	A Wednesday%
 Vijay Bhatia%	A Wednesday%	
 Aayam Mehta%	A Wednesday%	
 Rajendra Chawla%	A Wednesday%	
-Giulietta Masina%	The Nights of Cabiria%	
-François Périer%	The Nights of Cabiria%	
-Franca Marzi%	The Nights of Cabiria%	
-Dorian Gray%	The Nights of Cabiria%	
-Aldo Silvani%	The Nights of Cabiria%	
-Ennio Girolami%	The Nights of Cabiria%	
-Mario Passante%	The Nights of Cabiria%	
-Amedeo Nazzari%	The Nights of Cabiria%	
-Gianni Baghino%	The Nights of Cabiria%	
-Franco Balducci%	The Nights of Cabiria%	
-Ciccio Barbi%	The Nights of Cabiria%	
-Leo Cattozzo%	The Nights of Cabiria%	
+Paarth Apurva Mehrotra%	A Wednesday%	
+Seema Malik%	A Wednesday%	
+Vicky Ahuja%	A Wednesday%	
+Bhagwan Tiwari%	A Wednesday%	
+Jitendra Kumar%	A Wednesday%	
+Sylvester Stallone%	Rocky%	
+Talia Shire%	Rocky%	
+Burt Young%	Rocky%	
+Carl Weathers%	Rocky%	
+Burgess Meredith%	Rocky%	
+Thayer David%	Rocky%	
+Joe Spinell%	Rocky%	
+Jimmy Gambina%	Rocky%	
+Bill Baldwin%	Rocky%	
+Al Silvani%	Rocky%	
+George Memmoli%	Rocky%	
+Jodi Letizia%	Rocky%	
+Diana Lewis%	Rocky%	
+George O'Hanlon%	Rocky%	
+Larry Carroll%	Rocky%	
+Stan Shaw%	Rocky%	
+Don Sherman%	Rocky%	
+Billy Sands%	Rocky%	
+Pedro Lovell%	Rocky%	
+DeForest Covan%	Rocky%	
+Simmy Bow%	Rocky%	
+Tony Burton%	Rocky%	
+Hank Rolike%	Rocky%	
+Shirley O'Hara%	Rocky%	
+Kathleen Parker%	Rocky%	
+Lloyd Kaufman%	Rocky%	
+Jane Marla Robbins%	Rocky%	
 Henry Fonda%	The Grapes of Wrath%	
 Jane Darwell%	The Grapes of Wrath%	
 John Carradine%	The Grapes of Wrath%	
@@ -2222,6 +5070,40 @@ Frank Darien%	The Grapes of Wrath%
 Darryl Hickman%	The Grapes of Wrath%	
 Shirley Mills%	The Grapes of Wrath%	
 Roger Imhof%	The Grapes of Wrath%	
+Grant Mitchell%	The Grapes of Wrath%	
+Charles D. Brown%	The Grapes of Wrath%	
+John Arledge%	The Grapes of Wrath%	
+Ward Bond%	The Grapes of Wrath%	
+Harry Tyler%	The Grapes of Wrath%	
+William Pawley%	The Grapes of Wrath%	
+Charles Tannen%	The Grapes of Wrath%	
+Selmer Jackson%	The Grapes of Wrath%	
+Charles Middleton%	The Grapes of Wrath%	
+Eddy Waller%	The Grapes of Wrath%	
+Paul Guilfoyle%	The Grapes of Wrath%	
+David Hughes%	The Grapes of Wrath%	
+Cliff Clark%	The Grapes of Wrath%	
+Joe Sawyer%	The Grapes of Wrath%	
+Frank Faylen%	The Grapes of Wrath%	
+Giulietta Masina%	The Nights of Cabiria%	
+François Périer%	The Nights of Cabiria%	
+Franca Marzi%	The Nights of Cabiria%	
+Dorian Gray%	The Nights of Cabiria%	
+Aldo Silvani%	The Nights of Cabiria%	
+Ennio Girolami%	The Nights of Cabiria%	
+Mario Passante%	The Nights of Cabiria%	
+Amedeo Nazzari%	The Nights of Cabiria%	
+Gianni Baghino%	The Nights of Cabiria%	
+Franco Balducci%	The Nights of Cabiria%	
+Ciccio Barbi%	The Nights of Cabiria%	
+Leo Cattozzo%	The Nights of Cabiria%	
+Dominique Delouche%	The Nights of Cabiria%	
+Franco Fabrizi%	The Nights of Cabiria%	
+Riccardo Fellini%	The Nights of Cabiria%	
+Amedeo Girard%	The Nights of Cabiria%	
+Nino Milano%	The Nights of Cabiria%	
+Sandro Moretti%	The Nights of Cabiria%	
+Mimmo Poli%	The Nights of Cabiria%	
 John Goodman%	Monsters, Inc.%	
 Billy Crystal%	Monsters, Inc.%	
 Mary Gibbs%	Monsters, Inc.%	
@@ -2237,6 +5119,21 @@ Bonnie Hunt%	Monsters, Inc.%
 Jeff Pidgeon%	Monsters, Inc.%	
 Samuel Lord Black%	Monsters, Inc.%	
 Jack Angel%	Monsters, Inc.%	
+Bob Bergen%	Monsters, Inc.%	
+Rodger Bumpass%	Monsters, Inc.%	
+Gino Conforti%	Monsters, Inc.%	
+Jennifer Darling%	Monsters, Inc.%	
+Patti Deutsch%	Monsters, Inc.%	
+Pete Docter%	Monsters, Inc.%	
+Bobby Edner%	Monsters, Inc.%	
+Ashley Edner%	Monsters, Inc.%	
+Paul Eiding%	Monsters, Inc.%	
+Katie Scarlettr%	Monsters, Inc.%	
+Bill Farmer%	Monsters, Inc.%	
+Keegan Farrell%	Monsters, Inc.%	
+Pat Fraley%	Monsters, Inc.%	
+Teresa Ganzel%	Monsters, Inc.%	
+Taylor Gifaldi%	Monsters, Inc.%	
 Simone Signoret%	Diabolique%	
 Véra Clouzot%	Diabolique%	
 Paul Meurisse%	Diabolique%	
@@ -2251,6 +5148,46 @@ Jacques Hilling%	Diabolique%
 Jean Lefebvre%	Diabolique%	
 Jean Témerson%	Diabolique%	
 Jacques Varennes%	Diabolique%	
+Georges Poujouly%	Diabolique%	
+Yves-Marie Maurin%	Diabolique%	
+Noël Roquevert%	Diabolique%	
+Pierre Larquey%	Diabolique%	
+Christian Brocard%	Diabolique%	
+Jean Clarieux%	Diabolique%	
+Henri Coutet%	Diabolique%	
+Johnny Hallyday%	Diabolique%	
+Zappy Max%	Diabolique%	
+Madeleine Suffel%	Diabolique%	
+Jimmy Urbain%	Diabolique%	
+Jake Gyllenhaal%	Donnie Darko%	
+Holmes Osborne%	Donnie Darko%	
+Maggie Gyllenhaal%	Donnie Darko%	
+Daveigh Chase%	Donnie Darko%	
+Mary McDonnell%	Donnie Darko%	
+James Duval%	Donnie Darko%	
+Arthur Taxier%	Donnie Darko%	
+Patrick Swayze%	Donnie Darko%	
+Mark Hoffman%	Donnie Darko%	
+David St. James%	Donnie Darko%	
+Tom Tangen%	Donnie Darko%	
+Jazzie Mahannah%	Donnie Darko%	
+Jolene Purdy%	Donnie Darko%	
+Stuart Stone%	Donnie Darko%	
+Gary Lundy%	Donnie Darko%	
+Alex Greenwald%	Donnie Darko%	
+Beth Grant%	Donnie Darko%	
+Jena Malone%	Donnie Darko%	
+Seth Rogen%	Donnie Darko%	
+David Moreland%	Donnie Darko%	
+Noah Wyle%	Donnie Darko%	
+Drew Barrymore%	Donnie Darko%	
+Kristina Malota%	Donnie Darko%	
+Marina Malota%	Donnie Darko%	
+Carly Naples%	Donnie Darko%	
+Patience Cleveland%	Donnie Darko%	
+Katharine Ross%	Donnie Darko%	
+Lisa K. Wyatt%	Donnie Darko%	
+Rachel Winfree%	Donnie Darko%	
 Ryan O'Neal%	Barry Lyndon%	
 Marisa Berenson%	Barry Lyndon%	
 Patrick Magee%	Barry Lyndon%	
@@ -2266,6 +5203,18 @@ Arthur O'Sullivan%	Barry Lyndon%
 Godfrey Quigley%	Barry Lyndon%	
 Leonard Rossiter%	Barry Lyndon%	
 Philip Stone%	Barry Lyndon%	
+Leon Vitali%	Barry Lyndon%	
+John Bindon%	Barry Lyndon%	
+Billy Boyle%	Barry Lyndon%	
+Jonathan Cecil%	Barry Lyndon%	
+Peter Cellier%	Barry Lyndon%	
+Geoffrey Chater%	Barry Lyndon%	
+Anthony Dawes%	Barry Lyndon%	
+Bernard Hepton%	Barry Lyndon%	
+Barry Jackson%	Barry Lyndon%	
+Wolf Kahler%	Barry Lyndon%	
+Pat Laffan%	Barry Lyndon%	
+Hans Meyer%	Barry Lyndon%	
 Ryan O'Neal%	Paper Moon%	
 Tatum O'Neal%	Paper Moon%	
 Madeline Kahn%	Paper Moon%	
@@ -2275,6 +5224,9 @@ James N. Harrell%	Paper Moon%
 Lila Waters%	Paper Moon%	
 Noble Willingham%	Paper Moon%	
 Liz Ross%	Paper Moon%	
+Desmond Dhooge%	Paper Moon%	
+Burton Gilliam%	Paper Moon%	
+Randy Quaid%	Paper Moon%	
 Ben Kingsley%	Gandhi%	
 Candice Bergen%	Gandhi%	
 Edward Fox%	Gandhi%	
@@ -2290,6 +5242,19 @@ Geraldine James%	Gandhi%
 Alyque Padamsee%	Gandhi%	
 Amrish Puri%	Gandhi%	
 Roshan Seth%	Gandhi%	
+Rohini Hattangadi%	Gandhi%	
+Ian Bannen%	Gandhi%	
+Michael Bryant%	Gandhi%	
+John Clements%	Gandhi%	
+Richard Griffiths%	Gandhi%	
+Nigel Hawthorne%	Gandhi%	
+Bernard Hepton%	Gandhi%	
+Michael Hordern%	Gandhi%	
+Shreeram Lagoo%	Gandhi%	
+Om Puri%	Gandhi%	
+Richard Vernon%	Gandhi%	
+Harsh Nayyar%	Gandhi%	
+Vijay Kashyap%	Gandhi%	
 Arnold Schwarzenegger%	The Terminator%	
 Michael Biehn%	The Terminator%	
 Linda Hamilton%	The Terminator%	
@@ -2303,6 +5268,14 @@ Shawn Schepps%	The Terminator%
 Franco Columbu%	The Terminator%	
 Bill Paxton%	The Terminator%	
 Brian Thompson%	The Terminator%	
+William Wisher Jr.%	The Terminator%	
+Ken Fritz%	The Terminator%	
+Joe Farago%	The Terminator%	
+Hettie Lynne Hurtes%	The Terminator%	
+Philip Gordon%	The Terminator%	
+Stan Yale%	The Terminator%	
+Hugh Farrington%	The Terminator%	
+Harriet Medin%	The Terminator%	
 Charlton Heston%	Touch of Evil%	
 Janet Leigh%	Touch of Evil%	
 Orson Welles%	Touch of Evil%	
@@ -2318,6 +5291,15 @@ Lalo Rios%	Touch of Evil%
 Michael Sargent%	Touch of Evil%	
 Phil Harvey%	Touch of Evil%	
 Joi Lansing%	Touch of Evil%	
+Harry Shannon%	Touch of Evil%	
+Marlene Dietrich%	Touch of Evil%	
+Zsa Zsa Gábor%	Touch of Evil%	
+Joseph Cotten%	Touch of Evil%	
+John Dierkes%	Touch of Evil%	
+Eva Gabor%	Touch of Evil%	
+Billy House%	Touch of Evil%	
+Mercedes McCambridge%	Touch of Evil%	
+Arlene McQuade%	Touch of Evil%	
 Vincent Cassel%	La Haine%	
 Hubert Koundé%	La Haine%	
 Saïd Taghmaoui%	La Haine%	
@@ -2330,6 +5312,15 @@ Olga Abrego%	La Haine%
 Laurent Labasse%	La Haine%	
 Choukri Gabteni%	La Haine%	
 Benoît Magimel%	La Haine%	
+Mathilde Vitry%	La Haine%	
+Christian Moro%	La Haine%	
+Edouard Montoute%	La Haine%	
+Félicité Wouassi%	La Haine%	
+Cut Killer%	La Haine%	
+François Levantal%	La Haine%	
+Julie Mauduech%	La Haine%	
+Karin Viard%	La Haine%	
+Peter Kassovitz%	La Haine%	
 Bill Murray%	Groundhog Day%	
 Andie MacDowell%	Groundhog Day%	
 Chris Elliott%	Groundhog Day%	
@@ -2344,6 +5335,16 @@ Carol Bivins%	Groundhog Day%
 Willie Garson%	Groundhog Day%	
 Ken Hudson Campbell%	Groundhog Day%	
 Les Podewell%	Groundhog Day%	
+Tom Milanovich%	Groundhog Day%	
+John M. Watson Sr.%	Groundhog Day%	
+Peggy Roeder%	Groundhog Day%	
+Harold Ramis%	Groundhog Day%	
+David Pasquesi%	Groundhog Day%	
+Lee R. Sellars%	Groundhog Day%	
+C.O. Erickson%	Groundhog Day%	
+Sandy Maschmeyer%	Groundhog Day%	
+Hynden Walch%	Groundhog Day%	
+Michael Shannon%	Groundhog Day%	
 Judy Garland%	The Wizard of Oz%	
 Frank Morgan%	The Wizard of Oz%	
 Ray Bolger%	The Wizard of Oz%	
@@ -2357,6 +5358,16 @@ Clara Blandick%	The Wizard of Oz%
 Terry%	The Wizard of Oz%	
 The Singer Midgets%	The Wizard of Oz%	
 Dorothy Barrett%	The Wizard of Oz%	
+Amelia Batchelor%	The Wizard of Oz%	
+Charles Becker%	The Wizard of Oz%	
+Billy Bletcher%	The Wizard of Oz%	
+Lorraine Bridges%	The Wizard of Oz%	
+Buster Brodie%	The Wizard of Oz%	
+Tyler Brooke%	The Wizard of Oz%	
+Candy Candido%	The Wizard of Oz%	
+Mickey Carroll%	The Wizard of Oz%	
+Adriana Caselotti%	The Wizard of Oz%	
+Harry Cogg%	The Wizard of Oz%	
 Robin Williams%	Dead Poets Society%	
 Robert Sean Leonard%	Dead Poets Society%	
 Ethan Hawke%	Dead Poets Society%	
@@ -2370,6 +5381,46 @@ Kurtwood Smith%	Dead Poets Society%
 Carla Belver%	Dead Poets Society%	
 Leon Pownall%	Dead Poets Society%	
 George Martin%	Dead Poets Society%	
+Kevin Cooney%	Dead Poets Society%	
+Jane Moore%	Dead Poets Society%	
+Lara Flynn Boyle%	Dead Poets Society%	
+Alexandra Powers%	Dead Poets Society%	
+Melora Walters%	Dead Poets Society%	
+Welker White%	Dead Poets Society%	
+Alan Pottinger%	Dead Poets Society%	
+Pamela Burrell%	Dead Poets Society%	
+John Cunningham%	Dead Poets Society%	
+Debra Mooney%	Dead Poets Society%	
+Matt Damon%	The Bourne Ultimatum%	
+Julia Stiles%	The Bourne Ultimatum%	
+David Strathairn%	The Bourne Ultimatum%	
+Scott Glenn%	The Bourne Ultimatum%	
+Paddy Considine%	The Bourne Ultimatum%	
+Edgar Ramírez%	The Bourne Ultimatum%	
+Albert Finney%	The Bourne Ultimatum%	
+Joan Allen%	The Bourne Ultimatum%	
+Tom Gallop%	The Bourne Ultimatum%	
+Corey Johnson%	The Bourne Ultimatum%	
+Daniel Brühl%	The Bourne Ultimatum%	
+Joey Ansah%	The Bourne Ultimatum%	
+Colin Stinton%	The Bourne Ultimatum%	
+Dan Fredenburgh%	The Bourne Ultimatum%	
+Lucy Liemann%	The Bourne Ultimatum%	
+Bryan Reents%	The Bourne Ultimatum%	
+Arkie Reece%	The Bourne Ultimatum%	
+John Roberson%	The Bourne Ultimatum%	
+Russ Huards%	The Bourne Ultimatum%	
+Mark Bazeley%	The Bourne Ultimatum%	
+Sinead O'Keefe%	The Bourne Ultimatum%	
+Chucky Venice%	The Bourne Ultimatum%	
+Scott Adkins%	The Bourne Ultimatum%	
+Branko Tomovic%	The Bourne Ultimatum%	
+Laurentiu Possa%	The Bourne Ultimatum%	
+Trevor St. John%	The Bourne Ultimatum%	
+Albert Jones%	The Bourne Ultimatum%	
+Jeffrey Lee Gibson%	The Bourne Ultimatum%	
+Uriel Emil Pollack%	The Bourne Ultimatum%	
+Omar Hernandez%	The Bourne Ultimatum%	
 Woody Allen%	Annie Hall%	
 Diane Keaton%	Annie Hall%	
 Tony Roberts%	Annie Hall%	
@@ -2384,6 +5435,17 @@ Helen Ludlam%	Annie Hall%
 Mordecai Lawner%	Annie Hall%	
 Joan Neuman%	Annie Hall%	
 Jonathan Munk%	Annie Hall%	
+Hy Anzell%	Annie Hall%	
+Rashel Novikoff%	Annie Hall%	
+Russell Horton%	Annie Hall%	
+Marshall McLuhan%	Annie Hall%	
+Christine Jones%	Annie Hall%	
+Mary Boylan%	Annie Hall%	
+John Doumanian%	Annie Hall%	
+Bob Maroff%	Annie Hall%	
+Rick Petrucelli%	Annie Hall%	
+Dick Cavett%	Annie Hall%	
+Mark Lenard%	Annie Hall%	
 Marcello Mastroianni%	8½%	
 Claudia Cardinale%	8½%	
 Anouk Aimée%	8½%	
@@ -2399,6 +5461,35 @@ Bruno Agostini%	8½%
 Cesarino Miceli Picardi%	8½%	
 Jean Rougeul%	8½%	
 Mario Pisu%	8½%	
+Yvonne Casadei%	8½%	
+Ian Dallas%	8½%	
+Mino Doro%	8½%	
+Nadia Sanders%	8½%	
+Georgia Simmons%	8½%	
+Edy Vessel%	8½%	
+Annie Gorassini%	8½%	
+Rossella Como%	8½%	
+Mark Herron%	8½%	
+Eugene Walter%	8½%	
+Roy Scheider%	Jaws%	
+Robert Shaw%	Jaws%	
+Richard Dreyfuss%	Jaws%	
+Lorraine Gary%	Jaws%	
+Murray Hamilton%	Jaws%	
+Carl Gottlieb%	Jaws%	
+Jeffrey Kramer%	Jaws%	
+Susan Backlinie%	Jaws%	
+Jonathan Filley%	Jaws%	
+Ted Grossman%	Jaws%	
+Chris Rebello%	Jaws%	
+Jay Mello%	Jaws%	
+Lee Fierro%	Jaws%	
+Jeffrey Voorhees%	Jaws%	
+Craig Kingsbury%	Jaws%	
+Robert Nevin%	Jaws%	
+Peter Benchley%	Jaws%	
+Edward Chalmers Jr.%	Jaws%	
+Fritzi Jane Courtney%	Jaws%	
 Maggie Cheung%	In the Mood for Love%	
 Tony Leung Chiu-Wai%	In the Mood for Love%	
 Siu Ping-Lam%	In the Mood for Love%	
@@ -2414,6 +5505,46 @@ Koo Kam-Wah%	In the Mood for Love%
 Hsien Yu%	In the Mood for Love%	
 Julien Carbon%	In the Mood for Love%	
 Laurent Courtiaud%	In the Mood for Love%	
+Charles de Gaulle%	In the Mood for Love%	
+Emma Stone%	The Help%	
+Viola Davis%	The Help%	
+Bryce Dallas Howard%	The Help%	
+Octavia Spencer%	The Help%	
+Jessica Chastain%	The Help%	
+Ahna O'Reilly%	The Help%	
+Allison Janney%	The Help%	
+Anna Camp%	The Help%	
+Chris Lowell%	The Help%	
+Cicely Tyson%	The Help%	
+Mike Vogel%	The Help%	
+Sissy Spacek%	The Help%	
+Brian Kerwin%	The Help%	
+Wes Chatham%	The Help%	
+Aunjanue Ellis%	The Help%	
+Ted Welch%	The Help%	
+Shane McRae%	The Help%	
+Roslyn Ruff%	The Help%	
+Tarra Riggs%	The Help%	
+Leslie Jordan%	The Help%	
+Mary Steenburgen%	The Help%	
+Tiffany Brouwer%	The Help%	
+Carol Lee%	The Help%	
+Carol Sutton%	The Help%	
+Ashley Johnson%	The Help%	
+Ritchie Montgomery%	The Help%	
+Harry Dean Stanton%	Paris, Texas%	
+Nastassja Kinski%	Paris, Texas%	
+Dean Stockwell%	Paris, Texas%	
+Aurore Clément%	Paris, Texas%	
+Hunter Carson%	Paris, Texas%	
+Bernhard Wicki%	Paris, Texas%	
+Claresie Mobley%	Paris, Texas%	
+Viva%	Paris, Texas%	
+Socorro Valdez%	Paris, Texas%	
+Tom Farrell%	Paris, Texas%	
+John Lurie%	Paris, Texas%	
+Jeni Vici%	Paris, Texas%	
+Sally Norvell%	Paris, Texas%	
 Myrna Loy%	The Best Years of Our Lives%	
 Fredric March%	The Best Years of Our Lives%	
 Dana Andrews%	The Best Years of Our Lives%	
@@ -2429,18 +5560,19 @@ Minna Gombell%	The Best Years of Our Lives%
 Walter Baldwin%	The Best Years of Our Lives%	
 Steve Cochran%	The Best Years of Our Lives%	
 Dorothy Adams%	The Best Years of Our Lives%	
-Harry Dean Stanton%	Paris, Texas%	
-Nastassja Kinski%	Paris, Texas%	
-Dean Stockwell%	Paris, Texas%	
-Aurore Clément%	Paris, Texas%	
-Hunter Carson%	Paris, Texas%	
-Bernhard Wicki%	Paris, Texas%	
-Claresie Mobley%	Paris, Texas%	
-Viva%	Paris, Texas%	
-Socorro Valdez%	Paris, Texas%	
-Tom Farrell%	Paris, Texas%	
-John Lurie%	Paris, Texas%	
-Jeni Vici%	Paris, Texas%	
+Don Beddoe%	The Best Years of Our Lives%	
+Marlene Aames%	The Best Years of Our Lives%	
+Charles Halton%	The Best Years of Our Lives%	
+Ray Teal%	The Best Years of Our Lives%	
+Howland Chamberlain%	The Best Years of Our Lives%	
+Dean White%	The Best Years of Our Lives%	
+Erskine Sanford%	The Best Years of Our Lives%	
+Victor Cutler%	The Best Years of Our Lives%	
+Jimmy Ames%	The Best Years of Our Lives%	
+Carol Andrews%	The Best Years of Our Lives%	
+Harry Cheshire%	The Best Years of Our Lives%	
+Sidney Clute%	The Best Years of Our Lives%	
+Joyce Compton%	The Best Years of Our Lives%	
 Andy Lau%	Infernal Affairs%	
 Tony Leung Chiu-Wai%	Infernal Affairs%	
 Anthony Wong%	Infernal Affairs%	
@@ -2454,6 +5586,10 @@ Chapman To%	Infernal Affairs%
 Gordon Lam Ka-Tung%	Infernal Affairs%	
 Berg Ng Ting-Yip%	Infernal Affairs%	
 Dion Lam%	Infernal Affairs%	
+Tony Ho%	Infernal Affairs%	
+Courtney Wu%	Infernal Affairs%	
+Man-Kei Yiu%	Infernal Affairs%	
+Wong Chi-Wang%	Infernal Affairs%	
 Joseph Melito%	Twelve Monkeys%	
 Bruce Willis%	Twelve Monkeys%	
 Jon Seda%	Twelve Monkeys%	
@@ -2466,6 +5602,14 @@ Irma St. Paule%	Twelve Monkeys%
 Madeleine Stowe%	Twelve Monkeys%	
 Joey Perillo%	Twelve Monkeys%	
 Bruce Kirkpatrick%	Twelve Monkeys%	
+Brad Pitt%	Twelve Monkeys%	
+Frederick Strother%	Twelve Monkeys%	
+Rick Warner%	Twelve Monkeys%	
+Frank Gorshin%	Twelve Monkeys%	
+Anthony 'Chip' Brienza%	Twelve Monkeys%	
+Joilet Harris%	Twelve Monkeys%	
+Drucie McDaniel%	Twelve Monkeys%	
+Aaron Michael Lacey%	Twelve Monkeys%	
 Manoj Bajpayee%	Gangs of Wasseypur%	
 Richa Chadda%	Gangs of Wasseypur%	
 Nowaz%	Gangs of Wasseypur%	
@@ -2477,6 +5621,14 @@ Huma Qureshi%	Gangs of Wasseypur%
 Vipin Sharma%	Gangs of Wasseypur%	
 Rajkummar Rao%	Gangs of Wasseypur%	
 Vineet Kumar Singh%	Gangs of Wasseypur%	
+Mahesh Balraj%	Gangs of Wasseypur%	
+Mukesh Chhabra%	Gangs of Wasseypur%	
+Murari Kumar%	Gangs of Wasseypur%	
+Pramod Pathak%	Gangs of Wasseypur%	
+Reema Sen%	Gangs of Wasseypur%	
+Yashpal Sharma%	Gangs of Wasseypur%	
+Akash Sinha%	Gangs of Wasseypur%	
+Pankaj Tripathi%	Gangs of Wasseypur%	
 Ethan Hawke%	Before Sunset%	
 Julie Delpy%	Before Sunset%	
 Vernon Dobtcheff%	Before Sunset%	
@@ -2502,6 +5654,20 @@ Brian Cummings%	Beauty and the Beast%
 Alvin Epstein%	Beauty and the Beast%	
 Tony Jay%	Beauty and the Beast%	
 Alex Murphy%	Beauty and the Beast%	
+Kimmy Robertson%	Beauty and the Beast%	
+Hal Smith%	Beauty and the Beast%	
+Kath Soucie%	Beauty and the Beast%	
+Frank Welker%	Beauty and the Beast%	
+Jack Angel%	Beauty and the Beast%	
+Bruce Adler%	Beauty and the Beast%	
+Scott Barnes%	Beauty and the Beast%	
+Vanna Bonta%	Beauty and the Beast%	
+Liz Callaway%	Beauty and the Beast%	
+Philip L. Clarke%	Beauty and the Beast%	
+Margery Daley%	Beauty and the Beast%	
+Jennifer Darling%	Beauty and the Beast%	
+Albert de Ruiter%	Beauty and the Beast%	
+George Dvorsky%	Beauty and the Beast%	
 Jean Martin%	The Battle of Algiers%	
 Yacef Saadi%	The Battle of Algiers%	
 Brahim Hadjadj%	The Battle of Algiers%	
@@ -2510,11 +5676,6 @@ Fusia El Kader%	The Battle of Algiers%
 Mohamed Ben Kassen%	The Battle of Algiers%	
 Rouïched%	The Battle of Algiers%	
 Gene Wesson%	The Battle of Algiers%	
-Mitsuo Iwata%	Akira%	
-Nozomu Sasaki%	Akira%	
-Mami Koyama%	Akira%	
-Tesshou Genda%	Akira%	
-Hiroshi Ohtake%	Akira%	
 Penelope Allen%	Dog Day Afternoon%	
 Sully Boyar%	Dog Day Afternoon%	
 John Cazale%	Dog Day Afternoon%	
@@ -2530,3 +5691,22 @@ Gary Springer%	Dog Day Afternoon%
 James Broderick%	Dog Day Afternoon%	
 Charles Durning%	Dog Day Afternoon%	
 Carmine Foresta%	Dog Day Afternoon%	
+Lance Henriksen%	Dog Day Afternoon%	
+Floyd Levine%	Dog Day Afternoon%	
+Dick Anthony Williams%	Dog Day Afternoon%	
+Dominic Chianese%	Dog Day Afternoon%	
+Marcia Haufrecht%	Dog Day Afternoon%	
+Judith Malina%	Dog Day Afternoon%	
+Susan Peretz%	Dog Day Afternoon%	
+Chris Sarandon%	Dog Day Afternoon%	
+William Bogert%	Dog Day Afternoon%	
+Ron Cummins%	Dog Day Afternoon%	
+Philip Charles MacKenzie%	Dog Day Afternoon%	
+Chu Chu Malave%	Dog Day Afternoon%	
+Lionel Pina%	Dog Day Afternoon%	
+Alan Berger%	Dog Day Afternoon%	
+Mitsuo Iwata%	Akira%	
+Nozomu Sasaki%	Akira%	
+Mami Koyama%	Akira%	
+Tesshou Genda%	Akira%	
+Hiroshi Ohtake%	Akira%	

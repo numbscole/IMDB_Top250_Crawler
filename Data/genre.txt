@@ -9,7 +9,19 @@ The Dark Knight%	Crime%
 The Dark Knight%	Drama%	
 12 Angry Men%	Crime%	
 12 Angry Men%	Drama%	
+Schindler's List%	Biography%	
+Schindler's List%	Drama%	
+Schindler's List%	History%	
+The Lord of the Rings: The Return of the King%	Adventure%	
+The Lord of the Rings: The Return of the King%	Drama%	
+The Lord of the Rings: The Return of the King%	Fantasy%	
+Pulp Fiction%	Crime%	
+Pulp Fiction%	Drama%	
 The Good, the Bad and the Ugly%	Western%	
+Fight Club%	Drama%	
+The Lord of the Rings: The Fellowship of the Ring%	Adventure%	
+The Lord of the Rings: The Fellowship of the Ring%	Drama%	
+The Lord of the Rings: The Fellowship of the Ring%	Fantasy%	
 Forrest Gump%	Drama%	
 Forrest Gump%	Romance%	
 Star Wars: Episode V - The Empire Strikes Back%	Action%	
@@ -18,7 +30,13 @@ Star Wars: Episode V - The Empire Strikes Back%	Fantasy%
 Inception%	Action%	
 Inception%	Adventure%	
 Inception%	Sci-Fi%	
+The Lord of the Rings: The Two Towers%	Adventure%	
+The Lord of the Rings: The Two Towers%	Drama%	
+The Lord of the Rings: The Two Towers%	Fantasy%	
 One Flew Over the Cuckoo's Nest%	Drama%	
+Goodfellas%	Biography%	
+Goodfellas%	Crime%	
+Goodfellas%	Drama%	
 The Matrix%	Action%	
 The Matrix%	Sci-Fi%	
 Seven Samurai%	Adventure%	
@@ -28,15 +46,29 @@ City of God%	Drama%
 Star Wars: Episode IV - A New Hope%	Action%	
 Star Wars: Episode IV - A New Hope%	Adventure%	
 Star Wars: Episode IV - A New Hope%	Fantasy%	
+Se7en%	Crime%	
+Se7en%	Drama%	
+Se7en%	Mystery%	
+The Silence of the Lambs%	Crime%	
+The Silence of the Lambs%	Drama%	
+The Silence of the Lambs%	Thriller%	
 It's a Wonderful Life%	Drama%	
 It's a Wonderful Life%	Family%	
 It's a Wonderful Life%	Fantasy%	
 Life Is Beautiful%	Comedy%	
 Life Is Beautiful%	Drama%	
 Life Is Beautiful%	War%	
+The Usual Suspects%	Crime%	
+The Usual Suspects%	Mystery%	
+The Usual Suspects%	Thriller%	
 Spirited Away%	Animation%	
 Spirited Away%	Adventure%	
 Spirited Away%	Family%	
+Saving Private Ryan%	Drama%	
+Saving Private Ryan%	War%	
+Léon: The Professional%	Crime%	
+Léon: The Professional%	Drama%	
+Léon: The Professional%	Thriller%	
 Interstellar%	Adventure%	
 Interstellar%	Drama%	
 Interstellar%	Sci-Fi%	
@@ -64,8 +96,13 @@ Modern Times%	Family%
 The Pianist%	Biography%	
 The Pianist%	Drama%	
 The Pianist%	Music%	
+The Departed%	Crime%	
+The Departed%	Drama%	
+The Departed%	Thriller%	
 Terminator 2%	Action%	
 Terminator 2%	Sci-Fi%	
+Raiders of the Lost Ark%	Action%	
+Raiders of the Lost Ark%	Adventure%	
 Rear Window%	Mystery%	
 Rear Window%	Thriller%	
 Back to the Future%	Adventure%	
@@ -73,6 +110,9 @@ Back to the Future%	Comedy%
 Back to the Future%	Sci-Fi%	
 Whiplash%	Drama%	
 Whiplash%	Music%	
+Gladiator%	Action%	
+Gladiator%	Adventure%	
+Gladiator%	Drama%	
 The Lion King%	Animation%	
 The Lion King%	Adventure%	
 The Lion King%	Drama%	
@@ -83,6 +123,8 @@ Memento%	Mystery%
 Memento%	Thriller%	
 Apocalypse Now%	Drama%	
 Apocalypse Now%	War%	
+Alien%	Horror%	
+Alien%	Sci-Fi%	
 The Great Dictator%	Comedy%	
 The Great Dictator%	Drama%	
 The Great Dictator%	War%	
@@ -98,14 +140,20 @@ The Lives of Others%	Drama%
 The Lives of Others%	Thriller%	
 Paths of Glory%	Drama%	
 Paths of Glory%	War%	
+The Shining%	Drama%	
+The Shining%	Horror%	
+Django Unchained%	Drama%	
+Django Unchained%	Western%	
 Coco%	Animation%	
 Coco%	Adventure%	
 Coco%	Comedy%	
-The Shining%	Drama%	
-The Shining%	Horror%	
 WALL·E%	Animation%	
 WALL·E%	Adventure%	
 WALL·E%	Family%	
+Princess Mononoke%	Animation%	
+Princess Mononoke%	Adventure%	
+Princess Mononoke%	Fantasy%	
+American Beauty%	Drama%	
 The Dark Knight Rises%	Action%	
 The Dark Knight Rises%	Thriller%	
 Witness for the Prosecution%	Crime%	
@@ -133,6 +181,9 @@ North by Northwest%	Thriller%
 Braveheart%	Biography%	
 Braveheart%	Drama%	
 Braveheart%	History%	
+Reservoir Dogs%	Crime%	
+Reservoir Dogs%	Drama%	
+Reservoir Dogs%	Thriller%	
 Star Wars: Episode VI - Return of the Jedi%	Action%	
 Star Wars: Episode VI - Return of the Jedi%	Adventure%	
 Star Wars: Episode VI - Return of the Jedi%	Fantasy%	
@@ -165,9 +216,13 @@ Eternal Sunshine of the Spotless Mind%	Sci-Fi%
 Double Indemnity%	Crime%	
 Double Indemnity%	Drama%	
 Double Indemnity%	Film-Noir%	
+Taxi Driver%	Crime%	
+Taxi Driver%	Drama%	
 Singin' in the Rain%	Comedy%	
 Singin' in the Rain%	Musical%	
 Singin' in the Rain%	Romance%	
+3 Idiots%	Comedy%	
+3 Idiots%	Drama%	
 2001: A Space Odyssey%	Adventure%	
 2001: A Space Odyssey%	Sci-Fi%	
 Toy Story%	Animation%	
@@ -193,6 +248,7 @@ Toy Story 3%	Comedy%
 Snatch%	Comedy%	
 Snatch%	Crime%	
 Good Will Hunting%	Drama%	
+Jagten%	Drama%	
 Monty Python and the Holy Grail%	Adventure%	
 Monty Python and the Holy Grail%	Comedy%	
 Monty Python and the Holy Grail%	Fantasy%	
@@ -212,6 +268,9 @@ A Separation%	Mystery%
 Rashômon%	Crime%	
 Rashômon%	Drama%	
 Rashômon%	Mystery%	
+Indiana Jones and the Last Crusade%	Action%	
+Indiana Jones and the Last Crusade%	Adventure%	
+Indiana Jones and the Last Crusade%	Fantasy%	
 Up%	Animation%	
 Up%	Adventure%	
 Up%	Comedy%	
@@ -234,6 +293,12 @@ Downfall%	Drama%
 Downfall%	History%	
 Die Hard%	Action%	
 Die Hard%	Thriller%	
+Heat%	Crime%	
+Heat%	Drama%	
+Heat%	Thriller%	
+Raging Bull%	Biography%	
+Raging Bull%	Drama%	
+Raging Bull%	Sport%	
 Ikiru%	Drama%	
 The Great Escape%	Adventure%	
 The Great Escape%	Drama%	
@@ -248,16 +313,25 @@ Three Billboards Outside Ebbing, Missouri%	Drama%
 Chinatown%	Drama%	
 Chinatown%	Mystery%	
 Chinatown%	Thriller%	
-Ran%	Action%	
-Ran%	Drama%	
+Pan's Labyrinth%	Drama%	
+Pan's Labyrinth%	Fantasy%	
+Pan's Labyrinth%	War%	
+Incendies%	Drama%	
+Incendies%	Mystery%	
+Incendies%	War%	
+My Neighbor Totoro%	Animation%	
+My Neighbor Totoro%	Family%	
+My Neighbor Totoro%	Fantasy%	
 Judgment at Nuremberg%	Drama%	
 Judgment at Nuremberg%	War%	
+Ran%	Action%	
+Ran%	Drama%	
 The Secret in Their Eyes%	Drama%	
 The Secret in Their Eyes%	Mystery%	
 The Secret in Their Eyes%	Romance%	
-The Gold Rush%	Adventure%	
-The Gold Rush%	Comedy%	
-The Gold Rush%	Drama%	
+Howl's Moving Castle%	Animation%	
+Howl's Moving Castle%	Adventure%	
+Howl's Moving Castle%	Family%	
 The Bridge on the River Kwai%	Adventure%	
 The Bridge on the River Kwai%	Drama%	
 The Bridge on the River Kwai%	War%	
@@ -267,19 +341,34 @@ On the Waterfront%	Thriller%
 Inside Out%	Animation%	
 Inside Out%	Adventure%	
 Inside Out%	Comedy%	
-The Seventh Seal%	Drama%	
-The Seventh Seal%	Fantasy%	
 Lock, Stock and Two Smoking Barrels%	Comedy%	
 Lock, Stock and Two Smoking Barrels%	Crime%	
+The Seventh Seal%	Drama%	
+The Seventh Seal%	Fantasy%	
+A Beautiful Mind%	Biography%	
+A Beautiful Mind%	Drama%	
+Casino%	Crime%	
+Casino%	Drama%	
+Room%	Drama%	
 Mr. Smith Goes to Washington%	Comedy%	
 Mr. Smith Goes to Washington%	Drama%	
 The Elephant Man%	Biography%	
 The Elephant Man%	Drama%	
+The Wolf of Wall Street%	Biography%	
+The Wolf of Wall Street%	Comedy%	
+The Wolf of Wall Street%	Crime%	
+V for Vendetta%	Action%	
+V for Vendetta%	Drama%	
+V for Vendetta%	Sci-Fi%	
+Blade Runner%	Sci-Fi%	
+Blade Runner%	Thriller%	
 Wild Strawberries%	Drama%	
 Wild Strawberries%	Romance%	
 The General%	Action%	
 The General%	Adventure%	
 The General%	Comedy%	
+Warrior%	Drama%	
+Warrior%	Sport%	
 Sherlock Jr.%	Action%	
 Sherlock Jr.%	Comedy%	
 Sherlock Jr.%	Romance%	
@@ -294,6 +383,9 @@ Gran Torino%	Drama%
 No Country for Old Men%	Crime%	
 No Country for Old Men%	Drama%	
 No Country for Old Men%	Thriller%	
+The Sixth Sense%	Drama%	
+The Sixth Sense%	Mystery%	
+The Sixth Sense%	Thriller%	
 Fargo%	Crime%	
 Fargo%	Drama%	
 Fargo%	Thriller%	
@@ -314,12 +406,17 @@ Sunrise%	Drama%
 Sunrise%	Romance%	
 Cool Hand Luke%	Crime%	
 Cool Hand Luke%	Drama%	
+Kill Bill: Vol. 1%	Action%	
+Kill Bill: Vol. 1%	Crime%	
+Kill Bill: Vol. 1%	Thriller%	
 Rebecca%	Drama%	
 Rebecca%	Mystery%	
 Rebecca%	Romance%	
 The Bandit%	Crime%	
 The Bandit%	Drama%	
 The Bandit%	Thriller%	
+Shutter Island%	Mystery%	
+Shutter Island%	Thriller%	
 Hacksaw Ridge%	Biography%	
 Hacksaw Ridge%	Drama%	
 Hacksaw Ridge%	History%	
@@ -329,6 +426,9 @@ How to Train Your Dragon%	Adventure%
 Mary and Max%	Animation%	
 Mary and Max%	Comedy%	
 Mary and Max%	Drama%	
+Gone Girl%	Crime%	
+Gone Girl%	Drama%	
+Gone Girl%	Mystery%	
 Andrei Rublev%	Biography%	
 Andrei Rublev%	Drama%	
 Andrei Rublev%	History%	
@@ -336,10 +436,16 @@ Into the Wild%	Adventure%
 Into the Wild%	Biography%	
 Into the Wild%	Drama%	
 Life of Brian%	Comedy%	
-It Happened One Night%	Comedy%	
-It Happened One Night%	Romance%	
+Relatos salvajes%	Comedy%	
+Relatos salvajes%	Drama%	
+Relatos salvajes%	Thriller%	
+Blade Runner 2049%	Drama%	
+Blade Runner 2049%	Mystery%	
+Blade Runner 2049%	Sci-Fi%	
 Rang De Basanti%	Comedy%	
 Rang De Basanti%	Drama%	
+It Happened One Night%	Comedy%	
+It Happened One Night%	Romance%	
 The Passion of Joan of Arc%	Biography%	
 The Passion of Joan of Arc%	Drama%	
 The Passion of Joan of Arc%	History%	
@@ -361,11 +467,23 @@ Stalker%	Sci-Fi%
 The Wages of Fear%	Adventure%	
 The Wages of Fear%	Drama%	
 The Wages of Fear%	Thriller%	
+Jurassic Park%	Adventure%	
+Jurassic Park%	Sci-Fi%	
+Jurassic Park%	Thriller%	
 Ben-Hur%	Adventure%	
 Ben-Hur%	Drama%	
 Ben-Hur%	History%	
 Persona%	Drama%	
 Persona%	Thriller%	
+Rush%	Action%	
+Rush%	Biography%	
+Rush%	Drama%	
+Memories of Murder%	Action%	
+Memories of Murder%	Crime%	
+Memories of Murder%	Drama%	
+12 Years a Slave%	Biography%	
+12 Years a Slave%	Drama%	
+12 Years a Slave%	History%	
 The Truman Show%	Comedy%	
 The Truman Show%	Drama%	
 The Truman Show%	Sci-Fi%	
@@ -373,9 +491,15 @@ Million Dollar Baby%	Drama%
 Million Dollar Baby%	Sport%	
 The 400 Blows%	Crime%	
 The 400 Blows%	Drama%	
+Mad Max: Fury Road%	Action%	
+Mad Max: Fury Road%	Adventure%	
+Mad Max: Fury Road%	Sci-Fi%	
 Spotlight%	Crime%	
 Spotlight%	Drama%	
 Spotlight%	History%	
+Logan%	Action%	
+Logan%	Drama%	
+Logan%	Sci-Fi%	
 Amores Perros%	Drama%	
 Amores Perros%	Thriller%	
 Before Sunrise%	Drama%	
@@ -385,26 +509,43 @@ Hachi: A Dog's Tale%	Family%
 Butch Cassidy and the Sundance Kid%	Biography%	
 Butch Cassidy and the Sundance Kid%	Crime%	
 Butch Cassidy and the Sundance Kid%	Drama%	
+Prisoners%	Crime%	
+Prisoners%	Drama%	
+Prisoners%	Mystery%	
 The Princess Bride%	Adventure%	
 The Princess Bride%	Family%	
 The Princess Bride%	Fantasy%	
+Nausicaä of the Valley of the Wind%	Animation%	
+Nausicaä of the Valley of the Wind%	Adventure%	
+Nausicaä of the Valley of the Wind%	Fantasy%	
 La La Land%	Comedy%	
 La La Land%	Drama%	
 La La Land%	Music%	
+Catch Me If You Can%	Biography%	
+Catch Me If You Can%	Crime%	
+Catch Me If You Can%	Drama%	
 The Maltese Falcon%	Film-Noir%	
 The Maltese Falcon%	Mystery%	
+Harry Potter and the Deathly Hallows: Part 2%	Adventure%	
+Harry Potter and the Deathly Hallows: Part 2%	Drama%	
+Harry Potter and the Deathly Hallows: Part 2%	Fantasy%	
 A Wednesday%	Crime%	
 A Wednesday%	Drama%	
 A Wednesday%	Mystery%	
-The Nights of Cabiria%	Drama%	
+Rocky%	Drama%	
+Rocky%	Sport%	
 The Grapes of Wrath%	Drama%	
 The Grapes of Wrath%	History%	
+The Nights of Cabiria%	Drama%	
 Monsters, Inc.%	Animation%	
 Monsters, Inc.%	Adventure%	
 Monsters, Inc.%	Comedy%	
 Diabolique%	Crime%	
 Diabolique%	Drama%	
 Diabolique%	Horror%	
+Donnie Darko%	Drama%	
+Donnie Darko%	Sci-Fi%	
+Donnie Darko%	Thriller%	
 Barry Lyndon%	Adventure%	
 Barry Lyndon%	Drama%	
 Barry Lyndon%	History%	
@@ -429,15 +570,22 @@ The Wizard of Oz%	Family%
 The Wizard of Oz%	Fantasy%	
 Dead Poets Society%	Comedy%	
 Dead Poets Society%	Drama%	
+The Bourne Ultimatum%	Action%	
+The Bourne Ultimatum%	Mystery%	
+The Bourne Ultimatum%	Thriller%	
 Annie Hall%	Comedy%	
 Annie Hall%	Romance%	
 8½%	Drama%	
+Jaws%	Adventure%	
+Jaws%	Drama%	
+Jaws%	Thriller%	
 In the Mood for Love%	Drama%	
 In the Mood for Love%	Romance%	
+The Help%	Drama%	
+Paris, Texas%	Drama%	
 The Best Years of Our Lives%	Drama%	
 The Best Years of Our Lives%	Romance%	
 The Best Years of Our Lives%	War%	
-Paris, Texas%	Drama%	
 Infernal Affairs%	Crime%	
 Infernal Affairs%	Drama%	
 Infernal Affairs%	Mystery%	
@@ -454,9 +602,9 @@ Beauty and the Beast%	Family%
 Beauty and the Beast%	Fantasy%	
 The Battle of Algiers%	Drama%	
 The Battle of Algiers%	War%	
-Akira%	Animation%	
-Akira%	Action%	
-Akira%	Drama%	
 Dog Day Afternoon%	Biography%	
 Dog Day Afternoon%	Crime%	
 Dog Day Afternoon%	Drama%	
+Akira%	Animation%	
+Akira%	Action%	
+Akira%	Drama%	

@@ -19,6 +19,39 @@ The Dark Knight%	Oscar%	2009%	Best Achievement in Sound Editing%
 The Dark Knight%	Golden Globe%	2009%	Best Performance by an Actor in a Supporting Role in a Motion Picture%	
 The Dark Knight%	BAFTA Film Award%	2009%	Best Supporting Actor%	
 12 Angry Men%	BAFTA Film Award%	1958%	Best Foreign Actor%	
+The Lord of the Rings: The Return of the King%	Oscar%	2004%	Best Picture%	
+The Lord of the Rings: The Return of the King%	Oscar%	2004%	Best Director%	
+The Lord of the Rings: The Return of the King%	Oscar%	2004%	Best Writing, Adapted Screenplay%	
+The Lord of the Rings: The Return of the King%	Oscar%	2004%	Best Film Editing%	
+The Lord of the Rings: The Return of the King%	Oscar%	2004%	Best Art Direction-Set Decoration%	
+The Lord of the Rings: The Return of the King%	Oscar%	2004%	Best Costume Design%	
+The Lord of the Rings: The Return of the King%	Oscar%	2004%	Best Makeup%	
+The Lord of the Rings: The Return of the King%	Oscar%	2004%	Best Music, Original Score%	
+The Lord of the Rings: The Return of the King%	Oscar%	2004%	Best Music, Original Song%	
+The Lord of the Rings: The Return of the King%	Oscar%	2004%	Best Sound Mixing%	
+The Lord of the Rings: The Return of the King%	Oscar%	2004%	Best Visual Effects%	
+The Lord of the Rings: The Return of the King%	Golden Globe%	2004%	Best Director - Motion Picture%	
+The Lord of the Rings: The Return of the King%	Golden Globe%	2004%	Best Original Score - Motion Picture%	
+The Lord of the Rings: The Return of the King%	Golden Globe%	2004%	Best Original Song - Motion Picture%	
+The Lord of the Rings: The Return of the King%	Golden Globe%	2004%	Best Motion Picture - Drama%	
+The Lord of the Rings: The Return of the King%	Audience Award%	2004%	%	
+The Lord of the Rings: The Return of the King%	BAFTA Film Award%	2004%	Best Film%	
+The Lord of the Rings: The Return of the King%	BAFTA Film Award%	2004%	Best Screenplay - Adapted%	
+The Lord of the Rings: The Return of the King%	BAFTA Film Award%	2004%	Best Cinematography%	
+The Lord of the Rings: The Return of the King%	BAFTA Film Award%	2004%	Best Achievement in Special Visual Effects%	
+Pulp Fiction%	Oscar%	1995%	Best Writing, Screenplay Written Directly for the Screen%	
+Pulp Fiction%	Golden Globe%	1995%	Best Screenplay - Motion Picture%	
+Pulp Fiction%	BAFTA Film Award%	1995%	Best Actor in a Supporting Role%	
+Pulp Fiction%	BAFTA Film Award%	1995%	Best Screenplay - Original%	
+The Lord of the Rings: The Fellowship of the Ring%	Oscar%	2002%	Best Cinematography%	
+The Lord of the Rings: The Fellowship of the Ring%	Oscar%	2002%	Best Makeup%	
+The Lord of the Rings: The Fellowship of the Ring%	Oscar%	2002%	Best Music, Original Score%	
+The Lord of the Rings: The Fellowship of the Ring%	Oscar%	2002%	Best Effects, Visual Effects%	
+The Lord of the Rings: The Fellowship of the Ring%	Audience Award%	2002%	%	
+The Lord of the Rings: The Fellowship of the Ring%	BAFTA Film Award%	2002%	Best Film%	
+The Lord of the Rings: The Fellowship of the Ring%	BAFTA Film Award%	2002%	Best Achievement in Special Visual Effects%	
+The Lord of the Rings: The Fellowship of the Ring%	BAFTA Film Award%	2002%	Best Make Up/Hair%	
+The Lord of the Rings: The Fellowship of the Ring%	David Lean Award for Direction%	2002%	Peter Jackson%	
 Forrest Gump%	Oscar%	1995%	Best Picture%	
 Forrest Gump%	Oscar%	1995%	Best Actor in a Leading Role%	
 Forrest Gump%	Oscar%	1995%	Best Director%	
@@ -39,6 +72,11 @@ Inception%	Oscar%	2011%	Best Achievement in Visual Effects%
 Inception%	BAFTA Film Award%	2011%	Best Production Design%	
 Inception%	BAFTA Film Award%	2011%	Best Sound%	
 Inception%	BAFTA Film Award%	2011%	Best Special Visual Effects%	
+The Lord of the Rings: The Two Towers%	Oscar%	2003%	Best Sound Editing%	
+The Lord of the Rings: The Two Towers%	Oscar%	2003%	Best Visual Effects%	
+The Lord of the Rings: The Two Towers%	Audience Award%	2003%	%	
+The Lord of the Rings: The Two Towers%	BAFTA Film Award%	2003%	Best Costume Design%	
+The Lord of the Rings: The Two Towers%	BAFTA Film Award%	2003%	Best Achievement in Special Visual Effects%	
 One Flew Over the Cuckoo's Nest%	Oscar%	1976%	Best Picture%	
 One Flew Over the Cuckoo's Nest%	Oscar%	1976%	Best Actor in a Leading Role%	
 One Flew Over the Cuckoo's Nest%	Oscar%	1976%	Best Actress in a Leading Role%	
@@ -56,6 +94,12 @@ One Flew Over the Cuckoo's Nest%	BAFTA Film Award%	1977%	Best Direction%
 One Flew Over the Cuckoo's Nest%	BAFTA Film Award%	1977%	Best Film%	
 One Flew Over the Cuckoo's Nest%	BAFTA Film Award%	1977%	Best Film Editing%	
 One Flew Over the Cuckoo's Nest%	BAFTA Film Award%	1977%	Best Supporting Actor%	
+Goodfellas%	Oscar%	1991%	Best Actor in a Supporting Role%	
+Goodfellas%	BAFTA Film Award%	1991%	Best Screenplay - Adapted%	
+Goodfellas%	BAFTA Film Award%	1991%	Best Costume Design%	
+Goodfellas%	BAFTA Film Award%	1991%	Best Direction%	
+Goodfellas%	BAFTA Film Award%	1991%	Best Editing%	
+Goodfellas%	BAFTA Film Award%	1991%	Best Film%	
 The Matrix%	Oscar%	2000%	Best Film Editing%	
 The Matrix%	Oscar%	2000%	Best Sound%	
 The Matrix%	Oscar%	2000%	Best Effects, Sound Effects Editing%	
@@ -73,23 +117,46 @@ Star Wars: Episode IV - A New Hope%	Special Achievement Award%	1978%	Ben Burtt%
 Star Wars: Episode IV - A New Hope%	Golden Globe%	1978%	Best Original Score - Motion Picture%	
 Star Wars: Episode IV - A New Hope%	Anthony Asquith Award for Film Music%	1979%	John Williams%	
 Star Wars: Episode IV - A New Hope%	BAFTA Film Award%	1979%	Best Sound%	
+The Silence of the Lambs%	Oscar%	1992%	Best Picture%	
+The Silence of the Lambs%	Oscar%	1992%	Best Actor in a Leading Role%	
+The Silence of the Lambs%	Oscar%	1992%	Best Actress in a Leading Role%	
+The Silence of the Lambs%	Oscar%	1992%	Best Director%	
+The Silence of the Lambs%	Oscar%	1992%	Best Writing, Screenplay Based on Material Previously Produced or Published%	
+The Silence of the Lambs%	Golden Globe%	1992%	Best Performance by an Actress in a Motion Picture - Drama%	
+The Silence of the Lambs%	BAFTA Film Award%	1992%	Best Actor%	
+The Silence of the Lambs%	BAFTA Film Award%	1992%	Best Actress%	
 It's a Wonderful Life%	Golden Globe%	1947%	Best Director%	
 Life Is Beautiful%	Oscar%	1999%	Best Actor in a Leading Role%	
 Life Is Beautiful%	Oscar%	1999%	Best Music, Original Dramatic Score%	
 Life Is Beautiful%	Oscar%	1999%	Best Foreign Language Film%	
 Life Is Beautiful%	BAFTA Film Award%	1999%	Best Performance by an Actor in a Leading Role%	
+The Usual Suspects%	Oscar%	1996%	Best Actor in a Supporting Role%	
+The Usual Suspects%	Oscar%	1996%	Best Writing, Screenplay Written Directly for the Screen%	
+The Usual Suspects%	BAFTA Film Award%	1996%	Best Editing%	
+The Usual Suspects%	BAFTA Film Award%	1996%	Best Screenplay - Original%	
 Interstellar%	Oscar%	2015%	Best Achievement in Visual Effects%	
 Interstellar%	BAFTA Film Award%	2015%	Best Special Visual Effects%	
 Psycho%	Golden Globe%	1961%	Best Supporting Actress%	
 Casablanca%	Oscar%	1944%	Best Picture%	
 Casablanca%	Oscar%	1944%	Best Director%	
 Casablanca%	Oscar%	1944%	Best Writing, Screenplay%	
+The Departed%	Oscar%	2007%	Best Motion Picture of the Year%	
+The Departed%	Oscar%	2007%	Best Achievement in Directing%	
+The Departed%	Oscar%	2007%	Best Writing, Adapted Screenplay%	
+The Departed%	Oscar%	2007%	Best Achievement in Film Editing%	
+The Departed%	Golden Globe%	2007%	Best Director - Motion Picture%	
 Terminator 2%	Oscar%	1992%	Best Sound%	
 Terminator 2%	Oscar%	1992%	Best Effects, Sound Effects Editing%	
 Terminator 2%	Oscar%	1992%	Best Effects, Visual Effects%	
 Terminator 2%	Oscar%	1992%	Best Makeup%	
 Terminator 2%	BAFTA Film Award%	1992%	Best Sound%	
 Terminator 2%	BAFTA Film Award%	1992%	Best Special Visual Effects%	
+Raiders of the Lost Ark%	Oscar%	1982%	Best Art Direction-Set Decoration%	
+Raiders of the Lost Ark%	Oscar%	1982%	Best Sound%	
+Raiders of the Lost Ark%	Oscar%	1982%	Best Film Editing%	
+Raiders of the Lost Ark%	Oscar%	1982%	Best Effects, Visual Effects%	
+Raiders of the Lost Ark%	Special Achievement Award%	1982%	Ben Burtt%	
+Raiders of the Lost Ark%	BAFTA Film Award%	1982%	Best Production Design/Art Direction%	
 Back to the Future%	Oscar%	1986%	Best Effects, Sound Effects Editing%	
 Whiplash%	Oscar%	2015%	Best Performance by an Actor in a Supporting Role%	
 Whiplash%	Oscar%	2015%	Best Achievement in Film Editing%	
@@ -98,6 +165,18 @@ Whiplash%	Golden Globe%	2015%	Best Performance by an Actor in a Supporting Role 
 Whiplash%	BAFTA Film Award%	2015%	Best Supporting Actor%	
 Whiplash%	BAFTA Film Award%	2015%	Best Editing%	
 Whiplash%	BAFTA Film Award%	2015%	Best Sound%	
+Gladiator%	Oscar%	2001%	Best Picture%	
+Gladiator%	Oscar%	2001%	Best Actor in a Leading Role%	
+Gladiator%	Oscar%	2001%	Best Costume Design%	
+Gladiator%	Oscar%	2001%	Best Sound%	
+Gladiator%	Oscar%	2001%	Best Effects, Visual Effects%	
+Gladiator%	Golden Globe%	2001%	Best Motion Picture - Drama%	
+Gladiator%	Golden Globe%	2001%	Best Original Score - Motion Picture%	
+Gladiator%	Audience Award%	2001%	%	
+Gladiator%	BAFTA Film Award%	2001%	Best Film%	
+Gladiator%	BAFTA Film Award%	2001%	Best Cinematography%	
+Gladiator%	BAFTA Film Award%	2001%	Best Production Design%	
+Gladiator%	BAFTA Film Award%	2001%	Best Editing%	
 The Lion King%	Oscar%	1995%	Best Music, Original Song%	
 The Lion King%	Oscar%	1995%	Best Music, Original Score%	
 The Lion King%	Golden Globe%	1995%	Best Original Score - Motion Picture%	
@@ -111,6 +190,9 @@ Apocalypse Now%	Golden Globe%	1980%	Best Actor in a Supporting Role - Motion Pic
 Apocalypse Now%	Golden Globe%	1980%	Best Original Score - Motion Picture%	
 Apocalypse Now%	BAFTA Film Award%	1980%	Best Direction%	
 Apocalypse Now%	BAFTA Film Award%	1980%	Best Supporting Actor%	
+Alien%	Oscar%	1980%	Best Effects, Visual Effects%	
+Alien%	BAFTA Film Award%	1980%	Best Production Design%	
+Alien%	BAFTA Film Award%	1980%	Best Sound Track%	
 Cinema Paradiso%	Oscar%	1990%	Best Foreign Language Film%	
 Cinema Paradiso%	Golden Globe%	1990%	Best Foreign Language Film%	
 Cinema Paradiso%	BAFTA Film Award%	1991%	Best Actor%	
@@ -131,6 +213,12 @@ Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	BAFTA Film
 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb%	UN Award%	1965%	%	
 The Lives of Others%	Oscar%	2007%	Best Foreign Language Film of the Year%	
 The Lives of Others%	BAFTA Film Award%	2008%	Best Film Not in the English Language%	
+Django Unchained%	Oscar%	2013%	Best Performance by an Actor in a Supporting Role%	
+Django Unchained%	Oscar%	2013%	Best Writing, Original Screenplay%	
+Django Unchained%	Golden Globe%	2013%	Best Performance by an Actor in a Supporting Role in a Motion Picture%	
+Django Unchained%	Golden Globe%	2013%	Best Screenplay - Motion Picture%	
+Django Unchained%	BAFTA Film Award%	2013%	Best Supporting Actor%	
+Django Unchained%	BAFTA Film Award%	2013%	Best Original Screenplay%	
 Coco%	Oscar%	2018%	Best Achievement in Music Written for Motion Pictures (Original Song)%	
 Coco%	Oscar%	2018%	Best Animated Feature Film%	
 Coco%	Golden Globe%	2018%	Best Motion Picture - Animated%	
@@ -139,6 +227,20 @@ WALL·E%	Oscar%	2009%	Best Animated Feature Film of the Year%
 WALL·E%	Golden Globe%	2009%	Best Animated Film%	
 WALL·E%	BAFTA Film Award%	2009%	Best Animated Film%	
 WALL·E%	BAFTA Children's Award%	2008%	Best Feature Film%	
+American Beauty%	Oscar%	2000%	Best Picture%	
+American Beauty%	Oscar%	2000%	Best Actor in a Leading Role%	
+American Beauty%	Oscar%	2000%	Best Director%	
+American Beauty%	Oscar%	2000%	Best Writing, Screenplay Written Directly for the Screen%	
+American Beauty%	Oscar%	2000%	Best Cinematography%	
+American Beauty%	Golden Globe%	2000%	Best Motion Picture - Drama%	
+American Beauty%	Golden Globe%	2000%	Best Director - Motion Picture%	
+American Beauty%	Golden Globe%	2000%	Best Screenplay - Motion Picture%	
+American Beauty%	Anthony Asquith Award for Film Music%	2000%	Thomas Newman%	
+American Beauty%	BAFTA Film Award%	2000%	Best Film%	
+American Beauty%	BAFTA Film Award%	2000%	Best Performance by an Actress in a Leading Role%	
+American Beauty%	BAFTA Film Award%	2000%	Best Performance by an Actor in a Leading Role%	
+American Beauty%	BAFTA Film Award%	2000%	Best Cinematography%	
+American Beauty%	BAFTA Film Award%	2000%	Best Editing%	
 Witness for the Prosecution%	Golden Globe%	1958%	Best Supporting Actress%	
 Aliens%	Oscar%	1987%	Best Effects, Sound Effects Editing%	
 Aliens%	Oscar%	1987%	Best Effects, Visual Effects%	
@@ -179,6 +281,9 @@ Lawrence of Arabia%	BAFTA Film Award%	1963%	Best Film from any Source%
 Eternal Sunshine of the Spotless Mind%	Oscar%	2005%	Best Writing, Original Screenplay%	
 Eternal Sunshine of the Spotless Mind%	BAFTA Film Award%	2005%	Best Screenplay - Original%	
 Eternal Sunshine of the Spotless Mind%	BAFTA Film Award%	2005%	Best Editing%	
+Taxi Driver%	Anthony Asquith Award for Film Music%	1977%	Bernard Herrmann%	
+Taxi Driver%	BAFTA Film Award%	1977%	Most Promising Newcomer to Leading Film Roles%	
+Taxi Driver%	BAFTA Film Award%	1977%	Best Supporting Actress%	
 Singin' in the Rain%	Golden Globe%	1953%	Best Actor - Comedy or Musical%	
 2001: A Space Odyssey%	Oscar%	1969%	Best Effects, Special Visual Effects%	
 2001: A Space Odyssey%	BAFTA Film Award%	1969%	Best Art Direction%	
@@ -229,6 +334,7 @@ The Apartment%	BAFTA Film Award%	1961%	Best Foreign Actor%
 The Apartment%	BAFTA Film Award%	1961%	Best Foreign Actress%	
 A Separation%	Oscar%	2012%	Best Foreign Language Film of the Year%	
 A Separation%	Golden Globe%	2012%	Best Foreign Language Film%	
+Indiana Jones and the Last Crusade%	Oscar%	1990%	Best Effects, Sound Effects Editing%	
 Up%	Oscar%	2010%	Best Achievement in Music Written for Motion Pictures, Original Score%	
 Up%	Oscar%	2010%	Best Animated Feature Film of the Year%	
 Up%	Golden Globe%	2010%	Best Original Score - Motion Picture%	
@@ -261,6 +367,11 @@ The Treasure of the Sierra Madre%	Oscar%	1949%	Best Writing, Screenplay%
 The Treasure of the Sierra Madre%	Golden Globe%	1949%	Best Picture%	
 The Treasure of the Sierra Madre%	Golden Globe%	1949%	Best Director%	
 The Treasure of the Sierra Madre%	Golden Globe%	1949%	Best Supporting Actor%	
+Raging Bull%	Oscar%	1981%	Best Actor in a Leading Role%	
+Raging Bull%	Oscar%	1981%	Best Film Editing%	
+Raging Bull%	Golden Globe%	1981%	Best Actor in a Motion Picture - Drama%	
+Raging Bull%	BAFTA Film Award%	1982%	Best Editing%	
+Raging Bull%	BAFTA Film Award%	1982%	Most Outstanding Newcomer to Leading Film Roles%	
 The Third Man%	Oscar%	1951%	Best Cinematography, Black-and-White%	
 The Third Man%	BAFTA Film Award%	1950%	Best British Film%	
 Three Billboards Outside Ebbing, Missouri%	Oscar%	2018%	Best Performance by an Actress in a Leading Role%	
@@ -282,13 +393,19 @@ Chinatown%	Golden Globe%	1975%	Best Screenplay - Motion Picture%
 Chinatown%	BAFTA Film Award%	1975%	Best Actor%	
 Chinatown%	BAFTA Film Award%	1975%	Best Direction%	
 Chinatown%	BAFTA Film Award%	1975%	Best Screenplay%	
-Ran%	Oscar%	1986%	Best Costume Design%	
-Ran%	BAFTA Film Award%	1987%	Best Foreign Language Film%	
-Ran%	BAFTA Film Award%	1987%	Best Make Up Artist%	
+Pan's Labyrinth%	Oscar%	2007%	Best Achievement in Cinematography%	
+Pan's Labyrinth%	Oscar%	2007%	Best Achievement in Art Direction%	
+Pan's Labyrinth%	Oscar%	2007%	Best Achievement in Makeup%	
+Pan's Labyrinth%	BAFTA Film Award%	2007%	Best Film not in the English Language%	
+Pan's Labyrinth%	BAFTA Film Award%	2007%	Best Costume Design%	
+Pan's Labyrinth%	BAFTA Film Award%	2007%	Best Make Up & Hair%	
 Judgment at Nuremberg%	Oscar%	1962%	Best Actor in a Leading Role%	
 Judgment at Nuremberg%	Oscar%	1962%	Best Writing, Screenplay Based on Material from Another Medium%	
 Judgment at Nuremberg%	Golden Globe%	1962%	Best Director%	
 Judgment at Nuremberg%	Golden Globe%	1962%	Best Actor - Drama%	
+Ran%	Oscar%	1986%	Best Costume Design%	
+Ran%	BAFTA Film Award%	1987%	Best Foreign Language Film%	
+Ran%	BAFTA Film Award%	1987%	Best Make Up Artist%	
 The Secret in Their Eyes%	Oscar%	2010%	Best Foreign Language Film of the Year%	
 The Bridge on the River Kwai%	Oscar%	1958%	Best Picture%	
 The Bridge on the River Kwai%	Oscar%	1958%	Best Actor in a Leading Role%	
@@ -321,10 +438,27 @@ Inside Out%	Oscar%	2016%	Best Animated Feature Film of the Year%
 Inside Out%	Golden Globe%	2016%	Best Motion Picture - Animated%	
 Inside Out%	BAFTA Film Award%	2016%	Best Animated Film%	
 Lock, Stock and Two Smoking Barrels%	Audience Award%	1999%	%	
+A Beautiful Mind%	Oscar%	2002%	Best Picture%	
+A Beautiful Mind%	Oscar%	2002%	Best Actress in a Supporting Role%	
+A Beautiful Mind%	Oscar%	2002%	Best Director%	
+A Beautiful Mind%	Oscar%	2002%	Best Writing, Screenplay Based on Material Previously Produced or Published%	
+A Beautiful Mind%	Golden Globe%	2002%	Best Performance by an Actor in a Motion Picture - Drama%	
+A Beautiful Mind%	Golden Globe%	2002%	Best Performance by an Actress in a Supporting Role in a Motion Picture%	
+A Beautiful Mind%	Golden Globe%	2002%	Best Screenplay - Motion Picture%	
+A Beautiful Mind%	Golden Globe%	2002%	Best Motion Picture - Drama%	
+A Beautiful Mind%	BAFTA Film Award%	2002%	Best Performance by an Actor in a Leading Role%	
+A Beautiful Mind%	BAFTA Film Award%	2002%	Best Performance by an Actress in a Supporting Role%	
+Casino%	Golden Globe%	1996%	Best Performance by an Actress in a Motion Picture - Drama%	
+Room%	Oscar%	2016%	Best Performance by an Actress in a Leading Role%	
+Room%	Golden Globe%	2016%	Best Performance by an Actress in a Motion Picture - Drama%	
+Room%	BAFTA Film Award%	2016%	Best Leading Actress%	
 Mr. Smith Goes to Washington%	Oscar%	1940%	Best Writing, Original Story%	
 The Elephant Man%	BAFTA Film Award%	1981%	Best Actor%	
 The Elephant Man%	BAFTA Film Award%	1981%	Best Film%	
 The Elephant Man%	BAFTA Film Award%	1981%	Best Production Design/Art Direction%	
+Blade Runner%	BAFTA Film Award%	1983%	Best Cinematography%	
+Blade Runner%	BAFTA Film Award%	1983%	Best Costume Design%	
+Blade Runner%	BAFTA Film Award%	1983%	Best Production Design/Art Direction%	
 Wild Strawberries%	Golden Globe%	1960%	Best Foreign Film%	
 Trainspotting%	BAFTA Film Award%	1996%	Best Screenplay - Adapted%	
 Trainspotting%	BAFTA Scotland Award%	1997%	Best Feature Film%	
@@ -374,6 +508,11 @@ Hacksaw Ridge%	Oscar%	2017%	Best Achievement in Film Editing%
 Hacksaw Ridge%	Oscar%	2017%	Best Achievement in Sound Mixing%	
 Hacksaw Ridge%	BAFTA Film Award%	2017%	Best Editing%	
 Into the Wild%	Golden Globe%	2008%	Best Original Song - Motion Picture%	
+Relatos salvajes%	BAFTA Film Award%	2016%	Best Film not in the English Language%	
+Blade Runner 2049%	Oscar%	2018%	Best Achievement in Cinematography%	
+Blade Runner 2049%	Oscar%	2018%	Best Achievement in Visual Effects%	
+Blade Runner 2049%	BAFTA Film Award%	2018%	Best Cinematography%	
+Blade Runner 2049%	BAFTA Film Award%	2018%	Best Achievement in Special Visual Effects%	
 It Happened One Night%	Oscar%	1935%	Best Picture%	
 It Happened One Night%	Oscar%	1935%	Best Actor in a Leading Role%	
 It Happened One Night%	Oscar%	1935%	Best Actress in a Leading Role%	
@@ -408,6 +547,11 @@ The Grand Budapest Hotel%	BAFTA Film Award%	2015%	Best Production Design%
 The Grand Budapest Hotel%	BAFTA Film Award%	2015%	Best Original Screenplay%	
 The Grand Budapest Hotel%	BAFTA Film Award%	2015%	Best Make Up & Hair%	
 The Wages of Fear%	BAFTA Film Award%	1955%	Best Film from any Source%	
+Jurassic Park%	Oscar%	1994%	Best Sound%	
+Jurassic Park%	Oscar%	1994%	Best Effects, Sound Effects Editing%	
+Jurassic Park%	Oscar%	1994%	Best Effects, Visual Effects%	
+Jurassic Park%	BAFTA Film Award%	1994%	Best Special Effects%	
+Jurassic Park%	Lloyds Bank People's Vote for the Most Popular Film%	1994%	%	
 Ben-Hur%	Oscar%	1960%	Best Picture%	
 Ben-Hur%	Oscar%	1960%	Best Actor in a Leading Role%	
 Ben-Hur%	Oscar%	1960%	Best Actor in a Supporting Role%	
@@ -424,6 +568,13 @@ Ben-Hur%	Golden Globe%	1960%	Best Director%
 Ben-Hur%	Golden Globe%	1960%	Best Supporting Actor%	
 Ben-Hur%	Special Award%	1960%	Andrew Marton%	
 Ben-Hur%	BAFTA Film Award%	1960%	Best Film from any Source%	
+Rush%	BAFTA Film Award%	2014%	Best Editing%	
+12 Years a Slave%	Oscar%	2014%	Best Motion Picture of the Year%	
+12 Years a Slave%	Oscar%	2014%	Best Performance by an Actress in a Supporting Role%	
+12 Years a Slave%	Oscar%	2014%	Best Writing, Adapted Screenplay%	
+12 Years a Slave%	Golden Globe%	2014%	Best Motion Picture - Drama%	
+12 Years a Slave%	BAFTA Film Award%	2014%	Best Film%	
+12 Years a Slave%	BAFTA Film Award%	2014%	Best Leading Actor%	
 The Truman Show%	Golden Globe%	1999%	Best Performance by an Actor in a Motion Picture - Drama%	
 The Truman Show%	Golden Globe%	1999%	Best Performance by an Actor in a Supporting Role in a Motion Picture%	
 The Truman Show%	Golden Globe%	1999%	Best Original Score - Motion Picture%	
@@ -472,9 +623,15 @@ La La Land%	BAFTA Film Award%	2017%	Best Leading Actress%
 La La Land%	BAFTA Film Award%	2017%	Best Cinematography%	
 La La Land%	BAFTA Film Award%	2017%	Original Music%	
 La La Land%	David Lean Award for Direction%	2017%	Damien Chazelle%	
-The Nights of Cabiria%	Oscar%	1958%	Best Foreign Language Film%	
+Harry Potter and the Deathly Hallows: Part 2%	BAFTA Film Award%	2012%	Best Special Visual Effects%	
+Harry Potter and the Deathly Hallows: Part 2%	BAFTA Children's Award%	2011%	Best Feature Film%	
+Rocky%	Oscar%	1977%	Best Picture%	
+Rocky%	Oscar%	1977%	Best Director%	
+Rocky%	Oscar%	1977%	Best Film Editing%	
+Rocky%	Golden Globe%	1977%	Best Motion Picture - Drama%	
 The Grapes of Wrath%	Oscar%	1941%	Best Actress in a Supporting Role%	
 The Grapes of Wrath%	Oscar%	1941%	Best Director%	
+The Nights of Cabiria%	Oscar%	1958%	Best Foreign Language Film%	
 Monsters, Inc.%	Oscar%	2002%	Best Music, Original Song%	
 Monsters, Inc.%	BAFTA Children's Award%	2002%	Best Feature Film%	
 Barry Lyndon%	Oscar%	1976%	Best Cinematography%	
@@ -509,6 +666,11 @@ The Wizard of Oz%	Oscar%	1940%	Best Music, Original Score%
 Dead Poets Society%	Oscar%	1990%	Best Writing, Screenplay Written Directly for the Screen%	
 Dead Poets Society%	BAFTA Film Award%	1990%	Best Film%	
 Dead Poets Society%	BAFTA Film Award%	1990%	Best Original Film Score%	
+The Bourne Ultimatum%	Oscar%	2008%	Best Achievement in Film Editing%	
+The Bourne Ultimatum%	Oscar%	2008%	Best Achievement in Sound Mixing%	
+The Bourne Ultimatum%	Oscar%	2008%	Best Achievement in Sound Editing%	
+The Bourne Ultimatum%	BAFTA Film Award%	2008%	Best Editing%	
+The Bourne Ultimatum%	BAFTA Film Award%	2008%	Best Sound%	
 Annie Hall%	Oscar%	1978%	Best Picture%	
 Annie Hall%	Oscar%	1978%	Best Actress in a Leading Role%	
 Annie Hall%	Oscar%	1978%	Best Director%	
@@ -521,6 +683,15 @@ Annie Hall%	BAFTA Film Award%	1978%	Best Film%
 Annie Hall%	BAFTA Film Award%	1978%	Best Screenplay%	
 8½%	Oscar%	1964%	Best Costume Design, Black-and-White%	
 8½%	Oscar%	1964%	Best Foreign Language Film%	
+Jaws%	Oscar%	1976%	Best Sound%	
+Jaws%	Oscar%	1976%	Best Film Editing%	
+Jaws%	Oscar%	1976%	Best Music, Original Dramatic Score%	
+Jaws%	Golden Globe%	1976%	Best Original Score - Motion Picture%	
+Jaws%	Anthony Asquith Award for Film Music%	1976%	John Williams%	
+The Help%	Oscar%	2012%	Best Performance by an Actress in a Supporting Role%	
+The Help%	Golden Globe%	2012%	Best Performance by an Actress in a Supporting Role in a Motion Picture%	
+The Help%	BAFTA Film Award%	2012%	Best Supporting Actress%	
+Paris, Texas%	BAFTA Film Award%	1985%	Best Direction%	
 The Best Years of Our Lives%	Honorary Award%	1947%	Harold Russell%	
 The Best Years of Our Lives%	Oscar%	1947%	Best Picture%	
 The Best Years of Our Lives%	Oscar%	1947%	Best Actor in a Leading Role%	
@@ -532,7 +703,6 @@ The Best Years of Our Lives%	Oscar%	1947%	Best Music, Scoring of a Dramatic or C
 The Best Years of Our Lives%	Golden Globe%	1947%	Best Picture%	
 The Best Years of Our Lives%	Special Award%	1947%	Harold Russell%	
 The Best Years of Our Lives%	BAFTA Film Award%	1948%	Best Film from any Source%	
-Paris, Texas%	BAFTA Film Award%	1985%	Best Direction%	
 Twelve Monkeys%	Golden Globe%	1996%	Best Performance by an Actor in a Supporting Role in a Motion Picture%	
 Beauty and the Beast%	Oscar%	1992%	Best Music, Original Song%	
 Beauty and the Beast%	Oscar%	1992%	Best Music, Original Score%	
