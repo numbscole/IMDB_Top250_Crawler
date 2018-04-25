@@ -274,11 +274,15 @@ def getInfo(dictionary, movies):
             cast = []
             writers = []
             crew = []
+            director = None
 
             for p in range(len(persons)):
                 try:
                     if(persons[p].getDepartment() == 'Directed'):
                         director = persons[p]
+                        dname = director.getName()
+                        dFRY = director.getFRY()
+                        dBdate = director.getBirthday()
                     elif(persons[p].getDepartment() == 'Cast'):
                         cast.append(persons[p])
                     elif(persons[p].getDepartment() == 'Writing Credits'):
@@ -288,10 +292,15 @@ def getInfo(dictionary, movies):
                 except:
                     pass
 
+            if director == None:
+                dname = 'NULL'
+                dFRY = 'NULL'
+                dBdate = 'NULL'
+
             movie_info.append([title,thisMovie.getRD_date(),thisMovie.getTime_len(),
                             thisMovie.getContentRating(),rating,thisMovie.getBO_GrossUSA(),
                             thisMovie.getBO_GrossWorld(), thisMovie.getBudget(),thisMovie.getON_Earnings(),
-                            thisMovie.getON_Date(), director.getName(), director.getFRY(), director.getBirthday()])
+                            thisMovie.getON_Date(), dname, dFRY, dBdate])
             sims = thisMovie.getSimilarMovieTitles()
             for s in sims:
                 similar_info.append([title, s])

@@ -115,21 +115,32 @@ class Person:
 
     def setAltAPI_Info(self,data):
         person = data['person_results'][0]
-        moviedb_Id = str(person['id'])
-        gender_num = person['gender']
-        if gender_num == 1:
-            self.gender = 'Female'
-        elif gender_num == 2:
-            self.gender = 'Male'
-        self.name = person['name']
-        data_details = collectAltAPI_Info(self, moviedb_Id)
+
         try:
-            self.setBirthday(data_details['birthday'])
+            gender_num = person['gender']
+            if gender_num == 1:
+                self.gender = 'Female'
+            elif gender_num == 2:
+                self.gender = 'Male'
         except:
-            print('No birthday on record for '+self.name+' moviedb-id: '+moviedb_Id)
+            pass
+        self.name = person['name']
+        try:
+            moviedb_Id = str(person['id'])
+            data_details = collectAltAPI_Info(self, moviedb_Id)
+            try:
+                self.setBirthday(data_details['birthday'])
+            except:
+                print('No birthday on record for '+self.name+' moviedb-id: '+moviedb_Id)
+                self.birthday = 'NULL'
+            try:
+                if self.department == 'Directed':
+                    self.setAltFRY(collectAltAPI_Info(self, moviedb_Id, True))
+            except:
+                self.firstDirectedYear = 'NULL'
+        except:
             self.birthday = 'NULL'
-        if self.department == 'Directed':
-            self.setAltFRY(collectAltAPI_Info(self, moviedb_Id, True))
+            self.firstDirectedYear = 'NULL'
 
     def setAltFRY(self, data):
         # collect every movie this person was involved (excluding cast roles)
@@ -137,7 +148,7 @@ class Person:
         movie_release_dates = []
         # recod the release date of any movie this person directed
         for m in movies:
-            if m['job'] == 'Director':
+            if m['job'] == 'Director' and m['release_date']!="":
                 movie_release_dates.append(m['release_date'])
         split_dates_str = []
         for yd in movie_release_dates:
