@@ -71,9 +71,9 @@ Harry Crocker%	City Lights%
 Julius J. Epstein%	Casablanca%	
 Philip G. Epstein%	Casablanca%	
 Howard Koch%	Casablanca%	
+Charlie Chaplin%	Modern Times%	
 Olivier Nakache%	The Intouchables%	
 Eric Toledano%	The Intouchables%	
-Charlie Chaplin%	Modern Times%	
 William Monahan%	The Departed%	
 Alan Mak%	The Departed%	
 Felix Chong%	The Departed%	
@@ -82,10 +82,10 @@ William Wisher Jr.%	Terminator 2%
 Lawrence Kasdan%	Raiders of the Lost Ark%	
 George Lucas%	Raiders of the Lost Ark%	
 Philip Kaufman%	Raiders of the Lost Ark%	
-John Michael Hayes%	Rear Window%	
-Cornell Woolrich%	Rear Window%	
 Robert Zemeckis%	Back to the Future%	
 Bob Gale%	Back to the Future%	
+John Michael Hayes%	Rear Window%	
+Cornell Woolrich%	Rear Window%	
 Damien Chazelle%	Whiplash%	
 David Franzoni%	Gladiator%	
 David Franzoni%	Gladiator%	
@@ -189,15 +189,15 @@ James M. Cain%	Double Indemnity%
 Paul Schrader%	Taxi Driver%	
 Betty Comden%	Singin' in the Rain%	
 Adolph Green%	Singin' in the Rain%	
-Rajkumar Hirani%	3 Idiots%	
-Abhijit Joshi%	3 Idiots%	
-Vidhu Vinod Chopra%	3 Idiots%	
 Stanley Kubrick%	2001: A Space Odyssey%	
 Arthur C. Clarke%	2001: A Space Odyssey%	
 Arthur C. Clarke%	2001: A Space Odyssey%	
 John Lasseter%	Toy Story%	
 Pete Docter%	Toy Story%	
 Andrew Stanton%	Toy Story%	
+Rajkumar Hirani%	3 Idiots%	
+Abhijit Joshi%	3 Idiots%	
+Vidhu Vinod Chopra%	3 Idiots%	
 Harper Lee%	To Kill a Mockingbird%	
 Horton Foote%	To Kill a Mockingbird%	
 Stanley Kubrick%	Full Metal Jacket%	
@@ -208,7 +208,6 @@ Cesare Zavattini%	Bicycle Thieves%
 Luigi Bartolini%	Bicycle Thieves%	
 Oreste Biancoli%	Bicycle Thieves%	
 David S. Ward%	The Sting%	
-Charlie Chaplin%	The Kid%	
 John Lasseter%	Toy Story 3%	
 Andrew Stanton%	Toy Story 3%	
 Lee Unkrich%	Toy Story 3%	
@@ -266,7 +265,6 @@ W.R. Burnett%	The Great Escape%
 Graham Greene%	The Third Man%	
 Graham Greene%	The Third Man%	
 Orson Welles%	The Third Man%	
-Majid Majidi%	Children of Heaven%	
 Martin McDonagh%	Three Billboards Outside Ebbing, Missouri%	
 Robert Towne%	Chinatown%	
 Roman Polanski%	Chinatown%	
@@ -318,12 +316,12 @@ Hampton Fancher%	Blade Runner%
 David Webb Peoples%	Blade Runner%	
 Philip K. Dick%	Blade Runner%	
 Ingmar Bergman%	Wild Strawberries%	
-Buster Keaton%	The General%	
-Clyde Bruckman%	The General%	
-Al Boasberg%	The General%	
 Gavin O'Connor%	Warrior%	
 Anthony Tambakis%	Warrior%	
 Cliff Dorfman%	Warrior%	
+Buster Keaton%	The General%	
+Clyde Bruckman%	The General%	
+Al Boasberg%	The General%	
 Jean C. Havez%	Sherlock Jr.%	
 Joseph A. Mitchell%	Sherlock Jr.%	
 Clyde Bruckman%	Sherlock Jr.%	
@@ -334,19 +332,19 @@ John Hodge%	Trainspotting%
 Margaret Mitchell%	Gone with the Wind%	
 Sidney Howard%	Gone with the Wind%	
 Oliver H.P. Garrett%	Gone with the Wind%	
-Nick Schenk%	Gran Torino%	
-Nick Schenk%	Gran Torino%	
 Joel Coen%	No Country for Old Men%	
 Ethan Coen%	No Country for Old Men%	
 Cormac McCarthy%	No Country for Old Men%	
+Nick Schenk%	Gran Torino%	
+Nick Schenk%	Gran Torino%	
 M. Night Shyamalan%	The Sixth Sense%	
 Ethan Coen%	Fargo%	
 Joel Coen%	Fargo%	
+Paul Thomas Anderson%	There Will Be Blood%	
+Upton Sinclair%	There Will Be Blood%	
 Michael Cimino%	The Deer Hunter%	
 Deric Washburn%	The Deer Hunter%	
 Louis Garfinkle%	The Deer Hunter%	
-Paul Thomas Anderson%	There Will Be Blood%	
-Upton Sinclair%	There Will Be Blood%	
 Bill Lancaster%	The Thing%	
 Andrew Stanton%	Finding Nemo%	
 Andrew Stanton%	Finding Nemo%	
@@ -356,12 +354,12 @@ Joel Coen%	The Big Lebowski%
 Ales Adamovich%	Come and See%	
 Ales Adamovich%	Come and See%	
 Elem Klimov%	Come and See%	
-Carl Mayer%	Sunrise%	
-Hermann Sudermann%	Sunrise%	
-Katherine Hilliker%	Sunrise%	
 Donn Pearce%	Cool Hand Luke%	
 Frank Pierson%	Cool Hand Luke%	
 Donn Pearce%	Cool Hand Luke%	
+Carl Mayer%	Sunrise%	
+Hermann Sudermann%	Sunrise%	
+Katherine Hilliker%	Sunrise%	
 Quentin Tarantino%	Kill Bill: Vol. 1%	
 Quentin Tarantino%	Kill Bill: Vol. 1%	
 Uma Thurman%	Kill Bill: Vol. 1%	
@@ -389,18 +387,17 @@ Damián Szifrón%	Relatos salvajes%
 Hampton Fancher%	Blade Runner 2049%	
 Michael Green%	Blade Runner 2049%	
 Hampton Fancher%	Blade Runner 2049%	
+Robert Riskin%	It Happened One Night%	
+Samuel Hopkins Adams%	It Happened One Night%	
 Renzil D'Silva%	Rang De Basanti%	
 Prasoon Joshi%	Rang De Basanti%	
 Rakeysh Omprakash Mehra%	Rang De Basanti%	
-Robert Riskin%	It Happened One Night%	
-Samuel Hopkins Adams%	It Happened One Night%	
-Joseph Delteil%	The Passion of Joan of Arc%	
-Carl Theodor Dreyer%	The Passion of Joan of Arc%	
 Oliver Stone%	Platoon%	
 Gerry Conlon%	In the Name of the Father%	
 Terry George%	In the Name of the Father%	
 Jim Sheridan%	In the Name of the Father%	
-Paddy Chayefsky%	Network%	
+Joseph Delteil%	The Passion of Joan of Arc%	
+Carl Theodor Dreyer%	The Passion of Joan of Arc%	
 Stephen King%	Stand by Me%	
 Raynold Gideon%	Stand by Me%	
 Keir Pearson%	Hotel Rwanda%	
@@ -408,20 +405,20 @@ Terry George%	Hotel Rwanda%
 Stefan Zweig%	The Grand Budapest Hotel%	
 Wes Anderson%	The Grand Budapest Hotel%	
 Wes Anderson%	The Grand Budapest Hotel%	
-Arkadiy Strugatskiy%	Stalker%	
-Boris Strugatsky%	Stalker%	
-Arkadiy Strugatskiy%	Stalker%	
 Georges Arnaud%	The Wages of Fear%	
 Henri-Georges Clouzot%	The Wages of Fear%	
 Jérôme Géronimi%	The Wages of Fear%	
 Michael Crichton%	Jurassic Park%	
 Michael Crichton%	Jurassic Park%	
 David Koepp%	Jurassic Park%	
+Arkadiy Strugatskiy%	Stalker%	
+Boris Strugatsky%	Stalker%	
+Arkadiy Strugatskiy%	Stalker%	
 Lew Wallace%	Ben-Hur%	
 Karl Tunberg%	Ben-Hur%	
 Gore Vidal%	Ben-Hur%	
-Ingmar Bergman%	Persona%	
 Peter Morgan%	Rush%	
+Ingmar Bergman%	Persona%	
 Bong Joon-ho%	Memories of Murder%	
 Kwang-rim Kim%	Memories of Murder%	
 Sung Bo Shim%	Memories of Murder%	
@@ -446,10 +443,10 @@ Aaron Guzikowski%	Prisoners%
 William Goldman%	The Princess Bride%	
 William Goldman%	The Princess Bride%	
 Damien Chazelle%	La La Land%	
-John Huston%	The Maltese Falcon%	
-Dashiell Hammett%	The Maltese Falcon%	
 Steve Kloves%	Harry Potter and the Deathly Hallows: Part 2%	
 J.K. Rowling%	Harry Potter and the Deathly Hallows: Part 2%	
+John Huston%	The Maltese Falcon%	
+Dashiell Hammett%	The Maltese Falcon%	
 Neeraj Pandey%	A Wednesday%	
 Neeraj Pandey%	A Wednesday%	
 Sylvester Stallone%	Rocky%	
@@ -501,10 +498,10 @@ Kathryn Stockett%	The Help%
 L.M. Kit Carson%	Paris, Texas%	
 Sam Shepard%	Paris, Texas%	
 Walter Donohue%	Paris, Texas%	
-Robert E. Sherwood%	The Best Years of Our Lives%	
-MacKinlay Kantor%	The Best Years of Our Lives%	
 Alan Mak%	Infernal Affairs%	
 Felix Chong%	Infernal Affairs%	
+Robert E. Sherwood%	The Best Years of Our Lives%	
+MacKinlay Kantor%	The Best Years of Our Lives%	
 Chris Marker%	Twelve Monkeys%	
 David Webb Peoples%	Twelve Monkeys%	
 Janet Peoples%	Twelve Monkeys%	
@@ -517,7 +514,6 @@ Ethan Hawke%	Before Sunset%
 Linda Woolverton%	Beauty and the Beast%	
 Brenda Chapman%	Beauty and the Beast%	
 Chris Sanders%	Beauty and the Beast%	
-Franco Solinas%	The Battle of Algiers%	
-Franco Solinas%	The Battle of Algiers%	
-Gillo Pontecorvo%	The Battle of Algiers%	
 Frank Pierson%	Dog Day Afternoon%	
+Zaza Urushadze%	Tangerines%	
+Zaza Urushadze%	Tangerines%	

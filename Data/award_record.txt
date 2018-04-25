@@ -485,6 +485,10 @@ No Country for Old Men%	David Lean Award for Direction%	2008%	Best Director%
 Fargo%	Oscar%	1997%	Best Actress in a Leading Role%	
 Fargo%	Oscar%	1997%	Best Writing, Screenplay Written Directly for the Screen%	
 Fargo%	David Lean Award for Direction%	1997%	Joel Coen%	
+There Will Be Blood%	Oscar%	2008%	Best Performance by an Actor in a Leading Role%	
+There Will Be Blood%	Oscar%	2008%	Best Achievement in Cinematography%	
+There Will Be Blood%	Golden Globe%	2008%	Best Performance by an Actor in a Motion Picture - Drama%	
+There Will Be Blood%	BAFTA Film Award%	2008%	Best Leading Actor%	
 The Deer Hunter%	Oscar%	1979%	Best Picture%	
 The Deer Hunter%	Oscar%	1979%	Best Actor in a Supporting Role%	
 The Deer Hunter%	Oscar%	1979%	Best Director%	
@@ -493,15 +497,11 @@ The Deer Hunter%	Oscar%	1979%	Best Film Editing%
 The Deer Hunter%	Golden Globe%	1979%	Best Director - Motion Picture%	
 The Deer Hunter%	BAFTA Film Award%	1980%	Best Cinematography%	
 The Deer Hunter%	BAFTA Film Award%	1980%	Best Editing%	
-There Will Be Blood%	Oscar%	2008%	Best Performance by an Actor in a Leading Role%	
-There Will Be Blood%	Oscar%	2008%	Best Achievement in Cinematography%	
-There Will Be Blood%	Golden Globe%	2008%	Best Performance by an Actor in a Motion Picture - Drama%	
-There Will Be Blood%	BAFTA Film Award%	2008%	Best Leading Actor%	
 Finding Nemo%	Oscar%	2004%	Best Animated Feature%	
+Cool Hand Luke%	Oscar%	1968%	Best Actor in a Supporting Role%	
 Sunrise%	Oscar%	1929%	Best Picture, Unique and Artistic Production%	
 Sunrise%	Oscar%	1929%	Best Actress in a Leading Role%	
 Sunrise%	Oscar%	1929%	Best Cinematography%	
-Cool Hand Luke%	Oscar%	1968%	Best Actor in a Supporting Role%	
 Rebecca%	Oscar%	1941%	Best Picture%	
 Rebecca%	Oscar%	1941%	Best Cinematography, Black-and-White%	
 Hacksaw Ridge%	Oscar%	2017%	Best Achievement in Film Editing%	
@@ -527,15 +527,6 @@ Platoon%	Golden Globe%	1987%	Best Director - Motion Picture%
 Platoon%	Golden Globe%	1987%	Best Performance by an Actor in a Supporting Role in a Motion Picture%	
 Platoon%	BAFTA Film Award%	1988%	Best Direction%	
 Platoon%	BAFTA Film Award%	1988%	Best Editing%	
-Network%	Oscar%	1977%	Best Actor in a Leading Role%	
-Network%	Oscar%	1977%	Best Actress in a Leading Role%	
-Network%	Oscar%	1977%	Best Actress in a Supporting Role%	
-Network%	Oscar%	1977%	Best Writing, Screenplay Written Directly for the Screen%	
-Network%	Golden Globe%	1977%	Best Director - Motion Picture%	
-Network%	Golden Globe%	1977%	Best Actor in Motion Picture - Drama%	
-Network%	Golden Globe%	1977%	Best Actress in a Motion Picture - Drama%	
-Network%	Golden Globe%	1977%	Best Screenplay - Motion Picture%	
-Network%	BAFTA Film Award%	1978%	Best Actor%	
 The Grand Budapest Hotel%	Oscar%	2015%	Best Achievement in Costume Design%	
 The Grand Budapest Hotel%	Oscar%	2015%	Best Achievement in Makeup and Hairstyling%	
 The Grand Budapest Hotel%	Oscar%	2015%	Best Achievement in Music Written for Motion Pictures, Original Score%	
@@ -709,7 +700,6 @@ Beauty and the Beast%	Oscar%	1992%	Best Music, Original Score%
 Beauty and the Beast%	Golden Globe%	1992%	Best Original Score - Motion Picture%	
 Beauty and the Beast%	Golden Globe%	1992%	Best Original Song - Motion Picture%	
 Beauty and the Beast%	Golden Globe%	1992%	Best Motion Picture - Comedy or Musical%	
-The Battle of Algiers%	UN Award%	1972%	%	
 Dog Day Afternoon%	Oscar%	1976%	Best Writing, Original Screenplay%	
 Dog Day Afternoon%	BAFTA Film Award%	1976%	Best Actor%	
 Dog Day Afternoon%	BAFTA Film Award%	1976%	Best Film Editing%	

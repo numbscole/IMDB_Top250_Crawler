@@ -464,6 +464,17 @@ Orry-Kelly%	Casablanca%
 Lawrence W. Butler%	Casablanca%	
 Willard Van Enger%	Casablanca%	
 Chris Crowell%	Casablanca%	
+Charlie Chaplin%	Modern Times%	
+Charlie Chaplin%	Modern Times%	
+Ira H. Morgan%	Modern Times%	
+Roland Totheroh%	Modern Times%	
+Charlie Chaplin%	Modern Times%	
+Willard Nico%	Modern Times%	
+Al Ernest Garcia%	Modern Times%	
+Charles D. Hall%	Modern Times%	
+J. Russell Spencer%	Modern Times%	
+J. Russell Spencer%	Modern Times%	
+Bud Thackery%	Modern Times%	
 Arnaud Bertrand%	The Intouchables%	
 Dominique Boutonnat%	The Intouchables%	
 Ludovico Einaudi%	The Intouchables%	
@@ -476,17 +487,6 @@ Mathieu Vadepied%	The Intouchables%
 Olivia Bloch-Lainé%	The Intouchables%	
 Isabelle Pannetier%	The Intouchables%	
 Laurent Brett%	The Intouchables%	
-Charlie Chaplin%	Modern Times%	
-Charlie Chaplin%	Modern Times%	
-Ira H. Morgan%	Modern Times%	
-Roland Totheroh%	Modern Times%	
-Charlie Chaplin%	Modern Times%	
-Willard Nico%	Modern Times%	
-Al Ernest Garcia%	Modern Times%	
-Charles D. Hall%	Modern Times%	
-J. Russell Spencer%	Modern Times%	
-J. Russell Spencer%	Modern Times%	
-Bud Thackery%	Modern Times%	
 Michael Aguilar%	The Departed%	
 G. Mac Brown%	The Departed%	
 Doug Davison%	The Departed%	
@@ -537,16 +537,6 @@ Michael Ford%	Raiders of the Lost Ark%
 Deborah Nadoolman%	Raiders of the Lost Ark%	
 Peter Amundson%	Raiders of the Lost Ark%	
 Craig Barron%	Raiders of the Lost Ark%	
-Alfred Hitchcock%	Rear Window%	
-Franz Waxman%	Rear Window%	
-Robert Burks%	Rear Window%	
-George Tomasini%	Rear Window%	
-J. McMillan Johnson%	Rear Window%	
-Hal Pereira%	Rear Window%	
-Sam Comer%	Rear Window%	
-Ray Moyer%	Rear Window%	
-Edith Head%	Rear Window%	
-John P. Fulton%	Rear Window%	
 Neil Canton%	Back to the Future%	
 Bob Gale%	Back to the Future%	
 Kathleen Kennedy%	Back to the Future%	
@@ -562,6 +552,16 @@ Todd Hallowell%	Back to the Future%
 Hal Gausman%	Back to the Future%	
 Deborah Lynn Scott%	Back to the Future%	
 Ellen E. Lichtwardt%	Back to the Future%	
+Alfred Hitchcock%	Rear Window%	
+Franz Waxman%	Rear Window%	
+Robert Burks%	Rear Window%	
+George Tomasini%	Rear Window%	
+J. McMillan Johnson%	Rear Window%	
+Hal Pereira%	Rear Window%	
+Sam Comer%	Rear Window%	
+Ray Moyer%	Rear Window%	
+Edith Head%	Rear Window%	
+John P. Fulton%	Rear Window%	
 Jason Blum%	Whiplash%	
 Nicholas Britell%	Whiplash%	
 Phillip Dawe%	Whiplash%	
@@ -1097,18 +1097,6 @@ Harry McAfee%	Singin' in the Rain%
 Walter Plunkett%	Singin' in the Rain%	
 Warren Newcombe%	Singin' in the Rain%	
 Irving G. Ries%	Singin' in the Rain%	
-Vidhu Vinod Chopra%	3 Idiots%	
-Vir Chopra%	3 Idiots%	
-Shantanu Moitra%	3 Idiots%	
-C.K. Muraleedharan%	3 Idiots%	
-Rajkumar Hirani%	3 Idiots%	
-Menaka Nagarajan%	3 Idiots%	
-Sumit Basu%	3 Idiots%	
-Rajnish Hedao%	3 Idiots%	
-Rajnish Hedao%	3 Idiots%	
-Manish Malhotra%	3 Idiots%	
-Sheena Parikh%	3 Idiots%	
-Brian Wade%	3 Idiots%	
 Stanley Kubrick%	2001: A Space Odyssey%	
 Victor Lyndon%	2001: A Space Odyssey%	
 Geoffrey Unsworth%	2001: A Space Odyssey%	
@@ -1137,6 +1125,18 @@ Darla K. Anderson%	Toy Story%
 Nancy Hayes%	Toy Story%	
 Ruth Lambert%	Toy Story%	
 Mickie McGowan%	Toy Story%	
+Vidhu Vinod Chopra%	3 Idiots%	
+Vir Chopra%	3 Idiots%	
+Shantanu Moitra%	3 Idiots%	
+C.K. Muraleedharan%	3 Idiots%	
+Rajkumar Hirani%	3 Idiots%	
+Menaka Nagarajan%	3 Idiots%	
+Sumit Basu%	3 Idiots%	
+Rajnish Hedao%	3 Idiots%	
+Rajnish Hedao%	3 Idiots%	
+Manish Malhotra%	3 Idiots%	
+Sheena Parikh%	3 Idiots%	
+Brian Wade%	3 Idiots%	
 Alan J. Pakula%	To Kill a Mockingbird%	
 Harper Lee%	To Kill a Mockingbird%	
 Robert Mulligan%	To Kill a Mockingbird%	
@@ -1201,11 +1201,6 @@ James W. Payne%	The Sting%
 Edith Head%	The Sting%	
 Bob Warner%	The Sting%	
 Albert Whitlock%	The Sting%	
-Charlie Chaplin%	The Kid%	
-Charlie Chaplin%	The Kid%	
-Roland Totheroh%	The Kid%	
-Charlie Chaplin%	The Kid%	
-Charles D. Hall%	The Kid%	
 Darla K. Anderson%	Toy Story 3%	
 Nicole Paradis Grindle%	Toy Story 3%	
 John Lasseter%	Toy Story 3%	
@@ -1505,7 +1500,6 @@ Robert Krasker%	The Third Man%
 Oswald Hafenrichter%	The Third Man%	
 Dario Simoni%	The Third Man%	
 W. Percy Day%	The Third Man%	
-Hassan Hassandoost%	Children of Heaven%	
 Graham Broadbent%	Three Billboards Outside Ebbing, Missouri%	
 Peter Czernin%	Three Billboards Outside Ebbing, Missouri%	
 Carter Burwell%	Three Billboards Outside Ebbing, Missouri%	
@@ -1758,17 +1752,6 @@ Gunnar Fischer%	Wild Strawberries%
 Oscar Rosander%	Wild Strawberries%	
 Gittan Gustafsson%	Wild Strawberries%	
 Millie Ström%	Wild Strawberries%	
-David Shepard%	The General%	
-Buster Keaton%	The General%	
-Joseph M. Schenck%	The General%	
-Carl Davis%	The General%	
-Robert Israel%	The General%	
-Bert Haines%	The General%	
-Devereaux Jennings%	The General%	
-Buster Keaton%	The General%	
-Sherman Kell%	The General%	
-Fred Gabourie%	The General%	
-Harry Roselotte%	The General%	
 Lisa Ellzey%	Warrior%	
 Josh Fagin%	Warrior%	
 John J. Kelly%	Warrior%	
@@ -1784,6 +1767,17 @@ Ron von Blomberg%	Warrior%
 Abigail Murray%	Warrior%	
 David Beavis%	Warrior%	
 Donna M. Belajac%	Warrior%	
+David Shepard%	The General%	
+Buster Keaton%	The General%	
+Joseph M. Schenck%	The General%	
+Carl Davis%	The General%	
+Robert Israel%	The General%	
+Bert Haines%	The General%	
+Devereaux Jennings%	The General%	
+Buster Keaton%	The General%	
+Sherman Kell%	The General%	
+Fred Gabourie%	The General%	
+Harry Roselotte%	The General%	
 Buster Keaton%	Sherlock Jr.%	
 Joseph M. Schenck%	Sherlock Jr.%	
 Byron Houck%	Sherlock Jr.%	
@@ -1822,6 +1816,22 @@ Jack Cosgrove%	Gone with the Wind%
 Harvey Clermont%	Gone with the Wind%	
 Charles Richards%	Gone with the Wind%	
 Fred Schuessler%	Gone with the Wind%	
+Ethan Coen%	No Country for Old Men%	
+Joel Coen%	No Country for Old Men%	
+David Diliberto%	No Country for Old Men%	
+Carter Burwell%	No Country for Old Men%	
+Roger Deakins%	No Country for Old Men%	
+Ethan Coen%	No Country for Old Men%	
+Joel Coen%	No Country for Old Men%	
+Ellen Chenoweth%	No Country for Old Men%	
+Jess Gonchor%	No Country for Old Men%	
+John P. Goldsmith%	No Country for Old Men%	
+Nancy Haigh%	No Country for Old Men%	
+Mary Zophres%	No Country for Old Men%	
+Peter Chesney%	No Country for Old Men%	
+Tom Chesney%	No Country for Old Men%	
+Jo Edna Boldin%	No Country for Old Men%	
+Barbara Harris%	No Country for Old Men%	
 Bruce Berman%	Gran Torino%	
 Clint Eastwood%	Gran Torino%	
 Bill Gerber%	Gran Torino%	
@@ -1839,22 +1849,6 @@ Deborah Hopper%	Gran Torino%
 David A. Poole%	Gran Torino%	
 Geoffrey Miclat%	Gran Torino%	
 Kathy Mooney%	Gran Torino%	
-Ethan Coen%	No Country for Old Men%	
-Joel Coen%	No Country for Old Men%	
-David Diliberto%	No Country for Old Men%	
-Carter Burwell%	No Country for Old Men%	
-Roger Deakins%	No Country for Old Men%	
-Ethan Coen%	No Country for Old Men%	
-Joel Coen%	No Country for Old Men%	
-Ellen Chenoweth%	No Country for Old Men%	
-Jess Gonchor%	No Country for Old Men%	
-John P. Goldsmith%	No Country for Old Men%	
-Nancy Haigh%	No Country for Old Men%	
-Mary Zophres%	No Country for Old Men%	
-Peter Chesney%	No Country for Old Men%	
-Tom Chesney%	No Country for Old Men%	
-Jo Edna Boldin%	No Country for Old Men%	
-Barbara Harris%	No Country for Old Men%	
 Kathleen Kennedy%	The Sixth Sense%	
 Frank Marshall%	The Sixth Sense%	
 Barry Mendel%	The Sixth Sense%	
@@ -1886,17 +1880,6 @@ Mary Zophres%	Fargo%
 Wilfred Caban%	Fargo%	
 John Alagna%	Fargo%	
 Kathleen Chopin%	Fargo%	
-Joann Carelli%	The Deer Hunter%	
-Michael Cimino%	The Deer Hunter%	
-Michael Deeley%	The Deer Hunter%	
-Stanley Myers%	The Deer Hunter%	
-Vilmos Zsigmond%	The Deer Hunter%	
-Peter Zinner%	The Deer Hunter%	
-Cis Corman%	The Deer Hunter%	
-Ron Hobbs%	The Deer Hunter%	
-Kim Swados%	The Deer Hunter%	
-Garry Elmendorf%	The Deer Hunter%	
-Jay King%	The Deer Hunter%	
 Paul Thomas Anderson%	There Will Be Blood%	
 Daniel Lupi%	There Will Be Blood%	
 Scott Rudin%	There Will Be Blood%	
@@ -1912,6 +1895,17 @@ David Blitstein%	There Will Be Blood%
 Steve Cremin%	There Will Be Blood%	
 John G. Chalfant%	There Will Be Blood%	
 Toni Cobb Brock%	There Will Be Blood%	
+Joann Carelli%	The Deer Hunter%	
+Michael Cimino%	The Deer Hunter%	
+Michael Deeley%	The Deer Hunter%	
+Stanley Myers%	The Deer Hunter%	
+Vilmos Zsigmond%	The Deer Hunter%	
+Peter Zinner%	The Deer Hunter%	
+Cis Corman%	The Deer Hunter%	
+Ron Hobbs%	The Deer Hunter%	
+Kim Swados%	The Deer Hunter%	
+Garry Elmendorf%	The Deer Hunter%	
+Jay King%	The Deer Hunter%	
 Stuart Cohen%	The Thing%	
 David Foster%	The Thing%	
 Larry J. Franco%	The Thing%	
@@ -1964,6 +1958,14 @@ Viktor Petrov%	Come and See%
 Viktor Petrov%	Come and See%	
 Viktor Petrov%	Come and See%	
 Eleonora Semyonova%	Come and See%	
+Gordon Carroll%	Cool Hand Luke%	
+Carter De Haven Jr.%	Cool Hand Luke%	
+Lalo Schifrin%	Cool Hand Luke%	
+Conrad L. Hall%	Cool Hand Luke%	
+Sam O'Steen%	Cool Hand Luke%	
+Cary Odell%	Cool Hand Luke%	
+Fred Price%	Cool Hand Luke%	
+Howard Shoup%	Cool Hand Luke%	
 William Fox%	Sunrise%	
 R.H. Bassett%	Sunrise%	
 Carli Elinor%	Sunrise%	
@@ -1973,14 +1975,6 @@ Karl Struss%	Sunrise%
 Harold D. Schuster%	Sunrise%	
 Rochus Gliese%	Sunrise%	
 Frank D. Williams%	Sunrise%	
-Gordon Carroll%	Cool Hand Luke%	
-Carter De Haven Jr.%	Cool Hand Luke%	
-Lalo Schifrin%	Cool Hand Luke%	
-Conrad L. Hall%	Cool Hand Luke%	
-Sam O'Steen%	Cool Hand Luke%	
-Cary Odell%	Cool Hand Luke%	
-Fred Price%	Cool Hand Luke%	
-Howard Shoup%	Cool Hand Luke%	
 Lawrence Bender%	Kill Bill: Vol. 1%	
 Mitsuhisa Ishikawa%	Kill Bill: Vol. 1%	
 Koko Maeda%	Kill Bill: Vol. 1%	
@@ -2145,6 +2139,13 @@ Renée April%	Blade Runner 2049%
 Michael Broom%	Blade Runner 2049%	
 Rohit Agarwal%	Blade Runner 2049%	
 Kathy Driscoll%	Blade Runner 2049%	
+Frank Capra%	It Happened One Night%	
+Harry Cohn%	It Happened One Night%	
+Howard Jackson%	It Happened One Night%	
+Joseph Walker%	It Happened One Night%	
+Gene Havlick%	It Happened One Night%	
+Stephen Goosson%	It Happened One Night%	
+Robert Kalloch%	It Happened One Night%	
 Adam Bohling%	Rang De Basanti%	
 Deven Khote%	Rang De Basanti%	
 A. R. Rahman%	Rang De Basanti%	
@@ -2154,19 +2155,6 @@ Samir Chanda%	Rang De Basanti%
 Samir Chanda%	Rang De Basanti%	
 Arjun Bhasin%	Rang De Basanti%	
 Mukesh Chhabra%	Rang De Basanti%	
-Frank Capra%	It Happened One Night%	
-Harry Cohn%	It Happened One Night%	
-Howard Jackson%	It Happened One Night%	
-Joseph Walker%	It Happened One Night%	
-Gene Havlick%	It Happened One Night%	
-Stephen Goosson%	It Happened One Night%	
-Robert Kalloch%	It Happened One Night%	
-Jesper Kyd%	The Passion of Joan of Arc%	
-Ole Schmidt%	The Passion of Joan of Arc%	
-Rudolph Maté%	The Passion of Joan of Arc%	
-Marguerite Beaugé%	The Passion of Joan of Arc%	
-Carl Theodor Dreyer%	The Passion of Joan of Arc%	
-Valentine Hugo%	The Passion of Joan of Arc%	
 John Daly%	Platoon%	
 Derek Gibson%	Platoon%	
 A. Kitman Ho%	Platoon%	
@@ -2197,15 +2185,12 @@ Kent Houston%	In the Name of the Father%
 Martin Body%	In the Name of the Father%	
 Beverley Keogh%	In the Name of the Father%	
 Frank Moiselle%	In the Name of the Father%	
-Fred C. Caruso%	Network%	
-Howard Gottfried%	Network%	
-Elliot Lawrence%	Network%	
-Owen Roizman%	Network%	
-Alan Heim%	Network%	
-Juliet Taylor%	Network%	
-Philip Rosenberg%	Network%	
-Edward Stewart%	Network%	
-Theoni V. Aldredge%	Network%	
+Jesper Kyd%	The Passion of Joan of Arc%	
+Ole Schmidt%	The Passion of Joan of Arc%	
+Rudolph Maté%	The Passion of Joan of Arc%	
+Marguerite Beaugé%	The Passion of Joan of Arc%	
+Carl Theodor Dreyer%	The Passion of Joan of Arc%	
+Valentine Hugo%	The Passion of Joan of Arc%	
 Raynold Gideon%	Stand by Me%	
 Andrew Scheinman%	Stand by Me%	
 Jack Nitzsche%	Stand by Me%	
@@ -2255,15 +2240,6 @@ Jan Burda%	The Grand Budapest Hotel%
 Nicolas Cadorette Vigneau%	The Grand Budapest Hotel%	
 Henry Russell Bergstein%	The Grand Budapest Hotel%	
 Deborah Maxwell Dion%	The Grand Budapest Hotel%	
-Aleksandra Demidova%	Stalker%	
-Eduard Artemev%	Stalker%	
-Aleksandr Knyazhinsky%	Stalker%	
-Georgi Rerberg%	Stalker%	
-Leonid Kalashnikov%	Stalker%	
-Lyudmila Feiginova%	Stalker%	
-Aleksandr Boym%	Stalker%	
-Andrei Tarkovsky%	Stalker%	
-Nelli Fomina%	Stalker%	
 Raymond Borderie%	The Wages of Fear%	
 Henri-Georges Clouzot%	The Wages of Fear%	
 Georges Auric%	The Wages of Fear%	
@@ -2286,6 +2262,15 @@ Jackie Carr%	Jurassic Park%
 Susanna Griffith%	Jurassic Park%	
 Barbara Harris%	Jurassic Park%	
 Michael Hirshenson%	Jurassic Park%	
+Aleksandra Demidova%	Stalker%	
+Eduard Artemev%	Stalker%	
+Aleksandr Knyazhinsky%	Stalker%	
+Georgi Rerberg%	Stalker%	
+Leonid Kalashnikov%	Stalker%	
+Lyudmila Feiginova%	Stalker%	
+Aleksandr Boym%	Stalker%	
+Andrei Tarkovsky%	Stalker%	
+Nelli Fomina%	Stalker%	
 Sam Zimbalist%	Ben-Hur%	
 Sol C. Siegel%	Ben-Hur%	
 Miklós Rózsa%	Ben-Hur%	
@@ -2303,12 +2288,6 @@ Umberto Dessena%	Ben-Hur%
 A. Arnold Gillespie%	Ben-Hur%	
 Robert R. Hoag%	Ben-Hur%	
 Lee LeBlanc%	Ben-Hur%	
-Ingmar Bergman%	Persona%	
-Lars Johan Werle%	Persona%	
-Sven Nykvist%	Persona%	
-Ulla Ryghe%	Persona%	
-Bibi Lindström%	Persona%	
-Mago%	Persona%	
 Tobin Armbrust%	Rush%	
 Tim Bevan%	Rush%	
 Hans Zimmer%	Rush%	
@@ -2324,6 +2303,12 @@ Michelle Day%	Rush%
 Julian Day%	Rush%	
 Iris Baumüller%	Rush%	
 Theo Park%	Rush%	
+Ingmar Bergman%	Persona%	
+Lars Johan Werle%	Persona%	
+Sven Nykvist%	Persona%	
+Ulla Ryghe%	Persona%	
+Bibi Lindström%	Persona%	
+Mago%	Persona%	
 Cha Seoung-jae%	Memories of Murder%	
 Choi Jae-won%	Memories of Murder%	
 Moo Ryung Kim%	Memories of Murder%	
@@ -2512,13 +2497,6 @@ Mary Zophres%	La La Land%
 Jeremy Hays%	La La Land%	
 Steve Shines%	La La Land%	
 Johnny Gidcomb%	La La Land%	
-Henry Blanke%	The Maltese Falcon%	
-Hal B. Wallis%	The Maltese Falcon%	
-Adolph Deutsch%	The Maltese Falcon%	
-Arthur Edeson%	The Maltese Falcon%	
-Thomas Richards%	The Maltese Falcon%	
-Robert M. Haas%	The Maltese Falcon%	
-Orry-Kelly%	The Maltese Falcon%	
 David Barron%	Harry Potter and the Deathly Hallows: Part 2%	
 Debbi Bossi%	Harry Potter and the Deathly Hallows: Part 2%	
 Roy Button%	Harry Potter and the Deathly Hallows: Part 2%	
@@ -2535,6 +2513,13 @@ Jany Temime%	Harry Potter and the Deathly Hallows: Part 2%
 Michael Ash%	Harry Potter and the Deathly Hallows: Part 2%	
 Norman Baillie%	Harry Potter and the Deathly Hallows: Part 2%	
 Brendan Donnison%	Harry Potter and the Deathly Hallows: Part 2%	
+Henry Blanke%	The Maltese Falcon%	
+Hal B. Wallis%	The Maltese Falcon%	
+Adolph Deutsch%	The Maltese Falcon%	
+Arthur Edeson%	The Maltese Falcon%	
+Thomas Richards%	The Maltese Falcon%	
+Robert M. Haas%	The Maltese Falcon%	
+Orry-Kelly%	The Maltese Falcon%	
 Shital Bhatia%	A Wednesday%	
 Rajesh Ganguly%	A Wednesday%	
 Sanjoy Chowdhury%	A Wednesday%	
@@ -2800,6 +2785,16 @@ Gary Chason%	Paris, Texas%
 Kate Altman%	Paris, Texas%	
 Birgitta Bjerke%	Paris, Texas%	
 Sheila Possner Emery%	Paris, Texas%	
+Ellen Chang%	Infernal Affairs%	
+Lorraine Ho%	Infernal Affairs%	
+Kwong Wing Chan%	Infernal Affairs%	
+Ronald Ng%	Infernal Affairs%	
+Yiu-Fai Lai%	Infernal Affairs%	
+Andrew Lau%	Infernal Affairs%	
+Curran Pang%	Infernal Affairs%	
+Danny Pang%	Infernal Affairs%	
+Choo Sung Pong%	Infernal Affairs%	
+Pik Kwan Lee%	Infernal Affairs%	
 Samuel Goldwyn%	The Best Years of Our Lives%	
 Lester Koenig%	The Best Years of Our Lives%	
 Hugo Friedhofer%	The Best Years of Our Lives%	
@@ -2811,16 +2806,6 @@ Julia Heron%	The Best Years of Our Lives%
 Irene Sharaff%	The Best Years of Our Lives%	
 John P. Fulton%	The Best Years of Our Lives%	
 Harry Redmond Sr.%	The Best Years of Our Lives%	
-Ellen Chang%	Infernal Affairs%	
-Lorraine Ho%	Infernal Affairs%	
-Kwong Wing Chan%	Infernal Affairs%	
-Ronald Ng%	Infernal Affairs%	
-Yiu-Fai Lai%	Infernal Affairs%	
-Andrew Lau%	Infernal Affairs%	
-Curran Pang%	Infernal Affairs%	
-Danny Pang%	Infernal Affairs%	
-Choo Sung Pong%	Infernal Affairs%	
-Pik Kwan Lee%	Infernal Affairs%	
 Robert Cavallo%	Twelve Monkeys%	
 Mark Egerton%	Twelve Monkeys%	
 Robert Kosberg%	Twelve Monkeys%	
@@ -2859,17 +2844,6 @@ Brian McEntee%	Beauty and the Beast%
 Bob Bennett%	Beauty and the Beast%	
 Matthew Messinger%	Beauty and the Beast%	
 Mickie McGowan%	Beauty and the Beast%	
-Antonio Musu%	The Battle of Algiers%	
-Yacef Saadi%	The Battle of Algiers%	
-Fred Baker%	The Battle of Algiers%	
-Ennio Morricone%	The Battle of Algiers%	
-Gillo Pontecorvo%	The Battle of Algiers%	
-Marcello Gatti%	The Battle of Algiers%	
-Mario Morra%	The Battle of Algiers%	
-Mario Serandrei%	The Battle of Algiers%	
-Sergio Canevari%	The Battle of Algiers%	
-Sergio Canevari%	The Battle of Algiers%	
-Aldo Gasparri%	The Battle of Algiers%	
 Martin Bregman%	Dog Day Afternoon%	
 Martin Elfand%	Dog Day Afternoon%	
 Robert Greenhut%	Dog Day Afternoon%	
@@ -2881,3 +2855,8 @@ Charles Bailey%	Dog Day Afternoon%
 Douglas Higgins%	Dog Day Afternoon%	
 Robert Drumheller%	Dog Day Afternoon%	
 Anna Hill Johnstone%	Dog Day Afternoon%	
+Zaza Urushadze%	Tangerines%	
+Rein Kotov%	Tangerines%	
+Alexander Kuranov%	Tangerines%	
+Tea Telia%	Tangerines%	
+Mamuka Revia%	Tangerines%	

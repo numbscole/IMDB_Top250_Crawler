@@ -872,30 +872,6 @@ Dick Botiller%	NULL%	12-OCT-96%
 Maurice Brierre%	Male%	10-DEC-85%	
 Anita Camargo%	NULL%	NULL%	
 George M. Carleton%	NULL%	NULL%	
-François Cluzet%	NULL%	21-DEC-55%	
-Omar Sy%	Male%	20-DEC-78%	
-Anne Le Ny%	Female%	16-DEC-62%	
-Audrey Fleurot%	Female%	06-DEC-77%	
-Joséphine de Meaux%	Female%	23-DEC-77%	
-Clotilde Mollet%	Female%	NULL%	
-Alba Gaïa Bellugi%	Female%	05-DEC-95%	
-Cyril Mendy%	NULL%	NULL%	
-Salimata Kamate%	Female%	NULL%	
-Absa Diatou Toure%	Female%	NULL%	
-Grégoire Oestermann%	Male%	NULL%	
-Dominique Daguier%	Male%	NULL%	
-François Caron%	Male%	NULL%	
-Christian Ameri%	NULL%	NULL%	
-Thomas Solivéres%	Male%	11-DEC-90%	
-Marie-Laure Descoureaux%	NULL%	NULL%	
-Emilie Caen%	Female%	NULL%	
-Jean-François Cayrey%	NULL%	NULL%	
-Renaud Barse%	Male%	NULL%	
-François Bureloup%	NULL%	NULL%	
-Nicky Marbot%	Male%	11-NOV-65%	
-Benjamin Baroche%	Male%	NULL%	
-Antoine Laurent%	Male%	NULL%	
-Caroline Bourg%	NULL%	17-DEC-80%	
 Charlie Chaplin%	Male%	16-DEC-89%	
 Paulette Goddard%	Female%	03-DEC-10%	
 Henry Bergman%	Male%	23-DEC-68%	
@@ -923,6 +899,30 @@ Frank Hagney%	NULL%	20-DEC-84%
 Pat Harmon%	Male%	03-DEC-86%	
 Lloyd Ingraham%	Male%	30-NOV-74%	
 Walter James%	Male%	03-DEC-82%	
+François Cluzet%	NULL%	21-DEC-55%	
+Omar Sy%	Male%	20-DEC-78%	
+Anne Le Ny%	Female%	16-DEC-62%	
+Audrey Fleurot%	Female%	06-DEC-77%	
+Joséphine de Meaux%	Female%	23-DEC-77%	
+Clotilde Mollet%	Female%	NULL%	
+Alba Gaïa Bellugi%	Female%	05-DEC-95%	
+Cyril Mendy%	NULL%	NULL%	
+Salimata Kamate%	Female%	NULL%	
+Absa Diatou Toure%	Female%	NULL%	
+Grégoire Oestermann%	Male%	NULL%	
+Dominique Daguier%	Male%	NULL%	
+François Caron%	Male%	NULL%	
+Christian Ameri%	NULL%	NULL%	
+Thomas Solivéres%	Male%	11-DEC-90%	
+Marie-Laure Descoureaux%	NULL%	NULL%	
+Emilie Caen%	Female%	NULL%	
+Jean-François Cayrey%	NULL%	NULL%	
+Renaud Barse%	Male%	NULL%	
+François Bureloup%	NULL%	NULL%	
+Nicky Marbot%	Male%	11-NOV-65%	
+Benjamin Baroche%	Male%	NULL%	
+Antoine Laurent%	Male%	NULL%	
+Caroline Bourg%	NULL%	17-DEC-80%	
 Leonardo DiCaprio%	Male%	11-NOV-74%	
 Matt Damon%	Male%	08-OCT-70%	
 Jack Nicholson%	Male%	22-DEC-37%	
@@ -1001,31 +1001,6 @@ Steve Hanson%	NULL%	NULL%
 Frank Marshall%	Male%	13-DEC-46%	
 Martin Kreidt%	NULL%	NULL%	
 George Harris%	Male%	20-OCT-49%	
-James Stewart%	Male%	20-DEC-08%	
-Grace Kelly%	Female%	12-NOV-29%	
-Wendell Corey%	Male%	20-DEC-14%	
-Thelma Ritter%	Female%	14-DEC-05%	
-Raymond Burr%	Male%	21-DEC-17%	
-Judith Evelyn%	Female%	20-DEC-09%	
-Ross Bagdasarian%	Male%	27-DEC-19%	
-Georgine Darcy%	Female%	14-DEC-31%	
-Sara Berner%	Female%	12-DEC-12%	
-Frank Cady%	Male%	08-DEC-15%	
-Jesslyn Fax%	Female%	02-DEC-93%	
-Rand Harper%	NULL%	NULL%	
-Irene Winston%	NULL%	NULL%	
-Havis Davenport%	NULL%	NULL%	
-Benny Bartlett%	Male%	16-DEC-24%	
-Sue Casey%	Female%	08-DEC-26%	
-Iphigenie Castiglioni%	Female%	23-DEC-01%	
-Don Dunning%	NULL%	NULL%	
-Marla English%	Female%	04-DEC-34%	
-Bess Flowers%	Female%	23-NOV-98%	
-Art Gilmore%	NULL%	NULL%	
-Fred Graham%	Male%	26-OCT-08%	
-Kathryn Grant%	Female%	25-NOV-33%	
-Charles Harvey%	NULL%	NULL%	
-Alfred Hitchcock%	Male%	13-DEC-99%	
 Michael J. Fox%	Male%	09-DEC-61%	
 Christopher Lloyd%	Male%	22-OCT-38%	
 Lea Thompson%	Female%	31-DEC-61%	
@@ -1056,6 +1031,31 @@ Richard L. Duran%	NULL%	NULL%
 Jeff O'Haco%	Male%	16-DEC-54%	
 Johnny Green%	Male%	25-DEC-72%	
 Jamie Abbott%	NULL%	NULL%	
+James Stewart%	Male%	20-DEC-08%	
+Grace Kelly%	Female%	12-NOV-29%	
+Wendell Corey%	Male%	20-DEC-14%	
+Thelma Ritter%	Female%	14-DEC-05%	
+Raymond Burr%	Male%	21-DEC-17%	
+Judith Evelyn%	Female%	20-DEC-09%	
+Ross Bagdasarian%	Male%	27-DEC-19%	
+Georgine Darcy%	Female%	14-DEC-31%	
+Sara Berner%	Female%	12-DEC-12%	
+Frank Cady%	Male%	08-DEC-15%	
+Jesslyn Fax%	Female%	02-DEC-93%	
+Rand Harper%	NULL%	NULL%	
+Irene Winston%	NULL%	NULL%	
+Havis Davenport%	NULL%	NULL%	
+Benny Bartlett%	Male%	16-DEC-24%	
+Sue Casey%	Female%	08-DEC-26%	
+Iphigenie Castiglioni%	Female%	23-DEC-01%	
+Don Dunning%	NULL%	NULL%	
+Marla English%	Female%	04-DEC-34%	
+Bess Flowers%	Female%	23-NOV-98%	
+Art Gilmore%	NULL%	NULL%	
+Fred Graham%	Male%	26-OCT-08%	
+Kathryn Grant%	Female%	25-NOV-33%	
+Charles Harvey%	NULL%	NULL%	
+Alfred Hitchcock%	Male%	13-DEC-99%	
 Miles Teller%	Male%	20-DEC-87%	
 J.K. Simmons%	Male%	09-DEC-55%	
 Paul Reiser%	Male%	30-DEC-57%	
@@ -2129,19 +2129,6 @@ Harry Cody%	NULL%	NULL%
 Chick Collins%	NULL%	NULL%	
 Pat Conway%	Male%	09-DEC-31%	
 Jeanne Coyne%	NULL%	NULL%	
-Aamir Khan%	Male%	14-DEC-65%	
-R. Madhavan%	Male%	01-DEC-70%	
-Sharman Joshi%	Male%	17-DEC-79%	
-Kareena Kapoor%	Female%	21-DEC-80%	
-Boman Irani%	Male%	02-DEC-59%	
-Omi Vaidya%	NULL%	NULL%	
-Mona Singh%	NULL%	NULL%	
-Javed Jaffrey%	Male%	NULL%	
-Parikshat Sahni%	Male%	NULL%	
-Amardeep Jha%	NULL%	NULL%	
-Jayant Kripalani%	NULL%	NULL%	
-Arun Bali%	NULL%	NULL%	
-Chandrashekhar%	NULL%	NULL%	
 Keir Dullea%	Male%	30-DEC-36%	
 Gary Lockwood%	Male%	21-DEC-37%	
 William Sylvester%	Male%	31-DEC-22%	
@@ -2201,6 +2188,19 @@ Sherry Lynn%	Female%	20-DEC-40%
 Scott McAfee%	Male%	NULL%	
 Mickie McGowan%	NULL%	NULL%	
 Ryan O'Donohue%	Male%	26-DEC-84%	
+Aamir Khan%	Male%	14-DEC-65%	
+R. Madhavan%	Male%	01-DEC-70%	
+Sharman Joshi%	Male%	17-DEC-79%	
+Kareena Kapoor%	Female%	21-DEC-80%	
+Boman Irani%	Male%	02-DEC-59%	
+Omi Vaidya%	NULL%	NULL%	
+Mona Singh%	NULL%	NULL%	
+Javed Jaffrey%	Male%	NULL%	
+Parikshat Sahni%	Male%	NULL%	
+Amardeep Jha%	NULL%	NULL%	
+Jayant Kripalani%	NULL%	NULL%	
+Arun Bali%	NULL%	NULL%	
+Chandrashekhar%	NULL%	NULL%	
 Gregory Peck%	Male%	05-DEC-16%	
 John Megna%	Male%	09-NOV-52%	
 Frank Overton%	Male%	12-DEC-18%	
@@ -2332,29 +2332,6 @@ Jack Collins%	Male%	NULL%
 Tom Spratley%	NULL%	NULL%	
 Ken Sansom%	Male%	02-DEC-27%	
 Ta-Tanisha%	NULL%	NULL%	
-Carl Miller%	Male%	09-DEC-93%	
-Edna Purviance%	Female%	21-OCT-95%	
-Jackie Coogan%	NULL%	26-OCT-14%	
-Charlie Chaplin%	Male%	16-DEC-89%	
-Albert Austin%	Male%	13-DEC-82%	
-Beulah Bains%	NULL%	NULL%	
-Nellie Bly Baker%	NULL%	07-DEC-93%	
-Henry Bergman%	Male%	23-DEC-68%	
-Edward Biby%	NULL%	NULL%	
-Kitty Bradbury%	Female%	17-DEC-75%	
-Frank Campeau%	NULL%	14-DEC-64%	
-Bliss Chevalier%	NULL%	15-NOV-65%	
-Frances Cochran%	NULL%	NULL%	
-Elsie Codd%	NULL%	NULL%	
-Jack Coogan Sr.%	NULL%	21-DEC-87%	
-Estelle Cook%	NULL%	NULL%	
-Lillian Crane%	NULL%	NULL%	
-Philip D'Oench%	NULL%	NULL%	
-Dan Dillon%	NULL%	NULL%	
-Robert Dunbar%	NULL%	01-DEC-58%	
-Sadie Gordon%	Female%	NULL%	
-Lita Grey%	NULL%	15-DEC-08%	
-Jules Hanft%	NULL%	NULL%	
 Tom Hanks%	Male%	09-DEC-56%	
 Tim Allen%	Male%	13-DEC-53%	
 Joan Cusack%	Female%	11-OCT-62%	
@@ -2952,10 +2929,6 @@ Reed De Rouen%	NULL%	NULL%
 Jack Faint%	NULL%	NULL%	
 Thomas Gallagher%	Male%	NULL%	
 Michael Godfrey%	Male%	20-DEC-18%	
-Mohammad Amir Naji%	NULL%	26-DEC-42%	
-Amir Farrokh Hashemian%	NULL%	NULL%	
-Bahare Seddiqi%	NULL%	NULL%	
-Behzad Rafi%	NULL%	NULL%	
 Frances McDormand%	Female%	23-DEC-57%	
 Caleb Landry Jones%	Male%	07-DEC-89%	
 Kerry Condon%	Female%	04-DEC-83%	
@@ -3533,26 +3506,6 @@ Gunnar Olsson%	Male%	10-DEC-04%
 Vendela Rudbäck%	NULL%	NULL%	
 Per Skogsberg%	NULL%	NULL%	
 Peder Hellman%	NULL%	NULL%	
-Buster Keaton%	Male%	04-OCT-95%	
-Marion Mack%	Female%	08-DEC-02%	
-Glen Cavender%	Male%	19-DEC-83%	
-Jim Farley%	Male%	08-DEC-82%	
-Charles Henry Smith%	NULL%	03-OCT-65%	
-Frank Barnes%	Male%	NULL%	
-Joe Keaton%	Male%	06-DEC-67%	
-Mike Donlin%	Male%	30-DEC-78%	
-Tom Nawn%	NULL%	NULL%	
-Jimmy Bryant%	NULL%	NULL%	
-Budd Fine%	Male%	09-DEC-94%	
-Eddie Foster%	Male%	04-DEC-06%	
-Frank Hagney%	NULL%	20-DEC-84%	
-Ray Hanford%	NULL%	NULL%	
-Jack Hanlon%	NULL%	NULL%	
-Edward Hearn%	Male%	06-DEC-88%	
-Boris Karloff%	Male%	23-NOV-87%	
-Hilliard Karr%	NULL%	NULL%	
-Elgin Lessley%	Male%	10-DEC-83%	
-Louis Lewyn%	NULL%	NULL%	
 Joel Edgerton%	Male%	23-DEC-74%	
 Tom Hardy%	Male%	15-DEC-77%	
 Nick Nolte%	Male%	08-DEC-41%	
@@ -3575,6 +3528,26 @@ Erik Apple%	NULL%	NULL%
 Anthony Johnson%	NULL%	NULL%	
 Nate Marquardt%	Male%	20-DEC-79%	
 Daniel Stevens%	NULL%	NULL%	
+Buster Keaton%	Male%	04-OCT-95%	
+Marion Mack%	Female%	08-DEC-02%	
+Glen Cavender%	Male%	19-DEC-83%	
+Jim Farley%	Male%	08-DEC-82%	
+Charles Henry Smith%	NULL%	03-OCT-65%	
+Frank Barnes%	Male%	NULL%	
+Joe Keaton%	Male%	06-DEC-67%	
+Mike Donlin%	Male%	30-DEC-78%	
+Tom Nawn%	NULL%	NULL%	
+Jimmy Bryant%	NULL%	NULL%	
+Budd Fine%	Male%	09-DEC-94%	
+Eddie Foster%	Male%	04-DEC-06%	
+Frank Hagney%	NULL%	20-DEC-84%	
+Ray Hanford%	NULL%	NULL%	
+Jack Hanlon%	NULL%	NULL%	
+Edward Hearn%	Male%	06-DEC-88%	
+Boris Karloff%	Male%	23-NOV-87%	
+Hilliard Karr%	NULL%	NULL%	
+Elgin Lessley%	Male%	10-DEC-83%	
+Louis Lewyn%	NULL%	NULL%	
 Buster Keaton%	Male%	04-OCT-95%	
 Kathryn McGuire%	Female%	06-DEC-03%	
 Joe Keaton%	Male%	06-DEC-67%	
@@ -3668,27 +3641,6 @@ Isabel Jewell%	Female%	19-DEC-07%
 Cammie King%	Female%	05-DEC-34%	
 Eric Linden%	Male%	15-DEC-09%	
 J. M. Kerrigan%	NULL%	16-DEC-84%	
-Clint Eastwood%	Male%	31-DEC-30%	
-Christopher Carley%	Male%	31-DEC-78%	
-Bee Vang%	Male%	04-NOV-91%	
-Ahney Her%	Female%	NULL%	
-Brian Haley%	Male%	12-DEC-63%	
-Geraldine Hughes%	Female%	NULL%	
-Dreama Walker%	Female%	20-DEC-86%	
-Brian Howe%	Male%	NULL%	
-John Carroll Lynch%	Male%	01-DEC-63%	
-William Hill%	NULL%	NULL%	
-Brooke Chia Thao%	NULL%	NULL%	
-Chee Thao%	NULL%	NULL%	
-Choua Kue%	NULL%	NULL%	
-Scott Eastwood%	Male%	21-DEC-86%	
-Xia Soua Chang%	NULL%	NULL%	
-Doua Moua%	NULL%	07-DEC-87%	
-Thomas D. Mahard%	NULL%	NULL%	
-Cory Hardrict%	Male%	09-NOV-79%	
-Nana Gbewonyo%	NULL%	NULL%	
-Austin Douglas Smith%	NULL%	NULL%	
-Julia Ho%	NULL%	NULL%	
 Tommy Lee Jones%	Male%	15-DEC-46%	
 Javier Bardem%	Male%	01-DEC-69%	
 Josh Brolin%	Male%	12-DEC-68%	
@@ -3715,6 +3667,27 @@ Doris Hargrave%	Female%	NULL%
 Rutherford Cravens%	NULL%	NULL%	
 Matthew Posey%	Male%	NULL%	
 Mathew Greer%	NULL%	NULL%	
+Clint Eastwood%	Male%	31-DEC-30%	
+Christopher Carley%	Male%	31-DEC-78%	
+Bee Vang%	Male%	04-NOV-91%	
+Ahney Her%	Female%	NULL%	
+Brian Haley%	Male%	12-DEC-63%	
+Geraldine Hughes%	Female%	NULL%	
+Dreama Walker%	Female%	20-DEC-86%	
+Brian Howe%	Male%	NULL%	
+John Carroll Lynch%	Male%	01-DEC-63%	
+William Hill%	NULL%	NULL%	
+Brooke Chia Thao%	NULL%	NULL%	
+Chee Thao%	NULL%	NULL%	
+Choua Kue%	NULL%	NULL%	
+Scott Eastwood%	Male%	21-DEC-86%	
+Xia Soua Chang%	NULL%	NULL%	
+Doua Moua%	NULL%	07-DEC-87%	
+Thomas D. Mahard%	NULL%	NULL%	
+Cory Hardrict%	Male%	09-NOV-79%	
+Nana Gbewonyo%	NULL%	NULL%	
+Austin Douglas Smith%	NULL%	NULL%	
+Julia Ho%	NULL%	NULL%	
 Bruce Willis%	Male%	19-DEC-55%	
 Haley Joel Osment%	Male%	10-DEC-88%	
 Toni Collette%	Female%	01-NOV-72%	
@@ -3764,6 +3737,19 @@ Bruce Bohne%	NULL%	NULL%
 Steve Park%	Male%	NULL%	
 Peter Schmitz%	NULL%	NULL%	
 Michelle Hutchison%	NULL%	NULL%	
+Daniel Day-Lewis%	Male%	29-DEC-57%	
+Barry Del Sherman%	Male%	10-NOV-62%	
+Paul F. Tompkins%	NULL%	12-DEC-68%	
+Dillon Freasier%	Male%	NULL%	
+Kevin Breznahan%	Male%	24-NOV-68%	
+Jim Meskimen%	Male%	10-DEC-59%	
+Erica Sullivan%	Female%	NULL%	
+Randall Carver%	Male%	25-DEC-46%	
+Paul Dano%	Male%	19-DEC-84%	
+Ciarán Hinds%	Male%	09-DEC-53%	
+Sydney McCallister%	Female%	NULL%	
+David Willis%	Male%	NULL%	
+Jim Downey%	NULL%	NULL%	
 Robert De Niro%	Male%	17-DEC-43%	
 John Cazale%	Male%	12-DEC-35%	
 John Savage%	Male%	25-DEC-49%	
@@ -3794,19 +3780,6 @@ Joe Dzizmba%	NULL%	NULL%
 Stephen Kopestonsky%	NULL%	NULL%	
 John F. Buchmelter III%	NULL%	NULL%	
 Frank Devore%	NULL%	NULL%	
-Daniel Day-Lewis%	Male%	29-DEC-57%	
-Barry Del Sherman%	Male%	10-NOV-62%	
-Paul F. Tompkins%	NULL%	12-DEC-68%	
-Dillon Freasier%	Male%	NULL%	
-Kevin Breznahan%	Male%	24-NOV-68%	
-Jim Meskimen%	Male%	10-DEC-59%	
-Erica Sullivan%	Female%	NULL%	
-Randall Carver%	Male%	25-DEC-46%	
-Paul Dano%	Male%	19-DEC-84%	
-Ciarán Hinds%	Male%	09-DEC-53%	
-Sydney McCallister%	Female%	NULL%	
-David Willis%	Male%	NULL%	
-Jim Downey%	NULL%	NULL%	
 Kurt Russell%	Male%	17-DEC-51%	
 Wilford Brimley%	Male%	27-DEC-34%	
 T. K. Carter%	Male%	18-DEC-56%	
@@ -3893,31 +3866,6 @@ Pyotr Merkuryev%	Male%	17-DEC-43%
 Anatoly Slivnikov%	Male%	14-DEC-50%	
 Georgi Strokov%	NULL%	NULL%	
 Adolf Hitler%	Male%	20-DEC-89%	
-George O'Brien%	Male%	19-DEC-99%	
-Janet Gaynor%	Female%	06-OCT-06%	
-Margaret Livingston%	Female%	25-NOV-00%	
-Bodil Rosing%	NULL%	27-DEC-77%	
-J. Farrell MacDonald%	Male%	06-DEC-75%	
-Ralph Sipperly%	NULL%	NULL%	
-Jane Winton%	Female%	10-OCT-05%	
-Arthur Housman%	Male%	10-OCT-89%	
-Eddie Boland%	Male%	27-DEC-85%	
-Vondell Darr%	NULL%	NULL%	
-Herman Bing%	Male%	30-DEC-89%	
-Sidney Bracey%	NULL%	18-DEC-77%	
-Gino Corrado%	NULL%	09-DEC-93%	
-Sally Eilers%	Female%	11-DEC-08%	
-Gibson Gowland%	Male%	04-DEC-77%	
-Thomas Jefferson%	Male%	NULL%	
-Bob Kortman%	NULL%	24-DEC-87%	
-F.W. Murnau%	Male%	28-DEC-88%	
-Barry Norton%	Male%	16-DEC-05%	
-Robert Parrish%	Male%	04-DEC-16%	
-Sally Phipps%	NULL%	25-DEC-11%	
-Harry Semels%	NULL%	20-NOV-87%	
-Phillips Smalley%	Male%	07-DEC-75%	
-Leo White%	Male%	10-NOV-73%	
-Clarence Wilson%	Male%	17-NOV-76%	
 Paul Newman%	Male%	26-DEC-25%	
 George Kennedy%	Male%	18-DEC-25%	
 J. D. Cannon%	Male%	24-DEC-22%	
@@ -3946,6 +3894,31 @@ James Gammon%	Male%	20-DEC-40%
 Chuck Hicks%	Male%	NULL%	
 Rance Howard%	Male%	17-NOV-28%	
 James Jeter%	Male%	15-DEC-21%	
+George O'Brien%	Male%	19-DEC-99%	
+Janet Gaynor%	Female%	06-OCT-06%	
+Margaret Livingston%	Female%	25-NOV-00%	
+Bodil Rosing%	NULL%	27-DEC-77%	
+J. Farrell MacDonald%	Male%	06-DEC-75%	
+Ralph Sipperly%	NULL%	NULL%	
+Jane Winton%	Female%	10-OCT-05%	
+Arthur Housman%	Male%	10-OCT-89%	
+Eddie Boland%	Male%	27-DEC-85%	
+Vondell Darr%	NULL%	NULL%	
+Herman Bing%	Male%	30-DEC-89%	
+Sidney Bracey%	NULL%	18-DEC-77%	
+Gino Corrado%	NULL%	09-DEC-93%	
+Sally Eilers%	Female%	11-DEC-08%	
+Gibson Gowland%	Male%	04-DEC-77%	
+Thomas Jefferson%	Male%	NULL%	
+Bob Kortman%	NULL%	24-DEC-87%	
+F.W. Murnau%	Male%	28-DEC-88%	
+Barry Norton%	Male%	16-DEC-05%	
+Robert Parrish%	Male%	04-DEC-16%	
+Sally Phipps%	NULL%	25-DEC-11%	
+Harry Semels%	NULL%	20-NOV-87%	
+Phillips Smalley%	Male%	07-DEC-75%	
+Leo White%	Male%	10-NOV-73%	
+Clarence Wilson%	Male%	17-NOV-76%	
 Uma Thurman%	Female%	29-DEC-70%	
 Lucy Liu%	Female%	02-DEC-68%	
 Vivica A. Fox%	Female%	30-DEC-64%	
@@ -4188,25 +4161,6 @@ Lennie James%	Male%	11-OCT-65%
 Carla Juri%	Female%	NULL%	
 Barkhad Abdi%	NULL%	10-DEC-85%	
 Harrison Ford%	Male%	13-DEC-42%	
-Aamir Khan%	Male%	14-DEC-65%	
-Siddharth%	Male%	17-DEC-79%	
-Sharman Joshi%	Male%	17-DEC-79%	
-Kunal Kapoor%	Male%	18-OCT-77%	
-Atul Kulkarni%	Male%	10-DEC-65%	
-Alice Patten%	NULL%	NULL%	
-Soha Ali Khan%	Female%	04-OCT-78%	
-Steven Mackintosh%	Male%	30-DEC-67%	
-R. Madhavan%	Male%	01-DEC-70%	
-Waheeda Rehman%	Female%	03-DEC-38%	
-Anupam Kher%	Male%	07-DEC-55%	
-Kirron Kher%	Female%	14-DEC-55%	
-Om Puri%	Male%	18-OCT-50%	
-Lekh Tandon%	Male%	13-DEC-29%	
-Cyrus Sahukar%	NULL%	06-DEC-80%	
-Mohan Agashe%	Male%	23-DEC-47%	
-Mukesh Chhabra%	Male%	27-DEC-80%	
-Chandan Roy Sanyal%	Male%	30-DEC-78%	
-Manmeet Singh%	Male%	29-DEC-69%	
 Clark Gable%	Male%	01-DEC-01%	
 Claudette Colbert%	Female%	13-DEC-03%	
 Walter Connolly%	Male%	08-DEC-87%	
@@ -4235,23 +4189,25 @@ Mickey Daniels%	NULL%	11-OCT-14%
 Eva Dennison%	NULL%	NULL%	
 Neal Dodd%	NULL%	NULL%	
 Oliver Eckhardt%	NULL%	NULL%	
-Maria Falconetti%	Female%	21-DEC-92%	
-Eugene Silvain%	Male%	NULL%	
-André Berley%	NULL%	NULL%	
-Maurice Schutz%	Male%	04-DEC-66%	
-Antonin Artaud%	Male%	04-DEC-96%	
-Michel Simon%	Male%	09-DEC-95%	
-Jean d'Yd%	NULL%	17-DEC-80%	
-Louis Ravet%	Male%	NULL%	
-Armand Lurville%	NULL%	NULL%	
-Jacques Arnna%	NULL%	NULL%	
-Alexandre Mihalesco%	Male%	19-OCT-83%	
-Léon Larive%	NULL%	NULL%	
-Jean Aymé%	NULL%	NULL%	
-Gilbert Dalleu%	NULL%	NULL%	
-Fournez-Goffard%	NULL%	NULL%	
-Paul Jorge%	NULL%	NULL%	
-Marie Lacroix%	NULL%	NULL%	
+Aamir Khan%	Male%	14-DEC-65%	
+Siddharth%	Male%	17-DEC-79%	
+Sharman Joshi%	Male%	17-DEC-79%	
+Kunal Kapoor%	Male%	18-OCT-77%	
+Atul Kulkarni%	Male%	10-DEC-65%	
+Alice Patten%	NULL%	NULL%	
+Soha Ali Khan%	Female%	04-OCT-78%	
+Steven Mackintosh%	Male%	30-DEC-67%	
+R. Madhavan%	Male%	01-DEC-70%	
+Waheeda Rehman%	Female%	03-DEC-38%	
+Anupam Kher%	Male%	07-DEC-55%	
+Kirron Kher%	Female%	14-DEC-55%	
+Om Puri%	Male%	18-OCT-50%	
+Lekh Tandon%	Male%	13-DEC-29%	
+Cyrus Sahukar%	NULL%	06-DEC-80%	
+Mohan Agashe%	Male%	23-DEC-47%	
+Mukesh Chhabra%	Male%	27-DEC-80%	
+Chandan Roy Sanyal%	Male%	30-DEC-78%	
+Manmeet Singh%	Male%	29-DEC-69%	
 Tom Berenger%	Male%	31-DEC-49%	
 Keith David%	Male%	04-DEC-56%	
 Willem Dafoe%	Male%	22-DEC-55%	
@@ -4295,29 +4251,23 @@ John Lynch%	Male%	26-DEC-61%
 Beatie Edney%	Female%	23-OCT-62%	
 Saffron Burrows%	NULL%	22-OCT-72%	
 Mark Sheppard%	Male%	30-DEC-64%	
-Faye Dunaway%	Female%	14-DEC-41%	
-William Holden%	Male%	17-DEC-18%	
-Peter Finch%	Male%	28-DEC-16%	
-Robert Duvall%	Male%	05-DEC-31%	
-Wesley Addy%	Male%	04-DEC-13%	
-Ned Beatty%	Male%	06-DEC-37%	
-Arthur Burghardt%	Male%	NULL%	
-Jordan Charney%	Male%	01-DEC-37%	
-Kathy Cronkite%	Female%	NULL%	
-Ed Crowley%	NULL%	NULL%	
-Jerome Dempsey%	Male%	01-DEC-29%	
-Conchata Ferrell%	Female%	28-DEC-43%	
-Stanley Grover%	NULL%	NULL%	
-Cindy Grover%	Female%	NULL%	
-Darryl Hickman%	NULL%	28-DEC-31%	
-Mitchell Jason%	NULL%	NULL%	
-Paul Jenkins%	Male%	NULL%	
-Ken Kercheval%	Male%	15-DEC-35%	
-Kenneth Kimmins%	Male%	04-DEC-41%	
-Michael Lipton%	NULL%	NULL%	
-Michael Lombard%	Male%	08-DEC-34%	
-Pirie MacDonald%	Male%	24-DEC-32%	
-Russ Petranto%	NULL%	NULL%	
+Maria Falconetti%	Female%	21-DEC-92%	
+Eugene Silvain%	Male%	NULL%	
+André Berley%	NULL%	NULL%	
+Maurice Schutz%	Male%	04-DEC-66%	
+Antonin Artaud%	Male%	04-DEC-96%	
+Michel Simon%	Male%	09-DEC-95%	
+Jean d'Yd%	NULL%	17-DEC-80%	
+Louis Ravet%	Male%	NULL%	
+Armand Lurville%	NULL%	NULL%	
+Jacques Arnna%	NULL%	NULL%	
+Alexandre Mihalesco%	Male%	19-OCT-83%	
+Léon Larive%	NULL%	NULL%	
+Jean Aymé%	NULL%	NULL%	
+Gilbert Dalleu%	NULL%	NULL%	
+Fournez-Goffard%	NULL%	NULL%	
+Paul Jorge%	NULL%	NULL%	
+Marie Lacroix%	NULL%	NULL%	
 Wil Wheaton%	Male%	29-DEC-72%	
 River Phoenix%	Male%	23-DEC-70%	
 Corey Feldman%	Male%	16-DEC-71%	
@@ -4395,14 +4345,6 @@ Waris Ahluwalia%	Male%	NULL%
 Jella Niemann%	NULL%	NULL%	
 Marcel Mazur%	NULL%	NULL%	
 Robert Bienas%	NULL%	NULL%	
-Alisa Freyndlikh%	Female%	08-DEC-34%	
-Aleksandr Kaydanovskiy%	Male%	23-DEC-46%	
-Anatoliy Solonitsyn%	Male%	30-DEC-34%	
-Nikolay Grinko%	Male%	22-DEC-20%	
-Natasha Abramova%	Female%	NULL%	
-Faime Jurno%	Female%	28-DEC-51%	
-Sergei Yakovlev%	NULL%	NULL%	
-Vladimir Zamanskiy%	Male%	06-DEC-26%	
 Yves Montand%	Male%	13-OCT-21%	
 Charles Vanel%	Male%	21-DEC-92%	
 Folco Lulli%	Male%	03-DEC-12%	
@@ -4446,6 +4388,14 @@ Gary Rodriguez%	Male%	NULL%
 Lata Ryan%	Female%	NULL%	
 Brian Smrz%	Male%	NULL%	
 Robert 'Bobby Z' Zajonc%	Male%	07-DEC-47%	
+Alisa Freyndlikh%	Female%	08-DEC-34%	
+Aleksandr Kaydanovskiy%	Male%	23-DEC-46%	
+Anatoliy Solonitsyn%	Male%	30-DEC-34%	
+Nikolay Grinko%	Male%	22-DEC-20%	
+Natasha Abramova%	Female%	NULL%	
+Faime Jurno%	Female%	28-DEC-51%	
+Sergei Yakovlev%	NULL%	NULL%	
+Vladimir Zamanskiy%	Male%	06-DEC-26%	
 Charlton Heston%	Male%	04-OCT-23%	
 Jack Hawkins%	Male%	14-DEC-10%	
 Haya Harareet%	Female%	20-DEC-31%	
@@ -4469,11 +4419,6 @@ Lando Buzzanca%	Male%	24-DEC-35%
 Joe Canutt%	Male%	NULL%	
 Richard Coleman%	Male%	NULL%	
 Antonio Corevi%	Male%	NULL%	
-Bibi Andersson%	Female%	11-NOV-35%	
-Liv Ullmann%	Female%	16-DEC-38%	
-Margaretha Krook%	Female%	15-OCT-25%	
-Gunnar Björnstrand%	Male%	13-NOV-09%	
-Jörgen Lindström%	Male%	19-DEC-51%	
 Chris Hemsworth%	Male%	11-DEC-83%	
 Daniel Brühl%	Male%	16-DEC-78%	
 Olivia Wilde%	Female%	10-DEC-84%	
@@ -4501,6 +4446,11 @@ Geoffrey Streatfeild%	Male%	NULL%
 Julien Vialon%	NULL%	NULL%	
 Douglas Reith%	NULL%	NULL%	
 Brooke Johnston%	NULL%	NULL%	
+Bibi Andersson%	Female%	11-NOV-35%	
+Liv Ullmann%	Female%	16-DEC-38%	
+Margaretha Krook%	Female%	15-OCT-25%	
+Gunnar Björnstrand%	Male%	13-NOV-09%	
+Jörgen Lindström%	Male%	19-DEC-51%	
 Song Kang-ho%	Male%	17-DEC-67%	
 Kim Sang-kyung%	Male%	01-DEC-72%	
 Kim Roe-ha%	Male%	16-NOV-65%	
@@ -4871,28 +4821,6 @@ Margaret Travolta%	Female%	NULL%
 Jimmie F. Skaggs%	NULL%	20-DEC-44%	
 Alex Hyde-White%	NULL%	30-DEC-59%	
 Lilyan Chauvin%	Female%	06-DEC-25%	
-Humphrey Bogart%	Male%	25-DEC-99%	
-Mary Astor%	Female%	03-DEC-06%	
-Gladys George%	Female%	13-DEC-00%	
-Peter Lorre%	Male%	26-DEC-04%	
-Barton MacLane%	Male%	25-DEC-02%	
-Lee Patrick%	Female%	22-NOV-01%	
-Sydney Greenstreet%	Male%	27-DEC-79%	
-Ward Bond%	Male%	09-DEC-03%	
-Jerome Cowan%	Male%	06-OCT-97%	
-Elisha Cook Jr.%	Male%	26-DEC-03%	
-James Burke%	Male%	24-DEC-86%	
-Murray Alper%	Male%	11-DEC-04%	
-John Hamilton%	Male%	16-DEC-87%	
-Charles Drake%	Male%	02-OCT-17%	
-Chester Gan%	Male%	04-DEC-08%	
-Creighton Hale%	Male%	24-DEC-82%	
-Robert Homans%	NULL%	08-NOV-77%	
-William Hopper%	Male%	26-DEC-15%	
-Walter Huston%	Male%	05-DEC-83%	
-Hank Mann%	Male%	28-DEC-87%	
-Jack Mower%	Male%	05-DEC-90%	
-Emory Parnell%	Male%	29-DEC-92%	
 Ralph Fiennes%	Male%	22-DEC-62%	
 Michael Gambon%	Male%	19-OCT-40%	
 Alan Rickman%	Male%	21-DEC-46%	
@@ -4923,6 +4851,28 @@ Jessie Cave%	Female%	05-DEC-87%
 Afshan Azad%	Female%	12-DEC-88%	
 Isabella Laughland%	NULL%	NULL%	
 Anna Shaffer%	Female%	15-DEC-92%	
+Humphrey Bogart%	Male%	25-DEC-99%	
+Mary Astor%	Female%	03-DEC-06%	
+Gladys George%	Female%	13-DEC-00%	
+Peter Lorre%	Male%	26-DEC-04%	
+Barton MacLane%	Male%	25-DEC-02%	
+Lee Patrick%	Female%	22-NOV-01%	
+Sydney Greenstreet%	Male%	27-DEC-79%	
+Ward Bond%	Male%	09-DEC-03%	
+Jerome Cowan%	Male%	06-OCT-97%	
+Elisha Cook Jr.%	Male%	26-DEC-03%	
+James Burke%	Male%	24-DEC-86%	
+Murray Alper%	Male%	11-DEC-04%	
+John Hamilton%	Male%	16-DEC-87%	
+Charles Drake%	Male%	02-OCT-17%	
+Chester Gan%	Male%	04-DEC-08%	
+Creighton Hale%	Male%	24-DEC-82%	
+Robert Homans%	NULL%	08-NOV-77%	
+William Hopper%	Male%	26-DEC-15%	
+Walter Huston%	Male%	05-DEC-83%	
+Hank Mann%	Male%	28-DEC-87%	
+Jack Mower%	Male%	05-DEC-90%	
+Emory Parnell%	Male%	29-DEC-92%	
 Anupam Kher%	Male%	07-DEC-55%	
 Naseeruddin Shah%	Male%	20-DEC-49%	
 Jimmy Shergill%	Male%	03-DEC-70%	
@@ -5460,6 +5410,23 @@ Tom Farrell%	Male%	03-DEC-50%
 John Lurie%	Male%	14-DEC-52%	
 Jeni Vici%	NULL%	NULL%	
 Sally Norvell%	NULL%	NULL%	
+Andy Lau%	Male%	27-DEC-61%	
+Tony Leung Chiu-Wai%	Male%	27-DEC-62%	
+Anthony Wong%	Male%	02-DEC-61%	
+Eric Tsang%	Male%	14-DEC-53%	
+Kelly Chen%	Female%	13-DEC-73%	
+Sammi Cheng%	Female%	19-DEC-72%	
+Edison Chen%	NULL%	NULL%	
+Shawn Yue%	Male%	13-NOV-81%	
+Elva Hsiao%	NULL%	24-DEC-79%	
+Chapman To%	Male%	08-DEC-72%	
+Gordon Lam Ka-Tung%	Male%	21-DEC-67%	
+Berg Ng Ting-Yip%	NULL%	NULL%	
+Dion Lam%	NULL%	NULL%	
+Tony Ho%	NULL%	NULL%	
+Courtney Wu%	NULL%	01-DEC-64%	
+Man-Kei Yiu%	NULL%	NULL%	
+Wong Chi-Wang%	NULL%	NULL%	
 Myrna Loy%	Female%	02-DEC-05%	
 Fredric March%	Male%	30-DEC-97%	
 Dana Andrews%	Male%	01-DEC-09%	
@@ -5488,23 +5455,6 @@ Carol Andrews%	NULL%	NULL%
 Harry Cheshire%	NULL%	16-DEC-91%	
 Sidney Clute%	Male%	21-DEC-16%	
 Joyce Compton%	Female%	27-DEC-07%	
-Andy Lau%	Male%	27-DEC-61%	
-Tony Leung Chiu-Wai%	Male%	27-DEC-62%	
-Anthony Wong%	Male%	02-DEC-61%	
-Eric Tsang%	Male%	14-DEC-53%	
-Kelly Chen%	Female%	13-DEC-73%	
-Sammi Cheng%	Female%	19-DEC-72%	
-Edison Chen%	NULL%	NULL%	
-Shawn Yue%	Male%	13-NOV-81%	
-Elva Hsiao%	NULL%	24-DEC-79%	
-Chapman To%	Male%	08-DEC-72%	
-Gordon Lam Ka-Tung%	Male%	21-DEC-67%	
-Berg Ng Ting-Yip%	NULL%	NULL%	
-Dion Lam%	NULL%	NULL%	
-Tony Ho%	NULL%	NULL%	
-Courtney Wu%	NULL%	01-DEC-64%	
-Man-Kei Yiu%	NULL%	NULL%	
-Wong Chi-Wang%	NULL%	NULL%	
 Joseph Melito%	Male%	NULL%	
 Bruce Willis%	Male%	19-DEC-55%	
 Jon Seda%	Male%	14-OCT-70%	
@@ -5583,14 +5533,6 @@ Margery Daley%	NULL%	NULL%
 Jennifer Darling%	Female%	19-DEC-46%	
 Albert de Ruiter%	NULL%	NULL%	
 George Dvorsky%	NULL%	NULL%	
-Jean Martin%	Male%	06-DEC-22%	
-Yacef Saadi%	NULL%	20-DEC-28%	
-Brahim Hadjadj%	Male%	01-DEC-34%	
-Ugo Paletti%	NULL%	NULL%	
-Fusia El Kader%	NULL%	NULL%	
-Mohamed Ben Kassen%	NULL%	NULL%	
-Rouïched%	NULL%	NULL%	
-Gene Wesson%	NULL%	NULL%	
 Penelope Allen%	Female%	NULL%	
 Sully Boyar%	Male%	14-DEC-23%	
 John Cazale%	Male%	12-DEC-35%	
@@ -5620,3 +5562,11 @@ Philip Charles MacKenzie%	NULL%	NULL%
 Chu Chu Malave%	Male%	04-DEC-50%	
 Lionel Pina%	NULL%	10-DEC-56%	
 Alan Berger%	NULL%	NULL%	
+Lembit Ulfsak%	Male%	04-DEC-47%	
+Giorgi Nakashidze%	NULL%	NULL%	
+Elmo Nüganen%	NULL%	NULL%	
+Misha Meskhi%	Male%	11-DEC-82%	
+Raivo Trass%	NULL%	NULL%	
+Zura Begalishvili%	NULL%	NULL%	
+Gia Gogishvili%	NULL%	NULL%	
+Giorgi Tsaava%	NULL%	NULL%	

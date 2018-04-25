@@ -71,9 +71,9 @@ Harry Crocker%	02-DEC-93%
 Julius J. Epstein%	22-DEC-09%	
 Philip G. Epstein%	22-DEC-09%	
 Howard Koch%	12-DEC-01%	
+Charlie Chaplin%	16-DEC-89%	
 Olivier Nakache%	NULL%	
 Eric Toledano%	NULL%	
-Charlie Chaplin%	16-DEC-89%	
 William Monahan%	03-NOV-60%	
 Alan Mak%	01-DEC-65%	
 Felix Chong%	01-DEC-68%	
@@ -82,10 +82,10 @@ William Wisher Jr.%	NULL%
 Lawrence Kasdan%	14-DEC-49%	
 George Lucas%	14-DEC-44%	
 Philip Kaufman%	23-OCT-36%	
-John Michael Hayes%	11-DEC-19%	
-Cornell Woolrich%	04-DEC-03%	
 Robert Zemeckis%	14-DEC-51%	
 Bob Gale%	25-DEC-51%	
+John Michael Hayes%	11-DEC-19%	
+Cornell Woolrich%	04-DEC-03%	
 Damien Chazelle%	19-DEC-85%	
 David Franzoni%	04-DEC-47%	
 David Franzoni%	04-DEC-47%	
@@ -189,15 +189,15 @@ James M. Cain%	01-DEC-92%
 Paul Schrader%	22-DEC-46%	
 Betty Comden%	03-DEC-17%	
 Adolph Green%	02-DEC-14%	
-Rajkumar Hirani%	20-NOV-62%	
-Abhijit Joshi%	01-DEC-69%	
-Vidhu Vinod Chopra%	05-DEC-52%	
 Stanley Kubrick%	26-DEC-28%	
 Arthur C. Clarke%	16-DEC-17%	
 Arthur C. Clarke%	16-DEC-17%	
 John Lasseter%	12-DEC-57%	
 Pete Docter%	09-OCT-68%	
 Andrew Stanton%	03-DEC-65%	
+Rajkumar Hirani%	20-NOV-62%	
+Abhijit Joshi%	01-DEC-69%	
+Vidhu Vinod Chopra%	05-DEC-52%	
 Harper Lee%	28-DEC-26%	
 Horton Foote%	14-DEC-16%	
 Stanley Kubrick%	26-DEC-28%	
@@ -208,7 +208,6 @@ Cesare Zavattini%	NULL%
 Luigi Bartolini%	NULL%	
 Oreste Biancoli%	NULL%	
 David S. Ward%	25-OCT-45%	
-Charlie Chaplin%	16-DEC-89%	
 John Lasseter%	12-DEC-57%	
 Andrew Stanton%	03-DEC-65%	
 Lee Unkrich%	08-DEC-67%	
@@ -266,7 +265,6 @@ W.R. Burnett%	25-NOV-99%
 Graham Greene%	02-OCT-04%	
 Graham Greene%	02-OCT-04%	
 Orson Welles%	06-DEC-15%	
-Majid Majidi%	17-DEC-59%	
 Martin McDonagh%	26-DEC-70%	
 Robert Towne%	23-NOV-34%	
 Roman Polanski%	18-DEC-33%	
@@ -318,12 +316,12 @@ Hampton Fancher%	18-DEC-38%
 David Webb Peoples%	NULL%	
 Philip K. Dick%	16-DEC-28%	
 Ingmar Bergman%	14-DEC-18%	
-Buster Keaton%	04-OCT-95%	
-Clyde Bruckman%	20-DEC-94%	
-Al Boasberg%	NULL%	
 Gavin O'Connor%	NULL%	
 Anthony Tambakis%	NULL%	
 Cliff Dorfman%	NULL%	
+Buster Keaton%	04-OCT-95%	
+Clyde Bruckman%	20-DEC-94%	
+Al Boasberg%	NULL%	
 Jean C. Havez%	NULL%	
 Joseph A. Mitchell%	NULL%	
 Clyde Bruckman%	20-DEC-94%	
@@ -334,19 +332,19 @@ John Hodge%	NULL%
 Margaret Mitchell%	NULL%	
 Sidney Howard%	NULL%	
 Oliver H.P. Garrett%	06-DEC-94%	
-Nick Schenk%	NULL%	
-Nick Schenk%	NULL%	
 Joel Coen%	29-NOV-54%	
 Ethan Coen%	21-DEC-57%	
 Cormac McCarthy%	20-DEC-33%	
+Nick Schenk%	NULL%	
+Nick Schenk%	NULL%	
 M. Night Shyamalan%	06-DEC-70%	
 Ethan Coen%	21-DEC-57%	
 Joel Coen%	29-NOV-54%	
+Paul Thomas Anderson%	26-DEC-70%	
+Upton Sinclair%	20-DEC-78%	
 Michael Cimino%	03-DEC-39%	
 Deric Washburn%	NULL%	
 Louis Garfinkle%	NULL%	
-Paul Thomas Anderson%	26-DEC-70%	
-Upton Sinclair%	20-DEC-78%	
 Bill Lancaster%	NULL%	
 Andrew Stanton%	03-DEC-65%	
 Andrew Stanton%	03-DEC-65%	
@@ -356,12 +354,12 @@ Joel Coen%	29-NOV-54%
 Ales Adamovich%	NULL%	
 Ales Adamovich%	NULL%	
 Elem Klimov%	09-DEC-33%	
-Carl Mayer%	NULL%	
-Hermann Sudermann%	30-DEC-57%	
-Katherine Hilliker%	NULL%	
 Donn Pearce%	NULL%	
 Frank Pierson%	12-DEC-25%	
 Donn Pearce%	NULL%	
+Carl Mayer%	NULL%	
+Hermann Sudermann%	30-DEC-57%	
+Katherine Hilliker%	NULL%	
 Quentin Tarantino%	27-DEC-63%	
 Quentin Tarantino%	27-DEC-63%	
 Uma Thurman%	29-DEC-70%	
@@ -389,18 +387,17 @@ Damián Szifrón%	09-DEC-75%
 Hampton Fancher%	18-DEC-38%	
 Michael Green%	NULL%	
 Hampton Fancher%	18-DEC-38%	
+Robert Riskin%	30-DEC-97%	
+Samuel Hopkins Adams%	NULL%	
 Renzil D'Silva%	NULL%	
 Prasoon Joshi%	NULL%	
 Rakeysh Omprakash Mehra%	07-DEC-63%	
-Robert Riskin%	30-DEC-97%	
-Samuel Hopkins Adams%	NULL%	
-Joseph Delteil%	NULL%	
-Carl Theodor Dreyer%	03-DEC-89%	
 Oliver Stone%	15-DEC-46%	
 Gerry Conlon%	NULL%	
 Terry George%	20-DEC-52%	
 Jim Sheridan%	06-DEC-49%	
-Paddy Chayefsky%	29-DEC-23%	
+Joseph Delteil%	NULL%	
+Carl Theodor Dreyer%	03-DEC-89%	
 Stephen King%	21-DEC-47%	
 Raynold Gideon%	NULL%	
 Keir Pearson%	NULL%	
@@ -408,20 +405,20 @@ Terry George%	20-DEC-52%
 Stefan Zweig%	28-NOV-81%	
 Wes Anderson%	01-DEC-69%	
 Wes Anderson%	01-DEC-69%	
-Arkadiy Strugatskiy%	28-DEC-25%	
-Boris Strugatsky%	15-DEC-33%	
-Arkadiy Strugatskiy%	28-DEC-25%	
 Georges Arnaud%	NULL%	
 Henri-Georges Clouzot%	20-NOV-07%	
 Jérôme Géronimi%	NULL%	
 Michael Crichton%	23-OCT-42%	
 Michael Crichton%	23-OCT-42%	
 David Koepp%	09-DEC-63%	
+Arkadiy Strugatskiy%	28-DEC-25%	
+Boris Strugatsky%	15-DEC-33%	
+Arkadiy Strugatskiy%	28-DEC-25%	
 Lew Wallace%	10-DEC-27%	
 Karl Tunberg%	11-DEC-09%	
 Gore Vidal%	03-OCT-25%	
-Ingmar Bergman%	14-DEC-18%	
 Peter Morgan%	10-DEC-63%	
+Ingmar Bergman%	14-DEC-18%	
 Bong Joon-ho%	14-DEC-69%	
 Kwang-rim Kim%	NULL%	
 Sung Bo Shim%	NULL%	
@@ -447,10 +444,10 @@ Aaron Guzikowski%	NULL%
 William Goldman%	12-DEC-31%	
 William Goldman%	12-DEC-31%	
 Damien Chazelle%	19-DEC-85%	
-John Huston%	05-DEC-06%	
-Dashiell Hammett%	27-DEC-94%	
 Steve Kloves%	18-DEC-60%	
 J.K. Rowling%	31-DEC-65%	
+John Huston%	05-DEC-06%	
+Dashiell Hammett%	27-DEC-94%	
 Neeraj Pandey%	NULL%	
 Neeraj Pandey%	NULL%	
 Sylvester Stallone%	06-DEC-46%	
@@ -502,10 +499,10 @@ Kathryn Stockett%	NULL%
 L.M. Kit Carson%	12-DEC-41%	
 Sam Shepard%	05-NOV-43%	
 Walter Donohue%	NULL%	
-Robert E. Sherwood%	NULL%	
-MacKinlay Kantor%	NULL%	
 Alan Mak%	01-DEC-65%	
 Felix Chong%	01-DEC-68%	
+Robert E. Sherwood%	NULL%	
+MacKinlay Kantor%	NULL%	
 Chris Marker%	29-DEC-21%	
 David Webb Peoples%	NULL%	
 Janet Peoples%	NULL%	
@@ -518,7 +515,6 @@ Ethan Hawke%	06-NOV-70%
 Linda Woolverton%	NULL%	
 Brenda Chapman%	NULL%	
 Chris Sanders%	15-DEC-60%	
-Franco Solinas%	NULL%	
-Franco Solinas%	NULL%	
-Gillo Pontecorvo%	19-NOV-19%	
 Frank Pierson%	12-DEC-25%	
+Zaza Urushadze%	NULL%	
+Zaza Urushadze%	NULL%	

@@ -471,6 +471,17 @@ Orry-Kelly%	Costume Design%	31-DEC-97%
 Lawrence W. Butler%	Special Effects%	NULL%	
 Willard Van Enger%	Special Effects%	NULL%	
 Chris Crowell%	Visual Effects%	NULL%	
+Charlie Chaplin%	Produced%	16-DEC-89%	
+Charlie Chaplin%	Music%	16-DEC-89%	
+Ira H. Morgan%	Cinematography%	02-DEC-89%	
+Roland Totheroh%	Cinematography%	29-NOV-90%	
+Charlie Chaplin%	Film Editing%	16-DEC-89%	
+Willard Nico%	Film Editing%	NULL%	
+Al Ernest Garcia%	Casting%	11-DEC-87%	
+Charles D. Hall%	Production Design%	20-DEC-88%	
+J. Russell Spencer%	Art Direction%	10-DEC-07%	
+J. Russell Spencer%	Set Decoration%	10-DEC-07%	
+Bud Thackery%	Visual Effects%	31-DEC-03%	
 Arnaud Bertrand%	Produced%	NULL%	
 Dominique Boutonnat%	Produced%	NULL%	
 Ludovico Einaudi%	Music%	NULL%	
@@ -483,17 +494,6 @@ Mathieu Vadepied%	Art Direction%	NULL%
 Olivia Bloch-Lainé%	Set Decoration%	NULL%	
 Isabelle Pannetier%	Costume Design%	NULL%	
 Laurent Brett%	Visual Effects%	NULL%	
-Charlie Chaplin%	Produced%	16-DEC-89%	
-Charlie Chaplin%	Music%	16-DEC-89%	
-Ira H. Morgan%	Cinematography%	02-DEC-89%	
-Roland Totheroh%	Cinematography%	29-NOV-90%	
-Charlie Chaplin%	Film Editing%	16-DEC-89%	
-Willard Nico%	Film Editing%	NULL%	
-Al Ernest Garcia%	Casting%	11-DEC-87%	
-Charles D. Hall%	Production Design%	20-DEC-88%	
-J. Russell Spencer%	Art Direction%	10-DEC-07%	
-J. Russell Spencer%	Set Decoration%	10-DEC-07%	
-Bud Thackery%	Visual Effects%	31-DEC-03%	
 Michael Aguilar%	Produced%	NULL%	
 G. Mac Brown%	Produced%	NULL%	
 Doug Davison%	Produced%	NULL%	
@@ -544,16 +544,6 @@ Michael Ford%	Set Decoration%	NULL%
 Deborah Nadoolman%	Costume Design%	NULL%	
 Peter Amundson%	Visual Effects%	NULL%	
 Craig Barron%	Visual Effects%	NULL%	
-Alfred Hitchcock%	Produced%	13-DEC-99%	
-Franz Waxman%	Music%	24-DEC-06%	
-Robert Burks%	Cinematography%	04-DEC-09%	
-George Tomasini%	Film Editing%	20-DEC-09%	
-J. McMillan Johnson%	Art Direction%	NULL%	
-Hal Pereira%	Art Direction%	29-DEC-05%	
-Sam Comer%	Set Decoration%	13-DEC-93%	
-Ray Moyer%	Set Decoration%	21-DEC-98%	
-Edith Head%	Costume Design%	28-OCT-97%	
-John P. Fulton%	Visual Effects%	NULL%	
 Neil Canton%	Produced%	30-DEC-48%	
 Bob Gale%	Produced%	25-DEC-51%	
 Kathleen Kennedy%	Produced%	05-DEC-53%	
@@ -569,6 +559,16 @@ Todd Hallowell%	Art Direction%	29-DEC-52%
 Hal Gausman%	Set Decoration%	NULL%	
 Deborah Lynn Scott%	Costume Design%	NULL%	
 Ellen E. Lichtwardt%	Visual Effects%	NULL%	
+Alfred Hitchcock%	Produced%	13-DEC-99%	
+Franz Waxman%	Music%	24-DEC-06%	
+Robert Burks%	Cinematography%	04-DEC-09%	
+George Tomasini%	Film Editing%	20-DEC-09%	
+J. McMillan Johnson%	Art Direction%	NULL%	
+Hal Pereira%	Art Direction%	29-DEC-05%	
+Sam Comer%	Set Decoration%	13-DEC-93%	
+Ray Moyer%	Set Decoration%	21-DEC-98%	
+Edith Head%	Costume Design%	28-OCT-97%	
+John P. Fulton%	Visual Effects%	NULL%	
 Jason Blum%	Produced%	20-DEC-69%	
 Nicholas Britell%	Produced%	NULL%	
 Phillip Dawe%	Produced%	NULL%	
@@ -1107,18 +1107,6 @@ Harry McAfee%	Set Decoration%	NULL%
 Walter Plunkett%	Costume Design%	05-DEC-02%	
 Warren Newcombe%	Special Effects%	28-DEC-94%	
 Irving G. Ries%	Special Effects%	15-DEC-90%	
-Vidhu Vinod Chopra%	Produced%	05-DEC-52%	
-Vir Chopra%	Produced%	NULL%	
-Shantanu Moitra%	Music%	NULL%	
-C.K. Muraleedharan%	Cinematography%	NULL%	
-Rajkumar Hirani%	Film Editing%	20-NOV-62%	
-Menaka Nagarajan%	Casting%	NULL%	
-Sumit Basu%	Production Design%	NULL%	
-Rajnish Hedao%	Production Design%	NULL%	
-Rajnish Hedao%	Art Direction%	NULL%	
-Manish Malhotra%	Costume Design%	NULL%	
-Sheena Parikh%	Costume Design%	NULL%	
-Brian Wade%	Special Effects%	NULL%	
 Stanley Kubrick%	Produced%	26-DEC-28%	
 Victor Lyndon%	Produced%	NULL%	
 Geoffrey Unsworth%	Cinematography%	NULL%	
@@ -1147,6 +1135,18 @@ Darla K. Anderson%	Visual Effects%	NULL%
 Nancy Hayes%	Casting Department%	NULL%	
 Ruth Lambert%	Casting Department%	NULL%	
 Mickie McGowan%	Casting Department%	NULL%	
+Vidhu Vinod Chopra%	Produced%	05-DEC-52%	
+Vir Chopra%	Produced%	NULL%	
+Shantanu Moitra%	Music%	NULL%	
+C.K. Muraleedharan%	Cinematography%	NULL%	
+Rajkumar Hirani%	Film Editing%	20-NOV-62%	
+Menaka Nagarajan%	Casting%	NULL%	
+Sumit Basu%	Production Design%	NULL%	
+Rajnish Hedao%	Production Design%	NULL%	
+Rajnish Hedao%	Art Direction%	NULL%	
+Manish Malhotra%	Costume Design%	NULL%	
+Sheena Parikh%	Costume Design%	NULL%	
+Brian Wade%	Special Effects%	NULL%	
 Alan J. Pakula%	Produced%	07-DEC-28%	
 Harper Lee%	Produced%	28-DEC-26%	
 Robert Mulligan%	Produced%	23-DEC-25%	
@@ -1211,11 +1211,6 @@ James W. Payne%	Set Decoration%	NULL%
 Edith Head%	Costume Design%	28-OCT-97%	
 Bob Warner%	Special Effects%	NULL%	
 Albert Whitlock%	Visual Effects%	15-DEC-15%	
-Charlie Chaplin%	Produced%	16-DEC-89%	
-Charlie Chaplin%	Music%	16-DEC-89%	
-Roland Totheroh%	Cinematography%	29-NOV-90%	
-Charlie Chaplin%	Film Editing%	16-DEC-89%	
-Charles D. Hall%	Art Direction%	20-DEC-88%	
 Darla K. Anderson%	Produced%	NULL%	
 Nicole Paradis Grindle%	Produced%	NULL%	
 John Lasseter%	Produced%	12-DEC-57%	
@@ -1515,7 +1510,6 @@ Robert Krasker%	Cinematography%	13-DEC-13%
 Oswald Hafenrichter%	Film Editing%	NULL%	
 Dario Simoni%	Set Decoration%	NULL%	
 W. Percy Day%	Visual Effects%	19-DEC-78%	
-Hassan Hassandoost%	Film Editing%	NULL%	
 Graham Broadbent%	Produced%	NULL%	
 Peter Czernin%	Produced%	NULL%	
 Carter Burwell%	Music%	18-NOV-55%	
@@ -1768,17 +1762,6 @@ Gunnar Fischer%	Cinematography%	18-NOV-10%
 Oscar Rosander%	Film Editing%	25-DEC-01%	
 Gittan Gustafsson%	Production Design%	NULL%	
 Millie Ström%	Costume Design%	NULL%	
-David Shepard%	Produced%	NULL%	
-Buster Keaton%	Produced%	04-OCT-95%	
-Joseph M. Schenck%	Produced%	25-DEC-76%	
-Carl Davis%	Music%	28-OCT-36%	
-Robert Israel%	Music%	NULL%	
-Bert Haines%	Cinematography%	NULL%	
-Devereaux Jennings%	Cinematography%	22-DEC-84%	
-Buster Keaton%	Film Editing%	04-OCT-95%	
-Sherman Kell%	Film Editing%	NULL%	
-Fred Gabourie%	Art Direction%	NULL%	
-Harry Roselotte%	Set Decoration%	NULL%	
 Lisa Ellzey%	Produced%	NULL%	
 Josh Fagin%	Produced%	NULL%	
 John J. Kelly%	Produced%	10-DEC-67%	
@@ -1794,6 +1777,17 @@ Ron von Blomberg%	Set Decoration%	NULL%
 Abigail Murray%	Costume Design%	NULL%	
 David Beavis%	Special Effects%	19-DEC-52%	
 Donna M. Belajac%	Casting Department%	15-DEC-56%	
+David Shepard%	Produced%	NULL%	
+Buster Keaton%	Produced%	04-OCT-95%	
+Joseph M. Schenck%	Produced%	25-DEC-76%	
+Carl Davis%	Music%	28-OCT-36%	
+Robert Israel%	Music%	NULL%	
+Bert Haines%	Cinematography%	NULL%	
+Devereaux Jennings%	Cinematography%	22-DEC-84%	
+Buster Keaton%	Film Editing%	04-OCT-95%	
+Sherman Kell%	Film Editing%	NULL%	
+Fred Gabourie%	Art Direction%	NULL%	
+Harry Roselotte%	Set Decoration%	NULL%	
 Buster Keaton%	Produced%	04-OCT-95%	
 Joseph M. Schenck%	Produced%	25-DEC-76%	
 Byron Houck%	Cinematography%	NULL%	
@@ -1832,6 +1826,22 @@ Jack Cosgrove%	Visual Effects%	09-DEC-02%
 Harvey Clermont%	Casting Department%	NULL%	
 Charles Richards%	Casting Department%	NULL%	
 Fred Schuessler%	Casting Department%	NULL%	
+Ethan Coen%	Produced%	21-DEC-57%	
+Joel Coen%	Produced%	29-NOV-54%	
+David Diliberto%	Produced%	NULL%	
+Carter Burwell%	Music%	18-NOV-55%	
+Roger Deakins%	Cinematography%	24-DEC-49%	
+Ethan Coen%	Film Editing%	21-DEC-57%	
+Joel Coen%	Film Editing%	29-NOV-54%	
+Ellen Chenoweth%	Casting%	NULL%	
+Jess Gonchor%	Production Design%	15-DEC-62%	
+John P. Goldsmith%	Art Direction%	NULL%	
+Nancy Haigh%	Set Decoration%	NULL%	
+Mary Zophres%	Costume Design%	23-DEC-64%	
+Peter Chesney%	Special Effects%	NULL%	
+Tom Chesney%	Special Effects%	NULL%	
+Jo Edna Boldin%	Casting Department%	NULL%	
+Barbara Harris%	Casting Department%	NULL%	
 Bruce Berman%	Produced%	NULL%	
 Clint Eastwood%	Produced%	31-DEC-30%	
 Bill Gerber%	Produced%	NULL%	
@@ -1849,22 +1859,6 @@ Deborah Hopper%	Costume Design%	NULL%
 David A. Poole%	Special Effects%	NULL%	
 Geoffrey Miclat%	Casting Department%	NULL%	
 Kathy Mooney%	Casting Department%	NULL%	
-Ethan Coen%	Produced%	21-DEC-57%	
-Joel Coen%	Produced%	29-NOV-54%	
-David Diliberto%	Produced%	NULL%	
-Carter Burwell%	Music%	18-NOV-55%	
-Roger Deakins%	Cinematography%	24-DEC-49%	
-Ethan Coen%	Film Editing%	21-DEC-57%	
-Joel Coen%	Film Editing%	29-NOV-54%	
-Ellen Chenoweth%	Casting%	NULL%	
-Jess Gonchor%	Production Design%	15-DEC-62%	
-John P. Goldsmith%	Art Direction%	NULL%	
-Nancy Haigh%	Set Decoration%	NULL%	
-Mary Zophres%	Costume Design%	23-DEC-64%	
-Peter Chesney%	Special Effects%	NULL%	
-Tom Chesney%	Special Effects%	NULL%	
-Jo Edna Boldin%	Casting Department%	NULL%	
-Barbara Harris%	Casting Department%	NULL%	
 Kathleen Kennedy%	Produced%	05-DEC-53%	
 Frank Marshall%	Produced%	13-DEC-46%	
 Barry Mendel%	Produced%	NULL%	
@@ -1896,17 +1890,6 @@ Mary Zophres%	Costume Design%	23-DEC-64%
 Wilfred Caban%	Special Effects%	NULL%	
 John Alagna%	Visual Effects%	NULL%	
 Kathleen Chopin%	Casting Department%	NULL%	
-Joann Carelli%	Produced%	NULL%	
-Michael Cimino%	Produced%	03-DEC-39%	
-Michael Deeley%	Produced%	06-DEC-32%	
-Stanley Myers%	Music%	06-OCT-33%	
-Vilmos Zsigmond%	Cinematography%	16-DEC-30%	
-Peter Zinner%	Film Editing%	24-DEC-19%	
-Cis Corman%	Casting%	NULL%	
-Ron Hobbs%	Art Direction%	NULL%	
-Kim Swados%	Art Direction%	NULL%	
-Garry Elmendorf%	Special Effects%	NULL%	
-Jay King%	Special Effects%	NULL%	
 Paul Thomas Anderson%	Produced%	26-DEC-70%	
 Daniel Lupi%	Produced%	NULL%	
 Scott Rudin%	Produced%	14-DEC-58%	
@@ -1922,6 +1905,17 @@ David Blitstein%	Special Effects%	NULL%
 Steve Cremin%	Special Effects%	NULL%	
 John G. Chalfant%	Visual Effects%	NULL%	
 Toni Cobb Brock%	Casting Department%	NULL%	
+Joann Carelli%	Produced%	NULL%	
+Michael Cimino%	Produced%	03-DEC-39%	
+Michael Deeley%	Produced%	06-DEC-32%	
+Stanley Myers%	Music%	06-OCT-33%	
+Vilmos Zsigmond%	Cinematography%	16-DEC-30%	
+Peter Zinner%	Film Editing%	24-DEC-19%	
+Cis Corman%	Casting%	NULL%	
+Ron Hobbs%	Art Direction%	NULL%	
+Kim Swados%	Art Direction%	NULL%	
+Garry Elmendorf%	Special Effects%	NULL%	
+Jay King%	Special Effects%	NULL%	
 Stuart Cohen%	Produced%	NULL%	
 David Foster%	Produced%	NULL%	
 Larry J. Franco%	Produced%	05-DEC-49%	
@@ -1974,6 +1968,14 @@ Viktor Petrov%	Production Design%	NULL%
 Viktor Petrov%	Art Direction%	NULL%	
 Viktor Petrov%	Set Decoration%	NULL%	
 Eleonora Semyonova%	Costume Design%	NULL%	
+Gordon Carroll%	Produced%	02-DEC-28%	
+Carter De Haven Jr.%	Produced%	NULL%	
+Lalo Schifrin%	Music%	21-DEC-32%	
+Conrad L. Hall%	Cinematography%	21-DEC-26%	
+Sam O'Steen%	Film Editing%	06-NOV-23%	
+Cary Odell%	Art Direction%	20-DEC-10%	
+Fred Price%	Set Decoration%	NULL%	
+Howard Shoup%	Costume Design%	NULL%	
 William Fox%	Produced%	01-DEC-79%	
 R.H. Bassett%	Music%	03-DEC-78%	
 Carli Elinor%	Music%	NULL%	
@@ -1983,14 +1985,6 @@ Karl Struss%	Cinematography%	30-NOV-86%
 Harold D. Schuster%	Film Editing%	01-DEC-02%	
 Rochus Gliese%	Art Direction%	NULL%	
 Frank D. Williams%	Special Effects%	21-DEC-93%	
-Gordon Carroll%	Produced%	02-DEC-28%	
-Carter De Haven Jr.%	Produced%	NULL%	
-Lalo Schifrin%	Music%	21-DEC-32%	
-Conrad L. Hall%	Cinematography%	21-DEC-26%	
-Sam O'Steen%	Film Editing%	06-NOV-23%	
-Cary Odell%	Art Direction%	20-DEC-10%	
-Fred Price%	Set Decoration%	NULL%	
-Howard Shoup%	Costume Design%	NULL%	
 Lawrence Bender%	Produced%	17-OCT-57%	
 Mitsuhisa Ishikawa%	Produced%	NULL%	
 Koko Maeda%	Produced%	NULL%	
@@ -2155,6 +2149,13 @@ Renée April%	Costume Design%	NULL%
 Michael Broom%	Special Effects%	NULL%	
 Rohit Agarwal%	Visual Effects%	NULL%	
 Kathy Driscoll%	Casting Department%	NULL%	
+Frank Capra%	Produced%	18-DEC-97%	
+Harry Cohn%	Produced%	NULL%	
+Howard Jackson%	Music%	08-DEC-00%	
+Joseph Walker%	Cinematography%	22-DEC-92%	
+Gene Havlick%	Film Editing%	16-DEC-94%	
+Stephen Goosson%	Art Direction%	NULL%	
+Robert Kalloch%	Costume Design%	NULL%	
 Adam Bohling%	Produced%	NULL%	
 Deven Khote%	Produced%	NULL%	
 A. R. Rahman%	Music%	06-DEC-66%	
@@ -2164,19 +2165,6 @@ Samir Chanda%	Production Design%	NULL%
 Samir Chanda%	Art Direction%	NULL%	
 Arjun Bhasin%	Costume Design%	NULL%	
 Mukesh Chhabra%	Casting Department%	27-DEC-80%	
-Frank Capra%	Produced%	18-DEC-97%	
-Harry Cohn%	Produced%	NULL%	
-Howard Jackson%	Music%	08-DEC-00%	
-Joseph Walker%	Cinematography%	22-DEC-92%	
-Gene Havlick%	Film Editing%	16-DEC-94%	
-Stephen Goosson%	Art Direction%	NULL%	
-Robert Kalloch%	Costume Design%	NULL%	
-Jesper Kyd%	Music%	03-DEC-72%	
-Ole Schmidt%	Music%	NULL%	
-Rudolph Maté%	Cinematography%	21-DEC-98%	
-Marguerite Beaugé%	Film Editing%	NULL%	
-Carl Theodor Dreyer%	Film Editing%	03-DEC-89%	
-Valentine Hugo%	Costume Design%	NULL%	
 John Daly%	Produced%	16-DEC-37%	
 Derek Gibson%	Produced%	NULL%	
 A. Kitman Ho%	Produced%	NULL%	
@@ -2207,15 +2195,12 @@ Kent Houston%	Visual Effects%	NULL%
 Martin Body%	Visual Effects%	NULL%	
 Beverley Keogh%	Casting Department%	NULL%	
 Frank Moiselle%	Casting Department%	NULL%	
-Fred C. Caruso%	Produced%	NULL%	
-Howard Gottfried%	Produced%	13-NOV-23%	
-Elliot Lawrence%	Music%	NULL%	
-Owen Roizman%	Cinematography%	22-DEC-36%	
-Alan Heim%	Film Editing%	21-DEC-36%	
-Juliet Taylor%	Casting%	NULL%	
-Philip Rosenberg%	Production Design%	NULL%	
-Edward Stewart%	Set Decoration%	NULL%	
-Theoni V. Aldredge%	Costume Design%	22-DEC-32%	
+Jesper Kyd%	Music%	03-DEC-72%	
+Ole Schmidt%	Music%	NULL%	
+Rudolph Maté%	Cinematography%	21-DEC-98%	
+Marguerite Beaugé%	Film Editing%	NULL%	
+Carl Theodor Dreyer%	Film Editing%	03-DEC-89%	
+Valentine Hugo%	Costume Design%	NULL%	
 Raynold Gideon%	Produced%	NULL%	
 Andrew Scheinman%	Produced%	NULL%	
 Jack Nitzsche%	Music%	22-DEC-37%	
@@ -2265,15 +2250,6 @@ Jan Burda%	Visual Effects%	NULL%
 Nicolas Cadorette Vigneau%	Visual Effects%	NULL%	
 Henry Russell Bergstein%	Casting Department%	NULL%	
 Deborah Maxwell Dion%	Casting Department%	NULL%	
-Aleksandra Demidova%	Produced%	NULL%	
-Eduard Artemev%	Music%	30-NOV-37%	
-Aleksandr Knyazhinsky%	Cinematography%	NULL%	
-Georgi Rerberg%	Cinematography%	28-DEC-37%	
-Leonid Kalashnikov%	Cinematography%	19-DEC-26%	
-Lyudmila Feiginova%	Film Editing%	NULL%	
-Aleksandr Boym%	Production Design%	NULL%	
-Andrei Tarkovsky%	Production Design%	04-DEC-32%	
-Nelli Fomina%	Costume Design%	NULL%	
 Raymond Borderie%	Produced%	30-DEC-97%	
 Henri-Georges Clouzot%	Produced%	20-NOV-07%	
 Georges Auric%	Music%	15-DEC-99%	
@@ -2296,6 +2272,15 @@ Jackie Carr%	Set Decoration%	NULL%
 Susanna Griffith%	Casting Department%	NULL%	
 Barbara Harris%	Casting Department%	NULL%	
 Michael Hirshenson%	Casting Department%	NULL%	
+Aleksandra Demidova%	Produced%	NULL%	
+Eduard Artemev%	Music%	30-NOV-37%	
+Aleksandr Knyazhinsky%	Cinematography%	NULL%	
+Georgi Rerberg%	Cinematography%	28-DEC-37%	
+Leonid Kalashnikov%	Cinematography%	19-DEC-26%	
+Lyudmila Feiginova%	Film Editing%	NULL%	
+Aleksandr Boym%	Production Design%	NULL%	
+Andrei Tarkovsky%	Production Design%	04-DEC-32%	
+Nelli Fomina%	Costume Design%	NULL%	
 Sam Zimbalist%	Produced%	31-DEC-04%	
 Sol C. Siegel%	Produced%	30-DEC-03%	
 Miklós Rózsa%	Music%	18-DEC-07%	
@@ -2313,12 +2298,6 @@ Umberto Dessena%	Special Effects%	NULL%
 A. Arnold Gillespie%	Visual Effects%	14-OCT-99%	
 Robert R. Hoag%	Visual Effects%	NULL%	
 Lee LeBlanc%	Visual Effects%	NULL%	
-Ingmar Bergman%	Produced%	14-DEC-18%	
-Lars Johan Werle%	Music%	03-DEC-26%	
-Sven Nykvist%	Cinematography%	03-DEC-22%	
-Ulla Ryghe%	Film Editing%	NULL%	
-Bibi Lindström%	Production Design%	30-DEC-04%	
-Mago%	Costume Design%	22-DEC-25%	
 Tobin Armbrust%	Produced%	NULL%	
 Tim Bevan%	Produced%	NULL%	
 Hans Zimmer%	Music%	12-DEC-57%	
@@ -2334,6 +2313,12 @@ Michelle Day%	Set Decoration%	NULL%
 Julian Day%	Costume Design%	NULL%	
 Iris Baumüller%	Casting Department%	NULL%	
 Theo Park%	Casting Department%	NULL%	
+Ingmar Bergman%	Produced%	14-DEC-18%	
+Lars Johan Werle%	Music%	03-DEC-26%	
+Sven Nykvist%	Cinematography%	03-DEC-22%	
+Ulla Ryghe%	Film Editing%	NULL%	
+Bibi Lindström%	Production Design%	30-DEC-04%	
+Mago%	Costume Design%	22-DEC-25%	
 Cha Seoung-jae%	Produced%	NULL%	
 Choi Jae-won%	Produced%	NULL%	
 Moo Ryung Kim%	Produced%	NULL%	
@@ -2526,13 +2511,6 @@ Barry Kemp%	Produced%	NULL%
 Daniel Lupi%	Produced%	NULL%	
 Laurie MacDonald%	Produced%	19-DEC-53%	
 John Williams%	Music%	08-DEC-32%	
-Henry Blanke%	Produced%	30-DEC-01%	
-Hal B. Wallis%	Produced%	14-DEC-99%	
-Adolph Deutsch%	Music%	20-OCT-97%	
-Arthur Edeson%	Cinematography%	24-OCT-91%	
-Thomas Richards%	Film Editing%	08-DEC-99%	
-Robert M. Haas%	Art Direction%	03-DEC-89%	
-Orry-Kelly%	Costume Design%	31-DEC-97%	
 David Barron%	Produced%	NULL%	
 Debbi Bossi%	Produced%	NULL%	
 Roy Button%	Produced%	NULL%	
@@ -2549,6 +2527,13 @@ Jany Temime%	Costume Design%	NULL%
 Michael Ash%	Special Effects%	NULL%	
 Norman Baillie%	Special Effects%	NULL%	
 Brendan Donnison%	Casting Department%	NULL%	
+Henry Blanke%	Produced%	30-DEC-01%	
+Hal B. Wallis%	Produced%	14-DEC-99%	
+Adolph Deutsch%	Music%	20-OCT-97%	
+Arthur Edeson%	Cinematography%	24-OCT-91%	
+Thomas Richards%	Film Editing%	08-DEC-99%	
+Robert M. Haas%	Art Direction%	03-DEC-89%	
+Orry-Kelly%	Costume Design%	31-DEC-97%	
 Shital Bhatia%	Produced%	NULL%	
 Rajesh Ganguly%	Produced%	NULL%	
 Sanjoy Chowdhury%	Music%	NULL%	
@@ -2814,6 +2799,16 @@ Gary Chason%	Casting%	NULL%
 Kate Altman%	Art Direction%	NULL%	
 Birgitta Bjerke%	Costume Design%	NULL%	
 Sheila Possner Emery%	Casting Department%	NULL%	
+Ellen Chang%	Produced%	NULL%	
+Lorraine Ho%	Produced%	NULL%	
+Kwong Wing Chan%	Music%	15-DEC-67%	
+Ronald Ng%	Music%	NULL%	
+Yiu-Fai Lai%	Cinematography%	NULL%	
+Andrew Lau%	Cinematography%	04-DEC-60%	
+Curran Pang%	Film Editing%	NULL%	
+Danny Pang%	Film Editing%	NULL%	
+Choo Sung Pong%	Art Direction%	NULL%	
+Pik Kwan Lee%	Costume Design%	NULL%	
 Samuel Goldwyn%	Produced%	17-DEC-79%	
 Lester Koenig%	Produced%	NULL%	
 Hugo Friedhofer%	Music%	03-DEC-01%	
@@ -2825,16 +2820,6 @@ Julia Heron%	Set Decoration%	21-NOV-97%
 Irene Sharaff%	Costume Design%	23-DEC-10%	
 John P. Fulton%	Special Effects%	NULL%	
 Harry Redmond Sr.%	Special Effects%	NULL%	
-Ellen Chang%	Produced%	NULL%	
-Lorraine Ho%	Produced%	NULL%	
-Kwong Wing Chan%	Music%	15-DEC-67%	
-Ronald Ng%	Music%	NULL%	
-Yiu-Fai Lai%	Cinematography%	NULL%	
-Andrew Lau%	Cinematography%	04-DEC-60%	
-Curran Pang%	Film Editing%	NULL%	
-Danny Pang%	Film Editing%	NULL%	
-Choo Sung Pong%	Art Direction%	NULL%	
-Pik Kwan Lee%	Costume Design%	NULL%	
 Robert Cavallo%	Produced%	NULL%	
 Mark Egerton%	Produced%	NULL%	
 Robert Kosberg%	Produced%	NULL%	
@@ -2873,17 +2858,6 @@ Brian McEntee%	Art Direction%	NULL%
 Bob Bennett%	Visual Effects%	NULL%	
 Matthew Messinger%	Casting Department%	NULL%	
 Mickie McGowan%	Casting Department%	NULL%	
-Antonio Musu%	Produced%	NULL%	
-Yacef Saadi%	Produced%	20-DEC-28%	
-Fred Baker%	Produced%	NULL%	
-Ennio Morricone%	Music%	10-NOV-28%	
-Gillo Pontecorvo%	Music%	19-NOV-19%	
-Marcello Gatti%	Cinematography%	NULL%	
-Mario Morra%	Film Editing%	NULL%	
-Mario Serandrei%	Film Editing%	NULL%	
-Sergio Canevari%	Production Design%	NULL%	
-Sergio Canevari%	Set Decoration%	NULL%	
-Aldo Gasparri%	Special Effects%	NULL%	
 Martin Bregman%	Produced%	18-DEC-25%	
 Martin Elfand%	Produced%	NULL%	
 Robert Greenhut%	Produced%	NULL%	
@@ -2895,3 +2869,8 @@ Charles Bailey%	Production Design%	NULL%
 Douglas Higgins%	Art Direction%	NULL%	
 Robert Drumheller%	Set Decoration%	NULL%	
 Anna Hill Johnstone%	Costume Design%	07-DEC-13%	
+Zaza Urushadze%	Produced%	NULL%	
+Rein Kotov%	Cinematography%	NULL%	
+Alexander Kuranov%	Film Editing%	NULL%	
+Tea Telia%	Production Design%	NULL%	
+Mamuka Revia%	Special Effects%	NULL%	

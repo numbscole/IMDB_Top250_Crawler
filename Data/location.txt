@@ -66,8 +66,8 @@ Once Upon a Time in the West%	 Spain%	 Almería%	 Andalucía%
 Once Upon a Time in the West%	 Italy%	 Rome%	 Lazio%	
 City Lights%	 USA%	 Los Angeles%	 California%	
 Casablanca%	 USA%	 Flagstaff%	 Arizona%	
-The Intouchables%	 France%	Cabourg%	 Calvados%	
 Modern Times%	 USA%	 Santa Clarita%	 California%	
+The Intouchables%	 France%	Cabourg%	 Calvados%	
 The Pianist%	 Poland%	 Warsaw%	 Mazowieckie%	
 The Pianist%	 Germany%	Jüterbog%	 Brandenburg%	
 The Departed%	 USA%	 New York City%	 New York%	
@@ -76,8 +76,8 @@ Raiders of the Lost Ark%	 Tunisia%	Sidi Bouhlel%	 Tozeur%
 Raiders of the Lost Ark%	 USA%	Kaua'i%	 Hawaii%	
 Raiders of the Lost Ark%	 France%	La Rochelle%	 Charente-Maritime%	
 Raiders of the Lost Ark%	 UK%	 Hertfordshire%	 England%	
-Rear Window%	 USA%	 Los Angeles%	 California%	
 Back to the Future%	 USA%	 Whittier%	 California%	
+Rear Window%	 USA%	 Los Angeles%	 California%	
 Whiplash%	 USA%	Santa Clarita%	 California%	
 Gladiator%	 Italy%	 Siena%	 Tuscany%	
 Gladiator%	 USA%	 Lone Pine%	 California%	
@@ -146,11 +146,11 @@ Eternal Sunshine of the Spotless Mind%	 USA%	Montauk%	 New York%
 Double Indemnity%	 USA%	 Los Angeles%	 California%	
 Taxi Driver%	 USA%	 New York City%	 New York%	
 Singin' in the Rain%	 USA%	 Culver City%	 California%	
-3 Idiots%	 India%	 Bangalore%	 Karnataka%	
 2001: A Space Odyssey%	 UK%	 Western Isles%	 Scotland%	
 2001: A Space Odyssey%	 Spain%	 Almería%	 Andalucía%	
 2001: A Space Odyssey%	 USA%	Monument Valley%	 Utah%	
 Toy Story%	 USA%	 Emeryville%	 California%	
+3 Idiots%	 India%	 Bangalore%	 Karnataka%	
 To Kill a Mockingbird%	 USA%	Monroeville%	 Alabama%	
 Full Metal Jacket%	 UK%	 London%	 England%	
 Full Metal Jacket%	 USA%	Parris Island%	 South Carolina%	
@@ -158,7 +158,6 @@ Inglourious Basterds%	 Germany%	Görlitz%	 Saxony%
 Inglourious Basterds%	 France%	Paris%	NULL%	
 Bicycle Thieves%	 Italy%	 Rome%	 Lazio%	
 The Sting%	 USA%	 Chicago%	 Illinois%	
-The Kid%	 USA%	 Los Angeles%	 California%	
 Toy Story 3%	 USA%	 Emeryville%	 California%	
 Snatch%	 UK%	 London%	 England%	
 Good Will Hunting%	 Canada%	Toronto%	 Ontario%	
@@ -201,7 +200,6 @@ Raging Bull%	 USA%	 New York City%	 New York%
 The Great Escape%	 Germany%	Füssen%	 Bavaria%	
 The Third Man%	 Austria%	8 Schreyvogelgasse%	 Vienna%	
 The Third Man%	 UK%	 Surrey%	 England%	
-Children of Heaven%	 Iran%	Tehran%	NULL%	
 Three Billboards Outside Ebbing, Missouri%	 USA%	Sylva%	 North Carolina%	
 Chinatown%	 USA%	Channel Islands%	 California%	
 Pan's Labyrinth%	 Spain%	 Segovia%	 Castilla y León%	
@@ -229,32 +227,32 @@ V for Vendetta%	 Germany%	 Stahnsdorf%	 Brandenburg%
 Blade Runner%	 USA%	 Los Angeles%	 California%	
 Blade Runner%	 UK%	London%	 England%	
 Wild Strawberries%	 Sweden%	Dalarö%	 Stockholms län%	
-The General%	 USA%	Cottage Grove%	 Oregon%	
 Warrior%	 USA%	 Atlantic City%	 New Jersey%	
+The General%	 USA%	Cottage Grove%	 Oregon%	
 Sherlock Jr.%	 USA%	 Los Angeles%	 California%	
 Dial M for Murder%	 USA%	 Burbank%	 California%	
 Trainspotting%	 UK%	 Highland%	 Scotland%	
 Gone with the Wind%	 USA%	Georgia%	NULL%	
-Gran Torino%	 USA%	Royal Oak%	 Michigan%	
 No Country for Old Men%	 USA%	Marfa%	 Texas%	
 No Country for Old Men%	 Mexico%	Piedras Negras%	 Coahuíla%	
+Gran Torino%	 USA%	Royal Oak%	 Michigan%	
 The Sixth Sense%	 USA%	 Chicago%	 Illinois%	
 Fargo%	 USA%	Fargo%	 North Dakota%	
+There Will Be Blood%	 USA%	Lompoc%	 California%	
 The Deer Hunter%	 USA%	Clairton%	 Pennsylvania%	
 The Deer Hunter%	 Thailand%	Bangkok%	NULL%	
-There Will Be Blood%	 USA%	Lompoc%	 California%	
 The Thing%	 USA%	Juneau%	 Alaska%	
 The Thing%	 Canada%	British Columbia%	NULL%	
 Finding Nemo%	 USA%	 Emeryville%	 California%	
 The Big Lebowski%	 USA%	 South Pasadena%	 California%	
-Sunrise%	 USA%	 San Bernardino National Forest%	 California%	
 Cool Hand Luke%	 USA%	Jacksonville%	 Florida%	
+Sunrise%	 USA%	 San Bernardino National Forest%	 California%	
 Kill Bill: Vol. 1%	 Japan%	Shinjuku%	 Tokyo%	
 Kill Bill: Vol. 1%	 China%	Beijing%	NULL%	
 Kill Bill: Vol. 1%	 USA%	Lancaster%	 California%	
 Rebecca%	 USA%	Big Sur%	 California%	
-The Bandit%	 Turkey%	Sanliurfa%	NULL%	
 Shutter Island%	 USA%	 Boston%	 Massachusetts%	
+The Bandit%	 Turkey%	Sanliurfa%	NULL%	
 Hacksaw Ridge%	 Australia%	 Sydney%	 New South Wales%	
 Hacksaw Ridge%	 USA%	Pisgah National Forest%	 North Carolina%	
 Mary and Max%	 Australia%	Melbourne%	 Victoria%	
@@ -268,32 +266,30 @@ Relatos salvajes%	 Argentina%	Jujuy%	NULL%
 Blade Runner 2049%	 Hungary%	Korda Studios%	 Etyek%	
 Blade Runner 2049%	 Spain%	 Almería%	 Andalucía%	
 Blade Runner 2049%	 USA%	Nevada%	NULL%	
-Rang De Basanti%	 India%	 Jaipur%	 Rajasthan%	
 It Happened One Night%	 USA%	 Pasadena%	 California%	
-The Passion of Joan of Arc%	 France%	Boulogne-Billancourt%	 Hauts-de-Seine%	
+Rang De Basanti%	 India%	 Jaipur%	 Rajasthan%	
 Platoon%	 Philippines%	Cavite%	NULL%	
 In the Name of the Father%	 Ireland%	 Dublin%	 County Dublin%	
 In the Name of the Father%	 UK%	London%	 England%	
-Network%	 Canada%	 Toronto%	 Ontario%	
-Network%	 USA%	New York City%	 New York%	
+The Passion of Joan of Arc%	 France%	Boulogne-Billancourt%	 Hauts-de-Seine%	
 Stand by Me%	 USA%	 Burney%	 California%	
 Hotel Rwanda%	 Rwanda%	Kigali%	NULL%	
 Hotel Rwanda%	 South Africa%	Johannesburg%	NULL%	
 The Grand Budapest Hotel%	 Germany%	Görlitz%	 Saxony%	
 The Grand Budapest Hotel%	 Poland%	Kraków%	 Malopolskie%	
+The Wages of Fear%	 France%	Bouches-du-Rhône%	NULL%	
+Jurassic Park%	 USA%	Tehachapi Pass%	 California%	
 Stalker%	 Estonia%	Tallinn%	NULL%	
 Stalker%	 Tajikistan%	near%	 Isfara%	
 Stalker%	 Russia%	Dolgopa%	NULL%	
-The Wages of Fear%	 France%	Bouches-du-Rhône%	NULL%	
-Jurassic Park%	 USA%	Tehachapi Pass%	 California%	
 Ben-Hur%	 Italy%	 Rome%	 Lazio%	
 Ben-Hur%	 Lebanon%	the roman fra hippodrome in Tyre%	NULL%	
 Ben-Hur%	 Mexico%	Durango%	NULL%	
 Ben-Hur%	 USA%	 Culver City%	 California%	
-Persona%	 Sweden%	Fårö%	 Gotlands län%	
 Rush%	 Germany%	Nürburgring%	 Rhineland-Palatinate%	
 Rush%	 UK%	 Hampshire%	 England%	
 Rush%	 Austria%	Vienna%	NULL%	
+Persona%	 Sweden%	Fårö%	 Gotlands län%	
 12 Years a Slave%	 USA%	 New Orleans%	 Louisiana%	
 The Truman Show%	 USA%	Seaside%	 Florida%	
 Million Dollar Baby%	 USA%	 Los Angeles%	 California%	
@@ -315,8 +311,8 @@ The Princess Bride%	 UK%	 Derbyshire%	 England%
 La La Land%	 USA%	 Los Angeles%	 California%	
 Catch Me If You Can%	 USA%	 San Francisco Bay%	 California%	
 Catch Me If You Can%	 Canada%	 Québec City%	 Québec%	
-The Maltese Falcon%	 USA%	 San Francisco%	 California%	
 Harry Potter and the Deathly Hallows: Part 2%	 UK%	 Pembrokeshire%	 Wales%	
+The Maltese Falcon%	 USA%	 San Francisco%	 California%	
 A Wednesday%	 India%	Mumbai%	NULL%	
 Rocky%	 USA%	 North Philadelphia%	 Pennsylvania%	
 The Grapes of Wrath%	 USA%	Laguna Pueblo%	 New Mexico%	
@@ -352,12 +348,13 @@ In the Mood for Love%	 China%	Macau%	NULL%
 In the Mood for Love%	 Cambodia%	Angkor Wat%	 Siem Reap%	
 The Help%	 USA%	Greenwood%	 Mississippi%	
 Paris, Texas%	 USA%	 Marathon%	 Texas%	
-The Best Years of Our Lives%	 USA%	 Ontario%	 California%	
 Infernal Affairs%	 China%	 North Point%	 Hong Kong%	
+The Best Years of Our Lives%	 USA%	 Ontario%	 California%	
 Twelve Monkeys%	 USA%	 Philadelphia%	 Pennsylvania%	
 Twelve Monkeys%	 Canada%	Montréal%	 Québec%	
 Gangs of Wasseypur%	 India%	Varanasi%	 Uttar Pradesh%	
 Before Sunset%	 France%	Seine River%	 Paris%	
 Beauty and the Beast%	 USA%	 Burbank%	 California%	
-The Battle of Algiers%	 Algeria%	Casbah%	 Algiers%	
 Dog Day Afternoon%	 USA%	 New York City%	 New York%	
+Tangerines%	 Republic of Georgia%	Guria%	NULL%	
+Tangerines%	 Georgia%	Poti%	NULL%	
