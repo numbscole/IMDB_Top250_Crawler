@@ -8,3 +8,6 @@ It stores all information collected in text separate text files to refer to late
 (NOTE: This program takes at least 2.5+ hours to run)
 
 To run this you will need to make sure you have the modules: BeautifulSoup, requests, json
+
+*UPDATE
+The format for a movie's soundtrack has changed since this crawler was orignially designed. Running the code as is should still collect all of the information EXCEPT for any information regarding the soundtrack.
